@@ -1,0 +1,6 @@
+<map id="AsyncUpdateThread" name="AsyncUpdateThread">
+<area shape="rect" id="node5" href="$classAsyncPeriodicUpdateThread.html" title="Extension to update thread that also does automatic periodic updates. " alt="" coords="5,276,187,303"/>
+<area shape="rect" id="node2" href="$classThread.html" title="Thread" alt="" coords="22,117,85,143"/>
+<area shape="rect" id="node3" href="$classThreadSafeRefCount.html" title="ThreadSafeRefCount\l\&lt; AsyncUpdateThread \&gt;" alt="" coords="109,109,272,151"/>
+<area shape="rect" id="node4" href="$classThreadSafeRefCount.html" title="Baseclass for concurrently reference&#45;counted objects. " alt="" coords="120,5,261,47"/>
+</map>

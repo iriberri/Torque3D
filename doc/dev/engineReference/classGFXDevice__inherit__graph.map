@@ -1,0 +1,5 @@
+<map id="GFXDevice" name="GFXDevice">
+<area shape="rect" id="node2" href="$classGFXD3D11Device.html" title="GFXD3D11Device" alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$classGFXGLDevice.html" title="GFXGLDevice" alt="" coords="149,80,245,107"/>
+<area shape="rect" id="node4" href="$classGFXNullDevice.html" title="GFXNullDevice" alt="" coords="269,80,372,107"/>
+</map>

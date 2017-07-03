@@ -1,0 +1,7 @@
+<map id="GFXVertexBuffer" name="GFXVertexBuffer">
+<area shape="rect" id="node5" href="$classGFXD3D11VertexBuffer.html" title="GFXD3D11VertexBuffer" alt="" coords="5,229,159,256"/>
+<area shape="rect" id="node6" href="$classGFXGLVertexBuffer.html" title="This is a vertex buffer which uses GL_ARB_vertex_buffer_object. " alt="" coords="183,229,314,256"/>
+<area shape="rect" id="node2" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="49,80,155,107"/>
+<area shape="rect" id="node3" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="52,5,152,32"/>
+<area shape="rect" id="node4" href="$classGFXResource.html" title="Mixin for the purpose of tracking GFX resources owned by a GFXDevice. " alt="" coords="179,80,278,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RTLightingFeatGLSL" name="RTLightingFeatGLSL">
+<area shape="rect" id="node4" href="$classDeferredRTLightingFeatGLSL.html" title="Lights the pixel by sampling from the light deferred buffer. " alt="" coords="5,229,191,256"/>
+<area shape="rect" id="node2" href="$classShaderFeatureGLSL.html" title="ShaderFeatureGLSL" alt="" coords="31,80,165,107"/>
+<area shape="rect" id="node3" href="$classShaderFeature.html" title="ShaderFeature" alt="" coords="45,5,151,32"/>
+</map>

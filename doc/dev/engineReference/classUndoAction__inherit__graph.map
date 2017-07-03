@@ -1,0 +1,30 @@
+<map id="UndoAction" name="UndoAction">
+<area shape="rect" id="node8" href="$classCompoundUndoAction.html" title="An undo action that is comprised of other undo actions. " alt="" coords="894,5,1041,32"/>
+<area shape="rect" id="node9" href="$classDBDeleteUndoAction.html" title="DBDeleteUndoAction" alt="" coords="899,56,1036,83"/>
+<area shape="rect" id="node10" href="$classDBRetargetUndoAction.html" title="DBRetargetUndoAction" alt="" coords="892,107,1043,133"/>
+<area shape="rect" id="node11" href="$classDICreateUndoAction.html" title="DICreateUndoAction" alt="" coords="899,157,1035,184"/>
+<area shape="rect" id="node12" href="$classDIDeleteUndoAction.html" title="DIDeleteUndoAction" alt="" coords="900,208,1035,235"/>
+<area shape="rect" id="node13" href="$classExplodePrefabUndoAction.html" title="ExplodePrefabUndoAction" alt="" coords="884,259,1051,285"/>
+<area shape="rect" id="node14" href="$classForestUndoAction.html" title="ForestUndoAction" alt="" coords="906,309,1029,336"/>
+<area shape="rect" id="node18" href="$classGuiConvexEditorUndoAction.html" title="GuiConvexEditorUndoAction" alt="" coords="878,360,1057,387"/>
+<area shape="rect" id="node19" href="$classGuiMeshRoadEditorUndoAction.html" title="GuiMeshRoadEditorUndoAction" alt="" coords="869,411,1065,437"/>
+<area shape="rect" id="node20" href="$classGuiMissionAreaUndoAction.html" title="GuiMissionAreaUndoAction" alt="" coords="881,461,1054,488"/>
+<area shape="rect" id="node21" href="$classGuiNavEditorUndoAction.html" title="GuiNavEditorUndoAction" alt="" coords="888,512,1047,539"/>
+<area shape="rect" id="node22" href="$classGuiRiverEditorUndoAction.html" title="GuiRiverEditorUndoAction" alt="" coords="884,563,1051,589"/>
+<area shape="rect" id="node23" href="$classGuiRoadEditorUndoAction.html" title="GuiRoadEditorUndoAction" alt="" coords="884,613,1051,640"/>
+<area shape="rect" id="node24" href="$classInspectorFieldUndoAction.html" title="InspectorFieldUndoAction" alt="" coords="884,664,1051,691"/>
+<area shape="rect" id="node25" href="$classMECreateUndoAction.html" title="MECreateUndoAction" alt="" coords="897,715,1038,741"/>
+<area shape="rect" id="node26" href="$classMEDeleteUndoAction.html" title="MEDeleteUndoAction" alt="" coords="898,765,1037,792"/>
+<area shape="rect" id="node27" href="$classTerrainSmoothAction.html" title="An undo action used to perform terrain wide smoothing. " alt="" coords="896,816,1039,843"/>
+<area shape="rect" id="node28" href="$classUndoScriptAction.html" title="Script Undo Action Creation. " alt="" coords="908,867,1027,893"/>
+<area shape="rect" id="node29" href="$classWorldEditor_1_1WorldEditorUndoAction.html" title="WorldEditor::WorldEditor\lUndoAction" alt="" coords="884,918,1051,959"/>
+<area shape="rect" id="node2" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="605,461,687,488"/>
+<area shape="rect" id="node3" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="453,436,557,463"/>
+<area shape="rect" id="node4" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="308,436,405,463"/>
+<area shape="rect" id="node5" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="153,436,260,463"/>
+<area shape="rect" id="node6" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="5,436,105,463"/>
+<area shape="rect" id="node7" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="453,487,557,513"/>
+<area shape="rect" id="node15" href="$classForestCreateUndoAction.html" title="ForestCreateUndoAction" alt="" coords="1113,259,1273,285"/>
+<area shape="rect" id="node16" href="$classForestDeleteUndoAction.html" title="ForestDeleteUndoAction" alt="" coords="1114,309,1273,336"/>
+<area shape="rect" id="node17" href="$classForestUpdateAction.html" title="ForestUpdateAction" alt="" coords="1127,360,1260,387"/>
+</map>

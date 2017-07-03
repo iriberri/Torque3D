@@ -1,0 +1,5 @@
+<map id="DeferredBumpFeatHLSL" name="DeferredBumpFeatHLSL">
+<area shape="rect" id="node2" href="$classBumpFeatHLSL.html" title="The Bumpmap feature will read the normal map and transform it by the inverse of the worldToTanget mat..." alt="" coords="31,155,137,181"/>
+<area shape="rect" id="node3" href="$classShaderFeatureHLSL.html" title="ShaderFeatureHLSL" alt="" coords="17,80,151,107"/>
+<area shape="rect" id="node4" href="$classShaderFeature.html" title="ShaderFeature" alt="" coords="31,5,137,32"/>
+</map>

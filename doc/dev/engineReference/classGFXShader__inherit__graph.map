@@ -1,0 +1,7 @@
+<map id="GFXShader" name="GFXShader">
+<area shape="rect" id="node5" href="$classGFXD3D11Shader.html" title="GFXD3D11Shader" alt="" coords="5,229,128,256"/>
+<area shape="rect" id="node6" href="$classGFXGLShader.html" title="GFXGLShader" alt="" coords="153,229,253,256"/>
+<area shape="rect" id="node2" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="19,80,125,107"/>
+<area shape="rect" id="node3" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="22,5,122,32"/>
+<area shape="rect" id="node4" href="$classGFXResource.html" title="Mixin for the purpose of tracking GFX resources owned by a GFXDevice. " alt="" coords="149,80,248,107"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="WeakRefBase" name="WeakRefBase">
+<area shape="rect" id="node2" href="$classNamedTexTarget.html" title="NamedTexTarget" alt="" coords="153,81,275,108"/>
+<area shape="rect" id="node3" href="$classPhysicsObject.html" title="PhysicsObject" alt="" coords="164,132,264,159"/>
+<area shape="rect" id="node10" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="161,867,267,893"/>
+<area shape="rect" id="node4" href="$classPhysicsBody.html" title="Simple physics object that represents a single rigid body. " alt="" coords="354,56,445,83"/>
+<area shape="rect" id="node7" href="$classPhysicsPlayer.html" title="PhysicsPlayer" alt="" coords="350,132,449,159"/>
+<area shape="rect" id="node5" href="$classBtBody.html" title="BtBody" alt="" coords="591,5,651,32"/>
+<area shape="rect" id="node6" href="$classPx3Body.html" title="Px3Body" alt="" coords="587,56,656,83"/>
+<area shape="rect" id="node8" href="$classBtPlayer.html" title="BtPlayer" alt="" coords="587,107,655,133"/>
+<area shape="rect" id="node9" href="$classPx3Player.html" title="Px3Player" alt="" coords="583,157,660,184"/>
+<area shape="rect" id="node11" href="$classDLibrary.html" title="Dynamic Library Interface for library objects loaded using the loadLibrary() function. " alt="" coords="365,233,434,260"/>
+<area shape="rect" id="node12" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="351,284,448,311"/>
+<area shape="rect" id="node15" href="$classGFXCubemap.html" title="GFXCubemap" alt="" coords="350,360,449,387"/>
+<area shape="rect" id="node18" href="$classGFXPrimitiveBuffer.html" title="GFXPrimitiveBuffer" alt="" coords="335,461,463,488"/>
+<area shape="rect" id="node21" href="$classGFXShader.html" title="GFXShader" alt="" coords="356,563,443,589"/>
+<area shape="rect" id="node24" href="$classGFXShaderConstBuffer.html" title="GFXShaderConstBuffer is a collection of shader data which are sent to the device in one call in most ..." alt="" coords="323,664,475,691"/>
+<area shape="rect" id="node27" href="$classGFXStateBlock.html" title="GFXStateBlock" alt="" coords="347,765,451,792"/>
+<area shape="rect" id="node30" href="$classGFXTarget.html" title="Base class for a target to which GFX can render. " alt="" coords="358,841,441,868"/>
+<area shape="rect" id="node33" href="$classGFXTextureObject.html" title="GFXTextureObject" alt="" coords="336,892,463,919"/>
+<area shape="rect" id="node36" href="$classGFXVertexBuffer.html" title="GFXVertexBuffer" alt="" coords="341,943,457,969"/>
+<area shape="rect" id="node39" href="$classPhysicsCollision.html" title="The shared collision representation for a instance of a static or dynamic physics body..." alt="" coords="344,993,455,1020"/>
+<area shape="rect" id="node42" href="$classResourceBase_1_1Header.html" title="ResourceBase::Header" alt="" coords="323,1044,476,1071"/>
+<area shape="rect" id="node43" href="$classSFXBuffer.html" title="The buffer interface hides the details of how the device holds sound data for playback. " alt="" coords="360,1095,439,1121"/>
+<area shape="rect" id="node46" href="$classSFXVoice.html" title="The voice interface provides for playback of sound buffers and positioning of 3D sounds. " alt="" coords="361,1145,437,1172"/>
+<area shape="rect" id="node47" href="$classSimPersistID.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="352,1196,447,1223"/>
+<area shape="rect" id="node48" href="$classTorque_1_1FS_1_1FileBase.html" title="Base class for all FileIO objects. " alt="" coords="327,1247,472,1273"/>
+<area shape="rect" id="node49" href="$classZip_1_1ZipArchive.html" title="Class for accessing Zip files. " alt="" coords="345,1297,453,1324"/>
+<area shape="rect" id="node13" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="569,208,673,235"/>
+<area shape="rect" id="node14" href="$classStaticEngineObject.html" title="A statically allocated engine object. " alt="" coords="557,259,686,285"/>
+<area shape="rect" id="node16" href="$classGFXD3D11Cubemap.html" title="GFXD3D11Cubemap" alt="" coords="553,309,689,336"/>
+<area shape="rect" id="node17" href="$classGFXGLCubemap.html" title="GFXGLCubemap" alt="" coords="565,360,678,387"/>
+<area shape="rect" id="node19" href="$classGFXD3D11PrimitiveBuffer.html" title="GFXD3D11PrimitiveBuffer" alt="" coords="539,411,704,437"/>
+<area shape="rect" id="node20" href="$classGFXGLPrimitiveBuffer.html" title="This is a primitive buffer (index buffer to GL users) which uses VBOs. " alt="" coords="550,461,693,488"/>
+<area shape="rect" id="node22" href="$classGFXD3D11Shader.html" title="GFXD3D11Shader" alt="" coords="560,512,683,539"/>
+<area shape="rect" id="node23" href="$classGFXGLShader.html" title="GFXGLShader" alt="" coords="571,563,671,589"/>
+<area shape="rect" id="node25" href="$classGFXD3D11ShaderConstBuffer.html" title="The D3D11 implementation of a shader constant buffer. " alt="" coords="527,613,716,640"/>
+<area shape="rect" id="node26" href="$classGFXGLShaderConstBuffer.html" title="GFXGLShaderConstBuffer" alt="" coords="538,664,705,691"/>
+<area shape="rect" id="node28" href="$classGFXD3D11StateBlock.html" title="GFXD3D11StateBlock" alt="" coords="551,715,692,741"/>
+<area shape="rect" id="node29" href="$classGFXGLStateBlock.html" title="GFXGLStateBlock" alt="" coords="562,765,681,792"/>
+<area shape="rect" id="node31" href="$classGFXTextureTarget.html" title="A render target associated with one or more textures. " alt="" coords="558,816,685,843"/>
+<area shape="rect" id="node32" href="$classGFXWindowTarget.html" title="A render target associated with an OS window. " alt="" coords="557,867,686,893"/>
+<area shape="rect" id="node34" href="$classGFXD3D11TextureObject.html" title="GFXD3D11TextureObject" alt="" coords="540,917,703,944"/>
+<area shape="rect" id="node35" href="$classGFXGLTextureObject.html" title="GFXGLTextureObject" alt="" coords="551,968,691,995"/>
+<area shape="rect" id="node37" href="$classGFXD3D11VertexBuffer.html" title="GFXD3D11VertexBuffer" alt="" coords="545,1019,698,1045"/>
+<area shape="rect" id="node38" href="$classGFXGLVertexBuffer.html" title="This is a vertex buffer which uses GL_ARB_vertex_buffer_object. " alt="" coords="556,1069,687,1096"/>
+<area shape="rect" id="node40" href="$classBtCollision.html" title="BtCollision" alt="" coords="581,1120,661,1147"/>
+<area shape="rect" id="node41" href="$classPx3Collision.html" title="Px3Collision" alt="" coords="577,1171,666,1197"/>
+<area shape="rect" id="node44" href="$classSFXALBuffer.html" title="SFXALBuffer" alt="" coords="575,1221,668,1248"/>
+<area shape="rect" id="node45" href="$classSFXInternal_1_1SFXWrapAroundBuffer.html" title="Buffer that uses wrap&#45;around packet buffering. " alt="" coords="524,1273,719,1314"/>
+</map>

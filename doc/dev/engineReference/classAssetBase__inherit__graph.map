@@ -1,0 +1,12 @@
+<map id="AssetBase" name="AssetBase">
+<area shape="rect" id="node8" href="$classComponentAsset.html" title="ComponentAsset" alt="" coords="5,453,124,480"/>
+<area shape="rect" id="node9" href="$classExampleAsset.html" title="ExampleAsset" alt="" coords="149,453,250,480"/>
+<area shape="rect" id="node10" href="$classGameObjectAsset.html" title="GameObjectAsset" alt="" coords="274,453,397,480"/>
+<area shape="rect" id="node11" href="$classShapeAsset.html" title="ShapeAsset" alt="" coords="421,453,511,480"/>
+<area shape="rect" id="node2" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="227,304,308,331"/>
+<area shape="rect" id="node3" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="151,229,255,256"/>
+<area shape="rect" id="node4" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="155,155,252,181"/>
+<area shape="rect" id="node5" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="150,80,257,107"/>
+<area shape="rect" id="node6" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="153,5,253,32"/>
+<area shape="rect" id="node7" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="279,229,383,256"/>
+</map>

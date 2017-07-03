@@ -1,0 +1,7 @@
+<map id="BaseMatInstance" name="BaseMatInstance">
+<area shape="rect" id="node2" href="$classMatInstance.html" title="MatInstance" alt="" coords="264,80,355,107"/>
+<area shape="rect" id="node3" href="$classDeferredMatInstance.html" title="DeferredMatInstance" alt="" coords="5,155,147,181"/>
+<area shape="rect" id="node4" href="$classLightMatInstance.html" title="LightMatInstance" alt="" coords="171,155,290,181"/>
+<area shape="rect" id="node5" href="$classReflectionMatInstance.html" title="ReflectionMatInstance" alt="" coords="315,155,461,181"/>
+<area shape="rect" id="node6" href="$classShadowMatInstance.html" title="ShadowMatInstance" alt="" coords="486,155,623,181"/>
+</map>

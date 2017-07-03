@@ -1,0 +1,14 @@
+<map id="SFXSource" name="SFXSource">
+<area shape="rect" id="node11" href="$classSFXController.html" title="SFXSource that drives multi&#45;source playback. " alt="" coords="5,603,107,629"/>
+<area shape="rect" id="node12" href="$classSFXFMODEventSource.html" title="An SFXSource that controls the playback of an SFXFMODEvent. " alt="" coords="131,603,282,629"/>
+<area shape="rect" id="node13" href="$classSFXSound.html" title="A scriptable controller playing a specific single sound file. " alt="" coords="306,603,387,629"/>
+<area shape="rect" id="node2" href="$classSimGroup.html" title="A group of SimObjects. " alt="" coords="167,453,246,480"/>
+<area shape="rect" id="node3" href="$classSimSet.html" title="A set of SimObjects. " alt="" coords="175,379,238,405"/>
+<area shape="rect" id="node4" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="109,304,190,331"/>
+<area shape="rect" id="node5" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="33,229,137,256"/>
+<area shape="rect" id="node6" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="37,155,134,181"/>
+<area shape="rect" id="node7" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="32,80,139,107"/>
+<area shape="rect" id="node8" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="35,5,135,32"/>
+<area shape="rect" id="node9" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="161,229,265,256"/>
+<area shape="rect" id="node10" href="$classTamlChildren.html" title="TamlChildren" alt="" coords="215,304,313,331"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="WaterBlock" name="WaterBlock">
+<area shape="rect" id="node2" href="$classWaterObject.html" title="Abstract base class for representing a body of water. " alt="" coords="5,379,100,405"/>
+<area shape="rect" id="node3" href="$classSceneObject.html" title="A networkable object that exists in the 3D world. " alt="" coords="5,304,100,331"/>
+<area shape="rect" id="node4" href="$classNetObject.html" title="Superclass for all ghostable networked objects. " alt="" coords="13,229,92,256"/>
+<area shape="rect" id="node5" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="13,155,92,181"/>
+<area shape="rect" id="node6" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="21,80,84,107"/>
+<area shape="rect" id="node7" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="12,5,93,32"/>
+</map>

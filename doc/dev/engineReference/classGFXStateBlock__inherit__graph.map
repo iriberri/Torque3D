@@ -1,0 +1,7 @@
+<map id="GFXStateBlock" name="GFXStateBlock">
+<area shape="rect" id="node5" href="$classGFXD3D11StateBlock.html" title="GFXD3D11StateBlock" alt="" coords="5,229,147,256"/>
+<area shape="rect" id="node6" href="$classGFXGLStateBlock.html" title="GFXGLStateBlock" alt="" coords="171,229,290,256"/>
+<area shape="rect" id="node2" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="37,80,144,107"/>
+<area shape="rect" id="node3" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="41,5,141,32"/>
+<area shape="rect" id="node4" href="$classGFXResource.html" title="Mixin for the purpose of tracking GFX resources owned by a GFXDevice. " alt="" coords="168,80,267,107"/>
+</map>

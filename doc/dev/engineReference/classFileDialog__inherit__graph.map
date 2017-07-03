@@ -1,0 +1,11 @@
+<map id="FileDialog" name="FileDialog">
+<area shape="rect" id="node8" href="$classOpenFileDialog.html" title="OpenFileDialog" alt="" coords="13,453,120,480"/>
+<area shape="rect" id="node10" href="$classSaveFileDialog.html" title="SaveFileDialog" alt="" coords="145,453,250,480"/>
+<area shape="rect" id="node2" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="91,304,173,331"/>
+<area shape="rect" id="node3" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="16,229,120,256"/>
+<area shape="rect" id="node4" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="19,155,117,181"/>
+<area shape="rect" id="node5" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="15,80,121,107"/>
+<area shape="rect" id="node6" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="18,5,118,32"/>
+<area shape="rect" id="node7" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="144,229,248,256"/>
+<area shape="rect" id="node9" href="$classOpenFolderDialog.html" title="OpenFolderDialog" alt="" coords="5,528,128,555"/>
+</map>

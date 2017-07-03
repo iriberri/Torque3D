@@ -1,0 +1,7 @@
+<map id="GFXTextureObject" name="GFXTextureObject">
+<area shape="rect" id="node5" href="$classGFXD3D11TextureObject.html" title="GFXD3D11TextureObject" alt="" coords="5,229,168,256"/>
+<area shape="rect" id="node6" href="$classGFXGLTextureObject.html" title="GFXGLTextureObject" alt="" coords="193,229,333,256"/>
+<area shape="rect" id="node2" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="59,80,165,107"/>
+<area shape="rect" id="node3" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="62,5,162,32"/>
+<area shape="rect" id="node4" href="$classGFXResource.html" title="Mixin for the purpose of tracking GFX resources owned by a GFXDevice. " alt="" coords="189,80,288,107"/>
+</map>

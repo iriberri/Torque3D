@@ -1,0 +1,10 @@
+<map id="RenderInst" name="RenderInst">
+<area shape="rect" id="node2" href="$structImposterBaseRenderInst.html" title="This is a shared base render instance type TSLastDetail imposters. " alt="" coords="137,31,300,57"/>
+<area shape="rect" id="node5" href="$structMeshRenderInst.html" title="MeshRenderInst" alt="" coords="161,81,276,108"/>
+<area shape="rect" id="node6" href="$structObjectRenderInst.html" title="ObjectRenderInst" alt="" coords="158,132,279,159"/>
+<area shape="rect" id="node7" href="$structOccluderRenderInst.html" title="A special render instance for occlusion tests. " alt="" coords="151,183,286,209"/>
+<area shape="rect" id="node8" href="$structParticleRenderInst.html" title="A special render instance for particles. " alt="" coords="155,233,282,260"/>
+<area shape="rect" id="node9" href="$structTerrainRenderInst.html" title="The render instance for terrain cells. " alt="" coords="155,284,282,311"/>
+<area shape="rect" id="node3" href="$structImposterBatchRenderInst.html" title="This is a render instance for a cached multiple imposter batch. " alt="" coords="348,5,515,32"/>
+<area shape="rect" id="node4" href="$structImposterRenderInst.html" title="This is a render instance for a single imposter. " alt="" coords="364,56,499,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SFX3DObject" name="SFX3DObject">
+<area shape="rect" id="node2" href="$classSceneObjectLink.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="5,185,121,212"/>
+<area shape="rect" id="node3" href="$classSFXObject.html" title="SFXObject\&lt; 3 \&gt;" alt="" coords="146,185,261,212"/>
+<area shape="rect" id="node4" href="$classScopeTrackerObject.html" title="Base class for objects registered with a ScopeTracker. " alt="" coords="97,5,251,47"/>
+<area shape="rect" id="node5" href="$classSFXObject.html" title="Information about an object in the SFX world. " alt="" coords="168,96,383,123"/>
+</map>

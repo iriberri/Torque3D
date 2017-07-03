@@ -1,0 +1,5 @@
+<map id="PixelSpecularGLSL" name="PixelSpecularGLSL">
+<area shape="rect" id="node4" href="$classDeferredPixelSpecularGLSL.html" title="Generates specular highlights in the forward pass from the light deferred buffer. ..." alt="" coords="5,229,181,256"/>
+<area shape="rect" id="node2" href="$classShaderFeatureGLSL.html" title="ShaderFeatureGLSL" alt="" coords="26,80,161,107"/>
+<area shape="rect" id="node3" href="$classShaderFeature.html" title="ShaderFeature" alt="" coords="40,5,147,32"/>
+</map>

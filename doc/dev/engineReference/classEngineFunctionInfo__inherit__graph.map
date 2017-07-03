@@ -1,0 +1,7 @@
+<map id="EngineFunctionInfo" name="EngineFunctionInfo">
+<area shape="rect" id="node2" href="$classEngineExport.html" title="Information about an entity exported by the engine API. " alt="" coords="23,304,119,331"/>
+<area shape="rect" id="node3" href="$classStaticEngineObject.html" title="A statically allocated engine object. " alt="" coords="6,229,135,256"/>
+<area shape="rect" id="node4" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="22,155,119,181"/>
+<area shape="rect" id="node5" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="17,80,124,107"/>
+<area shape="rect" id="node6" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="21,5,121,32"/>
+</map>

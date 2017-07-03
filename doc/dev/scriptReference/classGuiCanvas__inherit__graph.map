@@ -1,0 +1,7 @@
+<map id="GuiCanvas" name="GuiCanvas">
+<area shape="rect" id="node6" href="$classGuiOffscreenCanvas.html" title="GuiOffscreenCanvas" alt="" coords="5,379,141,405"/>
+<area shape="rect" id="node2" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="33,229,114,256"/>
+<area shape="rect" id="node3" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="34,155,113,181"/>
+<area shape="rect" id="node4" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="42,80,105,107"/>
+<area shape="rect" id="node5" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="33,5,114,32"/>
+</map>

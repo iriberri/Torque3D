@@ -1,0 +1,5 @@
+<map id="ImposterBaseRenderInst" name="ImposterBaseRenderInst">
+<area shape="rect" id="node3" href="$structImposterBatchRenderInst.html" title="This is a render instance for a cached multiple imposter batch. " alt="" coords="5,155,172,181"/>
+<area shape="rect" id="node4" href="$structImposterRenderInst.html" title="This is a render instance for a single imposter. " alt="" coords="196,155,331,181"/>
+<area shape="rect" id="node2" href="$structRenderInst.html" title="RenderInst" alt="" coords="133,5,217,32"/>
+</map>

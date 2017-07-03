@@ -1,0 +1,7 @@
+<map id="GFXPrimitiveBuffer" name="GFXPrimitiveBuffer">
+<area shape="rect" id="node5" href="$classGFXD3D11PrimitiveBuffer.html" title="GFXD3D11PrimitiveBuffer" alt="" coords="5,229,171,256"/>
+<area shape="rect" id="node6" href="$classGFXGLPrimitiveBuffer.html" title="This is a primitive buffer (index buffer to GL users) which uses VBOs. " alt="" coords="195,229,338,256"/>
+<area shape="rect" id="node2" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="61,80,168,107"/>
+<area shape="rect" id="node3" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="65,5,165,32"/>
+<area shape="rect" id="node4" href="$classGFXResource.html" title="Mixin for the purpose of tracking GFX resources owned by a GFXDevice. " alt="" coords="192,80,291,107"/>
+</map>

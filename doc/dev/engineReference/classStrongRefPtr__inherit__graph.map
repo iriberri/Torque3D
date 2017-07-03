@@ -1,0 +1,50 @@
+<map id="StrongRefPtr&lt; T &gt;" name="StrongRefPtr&lt; T &gt;">
+<area shape="rect" id="node3" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; BtCollision \&gt;" alt="" coords="570,33,749,60"/>
+<area shape="rect" id="node4" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXCubemap \&gt;" alt="" coords="560,84,759,111"/>
+<area shape="rect" id="node6" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXGLVertex\lBuffer \&gt;" alt="" coords="568,135,751,177"/>
+<area shape="rect" id="node7" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="572,201,747,242"/>
+<area shape="rect" id="node9" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXGLPrimitive\lBuffer \&gt;" alt="" coords="562,266,757,307"/>
+<area shape="rect" id="node10" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXTexture\lTarget \&gt;" alt="" coords="572,331,747,373"/>
+<area shape="rect" id="node11" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXShader \&gt;" alt="" coords="567,397,752,424"/>
+<area shape="rect" id="node12" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; StrongRefBase \&gt;" alt="" coords="557,448,762,475"/>
+<area shape="rect" id="node13" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; ResourceBase\l::Header \&gt;" alt="" coords="565,499,753,541"/>
+<area shape="rect" id="node14" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; PhysicsCollision \&gt;" alt="" coords="555,565,764,592"/>
+<area shape="rect" id="node15" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXD3D11Vertex\lBuffer \&gt;" alt="" coords="557,617,762,658"/>
+<area shape="rect" id="node16" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXVertexBuffer \&gt;" alt="" coords="552,683,767,709"/>
+<area shape="rect" id="node36" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXTarget \&gt;" alt="" coords="568,733,751,760"/>
+<area shape="rect" id="node37" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXD3D11Primitive\lBuffer \&gt;" alt="" coords="551,785,768,826"/>
+<area shape="rect" id="node38" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; Px3Collision \&gt;" alt="" coords="565,851,753,877"/>
+<area shape="rect" id="node39" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; DLibrary \&gt;" alt="" coords="575,901,743,928"/>
+<area shape="rect" id="node40" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXPrimitive\lBuffer \&gt;" alt="" coords="569,953,749,994"/>
+<area shape="rect" id="node42" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; File \&gt;" alt="" coords="589,1019,730,1045"/>
+<area shape="rect" id="node43" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXGLState\lBlock \&gt;" alt="" coords="572,1070,747,1111"/>
+<area shape="rect" id="node44" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; FileSystem \&gt;" alt="" coords="568,1136,751,1163"/>
+<area shape="rect" id="node45" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXD3D11Shader\lConstBuffer \&gt;" alt="" coords="555,1187,764,1229"/>
+<area shape="rect" id="node46" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXWindowTarget \&gt;" alt="" coords="545,1253,773,1280"/>
+<area shape="rect" id="node47" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; Zip::\lZipArchive \&gt;" alt="" coords="592,1305,727,1346"/>
+<area shape="rect" id="node48" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXShaderConst\lBuffer \&gt;" alt="" coords="557,1370,761,1411"/>
+<area shape="rect" id="node49" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="558,1436,761,1463"/>
+<area shape="rect" id="node2" href="$classStrongObjectRef.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="5,733,121,760"/>
+<area shape="rect" id="node5" href="$classGFXCubemapHandle.html" title="A reference counted handle to a cubemap resource. " alt="" coords="845,84,983,111"/>
+<area shape="rect" id="node8" href="$classGFXTexHandle.html" title="A reference counted handle to a texture resource. " alt="" coords="861,208,967,235"/>
+<area shape="rect" id="node17" href="$classGFXVertexBufferHandleBase.html" title="GFXVertexBufferHandleBase" alt="" coords="823,683,1005,709"/>
+<area shape="rect" id="node18" href="$classGFXVertexBufferDataHandle.html" title="This is a non&#45;typed vertex buffer handle which can be used when your vertex type is undefined until r..." alt="" coords="1059,99,1240,125"/>
+<area shape="rect" id="node19" href="$classGFXVertexBufferHandle.html" title="A handle object for allocating, filling, and reading a vertex buffer. " alt="" coords="1055,743,1244,769"/>
+<area shape="rect" id="node20" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXCloudVertex \&gt;" alt="" coords="1449,425,1604,466"/>
+<area shape="rect" id="node21" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPNTT \&gt;" alt="" coords="1449,725,1604,766"/>
+<area shape="rect" id="node22" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; FarFrustumQuadVert \&gt;" alt="" coords="1443,271,1611,313"/>
+<area shape="rect" id="node23" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPT \&gt;" alt="" coords="1449,181,1604,222"/>
+<area shape="rect" id="node24" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPNTBT \&gt;" alt="" coords="1449,357,1604,398"/>
+<area shape="rect" id="node25" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCNTT \&gt;" alt="" coords="1449,649,1604,690"/>
+<area shape="rect" id="node26" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; DecalVertex \&gt;" alt="" coords="1449,567,1604,609"/>
+<area shape="rect" id="node27" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; CompositeQuadVert \&gt;" alt="" coords="1445,494,1608,535"/>
+<area shape="rect" id="node28" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPC \&gt;" alt="" coords="1449,1274,1604,1315"/>
+<area shape="rect" id="node29" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPNT \&gt;" alt="" coords="1449,989,1604,1030"/>
+<area shape="rect" id="node30" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexP \&gt;" alt="" coords="1449,922,1604,963"/>
+<area shape="rect" id="node31" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexFoliage \&gt;" alt="" coords="1449,1195,1604,1237"/>
+<area shape="rect" id="node32" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; ImposterState \&gt;" alt="" coords="1449,1365,1604,1406"/>
+<area shape="rect" id="node33" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCT \&gt;" alt="" coords="1449,1055,1604,1097"/>
+<area shape="rect" id="node34" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; LightVertex \&gt;" alt="" coords="1449,830,1604,871"/>
+<area shape="rect" id="node35" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXWaterVertex \&gt;" alt="" coords="1449,1123,1604,1165"/>
+<area shape="rect" id="node41" href="$classGFXPrimitiveBufferHandle.html" title="GFXPrimitiveBufferHandle" alt="" coords="831,960,997,987"/>
+</map>

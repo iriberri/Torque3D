@@ -1,0 +1,10 @@
+<map id="ManagedSingleton&lt; T &gt;" name="ManagedSingleton&lt; T &gt;">
+<area shape="rect" id="node2" href="$classManagedSingleton.html" title="ManagedSingleton\&lt; SFXThread\lPool \&gt;" alt="" coords="368,5,572,47"/>
+<area shape="rect" id="node4" href="$classManagedSingleton.html" title="ManagedSingleton\&lt; Global\lThreadPool \&gt;" alt="" coords="383,71,557,112"/>
+<area shape="rect" id="node6" href="$classManagedSingleton.html" title="ManagedSingleton\&lt; Material\lManager \&gt;" alt="" coords="377,136,563,177"/>
+<area shape="rect" id="node8" href="$classManagedSingleton.html" title="ManagedSingleton\&lt; BasicScene\lObjectPluginFactory \&gt;" alt="" coords="368,201,572,243"/>
+<area shape="rect" id="node3" href="$classSFXInternal_1_1SFXThreadPool.html" title="Thread pool for sound I/O. " alt="" coords="627,13,814,39"/>
+<area shape="rect" id="node5" href="$structThreadPool_1_1GlobalThreadPool.html" title="ThreadPool::GlobalThreadPool" alt="" coords="622,78,819,105"/>
+<area shape="rect" id="node7" href="$classMaterialManager.html" title="MaterialManager" alt="" coords="661,143,780,170"/>
+<area shape="rect" id="node9" href="$classBasicSceneObjectPluginFactory.html" title="BasicSceneObjectPluginFactory" alt="" coords="621,209,820,235"/>
+</map>
