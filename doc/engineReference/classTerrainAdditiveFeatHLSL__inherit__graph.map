@@ -1,0 +1,5 @@
+<map id="TerrainAdditiveFeatHLSL" name="TerrainAdditiveFeatHLSL">
+<area shape="rect" id="node2" href="$classTerrainFeatHLSL.html" title="A shared base class for terrain features which includes some helper functions. " alt="" coords="28,155,145,181"/>
+<area shape="rect" id="node3" href="$classShaderFeatureHLSL.html" title="ShaderFeatureHLSL" alt="" coords="19,80,154,107"/>
+<area shape="rect" id="node4" href="$classShaderFeature.html" title="ShaderFeature" alt="" coords="33,5,140,32"/>
+</map>

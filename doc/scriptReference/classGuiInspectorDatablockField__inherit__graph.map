@@ -1,0 +1,12 @@
+<map id="GuiInspectorDatablockField" name="GuiInspectorDatablockField">
+<area shape="rect" id="node8" href="$classGuiInspectorTypeSFXAmbienceName.html" title="Inspector field type for SFXAmbience. " alt="" coords="1126,5,1359,32"/>
+<area shape="rect" id="node9" href="$classGuiInspectorTypeSFXDescriptionName.html" title="Inspector field type for SFXDescriptionName. " alt="" coords="1123,56,1363,83"/>
+<area shape="rect" id="node10" href="$classGuiInspectorTypeSFXEnvironmentName.html" title="Inspector field type for SFXEnvironment. " alt="" coords="1119,107,1367,133"/>
+<area shape="rect" id="node11" href="$classGuiInspectorTypeSFXTrackName.html" title="Inspector field type for SFXTrackName. " alt="" coords="1138,157,1347,184"/>
+<area shape="rect" id="node2" href="$classGuiInspectorTypeMenuBase.html" title="Inspector field type for MenuBase. " alt="" coords="669,81,848,108"/>
+<area shape="rect" id="node3" href="$classGuiInspectorField.html" title="The GuiInspectorField control is a representation of a single abstract field for a given ConsoleObjec..." alt="" coords="501,81,621,108"/>
+<area shape="rect" id="node4" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="372,81,453,108"/>
+<area shape="rect" id="node5" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="245,81,324,108"/>
+<area shape="rect" id="node6" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="135,81,197,108"/>
+<area shape="rect" id="node7" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,81,87,108"/>
+</map>

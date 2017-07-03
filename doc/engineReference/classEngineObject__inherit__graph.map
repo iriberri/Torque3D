@@ -1,0 +1,50 @@
+<map id="EngineObject" name="EngineObject">
+<area shape="rect" id="node4" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="466,1171,570,1197"/>
+<area shape="rect" id="node48" href="$classStaticEngineObject.html" title="A statically allocated engine object. " alt="" coords="453,1221,583,1248"/>
+<area shape="rect" id="node2" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="153,1196,260,1223"/>
+<area shape="rect" id="node3" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="5,1196,105,1223"/>
+<area shape="rect" id="node5" href="$classNetEvent.html" title="An event to be sent over the network. " alt="" coords="643,183,715,209"/>
+<area shape="rect" id="node13" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="638,1171,719,1197"/>
+<area shape="rect" id="node6" href="$classNodeListEvent.html" title="NodeListEvent" alt="" coords="801,5,903,32"/>
+<area shape="rect" id="node7" href="$classRadialImpulseEvent.html" title="When this NetEvent is processed on the client&#45;side it applies a radial impulse to objects in the phys..." alt="" coords="785,56,919,83"/>
+<area shape="rect" id="node8" href="$classRemoteCommandEvent.html" title="RemoteCommandEvent" alt="" coords="775,107,929,133"/>
+<area shape="rect" id="node9" href="$classSetMissionCRCEvent.html" title="SetMissionCRCEvent" alt="" coords="783,157,921,184"/>
+<area shape="rect" id="node10" href="$classSim2DAudioEvent.html" title="Sim2DAudioEvent" alt="" coords="791,208,913,235"/>
+<area shape="rect" id="node11" href="$classSim3DAudioEvent.html" title="Sim3DAudioEvent" alt="" coords="791,259,913,285"/>
+<area shape="rect" id="node12" href="$classSimDataBlockEvent.html" title="Event for sending a datablock over the net from the server to the client. " alt="" coords="787,309,917,336"/>
+<area shape="rect" id="node14" href="$classActionMap.html" title="Map raw inputs to a variety of actions. " alt="" coords="811,360,893,387"/>
+<area shape="rect" id="node15" href="$classArrayObject.html" title="A data structure holding indexed sequences of key/value pairs for script use. " alt="" coords="807,411,897,437"/>
+<area shape="rect" id="node16" href="$classAssetBase.html" title="AssetBase" alt="" coords="812,461,892,488"/>
+<area shape="rect" id="node17" href="$classAssetManager.html" title="AssetManager" alt="" coords="801,512,903,539"/>
+<area shape="rect" id="node18" href="$classAssetQuery.html" title="AssetQuery" alt="" coords="809,563,895,589"/>
+<area shape="rect" id="node19" href="$classAssetTagsManifest.html" title="AssetTagsManifest" alt="" coords="787,613,917,640"/>
+<area shape="rect" id="node20" href="$classBaseMaterialDefinition.html" title="BaseMaterialDefinition" alt="" coords="778,664,926,691"/>
+<area shape="rect" id="node21" href="$classConsoleLogger.html" title="A class designed to be used as a console consumer and log the data it receives to a file..." alt="" coords="799,715,905,741"/>
+<area shape="rect" id="node22" href="$classCubemapData.html" title="A script interface for creating static or dynamic cubemaps. " alt="" coords="801,765,903,792"/>
+<area shape="rect" id="node23" href="$classDebugDrawer.html" title="Debug output class. " alt="" coords="802,816,902,843"/>
+<area shape="rect" id="node24" href="$classDeclaredAssets.html" title="DeclaredAssets" alt="" coords="797,867,907,893"/>
+<area shape="rect" id="node25" href="$classEventManager.html" title="The EventManager class is a wrapper for the standard messaging system. " alt="" coords="801,917,903,944"/>
+<area shape="rect" id="node26" href="$classFieldBrushObject.html" title="FieldBrushObject for static&#45;field copying/pasting. " alt="" coords="793,968,911,995"/>
+<area shape="rect" id="node27" href="$classFileDialog.html" title="FileDialog is a platform agnostic dialog interface for querying the user for file locations..." alt="" coords="813,1019,891,1045"/>
+<area shape="rect" id="node28" href="$classFileObject.html" title="FileObject" alt="" coords="813,1069,891,1096"/>
+<area shape="rect" id="node29" href="$classForestBrushElement.html" title="ForestBrushElement" alt="" coords="784,1120,920,1147"/>
+<area shape="rect" id="node30" href="$classForestTool.html" title="ForestTool" alt="" coords="811,1171,893,1197"/>
+<area shape="rect" id="node31" href="$classGFXSamplerStateData.html" title="Allows definition of sampler state via script, basically wraps a GFXSamplerStateDesc. " alt="" coords="777,1221,927,1248"/>
+<area shape="rect" id="node32" href="$classGFXStateBlockData.html" title="Allows definition of render state via script, basically wraps a GFXStateBlockDesc. " alt="" coords="787,1272,917,1299"/>
+<area shape="rect" id="node33" href="$classGizmo.html" title="Gizmo" alt="" coords="823,1323,881,1349"/>
+<area shape="rect" id="node34" href="$classGizmoProfile.html" title="GizmoProfile" alt="" coords="805,1373,899,1400"/>
+<area shape="rect" id="node35" href="$classGuiControlProfile.html" title="A GuiControlProfile is used by every GuiObject and is akin to a datablock. " alt="" coords="793,1424,911,1451"/>
+<area shape="rect" id="node36" href="$classGuiCursor.html" title="GuiCursor" alt="" coords="813,1475,891,1501"/>
+<area shape="rect" id="node37" href="$classGuiImageList.html" title="GuiImageList" alt="" coords="805,1525,899,1552"/>
+<area shape="rect" id="node38" href="$classInputDevice.html" title="InputDevice" alt="" coords="808,1576,896,1603"/>
+<area shape="rect" id="node39" href="$classLangTable.html" title="Language file table. " alt="" coords="811,1627,893,1653"/>
+<area shape="rect" id="node40" href="$classLeapMotionFrame.html" title="LeapMotionFrame" alt="" coords="790,1677,914,1704"/>
+<area shape="rect" id="node41" href="$classMessage.html" title="Base class for messages. " alt="" coords="816,1728,888,1755"/>
+<area shape="rect" id="node42" href="$classMessageVector.html" title="Store a list of chat messages. " alt="" coords="797,1779,907,1805"/>
+<area shape="rect" id="node43" href="$classModuleManager.html" title="ModuleManager" alt="" coords="795,1829,909,1856"/>
+<area shape="rect" id="node44" href="$classModuleMergeDefinition.html" title="ModuleMergeDefinition" alt="" coords="776,1880,928,1907"/>
+<area shape="rect" id="node45" href="$classPersistenceManager.html" title="PersistenceManager" alt="" coords="783,1931,921,1957"/>
+<area shape="rect" id="node46" href="$classPopupMenu.html" title="PopupMenu" alt="" coords="808,1981,896,2008"/>
+<area shape="rect" id="node47" href="$classRazerHydraFrame.html" title="RazerHydraFrame" alt="" coords="789,2032,915,2059"/>
+<area shape="rect" id="node49" href="$classEngineExport.html" title="Information about an entity exported by the engine API. " alt="" coords="631,1221,727,1248"/>
+</map>

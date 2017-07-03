@@ -1,0 +1,19 @@
+<map id="EditTSCtrl" name="EditTSCtrl">
+<area shape="rect" id="node8" href="$classForestEditorCtrl.html" title="The actual Forest Editor control. " alt="" coords="921,5,1031,32"/>
+<area shape="rect" id="node9" href="$classGuiConvexEditorCtrl.html" title="The base class for the sketch tool. " alt="" coords="909,56,1043,83"/>
+<area shape="rect" id="node10" href="$classGuiDecalEditorCtrl.html" title="The base class for the Decal Editor tool. " alt="" coords="914,107,1038,133"/>
+<area shape="rect" id="node11" href="$classGuiMeshRoadEditorCtrl.html" title="GUI tool that makes up the Mesh Road Editor. " alt="" coords="900,157,1052,184"/>
+<area shape="rect" id="node12" href="$classGuiMissionAreaEditorCtrl.html" title="Specialized GUI used for editing the MissionArea in a level. " alt="" coords="895,208,1057,235"/>
+<area shape="rect" id="node13" href="$classGuiNavEditorCtrl.html" title="GUI tool that makes up the Navigation Editor. " alt="" coords="919,259,1033,285"/>
+<area shape="rect" id="node14" href="$classGuiRiverEditorCtrl.html" title="GUI tool that makes up the River Editor. " alt="" coords="915,309,1037,336"/>
+<area shape="rect" id="node15" href="$classGuiRoadEditorCtrl.html" title="GUI tool that makes up the Decal Road Editor. " alt="" coords="915,360,1037,387"/>
+<area shape="rect" id="node16" href="$classGuiShapeEdPreview.html" title="This control provides the 3D view for the Shape Editor tool, and is not intended for general purpose ..." alt="" coords="909,411,1043,437"/>
+<area shape="rect" id="node17" href="$classTerrainEditor.html" title="The base Terrain Editor tool. " alt="" coords="927,461,1025,488"/>
+<area shape="rect" id="node18" href="$classWorldEditor.html" title="The main World Editor tool class. " alt="" coords="931,512,1021,539"/>
+<area shape="rect" id="node2" href="$classGuiTSCtrl.html" title="Abstract base class for controls that render 3D scenes. " alt="" coords="644,259,720,285"/>
+<area shape="rect" id="node3" href="$classGuiContainer.html" title="Brief Desc. " alt="" coords="501,259,596,285"/>
+<area shape="rect" id="node4" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="372,259,453,285"/>
+<area shape="rect" id="node5" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="245,259,324,285"/>
+<area shape="rect" id="node6" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="135,259,197,285"/>
+<area shape="rect" id="node7" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,259,87,285"/>
+</map>

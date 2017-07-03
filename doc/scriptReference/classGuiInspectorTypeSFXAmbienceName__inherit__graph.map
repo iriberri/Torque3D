@@ -1,0 +1,9 @@
+<map id="GuiInspectorTypeSFXAmbienceName" name="GuiInspectorTypeSFXAmbienceName">
+<area shape="rect" id="node2" href="$classGuiInspectorDatablockField.html" title="Custom field type for datablock enumeration. " alt="" coords="35,453,209,480"/>
+<area shape="rect" id="node3" href="$classGuiInspectorTypeMenuBase.html" title="Inspector field type for MenuBase. " alt="" coords="33,379,211,405"/>
+<area shape="rect" id="node4" href="$classGuiInspectorField.html" title="The GuiInspectorField control is a representation of a single abstract field for a given ConsoleObjec..." alt="" coords="62,304,182,331"/>
+<area shape="rect" id="node5" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="81,229,163,256"/>
+<area shape="rect" id="node6" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="83,155,161,181"/>
+<area shape="rect" id="node7" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="91,80,153,107"/>
+<area shape="rect" id="node8" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="81,5,163,32"/>
+</map>

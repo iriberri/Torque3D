@@ -1,0 +1,6 @@
+<map id="Dispatcher::IMessageListener" name="Dispatcher::IMessageListener">
+<area shape="rect" id="node2" href="$classEventManagerListener.html" title="Listener class used by the EventManager to dispatch messages to specific callbacks. " alt="" coords="5,80,153,107"/>
+<area shape="rect" id="node3" href="$classPopupMenu.html" title="PopupMenu" alt="" coords="178,80,266,107"/>
+<area shape="rect" id="node4" href="$classScriptMsgListener.html" title="Script accessible version of Dispatcher::IMessageListener. " alt="" coords="290,80,413,107"/>
+<area shape="rect" id="node5" href="$classMessageForwarder.html" title="Forward messages from one queue to another. " alt="" coords="285,155,417,181"/>
+</map>

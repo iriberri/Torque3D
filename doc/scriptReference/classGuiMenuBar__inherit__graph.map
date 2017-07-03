@@ -1,0 +1,8 @@
+<map id="GuiMenuBar" name="GuiMenuBar">
+<area shape="rect" id="node7" href="$classGuiPlatformGenericMenuBar.html" title="GuiPlatformGenericMenuBar" alt="" coords="5,453,187,480"/>
+<area shape="rect" id="node2" href="$classGuiTickCtrl.html" title="Brief Description. " alt="" coords="55,304,137,331"/>
+<area shape="rect" id="node3" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="55,229,137,256"/>
+<area shape="rect" id="node4" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="57,155,135,181"/>
+<area shape="rect" id="node5" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="65,80,127,107"/>
+<area shape="rect" id="node6" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="55,5,137,32"/>
+</map>

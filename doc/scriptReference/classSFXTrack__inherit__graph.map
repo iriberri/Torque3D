@@ -1,0 +1,6 @@
+<map id="SFXTrack" name="SFXTrack">
+<area shape="rect" id="node4" href="$classSFXPlayList.html" title="A datablock describing a playback pattern of sounds. " alt="" coords="5,229,92,256"/>
+<area shape="rect" id="node5" href="$classSFXProfile.html" title="Encapsulates a single sound file for playback by the sound system. " alt="" coords="116,229,197,256"/>
+<area shape="rect" id="node2" href="$classSimDataBlock.html" title="SimDataBlock" alt="" coords="53,80,151,107"/>
+<area shape="rect" id="node3" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="61,5,143,32"/>
+</map>

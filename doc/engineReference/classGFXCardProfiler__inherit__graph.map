@@ -1,0 +1,5 @@
+<map id="GFXCardProfiler" name="GFXCardProfiler">
+<area shape="rect" id="node2" href="$classGFXD3D11CardProfiler.html" title="GFXD3D11CardProfiler" alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node3" href="$classGFXD3D9CardProfiler.html" title="GFXD3D9CardProfiler" alt="" coords="180,80,323,107"/>
+<area shape="rect" id="node4" href="$classGFXGLCardProfiler.html" title="A note on workarounds &#45; The following settings are used exclusively to work around driver bugs: GL::W..." alt="" coords="347,80,473,107"/>
+</map>

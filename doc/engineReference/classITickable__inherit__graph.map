@@ -1,0 +1,18 @@
+<map id="ITickable" name="ITickable">
+<area shape="rect" id="node2" href="$classForestWindMgr.html" title="ForestWindMgr" alt="" coords="129,56,239,83"/>
+<area shape="rect" id="node3" href="$classGuiTickCtrl.html" title="This Gui Control is designed to be subclassed to let people create controls which want to receive upd..." alt="" coords="143,107,225,133"/>
+<area shape="rect" id="node14" href="$classLightBase.html" title="LightBase" alt="" coords="146,157,222,184"/>
+<area shape="rect" id="node17" href="$classScriptTickObject.html" title="ScriptTickObject" alt="" coords="127,208,241,235"/>
+<area shape="rect" id="node4" href="$classGuiAutoScrollCtrl.html" title="A control that automatically scrolls its child control upwards. " alt="" coords="289,5,408,32"/>
+<area shape="rect" id="node5" href="$classGuiMenuBar.html" title="GuiMenuBar" alt="" coords="303,56,394,83"/>
+<area shape="rect" id="node7" href="$classGuiRolloutCtrl.html" title="A container with an optional header that allows its child control to be collapsed using an animated e..." alt="" coords="299,107,398,133"/>
+<area shape="rect" id="node6" href="$classGuiPlatformGenericMenuBar.html" title="GuiPlatformGenericMenuBar" alt="" coords="456,56,637,83"/>
+<area shape="rect" id="node8" href="$classGuiInspectorGroup.html" title="The GuiInspectorGroup control is a helper control that the inspector makes use of which houses a coll..." alt="" coords="483,107,610,133"/>
+<area shape="rect" id="node9" href="$classGuiInspectorComponentGroup.html" title="GuiInspectorComponentGroup" alt="" coords="685,5,877,32"/>
+<area shape="rect" id="node10" href="$classGuiInspectorDynamicGroup.html" title="GuiInspectorDynamicGroup" alt="" coords="694,56,869,83"/>
+<area shape="rect" id="node11" href="$classGuiInspectorEntityGroup.html" title="GuiInspectorEntityGroup" alt="" coords="702,107,861,133"/>
+<area shape="rect" id="node12" href="$classGuiInspectorMountingGroup.html" title="GuiInspectorMountingGroup" alt="" coords="692,157,871,184"/>
+<area shape="rect" id="node13" href="$classGuiInspectorVariableGroup.html" title="GuiInspectorVariableGroup" alt="" coords="694,208,869,235"/>
+<area shape="rect" id="node15" href="$classPointLight.html" title="PointLight" alt="" coords="310,157,387,184"/>
+<area shape="rect" id="node16" href="$classSpotLight.html" title="SpotLight" alt="" coords="311,208,386,235"/>
+</map>

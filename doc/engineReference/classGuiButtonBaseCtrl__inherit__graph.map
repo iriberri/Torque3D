@@ -1,0 +1,22 @@
+<map id="GuiButtonBaseCtrl" name="GuiButtonBaseCtrl">
+<area shape="rect" id="node12" href="$classGuiButtonCtrl.html" title="GuiButtonCtrl" alt="" coords="1311,107,1407,133"/>
+<area shape="rect" id="node18" href="$classGuiCheckBoxCtrl.html" title="A checkbox button. " alt="" coords="1301,208,1416,235"/>
+<area shape="rect" id="node20" href="$classGuiSwatchButtonCtrl.html" title="A color swatch button. " alt="" coords="1289,259,1428,285"/>
+<area shape="rect" id="node2" href="$classGuiControl.html" title="GuiControl" alt="" coords="989,208,1071,235"/>
+<area shape="rect" id="node3" href="$classSimGroup.html" title="A group of SimObjects. " alt="" coords="863,208,941,235"/>
+<area shape="rect" id="node4" href="$classSimSet.html" title="A set of SimObjects. " alt="" coords="752,208,815,235"/>
+<area shape="rect" id="node5" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="614,183,695,209"/>
+<area shape="rect" id="node6" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="453,157,557,184"/>
+<area shape="rect" id="node7" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="308,157,405,184"/>
+<area shape="rect" id="node8" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="153,157,260,184"/>
+<area shape="rect" id="node9" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="5,157,105,184"/>
+<area shape="rect" id="node10" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="453,208,557,235"/>
+<area shape="rect" id="node11" href="$classTamlChildren.html" title="TamlChildren" alt="" coords="605,233,704,260"/>
+<area shape="rect" id="node13" href="$classGuiBitmapButtonCtrl.html" title="A button control that uses bitmaps as its different button states. " alt="" coords="1484,5,1619,32"/>
+<area shape="rect" id="node15" href="$classGuiIconButtonCtrl.html" title="The GuiIconButtonCtrl draws an icon and text caption within a normal button control with several layo..." alt="" coords="1491,56,1611,83"/>
+<area shape="rect" id="node16" href="$classGuiToggleButtonCtrl.html" title="GuiToggleButtonCtrl" alt="" coords="1484,107,1619,133"/>
+<area shape="rect" id="node17" href="$classGuiToolboxButtonCtrl.html" title="GuiToolboxButtonCtrl" alt="" coords="1481,157,1622,184"/>
+<area shape="rect" id="node14" href="$classGuiBitmapButtonTextCtrl.html" title="Extension of GuiBitmapButtonCtrl that also display a text label on the button. " alt="" coords="1675,5,1835,32"/>
+<area shape="rect" id="node19" href="$classGuiRadioCtrl.html" title="GuiRadioCtrl" alt="" coords="1505,208,1597,235"/>
+<area shape="rect" id="node21" href="$classGuiGradientSwatchCtrl.html" title="GuiGradientSwatchCtrl" alt="" coords="1476,259,1627,285"/>
+</map>

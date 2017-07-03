@@ -1,0 +1,8 @@
+<map id="SFXFileStream" name="SFXFileStream">
+<area shape="rect" id="node8" href="$classSFXWavStream.html" title="An SFXFileStream that loads sample data from a WAV file. " alt="" coords="184,352,296,379"/>
+<area shape="rect" id="node2" href="$classSFXStream.html" title="The base sound data streaming interface. " alt="" coords="197,200,283,227"/>
+<area shape="rect" id="node3" href="$classThreadSafeRefCount.html" title="ThreadSafeRefCount\l\&lt; SFXStream \&gt;" alt="" coords="5,109,147,151"/>
+<area shape="rect" id="node4" href="$classThreadSafeRefCount.html" title="Baseclass for concurrently reference&#45;counted objects. " alt="" coords="5,5,147,47"/>
+<area shape="rect" id="node6" href="$classIInputStream.html" title="An input stream delivers a sequence of elements of type &quot;T&quot;. " alt="" coords="175,13,305,39"/>
+<area shape="rect" id="node7" href="$classIResettable.html" title="Interface for structures that allow their state to be reset. " alt="" coords="334,117,421,143"/>
+</map>

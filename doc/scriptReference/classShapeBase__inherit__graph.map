@@ -1,0 +1,27 @@
+<map id="ShapeBase" name="ShapeBase">
+<area shape="rect" id="node8" href="$classCamera.html" title="Represents a position, direction and field of view to render a scene from. " alt="" coords="924,31,991,57"/>
+<area shape="rect" id="node9" href="$classItem.html" title="Base Item class. Uses the ItemData datablock for common properties. " alt="" coords="933,81,981,108"/>
+<area shape="rect" id="node13" href="$classMissionMarker.html" title="This is a base class for all &quot;marker&quot; related objets. It is a 3D representation of a point in the lev..." alt="" coords="905,157,1009,184"/>
+<area shape="rect" id="node17" href="$classPathCamera.html" title="A camera that moves along a path. The camera can then be made to travel along this path forwards or b..." alt="" coords="911,208,1003,235"/>
+<area shape="rect" id="node18" href="$classPlayer.html" title="Player" alt="" coords="929,259,986,285"/>
+<area shape="rect" id="node20" href="$classRigidShape.html" title="The RigidShape class implements rigid&#45;body physics for DTS objects in the world. " alt="" coords="914,309,1001,336"/>
+<area shape="rect" id="node21" href="$classStaticShape.html" title="The most basic 3D shape with a datablock available in Torque 3D. " alt="" coords="912,360,1003,387"/>
+<area shape="rect" id="node23" href="$classVehicle.html" title="Base functionality shared by all Vehicles (FlyingVehicle, HoverVehicle, WheeledVehicle). " alt="" coords="926,411,989,437"/>
+<area shape="rect" id="node2" href="$classGameBase.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="641,233,724,260"/>
+<area shape="rect" id="node3" href="$classSceneObject.html" title="A networkable object that exists in the 3D world. " alt="" coords="499,233,593,260"/>
+<area shape="rect" id="node4" href="$classNetObject.html" title="Superclass for all ghostable networked objects. " alt="" coords="372,233,451,260"/>
+<area shape="rect" id="node5" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="245,233,324,260"/>
+<area shape="rect" id="node6" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="135,233,197,260"/>
+<area shape="rect" id="node7" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,233,87,260"/>
+<area shape="rect" id="node10" href="$classProximityMine.html" title="A simple proximity mine. " alt="" coords="1073,5,1175,32"/>
+<area shape="rect" id="node11" href="$classTurretShape.html" title="TurretShape" alt="" coords="1077,56,1171,83"/>
+<area shape="rect" id="node12" href="$classAITurretShape.html" title="AITurretShape" alt="" coords="1239,56,1345,83"/>
+<area shape="rect" id="node14" href="$classCameraBookmark.html" title="Special type of mission marker which allows a level editor&#39;s camera to jump to specific points..." alt="" coords="1063,107,1185,133"/>
+<area shape="rect" id="node15" href="$classSpawnSphere.html" title="This class is used for creating any type of game object, assigning it a class, datablock, and other properties when it is spawned. " alt="" coords="1073,157,1175,184"/>
+<area shape="rect" id="node16" href="$classWayPoint.html" title="Special type of marker, distinguished by a name and team ID number. " alt="" coords="1087,208,1161,235"/>
+<area shape="rect" id="node19" href="$classAIPlayer.html" title="A Player object not controlled by conventional input, but by an AI engine. " alt="" coords="1089,259,1159,285"/>
+<area shape="rect" id="node22" href="$classScopeAlwaysShape.html" title="StaticShape object which is always scoped. " alt="" coords="1057,309,1191,336"/>
+<area shape="rect" id="node24" href="$classFlyingVehicle.html" title="A flying vehicle. " alt="" coords="1076,360,1172,387"/>
+<area shape="rect" id="node25" href="$classHoverVehicle.html" title="A hovering vehicle. " alt="" coords="1076,411,1172,437"/>
+<area shape="rect" id="node26" href="$classWheeledVehicle.html" title="A wheeled vehicle. " alt="" coords="1067,461,1181,488"/>
+</map>
