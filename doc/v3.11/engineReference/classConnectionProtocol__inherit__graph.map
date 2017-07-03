@@ -1,0 +1,6 @@
+<map id="ConnectionProtocol" name="ConnectionProtocol">
+<area shape="rect" id="node2" href="$classNetConnection.html" title="Torque network connection. " alt="" coords="19,80,123,107"/>
+<area shape="rect" id="node3" href="$classGameConnection.html" title="GameConnection" alt="" coords="11,155,130,181"/>
+<area shape="rect" id="node4" href="$classAIConnection.html" title="AIConnection" alt="" coords="22,229,119,256"/>
+<area shape="rect" id="node5" href="$classAIClient.html" title="AIClient" alt="" coords="37,304,104,331"/>
+</map>

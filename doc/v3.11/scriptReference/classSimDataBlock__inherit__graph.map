@@ -1,0 +1,50 @@
+<map id="SimDataBlock" name="SimDataBlock">
+<area shape="rect" id="node3" href="$classDecalData.html" title="A datablock describing an individual decal. " alt="" coords="317,309,396,336"/>
+<area shape="rect" id="node4" href="$classForestItemData.html" title="Base class for defining a type of ForestItem. It does not implement loading or rendering of the shape..." alt="" coords="301,360,412,387"/>
+<area shape="rect" id="node6" href="$classGameBaseData.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="303,411,411,437"/>
+<area shape="rect" id="node36" href="$classLightAnimData.html" title="A datablock which defines and performs light animation, such as rotation, brightness fade..." alt="" coords="305,461,409,488"/>
+<area shape="rect" id="node37" href="$classLightDescription.html" title="A helper datablock used by classes (such as shapebase) that submit lights to the scene but do not use..." alt="" coords="301,512,413,539"/>
+<area shape="rect" id="node38" href="$classLightFlareData.html" title="Defines a light flare effect usable by scene lights. " alt="" coords="305,563,409,589"/>
+<area shape="rect" id="node39" href="$classParticleData.html" title="Contains information for how specific particles should look and react including particle colors..." alt="" coords="311,613,402,640"/>
+<area shape="rect" id="node40" href="$classReflectorDesc.html" title="A datablock which defines performance and quality properties for dynamic reflections. " alt="" coords="307,664,407,691"/>
+<area shape="rect" id="node41" href="$classSFXAmbience.html" title="A datablock that describes an ambient sound space. " alt="" coords="306,715,407,741"/>
+<area shape="rect" id="node42" href="$classSFXDescription.html" title="A description for how a sound should be played. " alt="" coords="303,765,411,792"/>
+<area shape="rect" id="node43" href="$classSFXEnvironment.html" title="Description of a reverb environment. " alt="" coords="299,816,415,843"/>
+<area shape="rect" id="node44" href="$classSFXState.html" title="A boolean switch used to modify playlist behavior. " alt="" coords="319,867,394,893"/>
+<area shape="rect" id="node45" href="$classSFXTrack.html" title="Abstract base class for sound data that can be played back by the sound system. " alt="" coords="318,917,395,944"/>
+<area shape="rect" id="node48" href="$classWheeledVehicleSpring.html" title="Defines the properties of a WheeledVehicle spring. " alt="" coords="281,968,432,995"/>
+<area shape="rect" id="node49" href="$classWheeledVehicleTire.html" title="Defines the properties of a WheeledVehicle tire. " alt="" coords="289,1019,425,1045"/>
+<area shape="rect" id="node2" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,664,87,691"/>
+<area shape="rect" id="node5" href="$classTSForestItemData.html" title="Concrete implementation of ForestItemData which loads and renders dts format shapeFiles. " alt="" coords="497,5,623,32"/>
+<area shape="rect" id="node7" href="$classDebrisData.html" title="Stores properties for an individual debris type. " alt="" coords="518,56,602,83"/>
+<area shape="rect" id="node8" href="$classExplosionData.html" title="Defines the attributes of an Explosion: particleEmitters, debris, lighting and camera shake effects..." alt="" coords="509,107,611,133"/>
+<area shape="rect" id="node9" href="$classLightningData.html" title="Common data for a Lightning emitter object. " alt="" coords="511,157,609,184"/>
+<area shape="rect" id="node10" href="$classParticleEmitterData.html" title="Defines particle emission properties such as ejection angle, period and velocity for a ParticleEmitte..." alt="" coords="495,208,625,235"/>
+<area shape="rect" id="node11" href="$classParticleEmitterNodeData.html" title="Contains additional data to be associated with a ParticleEmitterNode. " alt="" coords="480,259,640,285"/>
+<area shape="rect" id="node12" href="$classPhysicsDebrisData.html" title="Defines the properties of a PhysicsDebris object. " alt="" coords="497,309,623,336"/>
+<area shape="rect" id="node13" href="$classPhysicsShapeData.html" title="Defines the properties of a PhysicsShape. " alt="" coords="497,360,623,387"/>
+<area shape="rect" id="node14" href="$classPrecipitationData.html" title="The emitter for an explosion effect, with properties defined by a ExplosionData object. " alt="" coords="501,411,619,437"/>
+<area shape="rect" id="node15" href="$classProjectileData.html" title="Stores properties for an individual projectile type. " alt="" coords="509,461,611,488"/>
+<area shape="rect" id="node16" href="$classRibbonData.html" title="RibbonData" alt="" coords="517,512,603,539"/>
+<area shape="rect" id="node17" href="$classRibbonNodeData.html" title="Contains additional data to be associated with a RibbonNode. " alt="" coords="502,563,618,589"/>
+<area shape="rect" id="node18" href="$classShapeBaseData.html" title="Defines properties for a ShapeBase object. " alt="" coords="505,613,615,640"/>
+<area shape="rect" id="node33" href="$classShapeBaseImageData.html" title="Represents geometry to be mounted to a ShapeBase object. " alt="" coords="487,664,633,691"/>
+<area shape="rect" id="node34" href="$classSplashData.html" title="Acts as the physical point in space in white a Splash is created from. " alt="" coords="517,715,603,741"/>
+<area shape="rect" id="node35" href="$classTriggerData.html" title="Defines shared properties for Trigger objects. " alt="" coords="515,765,605,792"/>
+<area shape="rect" id="node19" href="$classCameraData.html" title="A datablock that describes a camera. " alt="" coords="707,436,800,463"/>
+<area shape="rect" id="node20" href="$classItemData.html" title="Stores properties for an individual Item type. " alt="" coords="716,487,791,513"/>
+<area shape="rect" id="node24" href="$classMissionMarkerData.html" title="A very basic class containing information used by MissionMarker objects for rendering. " alt="" coords="688,537,819,564"/>
+<area shape="rect" id="node25" href="$classPathCameraData.html" title="General interface to control a PathCamera object from the script level. " alt="" coords="694,588,813,615"/>
+<area shape="rect" id="node26" href="$classPlayerData.html" title="Defines properties for a Player object. " alt="" coords="712,639,795,665"/>
+<area shape="rect" id="node27" href="$classRigidShapeData.html" title="Defines the physics properties for an individual RigidShapeData physics object. " alt="" coords="697,689,809,716"/>
+<area shape="rect" id="node28" href="$classStaticShapeData.html" title="The most basic ShapeBaseData derrived shape datablock available in Torque 3D. " alt="" coords="695,740,811,767"/>
+<area shape="rect" id="node29" href="$classVehicleData.html" title="Base properties shared by all Vehicles (FlyingVehicle, HoverVehicle, WheeledVehicle). " alt="" coords="709,791,798,817"/>
+<area shape="rect" id="node21" href="$classProximityMineData.html" title="Stores common properties for a ProximityMine. " alt="" coords="873,461,999,488"/>
+<area shape="rect" id="node22" href="$classTurretShapeData.html" title="Defines properties for a TurretShape object. " alt="" coords="876,512,996,539"/>
+<area shape="rect" id="node23" href="$classAITurretShapeData.html" title="Defines properties for an AITurretShape object. " alt="" coords="1053,512,1185,539"/>
+<area shape="rect" id="node30" href="$classFlyingVehicleData.html" title="Defines the properties of a FlyingVehicle. " alt="" coords="875,740,997,767"/>
+<area shape="rect" id="node31" href="$classHoverVehicleData.html" title="Defines the properties of a HoverVehicle. " alt="" coords="875,791,997,817"/>
+<area shape="rect" id="node32" href="$classWheeledVehicleData.html" title="Defines the properties of a WheeledVehicle. " alt="" coords="867,841,1005,868"/>
+<area shape="rect" id="node46" href="$classSFXPlayList.html" title="A datablock describing a playback pattern of sounds. " alt="" coords="517,892,603,919"/>
+<area shape="rect" id="node47" href="$classSFXProfile.html" title="Encapsulates a single sound file for playback by the sound system. " alt="" coords="519,943,601,969"/>
+</map>

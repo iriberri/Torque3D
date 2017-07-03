@@ -1,0 +1,10 @@
+<map id="SFXMemoryStream" name="SFXMemoryStream">
+<area shape="rect" id="node2" href="$classSFXStream.html" title="The base sound data streaming interface. " alt="" coords="848,73,935,99"/>
+<area shape="rect" id="node3" href="$classThreadSafeRefCount.html" title="ThreadSafeRefCount\l\&lt; SFXStream \&gt;" alt="" coords="515,5,656,47"/>
+<area shape="rect" id="node4" href="$classThreadSafeRefCount.html" title="Baseclass for concurrently reference&#45;counted objects. " alt="" coords="229,5,371,47"/>
+<area shape="rect" id="node8" href="$classIInputStreamFilter.html" title="IInputStreamFilter\l\&lt; U8, IInputStream\&lt;\l RawData * \&gt; * \&gt;" alt="" coords="820,123,963,179"/>
+<area shape="rect" id="node6" href="$classIInputStream.html" title="An input stream delivers a sequence of elements of type &quot;T&quot;. " alt="" coords="5,150,136,177"/>
+<area shape="rect" id="node10" href="$classIInputStream.html" title="IInputStream\&lt; To \&gt;" alt="" coords="231,187,369,214"/>
+<area shape="rect" id="node7" href="$classIResettable.html" title="Interface for structures that allow their state to be reset. " alt="" coords="542,71,629,98"/>
+<area shape="rect" id="node9" href="$classIInputStreamFilter.html" title="An input stream filter takes an input stream &quot;Stream&quot; and processes it into an input stream over type..." alt="" coords="522,180,649,221"/>
+</map>

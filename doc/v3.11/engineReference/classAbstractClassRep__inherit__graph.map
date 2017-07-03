@@ -1,0 +1,6 @@
+<map id="AbstractClassRep" name="AbstractClassRep">
+<area shape="rect" id="node3" href="$classConcreteAbstractClassRep.html" title="Helper class for AbstractClassRep. " alt="" coords="5,155,212,181"/>
+<area shape="rect" id="node5" href="$classRuntimeClassRep.html" title="This class is to allow new types to be added, at run&#45;time, to Torque. " alt="" coords="237,155,391,181"/>
+<area shape="rect" id="node2" href="$classConsoleBaseType.html" title="Information about a console type. " alt="" coords="150,5,273,32"/>
+<area shape="rect" id="node4" href="$classConcreteClassRep.html" title="ConcreteClassRep\&lt; T \&gt;" alt="" coords="29,229,188,256"/>
+</map>

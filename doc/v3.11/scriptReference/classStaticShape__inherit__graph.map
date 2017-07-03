@@ -1,0 +1,10 @@
+<map id="StaticShape" name="StaticShape">
+<area shape="rect" id="node9" href="$classScopeAlwaysShape.html" title="StaticShape object which is always scoped. " alt="" coords="5,603,139,629"/>
+<area shape="rect" id="node2" href="$classShapeBase.html" title="ShapeBase" alt="" coords="29,453,115,480"/>
+<area shape="rect" id="node3" href="$classGameBase.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="31,379,113,405"/>
+<area shape="rect" id="node4" href="$classSceneObject.html" title="A networkable object that exists in the 3D world. " alt="" coords="25,304,119,331"/>
+<area shape="rect" id="node5" href="$classNetObject.html" title="Superclass for all ghostable networked objects. " alt="" coords="33,229,111,256"/>
+<area shape="rect" id="node6" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="33,155,111,181"/>
+<area shape="rect" id="node7" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="41,80,103,107"/>
+<area shape="rect" id="node8" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="31,5,113,32"/>
+</map>

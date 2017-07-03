@@ -1,0 +1,50 @@
+<map id="SimGroup" name="SimGroup">
+<area shape="rect" id="node4" href="$classActionMapGroup.html" title="Stub class. " alt="" coords="390,461,505,488"/>
+<area shape="rect" id="node5" href="$classClientConnectionGroup.html" title="Stub class. " alt="" coords="372,512,523,539"/>
+<area shape="rect" id="node6" href="$classClientGroup.html" title="Stub class. " alt="" coords="403,563,491,589"/>
+<area shape="rect" id="node7" href="$classDataBlockGroup.html" title="Stub class. " alt="" coords="392,613,503,640"/>
+<area shape="rect" id="node8" href="$classForestBrush.html" title="Container class for ForestBrushElements. " alt="" coords="402,664,493,691"/>
+<area shape="rect" id="node9" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="407,715,488,741"/>
+<area shape="rect" id="node39" href="$classGuiDataGroup.html" title="Stub class. " alt="" coords="397,765,497,792"/>
+<area shape="rect" id="node40" href="$classGuiGroup.html" title="Stub class. " alt="" coords="410,816,485,843"/>
+<area shape="rect" id="node41" href="$classNetConnection.html" title="Provides the basis for implementing a multiplayer game protocol. " alt="" coords="395,867,499,893"/>
+<area shape="rect" id="node42" href="$classNetObject.html" title="Superclass for all ghostable networked objects. " alt="" coords="408,917,487,944"/>
+<area shape="rect" id="node43" href="$classPath.html" title="A spline along which various objects can move along. The spline object acts like a container for Mark..." alt="" coords="424,968,471,995"/>
+<area shape="rect" id="node44" href="$classPostEffect.html" title="A fullscreen shader effect. " alt="" coords="408,1019,487,1045"/>
+<area shape="rect" id="node45" href="$classRootGroup.html" title="Stub class. " alt="" coords="406,1069,489,1096"/>
+<area shape="rect" id="node46" href="$classScriptGroup.html" title="Essentially a SimGroup, but with onAdd and onRemove script callbacks. " alt="" coords="403,1120,492,1147"/>
+<area shape="rect" id="node47" href="$classSFXParameterGroup.html" title="Stub class. " alt="" coords="378,1171,517,1197"/>
+<area shape="rect" id="node48" href="$classSFXSource.html" title="Playback controller for a sound source. " alt="" coords="405,1221,490,1248"/>
+<area shape="rect" id="node49" href="$classTCPGroup.html" title="Stub class. " alt="" coords="408,1272,487,1299"/>
+<area shape="rect" id="node2" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="135,917,197,944"/>
+<area shape="rect" id="node3" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,917,87,944"/>
+<area shape="rect" id="node10" href="$classEditManager.html" title="For Editor use only, deprecated. " alt="" coords="614,5,707,32"/>
+<area shape="rect" id="node11" href="$classGuiArrayCtrl.html" title="Abstract base class for controls that store and display multiple elements in a single view..." alt="" coords="615,56,706,83"/>
+<area shape="rect" id="node12" href="$classGuiBackgroundCtrl.html" title="Renders a background, so you can have a backdrop for your GUI. " alt="" coords="597,107,724,133"/>
+<area shape="rect" id="node13" href="$classGuiBitmapBorderCtrl.html" title="A control that renders a skinned border specified in its profile. " alt="" coords="592,157,729,184"/>
+<area shape="rect" id="node14" href="$classGuiBitmapCtrl.html" title="A gui control that is used to display an image. " alt="" coords="611,208,710,235"/>
+<area shape="rect" id="node15" href="$classGuiButtonBaseCtrl.html" title="The base class for the various button controls. " alt="" coords="599,259,722,285"/>
+<area shape="rect" id="node16" href="$classGuiCanvas.html" title="A canvas on which rendering occurs. " alt="" coords="620,309,701,336"/>
+<area shape="rect" id="node17" href="$classGuiChunkedBitmapCtrl.html" title="This is a control that will render a specified bitmap or a bitmap specified in a referenced variable..." alt="" coords="587,360,735,387"/>
+<area shape="rect" id="node18" href="$classGuiClockHud.html" title="Basic HUD clock. Displays the current simulation time offset from some base. " alt="" coords="615,411,707,437"/>
+<area shape="rect" id="node19" href="$classGuiColorPickerCtrl.html" title="Editor GUI used for picking a ColorF from a palette. " alt="" coords="599,461,723,488"/>
+<area shape="rect" id="node20" href="$classGuiConsoleTextCtrl.html" title="Used by GUIConsole system internally. " alt="" coords="595,512,726,539"/>
+<area shape="rect" id="node21" href="$classGuiContainer.html" title="Brief Desc. " alt="" coords="613,563,708,589"/>
+<area shape="rect" id="node22" href="$classGuiControlArrayControl.html" title="Brief Desc. " alt="" coords="584,613,737,640"/>
+<area shape="rect" id="node23" href="$classGuiDecoyCtrl.html" title="Designed soley for buttons, primarily used in editor. " alt="" coords="613,664,708,691"/>
+<area shape="rect" id="node24" href="$classGuiDragAndDropControl.html" title="A container control that can be used to implement drag&amp;drop behavior. " alt="" coords="582,715,739,741"/>
+<area shape="rect" id="node25" href="$classGuiDynamicCtrlArrayControl.html" title="A container that arranges children into a grid. " alt="" coords="571,765,751,792"/>
+<area shape="rect" id="node26" href="$classGuiEaseViewCtrl.html" title="Control to visualize an EaseF. " alt="" coords="603,816,718,843"/>
+<area shape="rect" id="node27" href="$classGuiEditCtrl.html" title="Native side of the GUI editor. " alt="" coords="620,867,701,893"/>
+<area shape="rect" id="node28" href="$classGuiEditorRuler.html" title="Visual representation of markers on top and left sides of GUI Editor. " alt="" coords="609,917,712,944"/>
+<area shape="rect" id="node29" href="$classGuiFilterCtrl.html" title="A control that displays a Catmull&#45;Rom spline through a number of control points. " alt="" coords="616,968,705,995"/>
+<area shape="rect" id="node30" href="$classGuiGameListMenuCtrl.html" title="A base class for cross platform menu controls that are gamepad friendly. " alt="" coords="589,1019,732,1045"/>
+<area shape="rect" id="node31" href="$classGuiGradientCtrl.html" title="Visual representation of color box used with the GuiColorPickerCtrl. " alt="" coords="607,1069,715,1096"/>
+<area shape="rect" id="node32" href="$classGuiGraphCtrl.html" title="A control that plots one or more curves in a chart. " alt="" coords="613,1120,708,1147"/>
+<area shape="rect" id="node33" href="$classGuiHealthBarHud.html" title="A basic health bar. Shows the damage value of the current PlayerObjectType control object..." alt="" coords="602,1171,719,1197"/>
+<area shape="rect" id="node34" href="$classGuiHealthTextHud.html" title="Shows the health or energy value of the current PlayerObjectType control object. " alt="" coords="599,1221,722,1248"/>
+<area shape="rect" id="node35" href="$classGuiInspectorField.html" title="The GuiInspectorField control is a representation of a single abstract field for a given ConsoleObjec..." alt="" coords="601,1272,721,1299"/>
+<area shape="rect" id="node36" href="$classGuiListBoxCtrl.html" title="A list of text items. " alt="" coords="611,1323,710,1349"/>
+<area shape="rect" id="node37" href="$classGuiMessageVectorCtrl.html" title="A chat HUD control that displays messages from a MessageVector. " alt="" coords="587,1373,734,1400"/>
+<area shape="rect" id="node38" href="$classGuiMLTextCtrl.html" title="A text control that uses the Gui Markup Language (&#39;ML&#39;) tags to dynamically change the text..." alt="" coords="610,1424,711,1451"/>
+</map>

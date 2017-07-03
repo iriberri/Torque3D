@@ -1,0 +1,4 @@
+<map id="SFXPlayList::VariantFloat" name="SFXPlayList::VariantFloat">
+<area shape="rect" id="node2" href="$structSFXVariantFloat.html" title="SFXVariantFloat\&lt; NUM\l_SLOTS \&gt;" alt="" coords="12,109,165,151"/>
+<area shape="rect" id="node3" href="$structSFXVariantFloat.html" title="An array of float values with optional random variances. " alt="" coords="12,5,165,47"/>
+</map>

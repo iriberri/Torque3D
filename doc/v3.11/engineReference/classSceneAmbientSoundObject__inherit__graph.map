@@ -1,0 +1,8 @@
+<map id="SceneAmbientSoundObject&lt; Base &gt;" name="SceneAmbientSoundObject&lt; Base &gt;">
+<area shape="rect" id="node3" href="$classSceneAmbientSoundObject.html" title="SceneAmbientSoundObject\l\&lt; ScenePolyhedralObject\l\&lt; SceneSpace \&gt; \&gt;" alt="" coords="483,5,660,61"/>
+<area shape="rect" id="node5" href="$classSceneAmbientSoundObject.html" title="SceneAmbientSoundObject\l\&lt; ScenePolyhedralZone \&gt;" alt="" coords="483,86,660,127"/>
+<area shape="rect" id="node2" href="$classBase.html" title="Base" alt="" coords="5,64,55,91"/>
+<area shape="rect" id="node4" href="$classSFXSpace.html" title="A convex space that defines a custom ambient sound space. " alt="" coords="709,20,789,47"/>
+<area shape="rect" id="node6" href="$classZone.html" title="A volume in space that encloses objects. " alt="" coords="724,93,775,120"/>
+<area shape="rect" id="node7" href="$classPortal.html" title="A transitioning zone that connects other zones. " alt="" coords="839,93,893,120"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="RenderTexTargetBinManager" name="RenderTexTargetBinManager">
+<area shape="rect" id="node4" href="$classAdvancedLightBinManager.html" title="Rendering Manager responsible for lighting, shadows, and global variables affecing both..." alt="" coords="5,229,176,256"/>
+<area shape="rect" id="node5" href="$classRenderGlowMgr.html" title="A render bin for the glow pass. " alt="" coords="201,229,314,256"/>
+<area shape="rect" id="node6" href="$classRenderParticleMgr.html" title="A render bin which renders particle geometry. " alt="" coords="338,229,465,256"/>
+<area shape="rect" id="node7" href="$classRenderPrePassMgr.html" title="The render bin which performs a z+normals prepass used in Advanced Lighting. " alt="" coords="489,229,620,256"/>
+<area shape="rect" id="node2" href="$classRenderBinManager.html" title="The abstract base for all render bins. " alt="" coords="264,80,395,107"/>
+<area shape="rect" id="node3" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="289,5,370,32"/>
+</map>

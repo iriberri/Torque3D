@@ -1,0 +1,10 @@
+<map id="Selection&lt; T &gt;" name="Selection&lt; T &gt;">
+<area shape="rect" id="node4" href="$classBrush.html" title="Brush" alt="" coords="135,260,190,287"/>
+<area shape="rect" id="node8" href="$classSelection.html" title="Selection\&lt; ForestItem \&gt;" alt="" coords="308,260,471,287"/>
+<area shape="rect" id="node2" href="$classVector.html" title="A dynamic array template class. " alt="" coords="213,5,307,32"/>
+<area shape="rect" id="node3" href="$classVector.html" title="Vector\&lt; GridInfo \&gt;" alt="" coords="261,95,392,121"/>
+<area shape="rect" id="node5" href="$classBoxBrush.html" title="BoxBrush" alt="" coords="5,336,80,363"/>
+<area shape="rect" id="node6" href="$classEllipseBrush.html" title="EllipseBrush" alt="" coords="104,336,195,363"/>
+<area shape="rect" id="node7" href="$classSelectionBrush.html" title="SelectionBrush" alt="" coords="219,336,325,363"/>
+<area shape="rect" id="node9" href="$classForestItemSelection.html" title="ForestItemSelection" alt="" coords="349,336,485,363"/>
+</map>

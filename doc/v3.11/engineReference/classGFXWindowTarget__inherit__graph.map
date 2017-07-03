@@ -1,0 +1,10 @@
+<map id="GFXWindowTarget" name="GFXWindowTarget">
+<area shape="rect" id="node6" href="$classGFXD3D11WindowTarget.html" title="GFXD3D11WindowTarget" alt="" coords="5,304,172,331"/>
+<area shape="rect" id="node7" href="$classGFXGLWindowTarget.html" title="GFXGLWindowTarget" alt="" coords="196,304,339,331"/>
+<area shape="rect" id="node8" href="$classGFXNullWindowTarget.html" title="GFXNullWindowTarget" alt="" coords="363,304,513,331"/>
+<area shape="rect" id="node9" href="$classGFXPCD3D9WindowTarget.html" title="GFXPCD3D9WindowTarget" alt="" coords="537,304,712,331"/>
+<area shape="rect" id="node2" href="$classGFXTarget.html" title="Base class for a target to which GFX can render. " alt="" coords="311,155,394,181"/>
+<area shape="rect" id="node3" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="237,80,343,107"/>
+<area shape="rect" id="node4" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="240,5,340,32"/>
+<area shape="rect" id="node5" href="$classGFXResource.html" title="Mixin for the purpose of tracking GFX resources owned by a GFXDevice. " alt="" coords="367,80,466,107"/>
+</map>

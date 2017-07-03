@@ -1,0 +1,7 @@
+<map id="GFXFence" name="GFXFence">
+<area shape="rect" id="node3" href="$classGFXD3D11QueryFence.html" title="GFXD3D11QueryFence" alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node4" href="$classGFXD3D9QueryFence.html" title="GFXD3D9QueryFence" alt="" coords="180,155,323,181"/>
+<area shape="rect" id="node5" href="$classGFXGeneralFence.html" title="GFXGeneralFence" alt="" coords="347,155,470,181"/>
+<area shape="rect" id="node6" href="$classGFXGLAppleFence.html" title="GFXGLAppleFence" alt="" coords="494,155,619,181"/>
+<area shape="rect" id="node2" href="$classGFXResource.html" title="Mixin for the purpose of tracking GFX resources owned by a GFXDevice. " alt="" coords="281,5,379,32"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="UpdateInterface" name="UpdateInterface">
+<area shape="rect" id="node4" href="$classComponent.html" title="Component" alt="" coords="684,233,771,260"/>
+<area shape="rect" id="node2" href="$classInterface.html" title="Interface\&lt; UpdateInterface \&gt;" alt="" coords="281,233,472,260"/>
+<area shape="rect" id="node3" href="$classInterface.html" title="Interface\&lt; T \&gt;" alt="" coords="5,233,112,260"/>
+<area shape="rect" id="node5" href="$classAnimationComponent.html" title="AnimationComponent" alt="" coords="837,5,981,32"/>
+<area shape="rect" id="node6" href="$classCameraComponent.html" title="CameraComponent" alt="" coords="843,56,975,83"/>
+<area shape="rect" id="node7" href="$classCameraOrbiterComponent.html" title="CameraOrbiterComponent" alt="" coords="823,107,995,133"/>
+<area shape="rect" id="node8" href="$classCollisionComponent.html" title="CollisionComponent" alt="" coords="842,157,977,184"/>
+<area shape="rect" id="node9" href="$classMeshComponent.html" title="MeshComponent" alt="" coords="851,208,968,235"/>
+<area shape="rect" id="node10" href="$classPhysicsComponent.html" title="PhysicsComponent" alt="" coords="845,259,973,285"/>
+<area shape="rect" id="node11" href="$classPlayerControllerComponent.html" title="PlayerControllerComponent" alt="" coords="820,309,999,336"/>
+<area shape="rect" id="node12" href="$classRigidBodyComponent.html" title="RigidBodyComponent" alt="" coords="838,360,981,387"/>
+<area shape="rect" id="node13" href="$classStateMachineComponent.html" title="StateMachineComponent" alt="" coords="827,411,991,437"/>
+<area shape="rect" id="node14" href="$classTriggerComponent.html" title="TriggerComponent" alt="" coords="845,461,974,488"/>
+</map>

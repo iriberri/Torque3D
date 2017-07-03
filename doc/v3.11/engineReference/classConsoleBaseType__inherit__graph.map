@@ -1,0 +1,9 @@
+<map id="ConsoleBaseType" name="ConsoleBaseType">
+<area shape="rect" id="node2" href="$classAbstractClassRep.html" title="Core functionality for class manipulation. " alt="" coords="233,31,354,57"/>
+<area shape="rect" id="node6" href="$classBitfieldConsoleBaseType.html" title="BitfieldConsoleBaseType" alt="" coords="213,81,373,108"/>
+<area shape="rect" id="node7" href="$classEnumConsoleBaseType.html" title="EnumConsoleBaseType" alt="" coords="216,132,371,159"/>
+<area shape="rect" id="node8" href="$classSimObjectRefConsoleBaseType.html" title="SimObjectRefConsoleBaseType\&lt; T \&gt;" alt="" coords="176,183,411,209"/>
+<area shape="rect" id="node3" href="$classConcreteAbstractClassRep.html" title="Helper class for AbstractClassRep. " alt="" coords="459,5,665,32"/>
+<area shape="rect" id="node5" href="$classRuntimeClassRep.html" title="This class is to allow new types to be added, at run&#45;time, to Torque. " alt="" coords="485,56,639,83"/>
+<area shape="rect" id="node4" href="$classConcreteClassRep.html" title="ConcreteClassRep\&lt; T \&gt;" alt="" coords="713,5,872,32"/>
+</map>

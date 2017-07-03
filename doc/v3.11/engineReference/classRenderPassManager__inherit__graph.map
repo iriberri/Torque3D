@@ -1,0 +1,10 @@
+<map id="RenderPassManager" name="RenderPassManager">
+<area shape="rect" id="node8" href="$classDynamicShadowRenderPassManager.html" title="DynamicShadowRenderPassManager" alt="" coords="5,453,239,480"/>
+<area shape="rect" id="node9" href="$classShadowRenderPassManager.html" title="ShadowRenderPassManager" alt="" coords="263,453,448,480"/>
+<area shape="rect" id="node2" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="197,304,279,331"/>
+<area shape="rect" id="node3" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="122,229,226,256"/>
+<area shape="rect" id="node4" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="125,155,223,181"/>
+<area shape="rect" id="node5" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="121,80,227,107"/>
+<area shape="rect" id="node6" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="124,5,224,32"/>
+<area shape="rect" id="node7" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="250,229,354,256"/>
+</map>

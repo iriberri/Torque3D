@@ -1,0 +1,50 @@
+<map id="SceneObject" name="SceneObject">
+<area shape="rect" id="node14" href="$classBasicClouds.html" title="BasicClouds" alt="" coords="1365,5,1454,32"/>
+<area shape="rect" id="node15" href="$classCloudLayer.html" title="CloudLayer" alt="" coords="1367,56,1452,83"/>
+<area shape="rect" id="node16" href="$classConvexShape.html" title="ConvexShape" alt="" coords="1360,107,1459,133"/>
+<area shape="rect" id="node17" href="$classCoverPoint.html" title="CoverPoint" alt="" coords="1368,157,1451,184"/>
+<area shape="rect" id="node18" href="$classDecalManager.html" title="Manage decals in the scene. " alt="" coords="1358,208,1461,235"/>
+<area shape="rect" id="node19" href="$classDecalRoad.html" title="DecalRoad" alt="" coords="1368,259,1451,285"/>
+<area shape="rect" id="node20" href="$classForest.html" title="Forest" alt="" coords="1380,309,1439,336"/>
+<area shape="rect" id="node21" href="$classForestWindEmitter.html" title="ForestWindEmitter" alt="" coords="1345,360,1473,387"/>
+<area shape="rect" id="node22" href="$classfxFoliageReplicator.html" title="fxFoliageReplicator" alt="" coords="1344,411,1475,437"/>
+<area shape="rect" id="node23" href="$classfxShapeReplicator.html" title="fxShapeReplicator" alt="" coords="1347,461,1472,488"/>
+<area shape="rect" id="node24" href="$classGameBase.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="1368,512,1451,539"/>
+<area shape="rect" id="node25" href="$classGroundCover.html" title="GroundCover" alt="" coords="1361,563,1457,589"/>
+<area shape="rect" id="node26" href="$classGroundPlane.html" title="A virtually infinite XY ground plane primitive. " alt="" coords="1362,613,1457,640"/>
+<area shape="rect" id="node27" href="$classLightBase.html" title="LightBase" alt="" coords="1371,664,1447,691"/>
+<area shape="rect" id="node28" href="$classMarker.html" title="Marker" alt="" coords="1378,715,1441,741"/>
+<area shape="rect" id="node29" href="$classMeshRoad.html" title="MeshRoad" alt="" coords="1369,765,1450,792"/>
+<area shape="rect" id="node30" href="$classNavMesh.html" title="Represents a set of bounds within which a Recast navigation mesh is generated. " alt="" coords="1373,816,1446,843"/>
+<area shape="rect" id="node31" href="$classNavPath.html" title="NavPath" alt="" coords="1375,867,1443,893"/>
+<area shape="rect" id="node32" href="$classPhysicalZone.html" title="PhysicalZone" alt="" coords="1362,917,1457,944"/>
+<area shape="rect" id="node33" href="$classPhysicsForce.html" title="A physics force controller used for gameplay effects. " alt="" coords="1362,968,1457,995"/>
+<area shape="rect" id="node34" href="$classPrefab.html" title="Prefab" alt="" coords="1380,1019,1439,1045"/>
+<area shape="rect" id="node35" href="$classRenderMeshExample.html" title="RenderMeshExample" alt="" coords="1339,1069,1480,1096"/>
+<area shape="rect" id="node36" href="$classRenderObjectExample.html" title="RenderObjectExample" alt="" coords="1335,1120,1483,1147"/>
+<area shape="rect" id="node37" href="$classRenderShapeExample.html" title="RenderShapeExample" alt="" coords="1336,1171,1483,1197"/>
+<area shape="rect" id="node38" href="$classScatterSky.html" title="ScatterSky" alt="" coords="1368,1221,1451,1248"/>
+<area shape="rect" id="node39" href="$classSceneSpace.html" title="Abstract base class for SceneObjects that define subspaces in a scene. " alt="" coords="1363,1272,1455,1299"/>
+<area shape="rect" id="node40" href="$classSFXEmitter.html" title="The SFXEmitter is used to place 2D or 3D sounds into a mission. " alt="" coords="1366,1323,1453,1349"/>
+<area shape="rect" id="node41" href="$classSkyBox.html" title="SkyBox" alt="" coords="1378,1373,1441,1400"/>
+<area shape="rect" id="node42" href="$classSun.html" title="Sun" alt="" coords="1387,1424,1431,1451"/>
+<area shape="rect" id="node43" href="$classT3DSceneComponent.html" title="T3DSceneComponent" alt="" coords="1337,1475,1482,1501"/>
+<area shape="rect" id="node44" href="$classTerrainBlock.html" title="TerrainBlock" alt="" coords="1363,1525,1456,1552"/>
+<area shape="rect" id="node45" href="$classTimeOfDay.html" title="TimeOfDay" alt="" coords="1367,1576,1452,1603"/>
+<area shape="rect" id="node46" href="$classTSStatic.html" title="A simple mesh shape with optional ambient animation. " alt="" coords="1374,1627,1445,1653"/>
+<area shape="rect" id="node47" href="$classVehicleBlocker.html" title="VehicleBlocker" alt="" coords="1357,1677,1461,1704"/>
+<area shape="rect" id="node48" href="$classVolumetricFog.html" title="VolumetricFog" alt="" coords="1357,1728,1461,1755"/>
+<area shape="rect" id="node49" href="$classVolumetricFogRTManager.html" title="VolumetricFogRTManager" alt="" coords="1324,1779,1495,1805"/>
+<area shape="rect" id="node2" href="$classNetObject.html" title="Superclass for ghostable networked objects. " alt="" coords="1022,841,1101,868"/>
+<area shape="rect" id="node3" href="$classSimGroup.html" title="A group of SimObjects. " alt="" coords="863,841,941,868"/>
+<area shape="rect" id="node4" href="$classSimSet.html" title="A set of SimObjects. " alt="" coords="752,841,815,868"/>
+<area shape="rect" id="node5" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="614,816,695,843"/>
+<area shape="rect" id="node6" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="453,791,557,817"/>
+<area shape="rect" id="node7" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="308,791,405,817"/>
+<area shape="rect" id="node8" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="153,791,260,817"/>
+<area shape="rect" id="node9" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="5,791,105,817"/>
+<area shape="rect" id="node10" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="453,841,557,868"/>
+<area shape="rect" id="node11" href="$classTamlChildren.html" title="TamlChildren" alt="" coords="605,867,704,893"/>
+<area shape="rect" id="node12" href="$structSceneContainer_1_1Link.html" title="SceneContainer::Link" alt="" coords="989,892,1133,919"/>
+<area shape="rect" id="node13" href="$classProcessObject.html" title="ProcessObject" alt="" coords="1010,943,1113,969"/>
+</map>
