@@ -1,0 +1,9 @@
+<map id="rapidjson::Encoding" name="rapidjson::Encoding">
+<area shape="rect" id="node2" href="$structrapidjson_1_1UTF16.html" title="UTF&#45;16 encoding. " alt="" coords="189,78,392,105"/>
+<area shape="rect" id="node5" href="$structrapidjson_1_1UTF32.html" title="UTF&#45;32 encoding. " alt="" coords="189,143,392,170"/>
+<area shape="rect" id="node8" href="$structrapidjson_1_1UTF8.html" title="UTF&#45;8 encoding. " alt="" coords="193,194,389,221"/>
+<area shape="rect" id="node3" href="$structrapidjson_1_1UTF16BE.html" title="UTF&#45;16 big endian encoding. " alt="" coords="440,5,576,47"/>
+<area shape="rect" id="node4" href="$structrapidjson_1_1UTF16LE.html" title="UTF&#45;16 little endian encoding. " alt="" coords="441,71,575,112"/>
+<area shape="rect" id="node6" href="$structrapidjson_1_1UTF32BE.html" title="UTF&#45;32 big endian encoding. " alt="" coords="440,136,576,177"/>
+<area shape="rect" id="node7" href="$structrapidjson_1_1UTF32LE.html" title="UTF&#45;32 little endian enocoding. " alt="" coords="441,201,575,243"/>
+</map>

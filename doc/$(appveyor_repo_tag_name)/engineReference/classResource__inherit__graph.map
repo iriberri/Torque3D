@@ -1,0 +1,10 @@
+<map id="Resource&lt; T &gt;" name="Resource&lt; T &gt;">
+<area shape="rect" id="node3" href="$classResource.html" title="Resource\&lt; ForestData \&gt;" alt="" coords="431,5,593,32"/>
+<area shape="rect" id="node4" href="$classResource.html" title="Resource\&lt; SFXResource \&gt;" alt="" coords="423,56,601,83"/>
+<area shape="rect" id="node5" href="$classResource.html" title="Resource\&lt; DDSFile \&gt;" alt="" coords="439,107,585,133"/>
+<area shape="rect" id="node6" href="$classResource.html" title="Resource\&lt; TerrainFile \&gt;" alt="" coords="431,157,593,184"/>
+<area shape="rect" id="node7" href="$classResource.html" title="Resource\&lt; DecalDataFile \&gt;" alt="" coords="423,208,601,235"/>
+<area shape="rect" id="node8" href="$classResource.html" title="Resource\&lt; GFont \&gt;" alt="" coords="445,259,579,285"/>
+<area shape="rect" id="node9" href="$classResource.html" title="Resource\&lt; TSShape \&gt;" alt="" coords="435,309,589,336"/>
+<area shape="rect" id="node2" href="$classResourceBase.html" title="ResourceBase" alt="" coords="5,157,108,184"/>
+</map>

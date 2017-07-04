@@ -1,0 +1,6 @@
+<map id="GuiRectHandles" name="GuiRectHandles">
+<area shape="rect" id="node2" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="20,229,101,256"/>
+<area shape="rect" id="node3" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="21,155,100,181"/>
+<area shape="rect" id="node4" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="29,80,92,107"/>
+<area shape="rect" id="node5" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="20,5,101,32"/>
+</map>

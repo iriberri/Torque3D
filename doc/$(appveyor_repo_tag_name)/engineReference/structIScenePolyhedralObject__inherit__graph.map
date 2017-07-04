@@ -1,0 +1,14 @@
+<map id="IScenePolyhedralObject" name="IScenePolyhedralObject">
+<area shape="rect" id="node2" href="$classScenePolyhedralObject.html" title="Helper template for mixing a polyhedral volume definition into the superclass hierarchy of a SceneSpa..." alt="" coords="212,64,365,105"/>
+<area shape="rect" id="node3" href="$classScenePolyhedralObject.html" title="ScenePolyhedralObject\l\&lt; SceneSimpleZone \&gt;" alt="" coords="547,5,700,47"/>
+<area shape="rect" id="node8" href="$classScenePolyhedralObject.html" title="ScenePolyhedralObject\l\&lt; SceneSpace \&gt;" alt="" coords="547,111,700,152"/>
+<area shape="rect" id="node4" href="$classScenePolyhedralZone.html" title="A simple zone space that is described by a polyhedron. " alt="" coords="766,13,910,39"/>
+<area shape="rect" id="node5" href="$classSceneAmbientSoundObject.html" title="SceneAmbientSoundObject\l\&lt; ScenePolyhedralZone \&gt;" alt="" coords="976,5,1153,47"/>
+<area shape="rect" id="node6" href="$classZone.html" title="A volume in space that encloses objects. " alt="" coords="1203,13,1253,39"/>
+<area shape="rect" id="node7" href="$classPortal.html" title="A transitioning zone that connects other zones. " alt="" coords="1303,13,1357,39"/>
+<area shape="rect" id="node9" href="$classSceneAmbientSoundObject.html" title="SceneAmbientSoundObject\l\&lt; ScenePolyhedralObject\l\&lt; SceneSpace \&gt; \&gt;" alt="" coords="749,161,927,217"/>
+<area shape="rect" id="node11" href="$classScenePolyhedralSpace.html" title="ScenePolyhedralSpace" alt="" coords="763,110,913,137"/>
+<area shape="rect" id="node10" href="$classSFXSpace.html" title="A convex space that defines a custom ambient sound space. " alt="" coords="1025,175,1105,202"/>
+<area shape="rect" id="node12" href="$classAccumulationVolume.html" title="A volume in space that blocks visibility. " alt="" coords="994,73,1135,99"/>
+<area shape="rect" id="node13" href="$classOcclusionVolume.html" title="A volume in space that blocks visibility. " alt="" coords="1005,123,1124,150"/>
+</map>

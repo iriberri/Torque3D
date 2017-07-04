@@ -1,0 +1,8 @@
+<map id="ParamsDef" name="ParamsDef">
+<area shape="rect" id="node3" href="$classParamsDefHLSL.html" title="ParamsDefHLSL" alt="" coords="103,155,215,181"/>
+<area shape="rect" id="node6" href="$classPixelParamsDefGLSL.html" title="PixelParamsDefGLSL" alt="" coords="239,155,377,181"/>
+<area shape="rect" id="node7" href="$classVertexParamsDefGLSL.html" title="VertexParamsDefGLSL" alt="" coords="401,155,551,181"/>
+<area shape="rect" id="node2" href="$classShaderComponent.html" title="ShaderComponent" alt="" coords="244,5,372,32"/>
+<area shape="rect" id="node4" href="$classPixelParamsDefHLSL.html" title="PixelParamsDefHLSL" alt="" coords="5,229,144,256"/>
+<area shape="rect" id="node5" href="$classVertexParamsDefHLSL.html" title="VertexParamsDefHLSL" alt="" coords="168,229,317,256"/>
+</map>

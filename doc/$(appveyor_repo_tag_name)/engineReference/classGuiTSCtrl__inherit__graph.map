@@ -1,0 +1,28 @@
+<map id="GuiTSCtrl" name="GuiTSCtrl">
+<area shape="rect" id="node13" href="$classEditTSCtrl.html" title="EditTSCtrl" alt="" coords="1411,259,1490,285"/>
+<area shape="rect" id="node25" href="$classGameTSCtrl.html" title="GameTSCtrl" alt="" coords="1405,309,1496,336"/>
+<area shape="rect" id="node26" href="$classGuiMaterialPreview.html" title="GuiMaterialPreview" alt="" coords="1385,360,1516,387"/>
+<area shape="rect" id="node27" href="$classGuiObjectView.html" title="A control that displays a TSShape in its view. " alt="" coords="1398,411,1503,437"/>
+<area shape="rect" id="node2" href="$classGuiContainer.html" title="GuiContainer" alt="" coords="1119,335,1213,361"/>
+<area shape="rect" id="node3" href="$classGuiControl.html" title="GuiControl" alt="" coords="989,335,1071,361"/>
+<area shape="rect" id="node4" href="$classSimGroup.html" title="A group of SimObjects. " alt="" coords="863,335,941,361"/>
+<area shape="rect" id="node5" href="$classSimSet.html" title="A set of SimObjects. " alt="" coords="752,335,815,361"/>
+<area shape="rect" id="node6" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="614,309,695,336"/>
+<area shape="rect" id="node7" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="453,284,557,311"/>
+<area shape="rect" id="node8" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="308,284,405,311"/>
+<area shape="rect" id="node9" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="153,284,260,311"/>
+<area shape="rect" id="node10" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="5,284,105,311"/>
+<area shape="rect" id="node11" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="453,335,557,361"/>
+<area shape="rect" id="node12" href="$classTamlChildren.html" title="TamlChildren" alt="" coords="605,360,704,387"/>
+<area shape="rect" id="node14" href="$classForestEditorCtrl.html" title="ForestEditorCtrl" alt="" coords="1590,5,1701,32"/>
+<area shape="rect" id="node15" href="$classGuiConvexEditorCtrl.html" title="GuiConvexEditorCtrl" alt="" coords="1578,56,1713,83"/>
+<area shape="rect" id="node16" href="$classGuiDecalEditorCtrl.html" title="GuiDecalEditorCtrl" alt="" coords="1583,107,1707,133"/>
+<area shape="rect" id="node17" href="$classGuiMeshRoadEditorCtrl.html" title="GuiMeshRoadEditorCtrl" alt="" coords="1569,157,1721,184"/>
+<area shape="rect" id="node18" href="$classGuiMissionAreaEditorCtrl.html" title="GuiMissionAreaEditorCtrl" alt="" coords="1564,208,1727,235"/>
+<area shape="rect" id="node19" href="$classGuiNavEditorCtrl.html" title="GuiNavEditorCtrl" alt="" coords="1588,259,1703,285"/>
+<area shape="rect" id="node20" href="$classGuiRiverEditorCtrl.html" title="GuiRiverEditorCtrl" alt="" coords="1584,309,1707,336"/>
+<area shape="rect" id="node21" href="$classGuiRoadEditorCtrl.html" title="GuiRoadEditorCtrl" alt="" coords="1584,360,1707,387"/>
+<area shape="rect" id="node22" href="$classGuiShapeEdPreview.html" title="GuiShapeEdPreview" alt="" coords="1578,411,1713,437"/>
+<area shape="rect" id="node23" href="$classTerrainEditor.html" title="TerrainEditor" alt="" coords="1597,461,1694,488"/>
+<area shape="rect" id="node24" href="$classWorldEditor.html" title="WorldEditor" alt="" coords="1601,512,1690,539"/>
+</map>

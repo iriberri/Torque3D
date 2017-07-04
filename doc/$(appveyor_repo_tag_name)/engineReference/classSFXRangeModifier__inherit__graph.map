@@ -1,0 +1,5 @@
+<map id="SFXRangeModifier" name="SFXRangeModifier">
+<area shape="rect" id="node4" href="$classSFXFadeModifier.html" title="A volume fade effect (fade&#45;in or fade&#45;out). " alt="" coords="9,229,128,256"/>
+<area shape="rect" id="node2" href="$classSFXModifier.html" title="An SFXModifier modifies the properties of an SFXSource while its playback is running. " alt="" coords="23,80,114,107"/>
+<area shape="rect" id="node3" href="$classIPolled.html" title="Interface for objects that need continuous explicit updates from an outside source. " alt="" coords="39,5,99,32"/>
+</map>

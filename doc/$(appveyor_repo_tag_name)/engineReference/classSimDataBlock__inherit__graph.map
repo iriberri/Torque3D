@@ -1,0 +1,50 @@
+<map id="SimDataBlock" name="SimDataBlock">
+<area shape="rect" id="node8" href="$classDecalData.html" title="DataBlock implementation for decals. " alt="" coords="917,284,996,311"/>
+<area shape="rect" id="node9" href="$classForestItemData.html" title="ForestItemData" alt="" coords="901,335,1012,361"/>
+<area shape="rect" id="node11" href="$structGameBaseData.html" title="Scriptable, demo&#45;able datablock. " alt="" coords="903,385,1011,412"/>
+<area shape="rect" id="node33" href="$classLightAnimData.html" title="A datablock which defines and performs light animation. " alt="" coords="905,436,1009,463"/>
+<area shape="rect" id="node34" href="$classLightDescription.html" title="LightDescription" alt="" coords="901,487,1013,513"/>
+<area shape="rect" id="node35" href="$classLightFlareData.html" title="LightFlareData" alt="" coords="905,537,1009,564"/>
+<area shape="rect" id="node36" href="$classParticleData.html" title="ParticleData" alt="" coords="911,588,1002,615"/>
+<area shape="rect" id="node37" href="$classReflectorDesc.html" title="ReflectorDesc" alt="" coords="907,639,1007,665"/>
+<area shape="rect" id="node38" href="$classSFXAmbience.html" title="Datablock for describing an ambient audio space. " alt="" coords="906,689,1007,716"/>
+<area shape="rect" id="node39" href="$classSFXDescription.html" title="The SFXDescription defines how a sound should be played. " alt="" coords="903,740,1011,767"/>
+<area shape="rect" id="node40" href="$classSFXEnvironment.html" title="A datablock that defines a reverb environment. " alt="" coords="899,791,1015,817"/>
+<area shape="rect" id="node41" href="$classSFXFMODEventGroup.html" title="SFXFMODEventGroup" alt="" coords="885,841,1029,868"/>
+<area shape="rect" id="node42" href="$classSFXFMODProject.html" title="Datablock that loads an FMOD Designer project. " alt="" coords="897,892,1016,919"/>
+<area shape="rect" id="node43" href="$classSFXState.html" title="A boolean switch used to modify playlist behavior. " alt="" coords="919,943,994,969"/>
+<area shape="rect" id="node44" href="$classSFXTrack.html" title="A datablock that describes sound data for playback. " alt="" coords="918,993,995,1020"/>
+<area shape="rect" id="node48" href="$structWheeledVehicleSpring.html" title="WheeledVehicleSpring" alt="" coords="881,1044,1032,1071"/>
+<area shape="rect" id="node49" href="$structWheeledVehicleTire.html" title="WheeledVehicleTire" alt="" coords="889,1095,1025,1121"/>
+<area shape="rect" id="node2" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="605,689,687,716"/>
+<area shape="rect" id="node3" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="453,664,557,691"/>
+<area shape="rect" id="node4" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="308,664,405,691"/>
+<area shape="rect" id="node5" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="153,664,260,691"/>
+<area shape="rect" id="node6" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="5,664,105,691"/>
+<area shape="rect" id="node7" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="453,715,557,741"/>
+<area shape="rect" id="node10" href="$classTSForestItemData.html" title="TSForestItemData" alt="" coords="1105,5,1232,32"/>
+<area shape="rect" id="node12" href="$structDebrisData.html" title="DebrisData" alt="" coords="1127,56,1211,83"/>
+<area shape="rect" id="node13" href="$classExplosionData.html" title="ExplosionData" alt="" coords="1118,107,1219,133"/>
+<area shape="rect" id="node14" href="$classLightningData.html" title="LightningData" alt="" coords="1119,157,1218,184"/>
+<area shape="rect" id="node15" href="$classOpenVRTrackedObjectData.html" title="OpenVRTrackedObjectData" alt="" coords="1080,208,1257,235"/>
+<area shape="rect" id="node16" href="$classParticleEmitterData.html" title="ParticleEmitterData" alt="" coords="1103,259,1234,285"/>
+<area shape="rect" id="node17" href="$classParticleEmitterNodeData.html" title="ParticleEmitterNodeData" alt="" coords="1089,309,1249,336"/>
+<area shape="rect" id="node18" href="$classPhysicsDebrisData.html" title="PhysicsDebrisData" alt="" coords="1106,360,1231,387"/>
+<area shape="rect" id="node19" href="$classPhysicsShapeData.html" title="PhysicsShapeData" alt="" coords="1106,411,1231,437"/>
+<area shape="rect" id="node20" href="$classPrecipitationData.html" title="Precipitation datablock. " alt="" coords="1109,461,1228,488"/>
+<area shape="rect" id="node21" href="$classProjectileData.html" title="Datablock for projectiles. This class is the base class for all other projectiles. " alt="" coords="1118,512,1219,539"/>
+<area shape="rect" id="node22" href="$classRibbonData.html" title="RibbonData" alt="" coords="1125,563,1212,589"/>
+<area shape="rect" id="node23" href="$classRibbonNodeData.html" title="RibbonNodeData" alt="" coords="1111,613,1227,640"/>
+<area shape="rect" id="node24" href="$structShapeBaseData.html" title="ShapeBaseData" alt="" coords="1113,664,1224,691"/>
+<area shape="rect" id="node31" href="$structShapeBaseImageData.html" title="ShapeBaseImageData" alt="" coords="1095,715,1242,741"/>
+<area shape="rect" id="node32" href="$classSplashData.html" title="SplashData" alt="" coords="1125,765,1212,792"/>
+<area shape="rect" id="node25" href="$classCameraData.html" title="CameraData" alt="" coords="1324,537,1417,564"/>
+<area shape="rect" id="node26" href="$structItemData.html" title="ItemData" alt="" coords="1333,588,1408,615"/>
+<area shape="rect" id="node27" href="$classMissionMarkerData.html" title="MissionMarkerData" alt="" coords="1305,639,1436,665"/>
+<area shape="rect" id="node28" href="$structPathCameraData.html" title="PathCameraData" alt="" coords="1311,689,1430,716"/>
+<area shape="rect" id="node29" href="$structPlayerData.html" title="PlayerData" alt="" coords="1329,740,1412,767"/>
+<area shape="rect" id="node30" href="$classRigidShapeData.html" title="RigidShapeData" alt="" coords="1315,791,1427,817"/>
+<area shape="rect" id="node45" href="$classSFXFMODEvent.html" title="An event in an FMOD Designer project. " alt="" coords="1113,943,1224,969"/>
+<area shape="rect" id="node46" href="$classSFXPlayList.html" title="A playback list of SFXTracks. " alt="" coords="1125,993,1212,1020"/>
+<area shape="rect" id="node47" href="$classSFXProfile.html" title="The SFXProfile is used to define a sound for playback. " alt="" coords="1128,1044,1209,1071"/>
+</map>

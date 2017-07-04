@@ -1,0 +1,4 @@
+<map id="rapidjson::GenericDocument&lt; Encoding, Allocator &gt;" name="rapidjson::GenericDocument&lt; Encoding, Allocator &gt;">
+<area shape="rect" id="node2" href="$classrapidjson_1_1Handler.html" title="Concept for receiving events from GenericReader upon parsing. " alt="" coords="5,13,135,39"/>
+<area shape="rect" id="node3" href="$classrapidjson_1_1GenericValue.html" title="Represents a JSON value. Use Value for UTF8 encoding and default allocator. " alt="" coords="159,5,319,47"/>
+</map>

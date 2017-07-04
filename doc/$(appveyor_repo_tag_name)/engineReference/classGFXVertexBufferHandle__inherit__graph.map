@@ -1,0 +1,25 @@
+<map id="GFXVertexBufferHandle&lt; T &gt;" name="GFXVertexBufferHandle&lt; T &gt;">
+<area shape="rect" id="node6" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; TerrVertex \&gt;" alt="" coords="1364,10,1519,51"/>
+<area shape="rect" id="node7" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXCloudVertex \&gt;" alt="" coords="1364,75,1519,117"/>
+<area shape="rect" id="node8" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPNTT \&gt;" alt="" coords="1364,141,1519,182"/>
+<area shape="rect" id="node9" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; FarFrustumQuadVert \&gt;" alt="" coords="1357,206,1525,247"/>
+<area shape="rect" id="node10" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPT \&gt;" alt="" coords="1364,271,1519,313"/>
+<area shape="rect" id="node11" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPNTBT \&gt;" alt="" coords="1364,337,1519,378"/>
+<area shape="rect" id="node12" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCNTT \&gt;" alt="" coords="1364,402,1519,443"/>
+<area shape="rect" id="node13" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; DecalVertex \&gt;" alt="" coords="1364,467,1519,509"/>
+<area shape="rect" id="node14" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; CompositeQuadVert \&gt;" alt="" coords="1360,533,1523,574"/>
+<area shape="rect" id="node15" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPC \&gt;" alt="" coords="1364,598,1519,639"/>
+<area shape="rect" id="node16" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPNT \&gt;" alt="" coords="1364,663,1519,705"/>
+<area shape="rect" id="node17" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; VertexType \&gt;" alt="" coords="1364,729,1519,770"/>
+<area shape="rect" id="node18" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; ParticleVertexType \&gt;" alt="" coords="1364,794,1519,835"/>
+<area shape="rect" id="node19" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexP \&gt;" alt="" coords="1364,859,1519,901"/>
+<area shape="rect" id="node20" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexFoliage \&gt;" alt="" coords="1364,925,1519,966"/>
+<area shape="rect" id="node21" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; ImposterState \&gt;" alt="" coords="1364,990,1519,1031"/>
+<area shape="rect" id="node22" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCT \&gt;" alt="" coords="1364,1055,1519,1097"/>
+<area shape="rect" id="node23" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; LightVertex \&gt;" alt="" coords="1364,1121,1519,1162"/>
+<area shape="rect" id="node24" href="$classGFXVertexBufferHandle.html" title="GFXVertexBufferHandle\l\&lt; GFXWaterVertex \&gt;" alt="" coords="1364,1186,1519,1227"/>
+<area shape="rect" id="node2" href="$classGFXVertexBufferHandleBase.html" title="GFXVertexBufferHandleBase" alt="" coords="737,605,920,632"/>
+<area shape="rect" id="node3" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXVertexBuffer \&gt;" alt="" coords="473,605,688,632"/>
+<area shape="rect" id="node4" href="$classStrongObjectRef.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="5,605,121,632"/>
+<area shape="rect" id="node5" href="$classStrongRefPtr.html" title="Reference counted object template pointer class Instances of this template class can be used as point..." alt="" coords="171,635,300,661"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GuiConsoleEditCtrl" name="GuiConsoleEditCtrl">
+<area shape="rect" id="node2" href="$classGuiTextEditCtrl.html" title="A component that places a text entry box on the screen. " alt="" coords="15,453,122,480"/>
+<area shape="rect" id="node3" href="$classGuiTextCtrl.html" title="GUI control object this displays a single line of text, without TorqueML. " alt="" coords="26,379,111,405"/>
+<area shape="rect" id="node4" href="$classGuiContainer.html" title="Brief Desc. " alt="" coords="21,304,116,331"/>
+<area shape="rect" id="node5" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="28,229,109,256"/>
+<area shape="rect" id="node6" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="29,155,108,181"/>
+<area shape="rect" id="node7" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="37,80,100,107"/>
+<area shape="rect" id="node8" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="28,5,109,32"/>
+</map>

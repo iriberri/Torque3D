@@ -1,0 +1,29 @@
+<map id="SceneSpace" name="SceneSpace">
+<area shape="rect" id="node15" href="$classScenePolyhedralObject.html" title="ScenePolyhedralObject\l\&lt; SceneSpace \&gt;" alt="" coords="1464,95,1617,137"/>
+<area shape="rect" id="node21" href="$classSceneZoneSpace.html" title="Abstract base class for an object that manages zones in a scene. " alt="" coords="1481,171,1601,197"/>
+<area shape="rect" id="node2" href="$classSceneObject.html" title="A 3D object. " alt="" coords="1181,141,1276,168"/>
+<area shape="rect" id="node3" href="$classNetObject.html" title="Superclass for ghostable networked objects. " alt="" coords="1022,91,1101,117"/>
+<area shape="rect" id="node4" href="$classSimGroup.html" title="A group of SimObjects. " alt="" coords="863,91,941,117"/>
+<area shape="rect" id="node5" href="$classSimSet.html" title="A set of SimObjects. " alt="" coords="752,91,815,117"/>
+<area shape="rect" id="node6" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="614,65,695,92"/>
+<area shape="rect" id="node7" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="453,40,557,67"/>
+<area shape="rect" id="node8" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="308,40,405,67"/>
+<area shape="rect" id="node9" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="153,40,260,67"/>
+<area shape="rect" id="node10" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="5,40,105,67"/>
+<area shape="rect" id="node11" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="453,91,557,117"/>
+<area shape="rect" id="node12" href="$classTamlChildren.html" title="TamlChildren" alt="" coords="605,116,704,143"/>
+<area shape="rect" id="node13" href="$structSceneContainer_1_1Link.html" title="SceneContainer::Link" alt="" coords="989,141,1133,168"/>
+<area shape="rect" id="node14" href="$classProcessObject.html" title="ProcessObject" alt="" coords="1010,192,1113,219"/>
+<area shape="rect" id="node16" href="$classSceneAmbientSoundObject.html" title="SceneAmbientSoundObject\l\&lt; ScenePolyhedralObject\l\&lt; SceneSpace \&gt; \&gt;" alt="" coords="1665,5,1843,61"/>
+<area shape="rect" id="node18" href="$classScenePolyhedralSpace.html" title="ScenePolyhedralSpace" alt="" coords="1679,103,1829,129"/>
+<area shape="rect" id="node17" href="$classSFXSpace.html" title="A convex space that defines a custom ambient sound space. " alt="" coords="1927,11,2007,37"/>
+<area shape="rect" id="node19" href="$classAccumulationVolume.html" title="A volume in space that blocks visibility. " alt="" coords="1897,61,2038,88"/>
+<area shape="rect" id="node20" href="$classOcclusionVolume.html" title="A volume in space that blocks visibility. " alt="" coords="1908,112,2027,139"/>
+<area shape="rect" id="node22" href="$classSceneSimpleZone.html" title="Abstract base class for a zone space that contains only a single zone. " alt="" coords="1692,171,1816,197"/>
+<area shape="rect" id="node23" href="$classScenePolyhedralObject.html" title="ScenePolyhedralObject\l\&lt; SceneSimpleZone \&gt;" alt="" coords="1891,163,2044,205"/>
+<area shape="rect" id="node28" href="$classSceneRootZone.html" title="Root zone in a scene. " alt="" coords="1912,229,2023,256"/>
+<area shape="rect" id="node24" href="$classScenePolyhedralZone.html" title="A simple zone space that is described by a polyhedron. " alt="" coords="2092,171,2236,197"/>
+<area shape="rect" id="node25" href="$classSceneAmbientSoundObject.html" title="SceneAmbientSoundObject\l\&lt; ScenePolyhedralZone \&gt;" alt="" coords="2284,163,2461,205"/>
+<area shape="rect" id="node26" href="$classZone.html" title="A volume in space that encloses objects. " alt="" coords="2509,171,2560,197"/>
+<area shape="rect" id="node27" href="$classPortal.html" title="A transitioning zone that connects other zones. " alt="" coords="2608,171,2663,197"/>
+</map>

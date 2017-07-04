@@ -1,0 +1,17 @@
+<map id="GuiButtonBaseCtrl" name="GuiButtonBaseCtrl">
+<area shape="rect" id="node6" href="$classGuiBorderButtonCtrl.html" title="A push button that renders only a border. " alt="" coords="674,56,809,83"/>
+<area shape="rect" id="node7" href="$classGuiButtonCtrl.html" title="The most widely used button class. " alt="" coords="693,107,789,133"/>
+<area shape="rect" id="node13" href="$classGuiCheckBoxCtrl.html" title="A named checkbox that can be toggled on and off. " alt="" coords="684,157,799,184"/>
+<area shape="rect" id="node15" href="$classGuiSwatchButtonCtrl.html" title="A button that is used to represent color; often used in correlation with a color picker. " alt="" coords="672,208,811,235"/>
+<area shape="rect" id="node2" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="372,132,453,159"/>
+<area shape="rect" id="node3" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="245,132,324,159"/>
+<area shape="rect" id="node4" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="135,132,197,159"/>
+<area shape="rect" id="node5" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,132,87,159"/>
+<area shape="rect" id="node8" href="$classGuiBitmapButtonCtrl.html" title="A button that renders its various states (mouse over, pushed, etc.) from separate bitmaps..." alt="" coords="867,5,1001,32"/>
+<area shape="rect" id="node10" href="$classGuiIconButtonCtrl.html" title="Draws the bitmap within a special button control. Only a single bitmap is used and the button will be..." alt="" coords="874,56,994,83"/>
+<area shape="rect" id="node11" href="$classGuiToggleButtonCtrl.html" title="Deprecated gui control. " alt="" coords="867,107,1001,133"/>
+<area shape="rect" id="node12" href="$classGuiToolboxButtonCtrl.html" title="Unimplemented GUI control meant to interact with Toolbox. " alt="" coords="863,157,1005,184"/>
+<area shape="rect" id="node9" href="$classGuiBitmapButtonTextCtrl.html" title="An extension of GuiBitmapButtonCtrl that additionally renders a text label on the bitmapped button..." alt="" coords="1057,5,1217,32"/>
+<area shape="rect" id="node14" href="$classGuiRadioCtrl.html" title="A button based around the radio concept. " alt="" coords="888,208,980,235"/>
+<area shape="rect" id="node16" href="$classGuiGradientSwatchCtrl.html" title="Swatch selector that appears inside the GuiGradientCtrl object. These objects are automatically creat..." alt="" coords="859,259,1009,285"/>
+</map>

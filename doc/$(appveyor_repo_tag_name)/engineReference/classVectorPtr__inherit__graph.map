@@ -1,0 +1,10 @@
+<map id="VectorPtr&lt; T &gt;" name="VectorPtr&lt; T &gt;">
+<area shape="rect" id="node4" href="$classVectorPtr.html" title="VectorPtr\&lt; TerrainBlock * \&gt;" alt="" coords="751,12,935,39"/>
+<area shape="rect" id="node5" href="$classVectorPtr.html" title="VectorPtr\&lt; GuiListBoxCtrl\l::LBItem * \&gt;" alt="" coords="760,63,925,105"/>
+<area shape="rect" id="node6" href="$classVectorPtr.html" title="VectorPtr\&lt; MacWindow * \&gt;" alt="" coords="751,129,934,156"/>
+<area shape="rect" id="node7" href="$classVectorPtr.html" title="VectorPtr\&lt; Dispatcher\l::IMessageListener * \&gt;" alt="" coords="765,181,921,222"/>
+<area shape="rect" id="node8" href="$classVectorPtr.html" title="VectorPtr\&lt; SimObject * \&gt;" alt="" coords="757,247,929,273"/>
+<area shape="rect" id="node10" href="$classVectorPtr.html" title="VectorPtr\&lt; GuiFrameSetCtrl\l::FrameDetail * \&gt;" alt="" coords="751,298,934,339"/>
+<area shape="rect" id="node3" href="$classVector.html" title="A dynamic array template class. " alt="" coords="5,159,99,185"/>
+<area shape="rect" id="node9" href="$classSimObjectList.html" title="A vector of SimObjects. " alt="" coords="984,247,1084,273"/>
+</map>
