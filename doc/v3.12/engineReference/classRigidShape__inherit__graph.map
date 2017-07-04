@@ -1,0 +1,18 @@
+<map id="RigidShape" name="RigidShape">
+<area shape="rect" id="node2" href="$classShapeBase.html" title="ShapeBase is the renderable shape from which most of the scriptable objects are derived, including the player, vehicle and items classes. " alt="" coords="328,752,413,779"/>
+<area shape="rect" id="node3" href="$classGameBase.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="275,677,357,704"/>
+<area shape="rect" id="node4" href="$classSceneObject.html" title="A 3D object. " alt="" coords="269,603,363,629"/>
+<area shape="rect" id="node5" href="$classNetObject.html" title="Superclass for ghostable networked objects. " alt="" coords="141,528,219,555"/>
+<area shape="rect" id="node6" href="$classSimGroup.html" title="A group of SimObjects. " alt="" coords="141,453,219,480"/>
+<area shape="rect" id="node7" href="$classSimSet.html" title="A set of SimObjects. " alt="" coords="149,379,211,405"/>
+<area shape="rect" id="node8" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="82,304,163,331"/>
+<area shape="rect" id="node9" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="7,229,111,256"/>
+<area shape="rect" id="node10" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="10,155,107,181"/>
+<area shape="rect" id="node11" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="5,80,112,107"/>
+<area shape="rect" id="node12" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="9,5,109,32"/>
+<area shape="rect" id="node13" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="135,229,239,256"/>
+<area shape="rect" id="node14" href="$classTamlChildren.html" title="TamlChildren" alt="" coords="188,304,287,331"/>
+<area shape="rect" id="node15" href="$structSceneContainer_1_1Link.html" title="SceneContainer::Link" alt="" coords="244,528,388,555"/>
+<area shape="rect" id="node16" href="$classProcessObject.html" title="ProcessObject" alt="" coords="413,528,515,555"/>
+<area shape="rect" id="node17" href="$classISceneLight.html" title="When the scene is queried for lights, the light manager will get this interface to trigger a register..." alt="" coords="381,677,469,704"/>
+</map>

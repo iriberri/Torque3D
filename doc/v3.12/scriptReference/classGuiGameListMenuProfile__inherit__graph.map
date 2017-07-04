@@ -1,0 +1,5 @@
+<map id="GuiGameListMenuProfile" name="GuiGameListMenuProfile">
+<area shape="rect" id="node4" href="$classGuiGameListOptionsProfile.html" title="A GuiControlProfile with additional fields specific to GuiGameListOptionsCtrl. " alt="" coords="5,229,176,256"/>
+<area shape="rect" id="node2" href="$classGuiControlProfile.html" title="A collection of properties that determine control behavior and rendering. " alt="" coords="32,80,149,107"/>
+<area shape="rect" id="node3" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="50,5,131,32"/>
+</map>

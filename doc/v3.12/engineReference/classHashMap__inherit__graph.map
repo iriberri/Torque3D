@@ -1,0 +1,8 @@
+<map id="HashMap&lt; Key, Value, Sequence &gt;" name="HashMap&lt; Key, Value, Sequence &gt;">
+<area shape="rect" id="node3" href="$classHashMap.html" title="HashMap\&lt; typeAssetTagName,\l AssetTag * \&gt;" alt="" coords="533,22,735,63"/>
+<area shape="rect" id="node4" href="$classHashMap.html" title="HashMap\&lt; AssetPtrBase\l *, AssetPtrCallback * \&gt;" alt="" coords="553,87,715,129"/>
+<area shape="rect" id="node5" href="$classHashMap.html" title="HashMap\&lt; typeAssetId,\l StringTableEntry \&gt;" alt="" coords="555,153,713,194"/>
+<area shape="rect" id="node6" href="$classHashMap.html" title="HashMap\&lt; StringTableEntry,\l typeModuleIdVector * \&gt;" alt="" coords="541,218,727,259"/>
+<area shape="rect" id="node7" href="$classHashMap.html" title="HashMap\&lt; StringTableEntry,\l ModuleDefinitionEntry * \&gt;" alt="" coords="541,283,727,325"/>
+<area shape="rect" id="node8" href="$classHashMap.html" title="HashMap\&lt; typeAssetId,\l AssetDefinition * \&gt;" alt="" coords="555,349,713,390"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ThreadSafePriorityQueue&lt; T, K, SORT_MIN_TO_MAX, MAX_LEVEL, PROBABILISTIC_BIAS &gt;" name="ThreadSafePriorityQueue&lt; T, K, SORT_MIN_TO_MAX, MAX_LEVEL, PROBABILISTIC_BIAS &gt;">
+<area shape="rect" id="node2" href="$structThreadSafePriorityQueueWithUpdate.html" title="Fast, lock&#45;free priority queue implementation for concurrent access that performs dynamic re&#45;prioriti..." alt="" coords="475,5,748,61"/>
+<area shape="rect" id="node4" href="$structThreadSafePriorityQueue.html" title="ThreadSafePriorityQueue\l\&lt; ThreadSafeRef\&lt; Node\l \&gt;, TickType, true, MAX\l_LEVEL, PROBABILISTIC_BIAS \&gt;" alt="" coords="508,86,715,157"/>
+<area shape="rect" id="node5" href="$structThreadSafePriorityQueue.html" title="ThreadSafePriorityQueue\l\&lt; WorkItemWrapper, F32,\l false, 4, 50 \&gt;" alt="" coords="524,181,699,237"/>
+<area shape="rect" id="node6" href="$structThreadSafePriorityQueue.html" title="ThreadSafePriorityQueue\l\&lt; ThreadSafeRef\&lt; Node\l \&gt;, TickType, true, 4, 50 \&gt;" alt="" coords="524,261,699,317"/>
+</map>

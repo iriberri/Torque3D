@@ -1,0 +1,6 @@
+<map id="SFXController" name="SFXController">
+<area shape="rect" id="node2" href="$classSFXSource.html" title="Playback controller for a sound source. " alt="" coords="13,229,99,256"/>
+<area shape="rect" id="node3" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="17,155,95,181"/>
+<area shape="rect" id="node4" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="25,80,87,107"/>
+<area shape="rect" id="node5" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="15,5,97,32"/>
+</map>

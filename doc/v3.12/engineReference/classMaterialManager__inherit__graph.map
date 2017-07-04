@@ -1,0 +1,4 @@
+<map id="MaterialManager" name="MaterialManager">
+<area shape="rect" id="node2" href="$classManagedSingleton.html" title="ManagedSingleton\&lt; Material\lManager \&gt;" alt="" coords="5,95,192,136"/>
+<area shape="rect" id="node3" href="$classManagedSingleton.html" title="This is a managed singleton class with explict creation and destruction functions which must be calle..." alt="" coords="18,5,179,32"/>
+</map>

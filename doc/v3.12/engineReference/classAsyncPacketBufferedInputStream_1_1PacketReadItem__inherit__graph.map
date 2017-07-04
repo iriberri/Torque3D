@@ -1,0 +1,9 @@
+<map id="AsyncPacketBufferedInputStream&lt; Stream, Packet &gt;::PacketReadItem" name="AsyncPacketBufferedInputStream&lt; Stream, Packet &gt;::PacketReadItem">
+<area shape="rect" id="node2" href="$classAsyncReadItem.html" title="AsyncReadItem\&lt; Parent\l::SourceElementType,\l StreamType \&gt;" alt="" coords="149,513,309,569"/>
+<area shape="rect" id="node3" href="$classAsyncIOItem.html" title="AsyncIOItem\&lt; Parent\l::SourceElementType,\l StreamType \&gt;" alt="" coords="35,380,185,436"/>
+<area shape="rect" id="node4" href="$classThreadPool_1_1WorkItem.html" title="An action to execute on a worker thread from the pool. " alt="" coords="5,200,159,227"/>
+<area shape="rect" id="node7" href="$classAsyncIOItem.html" title="Abstract superclass of async I/O work items. " alt="" coords="103,276,282,303"/>
+<area shape="rect" id="node5" href="$classThreadSafeRefCount.html" title="ThreadSafeRefCount\l\&lt; WorkItem \&gt;" alt="" coords="11,109,153,151"/>
+<area shape="rect" id="node6" href="$classThreadSafeRefCount.html" title="Baseclass for concurrently reference&#45;counted objects. " alt="" coords="11,5,153,47"/>
+<area shape="rect" id="node8" href="$classAsyncReadItem.html" title="Work item to asynchronously read from a stream. " alt="" coords="213,395,407,421"/>
+</map>

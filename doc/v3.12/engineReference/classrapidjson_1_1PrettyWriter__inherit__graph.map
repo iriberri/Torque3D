@@ -1,0 +1,4 @@
+<map id="rapidjson::PrettyWriter&lt; OutputStream, SourceEncoding, TargetEncoding, Allocator &gt;" name="rapidjson::PrettyWriter&lt; OutputStream, SourceEncoding, TargetEncoding, Allocator &gt;">
+<area shape="rect" id="node2" href="$classrapidjson_1_1Writer.html" title="JSON writer. " alt="" coords="10,80,219,136"/>
+<area shape="rect" id="node3" href="$classrapidjson_1_1Handler.html" title="Concept for receiving events from GenericReader upon parsing. " alt="" coords="50,5,179,32"/>
+</map>

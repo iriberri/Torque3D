@@ -1,0 +1,22 @@
+<map id="GuiTSCtrl" name="GuiTSCtrl">
+<area shape="rect" id="node7" href="$classEditTSCtrl.html" title="3D view control used specifically by Torque 3D&#39;s editors. " alt="" coords="794,259,873,285"/>
+<area shape="rect" id="node19" href="$classGameTSCtrl.html" title="The main 3D viewport for a Torque 3D game. " alt="" coords="788,309,879,336"/>
+<area shape="rect" id="node20" href="$classGuiMaterialPreview.html" title="Visual preview of a specified Material. " alt="" coords="768,360,899,387"/>
+<area shape="rect" id="node21" href="$classGuiObjectView.html" title="GUI control which displays a 3D model. " alt="" coords="781,411,886,437"/>
+<area shape="rect" id="node2" href="$classGuiContainer.html" title="Brief Desc. " alt="" coords="501,335,596,361"/>
+<area shape="rect" id="node3" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="372,335,453,361"/>
+<area shape="rect" id="node4" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="245,335,324,361"/>
+<area shape="rect" id="node5" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="135,335,197,361"/>
+<area shape="rect" id="node6" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,335,87,361"/>
+<area shape="rect" id="node8" href="$classForestEditorCtrl.html" title="The actual Forest Editor control. " alt="" coords="973,5,1083,32"/>
+<area shape="rect" id="node9" href="$classGuiConvexEditorCtrl.html" title="The base class for the sketch tool. " alt="" coords="961,56,1095,83"/>
+<area shape="rect" id="node10" href="$classGuiDecalEditorCtrl.html" title="The base class for the Decal Editor tool. " alt="" coords="966,107,1090,133"/>
+<area shape="rect" id="node11" href="$classGuiMeshRoadEditorCtrl.html" title="GUI tool that makes up the Mesh Road Editor. " alt="" coords="952,157,1104,184"/>
+<area shape="rect" id="node12" href="$classGuiMissionAreaEditorCtrl.html" title="Specialized GUI used for editing the MissionArea in a level. " alt="" coords="947,208,1109,235"/>
+<area shape="rect" id="node13" href="$classGuiNavEditorCtrl.html" title="GUI tool that makes up the Navigation Editor. " alt="" coords="971,259,1085,285"/>
+<area shape="rect" id="node14" href="$classGuiRiverEditorCtrl.html" title="GUI tool that makes up the River Editor. " alt="" coords="967,309,1089,336"/>
+<area shape="rect" id="node15" href="$classGuiRoadEditorCtrl.html" title="GUI tool that makes up the Decal Road Editor. " alt="" coords="967,360,1089,387"/>
+<area shape="rect" id="node16" href="$classGuiShapeEdPreview.html" title="This control provides the 3D view for the Shape Editor tool, and is not intended for general purpose ..." alt="" coords="961,411,1095,437"/>
+<area shape="rect" id="node17" href="$classTerrainEditor.html" title="The base Terrain Editor tool. " alt="" coords="979,461,1077,488"/>
+<area shape="rect" id="node18" href="$classWorldEditor.html" title="The main World Editor tool class. " alt="" coords="983,512,1073,539"/>
+</map>

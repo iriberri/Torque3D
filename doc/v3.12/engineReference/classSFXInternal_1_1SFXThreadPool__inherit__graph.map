@@ -1,0 +1,5 @@
+<map id="SFXInternal::SFXThreadPool" name="SFXInternal::SFXThreadPool">
+<area shape="rect" id="node2" href="$classThreadPool.html" title="Asynchronous work manager. " alt="" coords="5,102,92,129"/>
+<area shape="rect" id="node3" href="$classManagedSingleton.html" title="ManagedSingleton\&lt; SFXThread\lPool \&gt;" alt="" coords="116,95,320,136"/>
+<area shape="rect" id="node4" href="$classManagedSingleton.html" title="This is a managed singleton class with explict creation and destruction functions which must be calle..." alt="" coords="137,5,299,32"/>
+</map>

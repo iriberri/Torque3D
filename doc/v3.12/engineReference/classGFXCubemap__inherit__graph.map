@@ -1,0 +1,8 @@
+<map id="GFXCubemap" name="GFXCubemap">
+<area shape="rect" id="node5" href="$classGFXD3D11Cubemap.html" title="GFXD3D11Cubemap" alt="" coords="5,229,141,256"/>
+<area shape="rect" id="node6" href="$classGFXD3D9Cubemap.html" title="GFXD3D9Cubemap" alt="" coords="166,229,295,256"/>
+<area shape="rect" id="node7" href="$classGFXGLCubemap.html" title="GFXGLCubemap" alt="" coords="319,229,433,256"/>
+<area shape="rect" id="node2" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="115,80,221,107"/>
+<area shape="rect" id="node3" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="118,5,218,32"/>
+<area shape="rect" id="node4" href="$classGFXResource.html" title="Mixin for the purpose of tracking GFX resources owned by a GFXDevice. " alt="" coords="245,80,344,107"/>
+</map>

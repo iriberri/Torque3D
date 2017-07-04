@@ -1,0 +1,9 @@
+<map id="CompoundUndoAction" name="CompoundUndoAction">
+<area shape="rect" id="node2" href="$classUndoAction.html" title="UndoAction" alt="" coords="79,379,166,405"/>
+<area shape="rect" id="node3" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="82,304,163,331"/>
+<area shape="rect" id="node4" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="7,229,111,256"/>
+<area shape="rect" id="node5" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="10,155,107,181"/>
+<area shape="rect" id="node6" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="5,80,112,107"/>
+<area shape="rect" id="node7" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="9,5,109,32"/>
+<area shape="rect" id="node8" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="135,229,239,256"/>
+</map>
