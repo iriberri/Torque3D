@@ -1,0 +1,4 @@
+<map id="CustomMaterial" name="CustomMaterial">
+<area shape="rect" id="node2" href="$classMaterial.html" title="A material in Torque 3D is a data structure that describes a surface. " alt="" coords="27,80,95,107"/>
+<area shape="rect" id="node3" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="20,5,101,32"/>
+</map>

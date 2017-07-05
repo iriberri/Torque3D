@@ -1,0 +1,6 @@
+<map id="ClientProcessList" name="ClientProcessList">
+<area shape="rect" id="node3" href="$classExtendedClientProcessList.html" title="List to keep track of GameBases to process. " alt="" coords="5,155,175,181"/>
+<area shape="rect" id="node4" href="$classHifiClientProcessList.html" title="List to keep track of GameBases to process. " alt="" coords="199,155,333,181"/>
+<area shape="rect" id="node5" href="$classStdClientProcessList.html" title="List to keep track of GameBases to process. " alt="" coords="358,155,494,181"/>
+<area shape="rect" id="node2" href="$classProcessList.html" title="List of ProcessObjects. " alt="" coords="223,5,309,32"/>
+</map>

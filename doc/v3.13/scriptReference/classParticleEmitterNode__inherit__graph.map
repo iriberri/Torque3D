@@ -1,0 +1,8 @@
+<map id="ParticleEmitterNode" name="ParticleEmitterNode">
+<area shape="rect" id="node2" href="$classGameBase.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="31,379,114,405"/>
+<area shape="rect" id="node3" href="$classSceneObject.html" title="A networkable object that exists in the 3D world. " alt="" coords="25,304,120,331"/>
+<area shape="rect" id="node4" href="$classNetObject.html" title="Superclass for all ghostable networked objects. " alt="" coords="33,229,112,256"/>
+<area shape="rect" id="node5" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="33,155,112,181"/>
+<area shape="rect" id="node6" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="41,80,104,107"/>
+<area shape="rect" id="node7" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="32,5,113,32"/>
+</map>

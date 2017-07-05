@@ -1,0 +1,17 @@
+<map id="GuiTextCtrl" name="GuiTextCtrl">
+<area shape="rect" id="node7" href="$classGuiBubbleTextCtrl.html" title="A single&#45;line text control that displays its text in a multi&#45;line popup when clicked. " alt="" coords="791,5,913,32"/>
+<area shape="rect" id="node8" href="$classGuiPopUpMenuCtrl.html" title="A control that allows to select a value from a drop&#45;down list. " alt="" coords="789,56,915,83"/>
+<area shape="rect" id="node9" href="$classGuiPopUpMenuCtrlEx.html" title="A control that allows to select a value from a drop&#45;down list. " alt="" coords="782,107,922,133"/>
+<area shape="rect" id="node10" href="$classGuiProgressBitmapCtrl.html" title="A horizontal progress bar rendered from a repeating image. " alt="" coords="777,157,927,184"/>
+<area shape="rect" id="node11" href="$classGuiProgressCtrl.html" title="GUI Control which displays a horizontal bar which increases as the progress value of 0..." alt="" coords="797,208,907,235"/>
+<area shape="rect" id="node12" href="$classGuiTabPageCtrl.html" title="A single page in a GuiTabBookCtrl. " alt="" coords="797,259,907,285"/>
+<area shape="rect" id="node13" href="$classGuiTextEditCtrl.html" title="A component that places a text entry box on the screen. " alt="" coords="799,309,905,336"/>
+<area shape="rect" id="node2" href="$classGuiContainer.html" title="Brief Desc. " alt="" coords="501,157,596,184"/>
+<area shape="rect" id="node3" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="372,157,453,184"/>
+<area shape="rect" id="node4" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="245,157,324,184"/>
+<area shape="rect" id="node5" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="135,157,197,184"/>
+<area shape="rect" id="node6" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,157,87,184"/>
+<area shape="rect" id="node14" href="$classGuiConsoleEditCtrl.html" title="Text entry element of a GuiConsole. " alt="" coords="1001,259,1127,285"/>
+<area shape="rect" id="node15" href="$classGuiTextEditSliderBitmapCtrl.html" title="GUI Control which displays a numerical value which can be increased or decreased using a pair of bitm..." alt="" coords="975,309,1153,336"/>
+<area shape="rect" id="node16" href="$classGuiTextEditSliderCtrl.html" title="GUI Control which displays a numerical value which can be increased or decreased using a pair of arro..." alt="" coords="995,360,1133,387"/>
+</map>

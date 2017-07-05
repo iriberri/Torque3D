@@ -1,0 +1,12 @@
+<map id="GuiArrayCtrl" name="GuiArrayCtrl">
+<area shape="rect" id="node6" href="$classCreatorTree.html" title="Creator tree from old editor. Not used in current editor. " alt="" coords="5,379,97,405"/>
+<area shape="rect" id="node7" href="$classDbgFileView.html" title="Remnant from ancient script debugger (TGE days?) " alt="" coords="121,379,213,405"/>
+<area shape="rect" id="node8" href="$classGuiConsole.html" title="The on&#45;screen, in&#45;game console. Calls getLog() to get the on&#45;screen console entries, then renders them as needed. " alt="" coords="238,379,323,405"/>
+<area shape="rect" id="node9" href="$classGuiTextListCtrl.html" title="GUI control that displays a list of text. Text items in the list can be individually selected..." alt="" coords="347,379,451,405"/>
+<area shape="rect" id="node10" href="$classGuiTreeViewCtrl.html" title="Hierarchical list of text items with optional icons. " alt="" coords="475,379,590,405"/>
+<area shape="rect" id="node2" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="299,229,380,256"/>
+<area shape="rect" id="node3" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="300,155,379,181"/>
+<area shape="rect" id="node4" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="308,80,371,107"/>
+<area shape="rect" id="node5" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="299,5,380,32"/>
+<area shape="rect" id="node11" href="$classGuiFileTreeCtrl.html" title="A control that displays a hierarchical tree view of a path in the game file system. " alt="" coords="479,453,586,480"/>
+</map>

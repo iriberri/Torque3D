@@ -1,0 +1,4 @@
+<map id="BoxBase" name="BoxBase">
+<area shape="rect" id="node2" href="$classBox3F.html" title="Axis&#45;aligned bounding box (AABB). " alt="" coords="5,80,61,107"/>
+<area shape="rect" id="node3" href="$classOrientedBox3F.html" title="An oriented bounding box (OBB) described by a center point, three normalizes axis vectors..." alt="" coords="86,80,191,107"/>
+</map>

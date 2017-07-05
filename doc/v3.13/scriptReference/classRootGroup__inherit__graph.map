@@ -1,0 +1,5 @@
+<map id="RootGroup" name="RootGroup">
+<area shape="rect" id="node2" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="7,155,86,181"/>
+<area shape="rect" id="node3" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="15,80,78,107"/>
+<area shape="rect" id="node4" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="6,5,87,32"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="SimSet" name="SimSet">
+<area shape="rect" id="node9" href="$classMenuBar.html" title="MenuBar" alt="" coords="885,740,957,767"/>
+<area shape="rect" id="node10" href="$classModuleDefinition.html" title="ModuleDefinition" alt="" coords="863,791,979,817"/>
+<area shape="rect" id="node11" href="$classSimGroup.html" title="A group of SimObjects. " alt="" coords="881,841,960,868"/>
+<area shape="rect" id="node48" href="$classSimPersistSet.html" title="A SimSet that can be safely persisted. " alt="" coords="870,993,971,1020"/>
+<area shape="rect" id="node2" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="614,791,695,817"/>
+<area shape="rect" id="node3" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="453,765,557,792"/>
+<area shape="rect" id="node4" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="308,765,405,792"/>
+<area shape="rect" id="node5" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="153,765,260,792"/>
+<area shape="rect" id="node6" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="5,765,105,792"/>
+<area shape="rect" id="node7" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="453,816,557,843"/>
+<area shape="rect" id="node8" href="$classTamlChildren.html" title="TamlChildren" alt="" coords="605,841,704,868"/>
+<area shape="rect" id="node12" href="$classForestBrush.html" title="ForestBrush" alt="" coords="1077,563,1168,589"/>
+<area shape="rect" id="node13" href="$classGuiControl.html" title="GuiControl" alt="" coords="1082,613,1163,640"/>
+<area shape="rect" id="node39" href="$classInputManager.html" title="InputManager" alt="" coords="1072,664,1173,691"/>
+<area shape="rect" id="node40" href="$classMeshComponent_1_1boneObject.html" title="MeshComponent::boneObject" alt="" coords="1027,715,1219,741"/>
+<area shape="rect" id="node41" href="$classNetConnection.html" title="Torque network connection. " alt="" coords="1071,765,1175,792"/>
+<area shape="rect" id="node42" href="$classNetObject.html" title="Superclass for ghostable networked objects. " alt="" coords="1083,816,1162,843"/>
+<area shape="rect" id="node43" href="$classPostEffect.html" title="PostEffect" alt="" coords="1083,867,1162,893"/>
+<area shape="rect" id="node44" href="$classScriptGroup.html" title="ScriptGroup" alt="" coords="1078,917,1167,944"/>
+<area shape="rect" id="node45" href="$classSFXSource.html" title="Baseclass for sources and controllers. " alt="" coords="1080,968,1165,995"/>
+<area shape="rect" id="node46" href="$classSimDataBlockGroup.html" title="SimDataBlockGroup" alt="" coords="1056,1019,1189,1045"/>
+<area shape="rect" id="node47" href="$classSimPath_1_1Path.html" title="A path! " alt="" coords="1071,1069,1175,1096"/>
+<area shape="rect" id="node14" href="$classEditManager.html" title="EditManager" alt="" coords="1310,5,1403,32"/>
+<area shape="rect" id="node15" href="$classGuiArrayCtrl.html" title="Renders a grid of cells. " alt="" coords="1311,56,1402,83"/>
+<area shape="rect" id="node16" href="$classGuiBackgroundCtrl.html" title="Renders a background, so you can have a backdrop for your GUI. " alt="" coords="1293,107,1420,133"/>
+<area shape="rect" id="node17" href="$classGuiBitmapCtrl.html" title="Renders a bitmap. " alt="" coords="1307,157,1406,184"/>
+<area shape="rect" id="node18" href="$classGuiButtonBaseCtrl.html" title="Base class for all button controls. " alt="" coords="1295,208,1418,235"/>
+<area shape="rect" id="node19" href="$classGuiCanvas.html" title="GuiCanvas" alt="" coords="1316,259,1397,285"/>
+<area shape="rect" id="node20" href="$classGuiChunkedBitmapCtrl.html" title="GuiChunkedBitmapCtrl" alt="" coords="1283,309,1431,336"/>
+<area shape="rect" id="node21" href="$classGuiColorPickerCtrl.html" title="GuiColorPickerCtrl. " alt="" coords="1295,360,1419,387"/>
+<area shape="rect" id="node22" href="$classGuiConsoleTextCtrl.html" title="GuiConsoleTextCtrl" alt="" coords="1291,411,1422,437"/>
+<area shape="rect" id="node23" href="$classGuiContainer.html" title="GuiContainer" alt="" coords="1309,461,1404,488"/>
+<area shape="rect" id="node24" href="$classGuiControlArrayControl.html" title="GuiControlArrayControl" alt="" coords="1280,512,1433,539"/>
+<area shape="rect" id="node25" href="$classGuiDecoyCtrl.html" title="GuiDecoyCtrl" alt="" coords="1309,563,1404,589"/>
+<area shape="rect" id="node26" href="$classGuiDragAndDropControl.html" title="A special control that implements drag&#45;and&#45;drop behavior. " alt="" coords="1278,613,1435,640"/>
+<area shape="rect" id="node27" href="$classGuiDynamicCtrlArrayControl.html" title="GuiDynamicCtrlArrayControl" alt="" coords="1267,664,1447,691"/>
+<area shape="rect" id="node28" href="$classGuiEaseViewCtrl.html" title="Control to visualize an EaseF. " alt="" coords="1299,715,1414,741"/>
+<area shape="rect" id="node29" href="$classGuiEditCtrl.html" title="Native side of the GUI editor. " alt="" coords="1316,765,1397,792"/>
+<area shape="rect" id="node30" href="$classGuiFilterCtrl.html" title="GuiFilterCtrl" alt="" coords="1312,816,1401,843"/>
+<area shape="rect" id="node31" href="$classGuiGameListMenuCtrl.html" title="A base class for cross platform menu controls that are gamepad friendly. " alt="" coords="1285,867,1428,893"/>
+<area shape="rect" id="node32" href="$classGuiGradientCtrl.html" title="GuiGradientCtrl. " alt="" coords="1303,917,1411,944"/>
+<area shape="rect" id="node33" href="$classGuiGraphCtrl.html" title="GuiGraphCtrl" alt="" coords="1309,968,1404,995"/>
+<area shape="rect" id="node34" href="$classGuiInspectorField.html" title="The GuiInspectorField control is a representation of a single abstract field for a given ConsoleObjec..." alt="" coords="1297,1019,1417,1045"/>
+<area shape="rect" id="node35" href="$classGuiListBoxCtrl.html" title="GuiListBoxCtrl" alt="" coords="1307,1069,1406,1096"/>
+<area shape="rect" id="node36" href="$classGuiMenuBackgroundCtrl.html" title="GuiMenuBackgroundCtrl" alt="" coords="1278,1120,1435,1147"/>
+<area shape="rect" id="node37" href="$classGuiMessageVectorCtrl.html" title="Render a MessageVector (chat HUD) " alt="" coords="1283,1171,1430,1197"/>
+<area shape="rect" id="node38" href="$classGuiMLTextCtrl.html" title="GuiMLTextCtrl" alt="" coords="1306,1221,1407,1248"/>
+<area shape="rect" id="node49" href="$classWorldEditorSelection.html" title="A selection set in the World Editor. " alt="" coords="1052,1120,1193,1147"/>
+</map>

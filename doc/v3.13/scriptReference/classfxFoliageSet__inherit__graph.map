@@ -1,0 +1,4 @@
+<map id="fxFoliageSet" name="fxFoliageSet">
+<area shape="rect" id="node2" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="20,80,83,107"/>
+<area shape="rect" id="node3" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="11,5,92,32"/>
+</map>

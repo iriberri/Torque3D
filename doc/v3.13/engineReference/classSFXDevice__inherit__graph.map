@@ -1,0 +1,7 @@
+<map id="SFXDevice" name="SFXDevice">
+<area shape="rect" id="node2" href="$classSFXALDevice.html" title="SFXALDevice" alt="" coords="5,80,101,107"/>
+<area shape="rect" id="node3" href="$classSFXDSDevice.html" title="The DirectSound device implementation exposes a couple of settings to script that you should be aware..." alt="" coords="125,80,224,107"/>
+<area shape="rect" id="node4" href="$classSFXFMODDevice.html" title="SFXFMODDevice" alt="" coords="249,80,365,107"/>
+<area shape="rect" id="node5" href="$classSFXNullDevice.html" title="SFXNullDevice" alt="" coords="389,80,491,107"/>
+<area shape="rect" id="node6" href="$classSFXXAudioDevice.html" title="SFXXAudioDevice" alt="" coords="516,80,639,107"/>
+</map>

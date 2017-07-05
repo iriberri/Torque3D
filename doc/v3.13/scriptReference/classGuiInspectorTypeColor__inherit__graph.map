@@ -1,0 +1,9 @@
+<map id="GuiInspectorTypeColor" name="GuiInspectorTypeColor">
+<area shape="rect" id="node7" href="$classGuiInspectorTypeColorF.html" title="Inspector field type for ColorF. " alt="" coords="5,453,164,480"/>
+<area shape="rect" id="node8" href="$classGuiInspectorTypeColorI.html" title="Inspector field type for ColorI. " alt="" coords="189,453,343,480"/>
+<area shape="rect" id="node2" href="$classGuiInspectorField.html" title="The GuiInspectorField control is a representation of a single abstract field for a given ConsoleObjec..." alt="" coords="115,304,235,331"/>
+<area shape="rect" id="node3" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="135,229,216,256"/>
+<area shape="rect" id="node4" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="136,155,215,181"/>
+<area shape="rect" id="node5" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="144,80,207,107"/>
+<area shape="rect" id="node6" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="135,5,216,32"/>
+</map>

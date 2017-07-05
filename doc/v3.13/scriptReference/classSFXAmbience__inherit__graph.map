@@ -1,0 +1,4 @@
+<map id="SFXAmbience" name="SFXAmbience">
+<area shape="rect" id="node2" href="$classSimDataBlock.html" title="SimDataBlock" alt="" coords="7,80,105,107"/>
+<area shape="rect" id="node3" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="15,5,97,32"/>
+</map>

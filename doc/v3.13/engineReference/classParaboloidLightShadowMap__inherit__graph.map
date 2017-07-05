@@ -1,0 +1,4 @@
+<map id="ParaboloidLightShadowMap" name="ParaboloidLightShadowMap">
+<area shape="rect" id="node3" href="$classDualParaboloidLightShadowMap.html" title="DualParaboloidLightShadowMap" alt="" coords="5,155,209,181"/>
+<area shape="rect" id="node2" href="$classLightShadowMap.html" title="This represents everything we need to render the shadowmap for one light. " alt="" coords="48,5,167,32"/>
+</map>
