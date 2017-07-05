@@ -33,7 +33,4 @@ deploy:
   skip_cleanup: true
   overwrite: true
   on:
-    branch:
-      - master
-      - development
     condition: $DEPLOY_CONDITION
