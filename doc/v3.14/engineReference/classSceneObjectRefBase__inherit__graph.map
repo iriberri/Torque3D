@@ -1,0 +1,6 @@
+<map id="SceneObjectRefBase&lt; T &gt;" name="SceneObjectRefBase&lt; T &gt;">
+<area shape="rect" id="node2" href="$classSceneObjectRefBase.html" title="SceneObjectRefBase\l\&lt; SceneObjectRef \&gt;" alt="" coords="5,95,145,136"/>
+<area shape="rect" id="node4" href="$classSceneObjectRefBase.html" title="SceneObjectRefBase\l\&lt; ZoneRef \&gt;" alt="" coords="169,95,309,136"/>
+<area shape="rect" id="node3" href="$classSceneObjectRef.html" title="Reference to a scene object. " alt="" coords="19,185,132,212"/>
+<area shape="rect" id="node5" href="$structSceneObject_1_1ZoneRef.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="164,185,315,212"/>
+</map>

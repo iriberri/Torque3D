@@ -1,0 +1,11 @@
+<map id="TurretShape" name="TurretShape">
+<area shape="rect" id="node10" href="$classAITurretShape.html" title="AITurretShape" alt="" coords="5,677,112,704"/>
+<area shape="rect" id="node2" href="$classItem.html" title="Base Item class. Uses the ItemData datablock for common properties. " alt="" coords="35,528,83,555"/>
+<area shape="rect" id="node3" href="$classShapeBase.html" title="ShapeBase" alt="" coords="16,453,101,480"/>
+<area shape="rect" id="node4" href="$classGameBase.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="17,379,100,405"/>
+<area shape="rect" id="node5" href="$classSceneObject.html" title="A networkable object that exists in the 3D world. " alt="" coords="11,304,106,331"/>
+<area shape="rect" id="node6" href="$classNetObject.html" title="Superclass for all ghostable networked objects. " alt="" coords="19,229,98,256"/>
+<area shape="rect" id="node7" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="19,155,98,181"/>
+<area shape="rect" id="node8" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="27,80,90,107"/>
+<area shape="rect" id="node9" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="18,5,99,32"/>
+</map>

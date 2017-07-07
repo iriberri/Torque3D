@@ -1,0 +1,14 @@
+<map id="IPolled" name="IPolled">
+<area shape="rect" id="node2" href="$classSFXBuffer.html" title="The buffer interface hides the details of how the device holds sound data for playback. " alt="" coords="119,123,198,149"/>
+<area shape="rect" id="node9" href="$classSFXModifier.html" title="An SFXModifier modifies the properties of an SFXSource while its playback is running. " alt="" coords="113,224,204,251"/>
+<area shape="rect" id="node3" href="$classSFXALBuffer.html" title="SFXALBuffer" alt="" coords="303,5,396,32"/>
+<area shape="rect" id="node4" href="$classSFXInternal_1_1SFXWrapAroundBuffer.html" title="Buffer that uses wrap&#45;around packet buffering. " alt="" coords="252,57,447,98"/>
+<area shape="rect" id="node7" href="$classSFXNullBuffer.html" title="SFXNullBuffer" alt="" coords="299,123,399,149"/>
+<area shape="rect" id="node8" href="$classSFXXAudioBuffer.html" title="Audio data buffer for the XAudio device layer. " alt="" coords="290,173,409,200"/>
+<area shape="rect" id="node5" href="$classSFXDSBuffer.html" title="DirectSound SFXBuffer implementation. " alt="" coords="513,39,607,65"/>
+<area shape="rect" id="node6" href="$classSFXFMODBuffer.html" title="SFXFMODBuffer" alt="" coords="503,89,617,116"/>
+<area shape="rect" id="node10" href="$classSFXOneShotModifier.html" title="An SFXModifier that is triggered once after passing a certain playback position. " alt="" coords="279,224,419,251"/>
+<area shape="rect" id="node12" href="$classSFXRangeModifier.html" title="An SFXModifier that is spans a certain range of playback time. " alt="" coords="286,275,413,301"/>
+<area shape="rect" id="node11" href="$classSFXMarkerModifier.html" title="A modifer that calls a method on the SFXSource when a particular playback position is passed..." alt="" coords="495,224,625,251"/>
+<area shape="rect" id="node13" href="$classSFXFadeModifier.html" title="A volume fade effect (fade&#45;in or fade&#45;out). " alt="" coords="501,275,619,301"/>
+</map>

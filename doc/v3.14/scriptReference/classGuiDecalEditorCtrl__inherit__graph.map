@@ -1,0 +1,9 @@
+<map id="GuiDecalEditorCtrl" name="GuiDecalEditorCtrl">
+<area shape="rect" id="node2" href="$classEditTSCtrl.html" title="3D view control used specifically by Torque 3D&#39;s editors. " alt="" coords="28,453,107,480"/>
+<area shape="rect" id="node3" href="$classGuiTSCtrl.html" title="Abstract base class for controls that render 3D scenes. " alt="" coords="29,379,105,405"/>
+<area shape="rect" id="node4" href="$classGuiContainer.html" title="Brief Desc. " alt="" coords="20,304,115,331"/>
+<area shape="rect" id="node5" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="27,229,108,256"/>
+<area shape="rect" id="node6" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="28,155,107,181"/>
+<area shape="rect" id="node7" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="36,80,99,107"/>
+<area shape="rect" id="node8" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="27,5,108,32"/>
+</map>

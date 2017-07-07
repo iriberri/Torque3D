@@ -1,0 +1,7 @@
+<map id="GuiBorderButtonCtrl" name="GuiBorderButtonCtrl">
+<area shape="rect" id="node2" href="$classGuiButtonBaseCtrl.html" title="The base class for the various button controls. " alt="" coords="11,304,134,331"/>
+<area shape="rect" id="node3" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="32,229,113,256"/>
+<area shape="rect" id="node4" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="33,155,112,181"/>
+<area shape="rect" id="node5" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="41,80,104,107"/>
+<area shape="rect" id="node6" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="32,5,113,32"/>
+</map>

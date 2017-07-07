@@ -1,0 +1,17 @@
+<map id="GuiTextEditCtrl" name="GuiTextEditCtrl">
+<area shape="rect" id="node14" href="$classGuiConsoleEditCtrl.html" title="GuiConsoleEditCtrl" alt="" coords="5,827,132,853"/>
+<area shape="rect" id="node15" href="$classGuiTextEditSliderBitmapCtrl.html" title="GuiTextEditSliderBitmapCtrl" alt="" coords="157,827,335,853"/>
+<area shape="rect" id="node16" href="$classGuiTextEditSliderCtrl.html" title="GuiTextEditSliderCtrl" alt="" coords="359,827,498,853"/>
+<area shape="rect" id="node2" href="$classGuiTextCtrl.html" title="GuiTextCtrl" alt="" coords="203,677,289,704"/>
+<area shape="rect" id="node3" href="$classGuiContainer.html" title="GuiContainer" alt="" coords="199,603,293,629"/>
+<area shape="rect" id="node4" href="$classGuiControl.html" title="GuiControl" alt="" coords="205,528,287,555"/>
+<area shape="rect" id="node5" href="$classSimGroup.html" title="A group of SimObjects. " alt="" coords="207,453,285,480"/>
+<area shape="rect" id="node6" href="$classSimSet.html" title="A set of SimObjects. " alt="" coords="215,379,277,405"/>
+<area shape="rect" id="node7" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="148,304,229,331"/>
+<area shape="rect" id="node8" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="73,229,177,256"/>
+<area shape="rect" id="node9" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="76,155,173,181"/>
+<area shape="rect" id="node10" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="71,80,178,107"/>
+<area shape="rect" id="node11" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="75,5,175,32"/>
+<area shape="rect" id="node12" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="201,229,305,256"/>
+<area shape="rect" id="node13" href="$classTamlChildren.html" title="TamlChildren" alt="" coords="254,304,353,331"/>
+</map>

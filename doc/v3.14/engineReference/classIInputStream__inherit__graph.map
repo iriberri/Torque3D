@@ -1,0 +1,25 @@
+<map id="IInputStream&lt; T &gt;" name="IInputStream&lt; T &gt;">
+<area shape="rect" id="node2" href="$classIInputStreamFilter.html" title="IInputStreamFilter\l\&lt; T, Stream \&gt;" alt="" coords="1187,40,1313,81"/>
+<area shape="rect" id="node10" href="$classIInputStream.html" title="IInputStream\&lt; RawData * \&gt;" alt="" coords="354,331,541,358"/>
+<area shape="rect" id="node18" href="$classIInputStream.html" title="IInputStream\&lt; OggTheoraFrame * \&gt;" alt="" coords="329,382,565,409"/>
+<area shape="rect" id="node20" href="$classIInputStream.html" title="IInputStream\&lt; To \&gt;" alt="" coords="378,218,517,245"/>
+<area shape="rect" id="node24" href="$classIInputStream.html" title="IInputStream\&lt; SFXStreamPacket * \&gt;" alt="" coords="589,163,827,190"/>
+<area shape="rect" id="node25" href="$classIInputStream.html" title="IInputStream\&lt; Packet * \&gt;" alt="" coords="622,83,794,110"/>
+<area shape="rect" id="node3" href="$classAsyncBufferedInputStream.html" title="AsyncBufferedInputStream\l\&lt; T, Stream \&gt;" alt="" coords="1376,40,1551,81"/>
+<area shape="rect" id="node4" href="$classAsyncSingleBufferedInputStream.html" title="A stream filter that performs background read&#45;aheads on its source stream and buffers the results..." alt="" coords="1779,5,1945,47"/>
+<area shape="rect" id="node5" href="$classAsyncBufferedInputStream.html" title="AsyncBufferedInputStream\l\&lt; Packet *, Stream \&gt;" alt="" coords="1775,103,1949,144"/>
+<area shape="rect" id="node9" href="$classAsyncBufferedInputStream.html" title="AsyncBufferedInputStream\l\&lt; SFXStreamPacket *, SFXStreamRef \&gt;" alt="" coords="1735,168,1989,209"/>
+<area shape="rect" id="node6" href="$classAsyncPacketBufferedInputStream.html" title="A packet stream turns a continuous stream of elements into a stream of discrete packets of elements..." alt="" coords="2039,105,2216,147"/>
+<area shape="rect" id="node7" href="$classAsyncPacketBufferedInputStream.html" title="AsyncPacketBufferedInput\lStream\&lt; SFXStreamRef,\l SFXStreamPacket \&gt;" alt="" coords="2439,133,2608,189"/>
+<area shape="rect" id="node8" href="$classSFXInternal_1_1SFXAsyncStream.html" title="Asynchronous sound data stream that delivers sound data in discrete packets. " alt="" coords="2657,147,2855,174"/>
+<area shape="rect" id="node11" href="$classOggVorbisDecoder.html" title="Decodes a Vorbis substream into sample packets. " alt="" coords="856,331,984,358"/>
+<area shape="rect" id="node13" href="$classIInputStreamFilter.html" title="IInputStreamFilter\l\&lt; U8, IInputStream\&lt;\l RawData * \&gt; * \&gt;" alt="" coords="1179,313,1321,369"/>
+<area shape="rect" id="node15" href="$classSFXStream.html" title="The base sound data streaming interface. " alt="" coords="1207,394,1293,421"/>
+<area shape="rect" id="node14" href="$classSFXMemoryStream.html" title="A stream filter that converts sample packets from its source stream to a continuous sample stream..." alt="" coords="1397,335,1530,362"/>
+<area shape="rect" id="node16" href="$classSFXFileStream.html" title="An SFXStream that streams from a file. " alt="" coords="1410,394,1517,421"/>
+<area shape="rect" id="node17" href="$classSFXWavStream.html" title="An SFXFileStream that loads sample data from a WAV file. " alt="" coords="1806,394,1918,421"/>
+<area shape="rect" id="node19" href="$classOggTheoraDecoder.html" title="Decodes a Theora substream into frame packets. " alt="" coords="853,382,987,409"/>
+<area shape="rect" id="node21" href="$classIInputStreamFilter.html" title="An input stream filter takes an input stream &quot;Stream&quot; and processes it into an input stream over type..." alt="" coords="857,213,983,255"/>
+<area shape="rect" id="node22" href="$classIInputStreamFilter.html" title="IInputStreamFilter\l\&lt; Packet *, Stream \&gt;" alt="" coords="1177,137,1323,179"/>
+<area shape="rect" id="node23" href="$classIInputStreamFilter.html" title="IInputStreamFilter\l\&lt; SFXStreamPacket *,\l SFXStreamRef \&gt;" alt="" coords="1173,203,1327,259"/>
+</map>

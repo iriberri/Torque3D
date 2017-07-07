@@ -1,0 +1,6 @@
+<map id="rapidjson::Handler" name="rapidjson::Handler">
+<area shape="rect" id="node2" href="$structrapidjson_1_1BaseReaderHandler.html" title="Default implementation of Handler. " alt="" coords="189,5,386,47"/>
+<area shape="rect" id="node3" href="$classrapidjson_1_1GenericDocument.html" title="A document for parsing JSON text as DOM. " alt="" coords="195,71,380,112"/>
+<area shape="rect" id="node4" href="$classrapidjson_1_1Writer.html" title="JSON writer. " alt="" coords="183,137,392,193"/>
+<area shape="rect" id="node5" href="$classrapidjson_1_1PrettyWriter.html" title="Writer with indentation and spacing. " alt="" coords="440,137,659,193"/>
+</map>

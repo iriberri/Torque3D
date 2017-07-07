@@ -1,0 +1,10 @@
+<map id="AsyncIOItem&lt; T, Stream &gt;" name="AsyncIOItem&lt; T, Stream &gt;">
+<area shape="rect" id="node5" href="$classAsyncReadItem.html" title="Work item to asynchronously read from a stream. " alt="" coords="1084,5,1279,32"/>
+<area shape="rect" id="node8" href="$classAsyncWriteItem.html" title="Work item for writing to an output stream. " alt="" coords="1113,57,1250,98"/>
+<area shape="rect" id="node9" href="$classAsyncIOItem.html" title="AsyncIOItem\&lt; Parent\l::SourceElementType,\l StreamType \&gt;" alt="" coords="1106,123,1257,179"/>
+<area shape="rect" id="node2" href="$classThreadPool_1_1WorkItem.html" title="An action to execute on a worker thread from the pool. " alt="" coords="472,64,625,91"/>
+<area shape="rect" id="node3" href="$classThreadSafeRefCount.html" title="ThreadSafeRefCount\l\&lt; WorkItem \&gt;" alt="" coords="281,57,423,98"/>
+<area shape="rect" id="node4" href="$classThreadSafeRefCount.html" title="Baseclass for concurrently reference&#45;counted objects. " alt="" coords="5,57,147,98"/>
+<area shape="rect" id="node6" href="$classAsyncReadItem.html" title="AsyncReadItem\&lt; Parent\l::SourceElementType,\l StreamType \&gt;" alt="" coords="1509,47,1669,103"/>
+<area shape="rect" id="node7" href="$classAsyncPacketBufferedInputStream_1_1PacketReadItem.html" title="Asynchronous work item for reading a packet from the source stream. " alt="" coords="1719,47,1888,103"/>
+</map>

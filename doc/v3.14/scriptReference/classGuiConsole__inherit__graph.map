@@ -1,0 +1,7 @@
+<map id="GuiConsole" name="GuiConsole">
+<area shape="rect" id="node2" href="$classGuiArrayCtrl.html" title="Abstract base class for controls that store and display multiple elements in a single view..." alt="" coords="5,304,96,331"/>
+<area shape="rect" id="node3" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="10,229,91,256"/>
+<area shape="rect" id="node4" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="11,155,90,181"/>
+<area shape="rect" id="node5" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="19,80,82,107"/>
+<area shape="rect" id="node6" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="10,5,91,32"/>
+</map>

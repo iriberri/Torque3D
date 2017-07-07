@@ -1,0 +1,5 @@
+<map id="ThreadPool::GlobalThreadPool" name="ThreadPool::GlobalThreadPool">
+<area shape="rect" id="node2" href="$classThreadPool.html" title="Asynchronous work manager. " alt="" coords="14,102,101,129"/>
+<area shape="rect" id="node3" href="$classManagedSingleton.html" title="ManagedSingleton\&lt; Global\lThreadPool \&gt;" alt="" coords="125,95,299,136"/>
+<area shape="rect" id="node4" href="$classManagedSingleton.html" title="This is a managed singleton class with explict creation and destruction functions which must be calle..." alt="" coords="131,5,293,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SFXAmbienceSet" name="SFXAmbienceSet">
+<area shape="rect" id="node2" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="34,80,97,107"/>
+<area shape="rect" id="node3" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="25,5,106,32"/>
+</map>

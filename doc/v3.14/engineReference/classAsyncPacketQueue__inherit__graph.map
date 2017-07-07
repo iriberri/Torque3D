@@ -1,0 +1,4 @@
+<map id="AsyncPacketQueue&lt; Packet, TimeSource, Consumer, Tick &gt;" name="AsyncPacketQueue&lt; Packet, TimeSource, Consumer, Tick &gt;">
+<area shape="rect" id="node2" href="$classAsyncPacketQueue.html" title="AsyncPacketQueue\&lt; SFXStream\lPacket *, SFXVoiceTimeSource,\l SFXBuffer * \&gt;" alt="" coords="5,139,212,195"/>
+<area shape="rect" id="node3" href="$classSFXInternal_1_1SFXAsyncQueue.html" title="An async stream queue that writes sound packets to SFXBuffers in sync to the playback of an SFXVoice..." alt="" coords="13,244,205,271"/>
+</map>
