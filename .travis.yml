@@ -6,6 +6,7 @@ matrix:
     services: docker
     env: OS_ID="ubuntu-latest-lts" ADDITIONAL_CMAKE_ARGS="-DTORQUE_PHYSICS_BULLET=on -DTORQUE_TESTING=on" DEPLOYABLE_CONF=true
   - os: osx
+    eosx_image: xcode8.3
     env: ADDITIONAL_CMAKE_ARGS="-DTORQUE_TESTING=on -DTORQUE_PHYSICS_BULLET=on" DEPLOYABLE_CONF=true
 
 language: cpp
@@ -33,4 +34,5 @@ deploy:
   skip_cleanup: true
   overwrite: true
   on:
+    all_branches: true
     condition: $DEPLOY_CONDITION
