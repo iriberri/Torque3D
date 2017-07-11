@@ -1,0 +1,5 @@
+<map id="SFXMarkerModifier" name="SFXMarkerModifier">
+<area shape="rect" id="node2" href="$classSFXOneShotModifier.html" title="An SFXModifier that is triggered once after passing a certain playback position. " alt="" coords="5,155,145,181"/>
+<area shape="rect" id="node3" href="$classSFXModifier.html" title="An SFXModifier modifies the properties of an SFXSource while its playback is running. " alt="" coords="30,80,121,107"/>
+<area shape="rect" id="node4" href="$classIPolled.html" title="Interface for objects that need continuous explicit updates from an outside source. " alt="" coords="45,5,105,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="GFXVertexBufferDataHandle" name="GFXVertexBufferDataHandle">
+<area shape="rect" id="node2" href="$classGFXVertexBufferHandleBase.html" title="GFXVertexBufferHandleBase" alt="" coords="21,247,204,273"/>
+<area shape="rect" id="node3" href="$classStrongRefPtr.html" title="StrongRefPtr\&lt; GFXVertexBuffer \&gt;" alt="" coords="5,171,220,197"/>
+<area shape="rect" id="node4" href="$classStrongObjectRef.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="67,5,183,32"/>
+<area shape="rect" id="node5" href="$classStrongRefPtr.html" title="Reference counted object template pointer class Instances of this template class can be used as point..." alt="" coords="129,81,259,108"/>
+</map>

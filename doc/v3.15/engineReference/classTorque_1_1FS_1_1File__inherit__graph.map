@@ -1,0 +1,9 @@
+<map id="Torque::FS::File" name="Torque::FS::File">
+<area shape="rect" id="node6" href="$classTorque_1_1Mem_1_1MemFile.html" title="Mem stdio file access. " alt="" coords="5,379,164,405"/>
+<area shape="rect" id="node7" href="$classTorque_1_1Posix_1_1PosixFile.html" title="Posix stdio file access. " alt="" coords="188,379,349,405"/>
+<area shape="rect" id="node8" href="$classTorque_1_1Win32_1_1Win32File.html" title="Win32 stdio file access. " alt="" coords="373,379,548,405"/>
+<area shape="rect" id="node2" href="$classTorque_1_1FS_1_1FileNode.html" title="Base class for objects in a FileSystem. " alt="" coords="195,229,342,256"/>
+<area shape="rect" id="node3" href="$classTorque_1_1FS_1_1FileBase.html" title="Base class for all FileIO objects. " alt="" coords="196,155,341,181"/>
+<area shape="rect" id="node4" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="215,80,322,107"/>
+<area shape="rect" id="node5" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="219,5,319,32"/>
+</map>

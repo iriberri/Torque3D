@@ -1,0 +1,5 @@
+<map id="PhysicsDebrisData" name="PhysicsDebrisData">
+<area shape="rect" id="node2" href="$classGameBaseData.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="14,155,122,181"/>
+<area shape="rect" id="node3" href="$classSimDataBlock.html" title="SimDataBlock" alt="" coords="19,80,117,107"/>
+<area shape="rect" id="node4" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="27,5,109,32"/>
+</map>

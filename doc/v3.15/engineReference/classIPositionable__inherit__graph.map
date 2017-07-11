@@ -1,0 +1,19 @@
+<map id="IPositionable&lt; P &gt;" name="IPositionable&lt; P &gt;">
+<area shape="rect" id="node2" href="$classIPositionable.html" title="IPositionable\&lt; typename\l VirtualMSTimer::TickType \&gt;" alt="" coords="513,63,703,105"/>
+<area shape="rect" id="node4" href="$classIPositionable.html" title="IPositionable\&lt; typename\l SimMSTimer::TickType \&gt;" alt="" coords="521,10,695,51"/>
+<area shape="rect" id="node6" href="$classIPositionable.html" title="IPositionable\&lt; U32 \&gt;" alt="" coords="347,320,489,347"/>
+<area shape="rect" id="node15" href="$classIPositionable.html" title="IPositionable\&lt; typename\l RealMSTimer::TickType \&gt;" alt="" coords="519,219,697,261"/>
+<area shape="rect" id="node17" href="$classIPositionable.html" title="IPositionable\&lt; Tick \&gt;" alt="" coords="347,145,489,172"/>
+<area shape="rect" id="node3" href="$classGenericTimeSource.html" title="GenericTimeSource\&lt;\l VirtualMSTimer \&gt;" alt="" coords="1037,98,1180,139"/>
+<area shape="rect" id="node5" href="$classGenericTimeSource.html" title="GenericTimeSource\&lt;\l SimMSTimer \&gt;" alt="" coords="1037,21,1180,62"/>
+<area shape="rect" id="node7" href="$classSFXSound.html" title="A scriptable controller playing a specific single sound file. " alt="" coords="757,297,839,324"/>
+<area shape="rect" id="node8" href="$classSFXVoice.html" title="The voice interface provides for playback of sound buffers and positioning of 3D sounds. " alt="" coords="760,348,836,375"/>
+<area shape="rect" id="node14" href="$classSFXWavStream.html" title="An SFXFileStream that loads sample data from a WAV file. " alt="" coords="742,399,854,425"/>
+<area shape="rect" id="node9" href="$classSFXALVoice.html" title="SFXALVoice" alt="" coords="1063,411,1154,437"/>
+<area shape="rect" id="node10" href="$classSFXDSVoice.html" title="SFXDSVoice" alt="" coords="1063,461,1155,488"/>
+<area shape="rect" id="node11" href="$classSFXFMODVoice.html" title="SFXFMODVoice" alt="" coords="1053,259,1164,285"/>
+<area shape="rect" id="node12" href="$classSFXNullVoice.html" title="SFXNullVoice" alt="" coords="1060,309,1157,336"/>
+<area shape="rect" id="node13" href="$classSFXXAudioVoice.html" title="SFXXAudioVoice" alt="" coords="1051,360,1167,387"/>
+<area shape="rect" id="node16" href="$classGenericTimeSource.html" title="GenericTimeSource\&lt;\l RealMSTimer \&gt;" alt="" coords="1037,189,1180,230"/>
+<area shape="rect" id="node18" href="$classGenericTimeSource.html" title="GenericTimeSource\&lt;\l Timer, Tick \&gt;" alt="" coords="727,138,869,179"/>
+</map>

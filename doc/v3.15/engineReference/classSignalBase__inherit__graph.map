@@ -1,0 +1,22 @@
+<map id="SignalBase" name="SignalBase">
+<area shape="rect" id="node2" href="$classSignalBaseT.html" title="SignalBaseT\&lt; Signature \&gt;" alt="" coords="139,1209,312,1236"/>
+<area shape="rect" id="node11" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A,\l B, C, D, E, F, G, H)\&gt;" alt="" coords="503,98,649,139"/>
+<area shape="rect" id="node16" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void()\&gt;" alt="" coords="503,8,649,35"/>
+<area shape="rect" id="node18" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A,\l B, C, D, E, F, G, H,\l I, J, K, L)\&gt;" alt="" coords="503,193,649,249"/>
+<area shape="rect" id="node19" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A,\l B, C, D, E, F)\&gt;" alt="" coords="503,482,649,523"/>
+<area shape="rect" id="node20" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A,\l B, C, D, E, F, G, H,\l I, J)\&gt;" alt="" coords="503,1331,649,1387"/>
+<area shape="rect" id="node29" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A)\&gt;" alt="" coords="499,1505,653,1532"/>
+<area shape="rect" id="node31" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A,\l B, C, D, E, F, G, H, I)\&gt;" alt="" coords="499,1857,653,1898"/>
+<area shape="rect" id="node34" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A,\l B, C, D, E, F, G, H,\l I, J, K)\&gt;" alt="" coords="503,1933,649,1989"/>
+<area shape="rect" id="node35" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A,\l B, C)\&gt;" alt="" coords="503,2189,649,2230"/>
+<area shape="rect" id="node37" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A,\l B, C, D, E)\&gt;" alt="" coords="503,2379,649,2421"/>
+<area shape="rect" id="node38" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A,\l B, C, D, E, F, G, H,\l I, J, K, L, M)\&gt;" alt="" coords="503,1244,649,1300"/>
+<area shape="rect" id="node41" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A,\l B, C, D, E, F, G)\&gt;" alt="" coords="503,1735,649,1777"/>
+<area shape="rect" id="node42" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A, B)\&gt;" alt="" coords="491,1164,661,1191"/>
+<area shape="rect" id="node44" href="$classSignalBaseT.html" title="SignalBaseT\&lt; void(A,\l B, C, D)\&gt;" alt="" coords="503,1658,649,1699"/>
+<area shape="rect" id="node17" href="$classSignal_3_01void_07_08_4.html" title="Signal\&lt; void()\&gt;" alt="" coords="731,8,843,35"/>
+<area shape="rect" id="node30" href="$classSignal_3_01void_07A_08_4.html" title="Signal\&lt; void(A)\&gt;" alt="" coords="727,1505,847,1532"/>
+<area shape="rect" id="node36" href="$classSignal_3_01void_07A_00_01B_00_01C_08_4.html" title="Signal\&lt; void(A, B, C)\&gt;" alt="" coords="711,2196,862,2223"/>
+<area shape="rect" id="node43" href="$classSignal_3_01void_07A_00_01B_08_4.html" title="Signal\&lt; void(A, B)\&gt;" alt="" coords="719,1164,854,1191"/>
+<area shape="rect" id="node45" href="$classSignal_3_01void_07A_00_01B_00_01C_00_01D_08_4.html" title="Signal\&lt; void(A, B,\l C, D)\&gt;" alt="" coords="724,1658,849,1699"/>
+</map>

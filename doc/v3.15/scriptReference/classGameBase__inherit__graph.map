@@ -1,0 +1,40 @@
+<map id="GameBase" name="GameBase">
+<area shape="rect" id="node7" href="$classDebris.html" title="Base debris class. Uses the DebrisData datablock for properties of individual debris objects..." alt="" coords="810,5,869,32"/>
+<area shape="rect" id="node8" href="$classExplosion.html" title="The emitter for an explosion effect, with properties defined by a ExplosionData object. " alt="" coords="802,56,877,83"/>
+<area shape="rect" id="node9" href="$classLightning.html" title="An emitter for lightning bolts. " alt="" coords="803,107,876,133"/>
+<area shape="rect" id="node10" href="$classParticleEmitter.html" title="This object is responsible for spawning particles. " alt="" coords="787,157,892,184"/>
+<area shape="rect" id="node11" href="$classParticleEmitterNode.html" title="A particle emitter object that can be positioned in the world and dynamically enabled or disabled..." alt="" coords="772,208,907,235"/>
+<area shape="rect" id="node12" href="$classPhysicsDebris.html" title="Represents one or more rigid bodies defined in a single mesh file with a limited lifetime. " alt="" coords="790,259,889,285"/>
+<area shape="rect" id="node13" href="$classPhysicsShape.html" title="Represents a destructible physical object simulated through the plugin system. " alt="" coords="790,309,889,336"/>
+<area shape="rect" id="node14" href="$classPrecipitation.html" title="Defines a precipitation based storm (rain, snow, etc). " alt="" coords="793,360,885,387"/>
+<area shape="rect" id="node15" href="$classProjectile.html" title="Base projectile class. Uses the ProjectileData class for properties of individual projectiles..." alt="" coords="802,411,877,437"/>
+<area shape="rect" id="node16" href="$classRibbon.html" title="Ribbon" alt="" coords="809,461,870,488"/>
+<area shape="rect" id="node17" href="$classRibbonNode.html" title="RibbonNode" alt="" coords="794,512,885,539"/>
+<area shape="rect" id="node18" href="$classShapeBase.html" title="ShapeBase" alt="" coords="797,563,882,589"/>
+<area shape="rect" id="node38" href="$classSplash.html" title="Manages the ring used for a Splash effect. " alt="" coords="809,613,869,640"/>
+<area shape="rect" id="node39" href="$classTrigger.html" title="A Trigger is a volume of space that initiates script callbacks when objects pass through the Trigger..." alt="" coords="807,664,871,691"/>
+<area shape="rect" id="node2" href="$classSceneObject.html" title="A networkable object that exists in the 3D world. " alt="" coords="499,360,593,387"/>
+<area shape="rect" id="node3" href="$classNetObject.html" title="Superclass for all ghostable networked objects. " alt="" coords="372,360,451,387"/>
+<area shape="rect" id="node4" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="245,360,324,387"/>
+<area shape="rect" id="node5" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="135,360,197,387"/>
+<area shape="rect" id="node6" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,360,87,387"/>
+<area shape="rect" id="node19" href="$classCamera.html" title="Represents a position, direction and field of view to render a scene from. " alt="" coords="973,360,1040,387"/>
+<area shape="rect" id="node20" href="$classItem.html" title="Base Item class. Uses the ItemData datablock for common properties. " alt="" coords="983,411,1031,437"/>
+<area shape="rect" id="node24" href="$classMissionMarker.html" title="This is a base class for all &quot;marker&quot; related objets. It is a 3D representation of a point in the lev..." alt="" coords="955,487,1059,513"/>
+<area shape="rect" id="node28" href="$classPathCamera.html" title="A camera that moves along a path. The camera can then be made to travel along this path forwards or b..." alt="" coords="961,537,1053,564"/>
+<area shape="rect" id="node29" href="$classPlayer.html" title="Player" alt="" coords="978,588,1035,615"/>
+<area shape="rect" id="node31" href="$classRigidShape.html" title="The RigidShape class implements rigid&#45;body physics for DTS objects in the world. " alt="" coords="963,639,1050,665"/>
+<area shape="rect" id="node32" href="$classStaticShape.html" title="The most basic 3D shape with a datablock available in Torque 3D. " alt="" coords="961,689,1052,716"/>
+<area shape="rect" id="node34" href="$classVehicle.html" title="Base functionality shared by all Vehicles (FlyingVehicle, HoverVehicle, WheeledVehicle). " alt="" coords="975,740,1038,767"/>
+<area shape="rect" id="node21" href="$classProximityMine.html" title="A simple proximity mine. " alt="" coords="1123,335,1224,361"/>
+<area shape="rect" id="node22" href="$classTurretShape.html" title="TurretShape" alt="" coords="1126,385,1221,412"/>
+<area shape="rect" id="node23" href="$classAITurretShape.html" title="AITurretShape" alt="" coords="1288,385,1395,412"/>
+<area shape="rect" id="node25" href="$classCameraBookmark.html" title="Special type of mission marker which allows a level editor&#39;s camera to jump to specific points..." alt="" coords="1112,436,1235,463"/>
+<area shape="rect" id="node26" href="$classSpawnSphere.html" title="This class is used for creating any type of game object, assigning it a class, datablock, and other properties when it is spawned. " alt="" coords="1122,487,1225,513"/>
+<area shape="rect" id="node27" href="$classWayPoint.html" title="Special type of marker, distinguished by a name and team ID number. " alt="" coords="1136,537,1211,564"/>
+<area shape="rect" id="node30" href="$classAIPlayer.html" title="A Player object not controlled by conventional input, but by an AI engine. " alt="" coords="1139,588,1208,615"/>
+<area shape="rect" id="node33" href="$classScopeAlwaysShape.html" title="StaticShape object which is always scoped. " alt="" coords="1107,639,1240,665"/>
+<area shape="rect" id="node35" href="$classFlyingVehicle.html" title="A flying vehicle. " alt="" coords="1125,689,1221,716"/>
+<area shape="rect" id="node36" href="$classHoverVehicle.html" title="A hovering vehicle. " alt="" coords="1125,740,1221,767"/>
+<area shape="rect" id="node37" href="$classWheeledVehicle.html" title="A wheeled vehicle. " alt="" coords="1117,791,1230,817"/>
+</map>

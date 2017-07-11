@@ -1,0 +1,9 @@
+<map id="GuiTickCtrl" name="GuiTickCtrl">
+<area shape="rect" id="node6" href="$classGuiAutoScrollCtrl.html" title="A container that scrolls its child control up over time. " alt="" coords="5,379,124,405"/>
+<area shape="rect" id="node7" href="$classGuiMenuBar.html" title="GUI Control which displays a horizontal bar with individual drop&#45;down menu items. Each menu item may ..." alt="" coords="149,379,239,405"/>
+<area shape="rect" id="node2" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="88,229,169,256"/>
+<area shape="rect" id="node3" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="89,155,168,181"/>
+<area shape="rect" id="node4" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="97,80,160,107"/>
+<area shape="rect" id="node5" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="88,5,169,32"/>
+<area shape="rect" id="node8" href="$classGuiPlatformGenericMenuBar.html" title="GuiPlatformGenericMenuBar" alt="" coords="103,453,285,480"/>
+</map>

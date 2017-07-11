@@ -1,0 +1,7 @@
+<map id="SFXModifier" name="SFXModifier">
+<area shape="rect" id="node3" href="$classSFXOneShotModifier.html" title="An SFXModifier that is triggered once after passing a certain playback position. " alt="" coords="5,155,145,181"/>
+<area shape="rect" id="node5" href="$classSFXRangeModifier.html" title="An SFXModifier that is spans a certain range of playback time. " alt="" coords="169,155,296,181"/>
+<area shape="rect" id="node2" href="$classIPolled.html" title="Interface for objects that need continuous explicit updates from an outside source. " alt="" coords="124,5,184,32"/>
+<area shape="rect" id="node4" href="$classSFXMarkerModifier.html" title="A modifer that calls a method on the SFXSource when a particular playback position is passed..." alt="" coords="10,229,141,256"/>
+<area shape="rect" id="node6" href="$classSFXFadeModifier.html" title="A volume fade effect (fade&#45;in or fade&#45;out). " alt="" coords="173,229,292,256"/>
+</map>

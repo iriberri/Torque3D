@@ -1,0 +1,29 @@
+<map id="Signal&lt; Signature &gt;" name="Signal&lt; Signature &gt;">
+<area shape="rect" id="node2" href="$classSignal.html" title="Signal\&lt; void(SetModification\l modification, SimSet *set,\l SimObject *object) \&gt;" alt="" coords="441,44,626,100"/>
+<area shape="rect" id="node3" href="$classSignal.html" title="Signal\&lt; void(F32)\&gt;" alt="" coords="467,124,600,151"/>
+<area shape="rect" id="node4" href="$classSignal.html" title="Signal\&lt; void(void)\&gt;" alt="" coords="466,175,601,201"/>
+<area shape="rect" id="node5" href="$classSignal.html" title="Signal\&lt; void(SFXBuffer *) \&gt;" alt="" coords="441,225,626,252"/>
+<area shape="rect" id="node6" href="$classSignal.html" title="Signal\&lt; void(MatrixF *) \&gt;" alt="" coords="448,276,619,303"/>
+<area shape="rect" id="node7" href="$classSignal.html" title="Signal\&lt; void() \&gt;" alt="" coords="475,327,591,353"/>
+<area shape="rect" id="node8" href="$classSignal.html" title="Signal\&lt; void(SFXVoice *) \&gt;" alt="" coords="442,377,625,404"/>
+<area shape="rect" id="node9" href="$classSignal.html" title="Signal\&lt; void(Component *) \&gt;" alt="" coords="437,428,630,455"/>
+<area shape="rect" id="node10" href="$classSignal.html" title="Signal\&lt; void(SimTime)\&gt;" alt="" coords="452,479,615,505"/>
+<area shape="rect" id="node11" href="$classSignal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="433,529,633,556"/>
+<area shape="rect" id="node12" href="$classSignal.html" title="Signal\&lt; void(RenderComponent\lInterface *) \&gt;" alt="" coords="431,581,635,622"/>
+<area shape="rect" id="node13" href="$classSignal.html" title="Signal\&lt; void(GFXAdapterType\l type)\&gt;" alt="" coords="436,646,631,687"/>
+<area shape="rect" id="node14" href="$classSignal.html" title="Signal\&lt; void(const\l vr::VREvent_t &amp;evt)\&gt;" alt="" coords="459,711,608,753"/>
+<area shape="rect" id="node15" href="$classSignal.html" title="Signal\&lt; void(PhysicsCollision\l *collision) \&gt;" alt="" coords="440,777,627,818"/>
+<area shape="rect" id="node16" href="$classSignal.html" title="Signal\&lt; void(PhysicsUser\lData *us, PhysicsUserData\l *them, const Point3F &amp;hitPoint,\l const Point3F &amp;hitForce)\&gt;" alt="" coords="430,842,637,913"/>
+<area shape="rect" id="node17" href="$classSignal.html" title="Signal\&lt; void(S32, const\l char **)\&gt;" alt="" coords="454,937,613,978"/>
+<area shape="rect" id="node18" href="$classSignal.html" title="Signal\&lt; void(Point3F\l normal, Vector\&lt; SceneObject\l * \&gt; overlappedObjects) \&gt;" alt="" coords="435,1003,631,1059"/>
+<area shape="rect" id="node19" href="$classSignal.html" title="Signal\&lt; void(SimObject\l *, String, String) \&gt;" alt="" coords="455,1083,612,1125"/>
+<area shape="rect" id="node20" href="$classSignal.html" title="Signal\&lt; void(SFXProfile *) \&gt;" alt="" coords="440,1149,627,1176"/>
+<area shape="rect" id="node21" href="$classSignal.html" title="Signal\&lt; void(const\l Path &amp;)\&gt;" alt="" coords="469,1201,597,1242"/>
+<area shape="rect" id="node22" href="$classSignal.html" title="Signal\&lt; void(SFXParameter\l *parameter, SFXParameterEvent\l event) \&gt;" alt="" coords="425,1267,641,1323"/>
+<area shape="rect" id="node23" href="$classSignal.html" title="Signal\&lt; void(StateMachine\l *, S32 stateIdx) \&gt;" alt="" coords="446,1347,621,1389"/>
+<area shape="rect" id="node24" href="$classSignal.html" title="Signal\&lt; void(SFXSystemEvent\lType event) \&gt;" alt="" coords="436,1413,631,1454"/>
+<area shape="rect" id="node25" href="$classSignal.html" title="Signal\&lt; void(const\l Torque::Path &amp;path)\&gt;" alt="" coords="456,1478,611,1519"/>
+<area shape="rect" id="node26" href="$classSignal.html" title="Signal\&lt; void(WorldEditor *)\&gt;" alt="" coords="438,1544,629,1571"/>
+<area shape="rect" id="node27" href="$classSignal.html" title="Signal\&lt; void(SFXBuffer\l *buffer, Status newStatus) \&gt;" alt="" coords="436,1595,631,1637"/>
+<area shape="rect" id="node29" href="$classSignal.html" title="Signal\&lt; void(U32, Terrain\lBlock *, const Point2I\l &amp;, const Point2I &amp;)\&gt;" alt="" coords="448,1727,619,1783"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AsyncBufferedReadItem&lt; T, Stream &gt;" name="AsyncBufferedReadItem&lt; T, Stream &gt;">
+<area shape="rect" id="node2" href="$classThreadPool_1_1WorkItem.html" title="An action to execute on a worker thread from the pool. " alt="" coords="25,200,144,227"/>
+<area shape="rect" id="node3" href="$classThreadSafeRefCount.html" title="ThreadSafeRefCount\l\&lt; WorkItem \&gt;" alt="" coords="14,109,155,151"/>
+<area shape="rect" id="node4" href="$classThreadSafeRefCount.html" title="Baseclass for concurrently reference&#45;counted objects. " alt="" coords="14,5,155,47"/>
+</map>

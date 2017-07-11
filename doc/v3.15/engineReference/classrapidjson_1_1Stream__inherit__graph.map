@@ -1,0 +1,8 @@
+<map id="rapidjson::Stream" name="rapidjson::Stream">
+<area shape="rect" id="node2" href="$classrapidjson_1_1FileReadStream.html" title="File byte stream for input using fread(). " alt="" coords="187,5,363,32"/>
+<area shape="rect" id="node3" href="$classrapidjson_1_1FileStream.html" title="(Depreciated) Wrapper of C file stream for input or output. " alt="" coords="202,56,349,83"/>
+<area shape="rect" id="node4" href="$classrapidjson_1_1FileWriteStream.html" title="Wrapper of C file stream for input using fread(). " alt="" coords="186,107,365,133"/>
+<area shape="rect" id="node5" href="$structrapidjson_1_1GenericInsituStringStream.html" title="A read&#45;write string stream. " alt="" coords="188,158,363,199"/>
+<area shape="rect" id="node6" href="$structrapidjson_1_1GenericStringBuffer.html" title="Represents an in&#45;memory output stream. " alt="" coords="180,223,371,265"/>
+<area shape="rect" id="node7" href="$structrapidjson_1_1GenericStringStream.html" title="Read&#45;only string stream. " alt="" coords="194,289,357,330"/>
+</map>

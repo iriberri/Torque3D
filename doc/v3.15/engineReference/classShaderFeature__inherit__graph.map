@@ -1,0 +1,50 @@
+<map id="ShaderFeature" name="ShaderFeature">
+<area shape="rect" id="node2" href="$classConditionerFeature.html" title="ConditionerFeature" alt="" coords="162,107,293,133"/>
+<area shape="rect" id="node7" href="$classShaderFeatureGLSL.html" title="ShaderFeatureGLSL" alt="" coords="160,1196,295,1223"/>
+<area shape="rect" id="node49" href="$classShaderFeatureHLSL.html" title="ShaderFeatureHLSL" alt="" coords="160,309,295,336"/>
+<area shape="rect" id="node3" href="$classAdvancedLightBufferConditioner.html" title="AdvancedLightBufferConditioner" alt="" coords="343,157,545,184"/>
+<area shape="rect" id="node4" href="$classGBufferConditionerGLSL.html" title="GBufferConditionerGLSL" alt="" coords="365,5,523,32"/>
+<area shape="rect" id="node5" href="$classGBufferConditionerHLSL.html" title="GBufferConditionerHLSL" alt="" coords="365,56,523,83"/>
+<area shape="rect" id="node6" href="$classLinearEyeDepthConditioner.html" title="LinearEyeDepthConditioner" alt="" coords="357,107,531,133"/>
+<area shape="rect" id="node8" href="$classAccuCoverageFeature.html" title="AccuCoverageFeature" alt="" coords="371,259,517,285"/>
+<area shape="rect" id="node9" href="$classAccuDirectionFeature.html" title="AccuDirectionFeature" alt="" coords="373,309,515,336"/>
+<area shape="rect" id="node10" href="$classAccuScaleFeature.html" title="AccuScaleFeature" alt="" coords="382,360,506,387"/>
+<area shape="rect" id="node11" href="$classAccuSpecularFeature.html" title="AccuSpecularFeature" alt="" coords="373,411,515,437"/>
+<area shape="rect" id="node12" href="$classAccuStrengthFeature.html" title="AccuStrengthFeature" alt="" coords="373,208,515,235"/>
+<area shape="rect" id="node13" href="$classAccuTexFeatGLSL.html" title="Accu texture. " alt="" coords="383,1829,505,1856"/>
+<area shape="rect" id="node14" href="$classAlphaTestGLSL.html" title="AlphaTestGLSL" alt="" coords="391,1880,497,1907"/>
+<area shape="rect" id="node15" href="$classBumpFeatGLSL.html" title="The Bumpmap feature will read the normal map and transform it by the inverse of the worldToTanget mat..." alt="" coords="391,1931,497,1957"/>
+<area shape="rect" id="node16" href="$classDeferredEmptySpecGLSL.html" title="DeferredEmptySpecGLSL" alt="" coords="363,1981,525,2008"/>
+<area shape="rect" id="node17" href="$classDeferredMatInfoFlagsGLSL.html" title="DeferredMatInfoFlagsGLSL" alt="" coords="357,2032,531,2059"/>
+<area shape="rect" id="node18" href="$classDeferredMinnaertGLSL.html" title="DeferredMinnaertGLSL" alt="" coords="369,2083,519,2109"/>
+<area shape="rect" id="node19" href="$classDeferredSpecMapGLSL.html" title="DeferredSpecMapGLSL" alt="" coords="368,2133,520,2160"/>
+<area shape="rect" id="node20" href="$classDeferredSpecVarsGLSL.html" title="DeferredSpecVarsGLSL" alt="" coords="367,2184,521,2211"/>
+<area shape="rect" id="node21" href="$classDeferredSubSurfaceGLSL.html" title="DeferredSubSurfaceGLSL" alt="" coords="361,2235,527,2261"/>
+<area shape="rect" id="node22" href="$classDepthOutGLSL.html" title="DepthOutGLSL" alt="" coords="393,461,495,488"/>
+<area shape="rect" id="node23" href="$classDetailFeatGLSL.html" title="Detail map. " alt="" coords="391,512,497,539"/>
+<area shape="rect" id="node24" href="$classDiffuseFeatureGLSL.html" title="Diffuse color. " alt="" coords="377,563,511,589"/>
+<area shape="rect" id="node25" href="$classDiffuseMapFeatGLSL.html" title="Base texture. " alt="" coords="375,613,513,640"/>
+<area shape="rect" id="node26" href="$classDiffuseVertColorFeatureGLSL.html" title="Diffuse vertex color. " alt="" coords="351,664,537,691"/>
+<area shape="rect" id="node27" href="$classEyeSpaceDepthOutGLSL.html" title="EyeSpaceDepthOutGLSL" alt="" coords="365,715,523,741"/>
+<area shape="rect" id="node28" href="$classFogFeatGLSL.html" title="Fog. " alt="" coords="396,765,492,792"/>
+<area shape="rect" id="node29" href="$classFoliageFeatureGLSL.html" title="FoliageFeatureGLSL" alt="" coords="377,816,511,843"/>
+<area shape="rect" id="node30" href="$classGlowMaskGLSL.html" title="Special feature used to mask out the RGB color for non&#45;glow passes of glow materials. " alt="" coords="391,867,497,893"/>
+<area shape="rect" id="node31" href="$classHardwareSkinningFeatureGLSL.html" title="Hardware Skinning. " alt="" coords="345,917,543,944"/>
+<area shape="rect" id="node32" href="$classHDROutGLSL.html" title="This should be the final feature on most pixel shaders which encodes the color for the current HDR ta..." alt="" coords="397,968,491,995"/>
+<area shape="rect" id="node33" href="$classImposterVertFeatureGLSL.html" title="Special feature for unpacking imposter verts. " alt="" coords="359,1019,529,1045"/>
+<area shape="rect" id="node34" href="$classLightmapFeatGLSL.html" title="Lightmap. " alt="" coords="381,1069,507,1096"/>
+<area shape="rect" id="node35" href="$classNamedFeatureGLSL.html" title="NamedFeatureGLSL" alt="" coords="377,1120,511,1147"/>
+<area shape="rect" id="node36" href="$classNormalsOutFeatGLSL.html" title="This feature is used to render normals to the diffuse target for imposter rendering. " alt="" coords="373,1171,515,1197"/>
+<area shape="rect" id="node37" href="$classOverlayTexFeatGLSL.html" title="Overlay texture. " alt="" coords="375,1221,513,1248"/>
+<area shape="rect" id="node38" href="$classParaboloidVertTransformGLSL.html" title="ParaboloidVertTransformGLSL" alt="" coords="347,1272,541,1299"/>
+<area shape="rect" id="node39" href="$classParallaxFeatGLSL.html" title="This feature either generates the cheap yet effective offset mapping style parallax or the much more ..." alt="" coords="384,1323,504,1349"/>
+<area shape="rect" id="node40" href="$classParticleNormalFeatureGLSL.html" title="ParticleNormalFeatureGLSL" alt="" coords="355,1373,533,1400"/>
+<area shape="rect" id="node41" href="$classPixelSpecularGLSL.html" title="A per&#45;pixel specular feature. " alt="" coords="381,1424,507,1451"/>
+<area shape="rect" id="node42" href="$classReflectCubeFeatGLSL.html" title="Reflect Cubemap. " alt="" coords="373,1475,515,1501"/>
+<area shape="rect" id="node43" href="$classRenderTargetZeroGLSL.html" title="RenderTargetZeroGLSL" alt="" coords="367,1525,521,1552"/>
+<area shape="rect" id="node44" href="$classRTLightingFeatGLSL.html" title="Vertex lighting based on the normal and the light direction passed through the vertex color..." alt="" coords="377,1576,511,1603"/>
+<area shape="rect" id="node45" href="$classSpecularMapGLSL.html" title="A texture source for the PixSpecular feature. " alt="" coords="382,1627,506,1653"/>
+<area shape="rect" id="node46" href="$classTerrainBlankInfoMapFeatGLSL.html" title="TerrainBlankInfoMapFeatGLSL" alt="" coords="347,1677,541,1704"/>
+<area shape="rect" id="node47" href="$classTerrainFeatGLSL.html" title="A shared base class for terrain features which includes some helper functions. " alt="" coords="385,1728,503,1755"/>
+<area shape="rect" id="node48" href="$classTexAnimGLSL.html" title="Tex Anim. " alt="" coords="394,1779,494,1805"/>
+</map>

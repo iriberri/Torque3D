@@ -1,0 +1,20 @@
+<map id="GuiInspectorGroup" name="GuiInspectorGroup">
+<area shape="rect" id="node15" href="$classGuiInspectorComponentGroup.html" title="GuiInspectorComponentGroup" alt="" coords="1571,5,1763,32"/>
+<area shape="rect" id="node16" href="$classGuiInspectorDynamicGroup.html" title="GuiInspectorDynamicGroup" alt="" coords="1579,56,1754,83"/>
+<area shape="rect" id="node17" href="$classGuiInspectorEntityGroup.html" title="GuiInspectorEntityGroup" alt="" coords="1587,107,1746,133"/>
+<area shape="rect" id="node18" href="$classGuiInspectorMountingGroup.html" title="GuiInspectorMountingGroup" alt="" coords="1577,157,1756,184"/>
+<area shape="rect" id="node19" href="$classGuiInspectorVariableGroup.html" title="GuiInspectorVariableGroup" alt="" coords="1579,208,1754,235"/>
+<area shape="rect" id="node2" href="$classGuiRolloutCtrl.html" title="A container with an optional header that allows its child control to be collapsed using an animated e..." alt="" coords="1249,107,1348,133"/>
+<area shape="rect" id="node3" href="$classGuiTickCtrl.html" title="This Gui Control is designed to be subclassed to let people create controls which want to receive upd..." alt="" coords="1119,107,1201,133"/>
+<area shape="rect" id="node4" href="$classGuiControl.html" title="GuiControl" alt="" coords="989,81,1071,108"/>
+<area shape="rect" id="node5" href="$classSimGroup.html" title="A group of SimObjects. " alt="" coords="863,81,941,108"/>
+<area shape="rect" id="node6" href="$classSimSet.html" title="A set of SimObjects. " alt="" coords="752,81,815,108"/>
+<area shape="rect" id="node7" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="614,56,695,83"/>
+<area shape="rect" id="node8" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="453,31,557,57"/>
+<area shape="rect" id="node9" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="308,31,405,57"/>
+<area shape="rect" id="node10" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="153,31,260,57"/>
+<area shape="rect" id="node11" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="5,31,105,57"/>
+<area shape="rect" id="node12" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="453,81,557,108"/>
+<area shape="rect" id="node13" href="$classTamlChildren.html" title="TamlChildren" alt="" coords="605,107,704,133"/>
+<area shape="rect" id="node14" href="$classITickable.html" title="This interface allows you to let any object be ticked. " alt="" coords="993,132,1067,159"/>
+</map>

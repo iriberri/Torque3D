@@ -1,0 +1,50 @@
+<map id="ProcessObject" name="ProcessObject">
+<area shape="rect" id="node2" href="$classSceneObject.html" title="A 3D object. " alt="" coords="156,917,251,944"/>
+<area shape="rect" id="node3" href="$classBasicClouds.html" title="BasicClouds" alt="" coords="339,5,429,32"/>
+<area shape="rect" id="node4" href="$classCloudLayer.html" title="CloudLayer" alt="" coords="341,56,427,83"/>
+<area shape="rect" id="node5" href="$classConvexShape.html" title="ConvexShape" alt="" coords="335,107,433,133"/>
+<area shape="rect" id="node6" href="$classCoverPoint.html" title="CoverPoint" alt="" coords="343,157,425,184"/>
+<area shape="rect" id="node7" href="$classDecalManager.html" title="Manage decals in the scene. " alt="" coords="333,208,435,235"/>
+<area shape="rect" id="node8" href="$classDecalRoad.html" title="DecalRoad" alt="" coords="343,259,425,285"/>
+<area shape="rect" id="node9" href="$classForest.html" title="Forest" alt="" coords="355,309,413,336"/>
+<area shape="rect" id="node10" href="$classForestWindEmitter.html" title="ForestWindEmitter" alt="" coords="320,360,448,387"/>
+<area shape="rect" id="node11" href="$classfxFoliageReplicator.html" title="fxFoliageReplicator" alt="" coords="319,411,449,437"/>
+<area shape="rect" id="node12" href="$classfxShapeReplicator.html" title="fxShapeReplicator" alt="" coords="321,461,447,488"/>
+<area shape="rect" id="node13" href="$classGameBase.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="343,512,425,539"/>
+<area shape="rect" id="node24" href="$classGroundCover.html" title="GroundCover" alt="" coords="336,563,432,589"/>
+<area shape="rect" id="node25" href="$classGroundPlane.html" title="A virtually infinite XY ground plane primitive. " alt="" coords="337,613,431,640"/>
+<area shape="rect" id="node26" href="$classLightBase.html" title="LightBase" alt="" coords="346,664,422,691"/>
+<area shape="rect" id="node27" href="$classMarker.html" title="Marker" alt="" coords="353,715,415,741"/>
+<area shape="rect" id="node28" href="$classMeshRoad.html" title="MeshRoad" alt="" coords="343,765,425,792"/>
+<area shape="rect" id="node29" href="$classNavMesh.html" title="Represents a set of bounds within which a Recast navigation mesh is generated. " alt="" coords="347,816,421,843"/>
+<area shape="rect" id="node30" href="$classNavPath.html" title="NavPath" alt="" coords="350,867,418,893"/>
+<area shape="rect" id="node31" href="$classPhysicalZone.html" title="PhysicalZone" alt="" coords="337,917,431,944"/>
+<area shape="rect" id="node32" href="$classPhysicsForce.html" title="A physics force controller used for gameplay effects. " alt="" coords="337,968,431,995"/>
+<area shape="rect" id="node33" href="$classPrefab.html" title="Prefab" alt="" coords="355,1019,413,1045"/>
+<area shape="rect" id="node34" href="$classRenderMeshExample.html" title="RenderMeshExample" alt="" coords="313,1069,455,1096"/>
+<area shape="rect" id="node35" href="$classRenderObjectExample.html" title="RenderObjectExample" alt="" coords="310,1120,458,1147"/>
+<area shape="rect" id="node36" href="$classRenderShapeExample.html" title="RenderShapeExample" alt="" coords="311,1171,457,1197"/>
+<area shape="rect" id="node37" href="$classScatterSky.html" title="ScatterSky" alt="" coords="343,1221,425,1248"/>
+<area shape="rect" id="node38" href="$classSceneSpace.html" title="Abstract base class for SceneObjects that define subspaces in a scene. " alt="" coords="338,1272,430,1299"/>
+<area shape="rect" id="node39" href="$classSFXEmitter.html" title="The SFXEmitter is used to place 2D or 3D sounds into a mission. " alt="" coords="341,1323,427,1349"/>
+<area shape="rect" id="node40" href="$classSkyBox.html" title="SkyBox" alt="" coords="353,1373,415,1400"/>
+<area shape="rect" id="node41" href="$classSun.html" title="Sun" alt="" coords="362,1424,406,1451"/>
+<area shape="rect" id="node42" href="$classT3DSceneComponent.html" title="T3DSceneComponent" alt="" coords="311,1475,457,1501"/>
+<area shape="rect" id="node43" href="$classTerrainBlock.html" title="TerrainBlock" alt="" coords="337,1525,431,1552"/>
+<area shape="rect" id="node44" href="$classTimeOfDay.html" title="TimeOfDay" alt="" coords="341,1576,427,1603"/>
+<area shape="rect" id="node45" href="$classTSStatic.html" title="A simple mesh shape with optional ambient animation. " alt="" coords="349,1627,419,1653"/>
+<area shape="rect" id="node46" href="$classVehicleBlocker.html" title="VehicleBlocker" alt="" coords="332,1677,436,1704"/>
+<area shape="rect" id="node47" href="$classVolumetricFog.html" title="VolumetricFog" alt="" coords="332,1728,436,1755"/>
+<area shape="rect" id="node48" href="$classVolumetricFogRTManager.html" title="VolumetricFogRTManager" alt="" coords="299,1779,469,1805"/>
+<area shape="rect" id="node49" href="$classWaterObject.html" title="WaterObject" alt="" coords="337,1829,431,1856"/>
+<area shape="rect" id="node14" href="$classCollisionTrigger.html" title="CollisionTrigger" alt="" coords="537,284,648,311"/>
+<area shape="rect" id="node15" href="$classDebris.html" title="Debris" alt="" coords="563,335,622,361"/>
+<area shape="rect" id="node16" href="$classEntity.html" title="Entity" alt="" coords="566,385,619,412"/>
+<area shape="rect" id="node17" href="$classExplosion.html" title="Explosion" alt="" coords="555,436,630,463"/>
+<area shape="rect" id="node18" href="$classLightning.html" title="Lightning" alt="" coords="556,487,629,513"/>
+<area shape="rect" id="node19" href="$classOpenVRTrackedObject.html" title="Implements a GameObject which tracks an OpenVR controller. " alt="" coords="517,537,668,564"/>
+<area shape="rect" id="node20" href="$classParticleEmitter.html" title="ParticleEmitter" alt="" coords="540,588,645,615"/>
+<area shape="rect" id="node21" href="$classParticleEmitterNode.html" title="ParticleEmitterNode" alt="" coords="525,639,660,665"/>
+<area shape="rect" id="node22" href="$classPhysicsDebris.html" title="PhysicsDebris" alt="" coords="543,689,642,716"/>
+<area shape="rect" id="node23" href="$classPhysicsShape.html" title="A simple single body dynamic physics object. " alt="" coords="543,740,642,767"/>
+</map>

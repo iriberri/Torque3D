@@ -1,0 +1,12 @@
+<map id="SFXTrack" name="SFXTrack">
+<area shape="rect" id="node9" href="$classSFXFMODEvent.html" title="An event in an FMOD Designer project. " alt="" coords="5,528,116,555"/>
+<area shape="rect" id="node10" href="$classSFXPlayList.html" title="A playback list of SFXTracks. " alt="" coords="140,528,227,555"/>
+<area shape="rect" id="node11" href="$classSFXProfile.html" title="The SFXProfile is used to define a sound for playback. " alt="" coords="251,528,332,555"/>
+<area shape="rect" id="node2" href="$classSimDataBlock.html" title="Root DataBlock class. " alt="" coords="134,379,233,405"/>
+<area shape="rect" id="node3" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="143,304,224,331"/>
+<area shape="rect" id="node4" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="67,229,171,256"/>
+<area shape="rect" id="node5" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="71,155,168,181"/>
+<area shape="rect" id="node6" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="66,80,173,107"/>
+<area shape="rect" id="node7" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="69,5,169,32"/>
+<area shape="rect" id="node8" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="195,229,299,256"/>
+</map>

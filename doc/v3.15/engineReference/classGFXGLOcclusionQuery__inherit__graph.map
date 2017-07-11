@@ -1,0 +1,4 @@
+<map id="GFXGLOcclusionQuery" name="GFXGLOcclusionQuery">
+<area shape="rect" id="node2" href="$classGFXOcclusionQuery.html" title="A geometry visibility query object. " alt="" coords="12,80,145,107"/>
+<area shape="rect" id="node3" href="$classGFXResource.html" title="Mixin for the purpose of tracking GFX resources owned by a GFXDevice. " alt="" coords="29,5,128,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GFXVertexDecl" name="GFXVertexDecl">
+<area shape="rect" id="node2" href="$classGFXD3D11Device_1_1D3D11VertexDecl.html" title="GFXD3D11Device::D3D11VertexDecl" alt="" coords="5,80,232,107"/>
+<area shape="rect" id="node3" href="$classGFXD3D9Device_1_1D3D9VertexDecl.html" title="GFXD3D9Device::D3D9VertexDecl" alt="" coords="256,80,469,107"/>
+<area shape="rect" id="node4" href="$classGFXGLVertexDecl.html" title="GFXGLVertexDecl" alt="" coords="493,80,613,107"/>
+</map>
