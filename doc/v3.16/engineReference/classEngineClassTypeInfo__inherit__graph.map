@@ -1,0 +1,9 @@
+<map id="EngineClassTypeInfo&lt; T, Base &gt;" name="EngineClassTypeInfo&lt; T, Base &gt;">
+<area shape="rect" id="node2" href="$classEngineTypeInfo.html" title="Information about an engine type. " alt="" coords="20,453,131,480"/>
+<area shape="rect" id="node3" href="$classEngineExportScope.html" title="A group of engine exports. " alt="" coords="10,379,141,405"/>
+<area shape="rect" id="node4" href="$classEngineExport.html" title="Information about an entity exported by the engine API. " alt="" coords="27,304,123,331"/>
+<area shape="rect" id="node5" href="$classStaticEngineObject.html" title="A statically allocated engine object. " alt="" coords="11,229,140,256"/>
+<area shape="rect" id="node6" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="27,155,124,181"/>
+<area shape="rect" id="node7" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="22,80,129,107"/>
+<area shape="rect" id="node8" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="25,5,125,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MRandomGenerator" name="MRandomGenerator">
+<area shape="rect" id="node2" href="$classMRandomLCG.html" title="Linear Congruential Method, the &quot;minimal standard generator&quot;. " alt="" coords="5,80,107,107"/>
+<area shape="rect" id="node3" href="$classMRandomR250.html" title="Fast, very good random numbers. " alt="" coords="131,80,239,107"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="GuiContainer" name="GuiContainer">
+<area shape="rect" id="node6" href="$classGuiFrameSetCtrl.html" title="A gui control allowing a window to be subdivided into panes, each of which displays a gui control chi..." alt="" coords="646,5,762,32"/>
+<area shape="rect" id="node7" href="$classGuiMaterialCtrl.html" title="Container for GuiMaterialPreview. " alt="" coords="651,56,757,83"/>
+<area shape="rect" id="node8" href="$classGuiPanel.html" title="The GuiPanel panel is a container that when opaque will draw a left to right gradient using its profi..." alt="" coords="669,107,739,133"/>
+<area shape="rect" id="node10" href="$classGuiScrollCtrl.html" title="A container that allows to view one or more possibly larger controls inside its area by providing hor..." alt="" coords="658,157,750,184"/>
+<area shape="rect" id="node11" href="$classGuiSplitContainer.html" title="A container that splits its area between two child controls. " alt="" coords="644,208,764,235"/>
+<area shape="rect" id="node12" href="$classGuiTabBookCtrl.html" title="A container. " alt="" coords="649,259,759,285"/>
+<area shape="rect" id="node13" href="$classGuiTextCtrl.html" title="GUI control object this displays a single line of text, without TorqueML. " alt="" coords="661,309,747,336"/>
+<area shape="rect" id="node24" href="$classGuiTSCtrl.html" title="Abstract base class for controls that render 3D scenes. " alt="" coords="666,664,742,691"/>
+<area shape="rect" id="node40" href="$classGuiWindowCtrl.html" title="A window with a title bar and an optional set of buttons. " alt="" coords="651,715,757,741"/>
+<area shape="rect" id="node2" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="372,208,453,235"/>
+<area shape="rect" id="node3" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="245,208,324,235"/>
+<area shape="rect" id="node4" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="135,208,197,235"/>
+<area shape="rect" id="node5" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,208,87,235"/>
+<area shape="rect" id="node9" href="$classGuiFormCtrl.html" title="A generic form control. " alt="" coords="844,56,935,83"/>
+<area shape="rect" id="node14" href="$classGuiBubbleTextCtrl.html" title="A single&#45;line text control that displays its text in a multi&#45;line popup when clicked. " alt="" coords="828,107,951,133"/>
+<area shape="rect" id="node15" href="$classGuiPopUpMenuCtrl.html" title="A control that allows to select a value from a drop&#45;down list. " alt="" coords="826,157,953,184"/>
+<area shape="rect" id="node16" href="$classGuiPopUpMenuCtrlEx.html" title="A control that allows to select a value from a drop&#45;down list. " alt="" coords="819,208,959,235"/>
+<area shape="rect" id="node17" href="$classGuiProgressBitmapCtrl.html" title="A horizontal progress bar rendered from a repeating image. " alt="" coords="815,259,964,285"/>
+<area shape="rect" id="node18" href="$classGuiProgressCtrl.html" title="GUI Control which displays a horizontal bar which increases as the progress value of 0..." alt="" coords="834,309,945,336"/>
+<area shape="rect" id="node19" href="$classGuiTabPageCtrl.html" title="A single page in a GuiTabBookCtrl. " alt="" coords="834,360,945,387"/>
+<area shape="rect" id="node20" href="$classGuiTextEditCtrl.html" title="A component that places a text entry box on the screen. " alt="" coords="836,411,943,437"/>
+<area shape="rect" id="node21" href="$classGuiConsoleEditCtrl.html" title="Text entry element of a GuiConsole. " alt="" coords="1041,309,1167,336"/>
+<area shape="rect" id="node22" href="$classGuiTextEditSliderBitmapCtrl.html" title="GUI Control which displays a numerical value which can be increased or decreased using a pair of bitm..." alt="" coords="1015,360,1193,387"/>
+<area shape="rect" id="node23" href="$classGuiTextEditSliderCtrl.html" title="GUI Control which displays a numerical value which can be increased or decreased using a pair of arro..." alt="" coords="1035,411,1173,437"/>
+<area shape="rect" id="node25" href="$classEditTSCtrl.html" title="3D view control used specifically by Torque 3D&#39;s editors. " alt="" coords="850,613,929,640"/>
+<area shape="rect" id="node37" href="$classGameTSCtrl.html" title="The main 3D viewport for a Torque 3D game. " alt="" coords="844,664,935,691"/>
+<area shape="rect" id="node38" href="$classGuiMaterialPreview.html" title="Visual preview of a specified Material. " alt="" coords="824,715,955,741"/>
+<area shape="rect" id="node39" href="$classGuiObjectView.html" title="GUI control which displays a 3D model. " alt="" coords="837,765,942,792"/>
+<area shape="rect" id="node26" href="$classForestEditorCtrl.html" title="The actual Forest Editor control. " alt="" coords="1049,461,1159,488"/>
+<area shape="rect" id="node27" href="$classGuiConvexEditorCtrl.html" title="The base class for the sketch tool. " alt="" coords="1037,512,1171,539"/>
+<area shape="rect" id="node28" href="$classGuiDecalEditorCtrl.html" title="The base class for the Decal Editor tool. " alt="" coords="1042,563,1166,589"/>
+<area shape="rect" id="node29" href="$classGuiMeshRoadEditorCtrl.html" title="GUI tool that makes up the Mesh Road Editor. " alt="" coords="1028,613,1180,640"/>
+<area shape="rect" id="node30" href="$classGuiMissionAreaEditorCtrl.html" title="Specialized GUI used for editing the MissionArea in a level. " alt="" coords="1023,664,1185,691"/>
+<area shape="rect" id="node31" href="$classGuiNavEditorCtrl.html" title="GUI tool that makes up the Navigation Editor. " alt="" coords="1047,715,1161,741"/>
+<area shape="rect" id="node32" href="$classGuiRiverEditorCtrl.html" title="GUI tool that makes up the River Editor. " alt="" coords="1043,765,1165,792"/>
+<area shape="rect" id="node33" href="$classGuiRoadEditorCtrl.html" title="GUI tool that makes up the Decal Road Editor. " alt="" coords="1043,816,1165,843"/>
+<area shape="rect" id="node34" href="$classGuiShapeEdPreview.html" title="This control provides the 3D view for the Shape Editor tool, and is not intended for general purpose ..." alt="" coords="1037,867,1171,893"/>
+<area shape="rect" id="node35" href="$classTerrainEditor.html" title="The base Terrain Editor tool. " alt="" coords="1055,917,1153,944"/>
+<area shape="rect" id="node36" href="$classWorldEditor.html" title="The main World Editor tool class. " alt="" coords="1059,968,1149,995"/>
+<area shape="rect" id="node41" href="$classGuiWindowCollapseCtrl.html" title="GuiWindowCollapseCtrl" alt="" coords="812,816,967,843"/>
+</map>

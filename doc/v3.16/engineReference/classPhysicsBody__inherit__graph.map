@@ -1,0 +1,6 @@
+<map id="PhysicsBody" name="PhysicsBody">
+<area shape="rect" id="node4" href="$classBtBody.html" title="BtBody" alt="" coords="5,229,65,256"/>
+<area shape="rect" id="node5" href="$classPx3Body.html" title="Px3Body" alt="" coords="90,229,159,256"/>
+<area shape="rect" id="node2" href="$classPhysicsObject.html" title="PhysicsObject" alt="" coords="29,80,129,107"/>
+<area shape="rect" id="node3" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="29,5,129,32"/>
+</map>

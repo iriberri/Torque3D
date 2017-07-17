@@ -1,0 +1,26 @@
+<map id="Portal" name="Portal">
+<area shape="rect" id="node2" href="$classZone.html" title="A volume in space that encloses objects. " alt="" coords="561,1243,612,1269"/>
+<area shape="rect" id="node3" href="$classSceneAmbientSoundObject.html" title="SceneAmbientSoundObject\l\&lt; ScenePolyhedralZone \&gt;" alt="" coords="498,1152,675,1193"/>
+<area shape="rect" id="node4" href="$classScenePolyhedralZone.html" title="A simple zone space that is described by a polyhedron. " alt="" coords="429,1076,573,1103"/>
+<area shape="rect" id="node5" href="$classScenePolyhedralObject.html" title="ScenePolyhedralObject\l\&lt; SceneSimpleZone \&gt;" alt="" coords="421,972,574,1013"/>
+<area shape="rect" id="node6" href="$classSceneSimpleZone.html" title="Abstract base class for a zone space that contains only a single zone. " alt="" coords="314,849,438,875"/>
+<area shape="rect" id="node7" href="$classSceneZoneSpace.html" title="Abstract base class for an object that manages zones in a scene. " alt="" coords="316,765,436,792"/>
+<area shape="rect" id="node8" href="$classSceneSpace.html" title="Abstract base class for SceneObjects that define subspaces in a scene. " alt="" coords="330,689,422,716"/>
+<area shape="rect" id="node9" href="$classSceneObject.html" title="A 3D object. " alt="" coords="329,613,423,640"/>
+<area shape="rect" id="node10" href="$classNetObject.html" title="Superclass for ghostable networked objects. " alt="" coords="201,537,279,564"/>
+<area shape="rect" id="node11" href="$classSimGroup.html" title="A group of SimObjects. " alt="" coords="201,461,279,488"/>
+<area shape="rect" id="node12" href="$classSimSet.html" title="A set of SimObjects. " alt="" coords="209,385,271,412"/>
+<area shape="rect" id="node13" href="$classSimObject.html" title="Base class for objects involved in the simulation. " alt="" coords="114,309,195,336"/>
+<area shape="rect" id="node14" href="$classConsoleObject.html" title="Interface class to the console. " alt="" coords="7,233,111,260"/>
+<area shape="rect" id="node15" href="$classEngineObject.html" title="Base class for all objects that may be passed to the control layer. " alt="" coords="10,157,107,184"/>
+<area shape="rect" id="node16" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="5,81,112,108"/>
+<area shape="rect" id="node17" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="9,5,109,32"/>
+<area shape="rect" id="node18" href="$classTamlCallbacks.html" title="TamlCallbacks" alt="" coords="135,233,239,260"/>
+<area shape="rect" id="node19" href="$classTamlChildren.html" title="TamlChildren" alt="" coords="220,309,319,336"/>
+<area shape="rect" id="node20" href="$structSceneContainer_1_1Link.html" title="SceneContainer::Link" alt="" coords="304,537,448,564"/>
+<area shape="rect" id="node21" href="$classProcessObject.html" title="ProcessObject" alt="" coords="473,537,575,564"/>
+<area shape="rect" id="node22" href="$structIScenePolyhedralObject.html" title="Shared interface for polyhedral objects. " alt="" coords="473,765,631,792"/>
+<area shape="rect" id="node23" href="$classScenePolyhedralObject.html" title="Helper template for mixing a polyhedral volume definition into the superclass hierarchy of a SceneSpa..." alt="" coords="514,841,667,883"/>
+<area shape="rect" id="node24" href="$classBase.html" title="Base" alt="" coords="678,765,727,792"/>
+<area shape="rect" id="node25" href="$classSceneAmbientSoundObject.html" title="Template mixin to add ability to hold a custom SFXAmbience to a SceneObject. " alt="" coords="661,907,838,948"/>
+</map>

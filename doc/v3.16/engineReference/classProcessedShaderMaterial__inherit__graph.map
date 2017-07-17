@@ -1,0 +1,5 @@
+<map id="ProcessedShaderMaterial" name="ProcessedShaderMaterial">
+<area shape="rect" id="node3" href="$classProcessedCustomMaterial.html" title="ProcessedCustomMaterial" alt="" coords="5,155,175,181"/>
+<area shape="rect" id="node4" href="$classProcessedPrePassMaterial.html" title="ProcessedPrePassMaterial" alt="" coords="199,155,370,181"/>
+<area shape="rect" id="node2" href="$classProcessedMaterial.html" title="This is an abstract base class which provides the external interface all subclasses must implement..." alt="" coords="124,5,251,32"/>
+</map>

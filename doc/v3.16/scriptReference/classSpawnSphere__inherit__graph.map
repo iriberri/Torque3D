@@ -1,0 +1,10 @@
+<map id="SpawnSphere" name="SpawnSphere">
+<area shape="rect" id="node2" href="$classMissionMarker.html" title="This is a base class for all &quot;marker&quot; related objets. It is a 3D representation of a point in the lev..." alt="" coords="5,528,109,555"/>
+<area shape="rect" id="node3" href="$classShapeBase.html" title="ShapeBase" alt="" coords="15,453,100,480"/>
+<area shape="rect" id="node4" href="$classGameBase.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="16,379,99,405"/>
+<area shape="rect" id="node5" href="$classSceneObject.html" title="A networkable object that exists in the 3D world. " alt="" coords="10,304,105,331"/>
+<area shape="rect" id="node6" href="$classNetObject.html" title="Superclass for all ghostable networked objects. " alt="" coords="18,229,97,256"/>
+<area shape="rect" id="node7" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="18,155,97,181"/>
+<area shape="rect" id="node8" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="26,80,89,107"/>
+<area shape="rect" id="node9" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="17,5,98,32"/>
+</map>

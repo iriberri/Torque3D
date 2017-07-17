@@ -1,0 +1,5 @@
+<map id="PlatformWindow" name="PlatformWindow">
+<area shape="rect" id="node2" href="$classMacWindow.html" title="MacWindow" alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node3" href="$classPlatformWindowSDL.html" title="Implementation of a window on SDL. " alt="" coords="120,80,259,107"/>
+<area shape="rect" id="node4" href="$classWin32Window.html" title="Implementation of a window on Win32. " alt="" coords="283,80,387,107"/>
+</map>

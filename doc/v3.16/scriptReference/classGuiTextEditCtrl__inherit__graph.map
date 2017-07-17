@@ -1,0 +1,11 @@
+<map id="GuiTextEditCtrl" name="GuiTextEditCtrl">
+<area shape="rect" id="node8" href="$classGuiConsoleEditCtrl.html" title="Text entry element of a GuiConsole. " alt="" coords="5,528,132,555"/>
+<area shape="rect" id="node9" href="$classGuiTextEditSliderBitmapCtrl.html" title="GUI Control which displays a numerical value which can be increased or decreased using a pair of bitm..." alt="" coords="157,528,335,555"/>
+<area shape="rect" id="node10" href="$classGuiTextEditSliderCtrl.html" title="GUI Control which displays a numerical value which can be increased or decreased using a pair of arro..." alt="" coords="359,528,498,555"/>
+<area shape="rect" id="node2" href="$classGuiTextCtrl.html" title="GUI control object this displays a single line of text, without TorqueML. " alt="" coords="203,379,289,405"/>
+<area shape="rect" id="node3" href="$classGuiContainer.html" title="Brief Desc. " alt="" coords="199,304,293,331"/>
+<area shape="rect" id="node4" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="205,229,287,256"/>
+<area shape="rect" id="node5" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="207,155,285,181"/>
+<area shape="rect" id="node6" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="215,80,277,107"/>
+<area shape="rect" id="node7" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="205,5,287,32"/>
+</map>

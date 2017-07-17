@@ -1,0 +1,9 @@
+<map id="GuiInspectorTypeMaterialName" name="GuiInspectorTypeMaterialName">
+<area shape="rect" id="node7" href="$classGuiInspectorTypeTerrainMaterialIndex.html" title="Inspector field type for TerrainMaterialIndex. " alt="" coords="5,453,215,495"/>
+<area shape="rect" id="node8" href="$classGuiInspectorTypeTerrainMaterialName.html" title="Inspector field type for TerrainMaterial. " alt="" coords="239,461,482,487"/>
+<area shape="rect" id="node2" href="$classGuiInspectorField.html" title="The GuiInspectorField control is a representation of a single abstract field for a given ConsoleObjec..." alt="" coords="175,304,295,331"/>
+<area shape="rect" id="node3" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="195,229,276,256"/>
+<area shape="rect" id="node4" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="196,155,275,181"/>
+<area shape="rect" id="node5" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="204,80,267,107"/>
+<area shape="rect" id="node6" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="195,5,276,32"/>
+</map>

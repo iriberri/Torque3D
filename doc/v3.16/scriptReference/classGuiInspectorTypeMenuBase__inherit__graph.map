@@ -1,0 +1,18 @@
+<map id="GuiInspectorTypeMenuBase" name="GuiInspectorTypeMenuBase">
+<area shape="rect" id="node7" href="$classGuiInspectorDatablockField.html" title="Custom field type for datablock enumeration. " alt="" coords="927,81,1102,108"/>
+<area shape="rect" id="node12" href="$classGuiInspectorTypeCubemapName.html" title="Inspector field type for Cubemap. " alt="" coords="911,132,1119,159"/>
+<area shape="rect" id="node13" href="$classGuiInspectorTypeEnum.html" title="Inspector field type for Enum. " alt="" coords="938,183,1091,209"/>
+<area shape="rect" id="node14" href="$classGuiInspectorTypeGuiProfile.html" title="Inspector field type for GuiProfile. " alt="" coords="927,233,1102,260"/>
+<area shape="rect" id="node15" href="$classGuiInspectorTypeSFXParameterName.html" title="Inspector field type for SFXParameter. " alt="" coords="896,284,1133,311"/>
+<area shape="rect" id="node16" href="$classGuiInspectorTypeSFXSourceName.html" title="Inspector field type for SFXSource. " alt="" coords="906,335,1123,361"/>
+<area shape="rect" id="node17" href="$classGuiInspectorTypeSFXStateName.html" title="Inspector field type for SFXState. " alt="" coords="911,385,1118,412"/>
+<area shape="rect" id="node2" href="$classGuiInspectorField.html" title="The GuiInspectorField control is a representation of a single abstract field for a given ConsoleObjec..." alt="" coords="501,233,621,260"/>
+<area shape="rect" id="node3" href="$classGuiControl.html" title="Base class for all Gui control objects. " alt="" coords="372,233,453,260"/>
+<area shape="rect" id="node4" href="$classSimGroup.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="245,233,324,260"/>
+<area shape="rect" id="node5" href="$classSimSet.html" title="A collection of SimObjects. " alt="" coords="135,233,197,260"/>
+<area shape="rect" id="node6" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,233,87,260"/>
+<area shape="rect" id="node8" href="$classGuiInspectorTypeSFXAmbienceName.html" title="Inspector field type for SFXAmbience. " alt="" coords="1189,5,1422,32"/>
+<area shape="rect" id="node9" href="$classGuiInspectorTypeSFXDescriptionName.html" title="Inspector field type for SFXDescriptionName. " alt="" coords="1185,56,1425,83"/>
+<area shape="rect" id="node10" href="$classGuiInspectorTypeSFXEnvironmentName.html" title="Inspector field type for SFXEnvironment. " alt="" coords="1181,107,1429,133"/>
+<area shape="rect" id="node11" href="$classGuiInspectorTypeSFXTrackName.html" title="Inspector field type for SFXTrackName. " alt="" coords="1201,157,1410,184"/>
+</map>

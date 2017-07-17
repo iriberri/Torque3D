@@ -1,0 +1,12 @@
+<map id="IOutputStream&lt; T &gt;" name="IOutputStream&lt; T &gt;">
+<area shape="rect" id="node2" href="$classIOutputStream.html" title="IOutputStream\&lt; SFXInternal\l::SFXStreamPacket * \&gt;" alt="" coords="247,109,433,151"/>
+<area shape="rect" id="node10" href="$classIOutputStream.html" title="IOutputStream\&lt; To \&gt;" alt="" coords="457,117,604,143"/>
+<area shape="rect" id="node3" href="$classSFXBuffer.html" title="The buffer interface hides the details of how the device holds sound data for playback. " alt="" coords="301,207,379,234"/>
+<area shape="rect" id="node4" href="$classSFXALBuffer.html" title="SFXALBuffer" alt="" coords="5,298,99,325"/>
+<area shape="rect" id="node5" href="$classSFXInternal_1_1SFXWrapAroundBuffer.html" title="Buffer that uses wrap&#45;around packet buffering. " alt="" coords="123,291,317,332"/>
+<area shape="rect" id="node8" href="$classSFXNullBuffer.html" title="SFXNullBuffer" alt="" coords="342,298,442,325"/>
+<area shape="rect" id="node9" href="$classSFXXAudioBuffer.html" title="Audio data buffer for the XAudio device layer. " alt="" coords="466,298,585,325"/>
+<area shape="rect" id="node6" href="$classSFXDSBuffer.html" title="DirectSound SFXBuffer implementation. " alt="" coords="109,381,203,408"/>
+<area shape="rect" id="node7" href="$classSFXFMODBuffer.html" title="SFXFMODBuffer" alt="" coords="227,381,341,408"/>
+<area shape="rect" id="node11" href="$classIOutputStreamFilter.html" title="An output stream filter takes an output stream &quot;Stream&quot; and processes it into an output stream over t..." alt="" coords="463,200,598,241"/>
+</map>

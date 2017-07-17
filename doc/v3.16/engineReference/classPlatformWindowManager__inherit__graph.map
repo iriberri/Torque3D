@@ -1,0 +1,5 @@
+<map id="PlatformWindowManager" name="PlatformWindowManager">
+<area shape="rect" id="node2" href="$classMacWindowManager.html" title="MacWindowManager" alt="" coords="5,80,147,107"/>
+<area shape="rect" id="node3" href="$classPlatformWindowManagerSDL.html" title="SDL2 implementation of the window manager interface. " alt="" coords="171,80,359,107"/>
+<area shape="rect" id="node4" href="$classWin32WindowManager.html" title="Win32 implementation of the window manager interface. " alt="" coords="384,80,539,107"/>
+</map>

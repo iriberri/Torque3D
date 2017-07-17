@@ -1,0 +1,9 @@
+<map id="SFXDSBuffer" name="SFXDSBuffer">
+<area shape="rect" id="node2" href="$classSFXInternal_1_1SFXWrapAroundBuffer.html" title="Buffer that uses wrap&#45;around packet buffering. " alt="" coords="69,276,264,317"/>
+<area shape="rect" id="node3" href="$classSFXBuffer.html" title="The buffer interface hides the details of how the device holds sound data for playback. " alt="" coords="127,200,206,227"/>
+<area shape="rect" id="node4" href="$classStrongRefBase.html" title="Base class for objects which can be strongly referenced (i.e., as long as reference exists..." alt="" coords="5,117,112,143"/>
+<area shape="rect" id="node5" href="$classWeakRefBase.html" title="Base class for objects which can be weakly referenced (i.e., reference goes away when object is destr..." alt="" coords="9,5,109,32"/>
+<area shape="rect" id="node6" href="$classIPolled.html" title="Interface for objects that need continuous explicit updates from an outside source. " alt="" coords="137,117,197,143"/>
+<area shape="rect" id="node7" href="$classIOutputStream.html" title="IOutputStream\&lt; SFXInternal\l::SFXStreamPacket * \&gt;" alt="" coords="221,109,408,151"/>
+<area shape="rect" id="node8" href="$classIOutputStream.html" title="An output stream that writes elements of type &quot;T&quot;. " alt="" coords="245,5,385,32"/>
+</map>
