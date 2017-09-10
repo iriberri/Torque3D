@@ -14,7 +14,7 @@ export -f docker_exec
 
 if [[ $TRAVIS_BRANCH = development ]]; then export TRAVIS_TAG=dev; fi
 
-if [[ ($OS_ID = "ubuntu-latest-lts" || $TRAVIS_OS_name = osx ) && \
+if [[ ($OS_ID = "ubuntu-latest-lts" || $TRAVIS_OS_NAME = osx ) && \
           $TRAVIS_TAG && \
           $DEPLOYABLE_CONF = true ]]; then
     DEPLOY_CONDITION="true"
