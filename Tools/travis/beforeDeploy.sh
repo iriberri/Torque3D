@@ -8,8 +8,10 @@ elif [[ $TRAVIS_OS_NAME = linux ]]; then
 fi
 export BUNDLE_NAME=Torque3D-$TRAVIS_TAG-$BUNDLE_OS_LABEL.tar.gz
 
-sudo chown -R --reference $TRAVIS_BUILD_DIR .
-sudo chmod -R --reference $TRAVIS_BUILD_DIR .
+if [[ $TRAVIS_OS_NAME = linux]]; then
+    sudo chown -R --reference $TRAVIS_BUILD_DIR .
+    sudo chmod -R --reference $TRAVIS_BUILD_DIR .
+fi
 
 pushd My\ Projects/Torque3D/game
 if [[ $TRAVIS_BRANCH = development ]]; then
