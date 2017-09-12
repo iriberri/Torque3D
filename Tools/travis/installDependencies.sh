@@ -8,6 +8,7 @@ if [[ ${OS_ID:0:6} = ubuntu ]]; then
     apt-get install -y libogg-dev libxft-dev libx11-dev libxxf86vm-dev libopenal-dev libfreetype6-dev libxcursor-dev libxinerama-dev libxi-dev libxrandr-dev libxss-dev libglu1-mesa-dev
 
 elif [[ $TRAVIS_OS_NAME = osx ]]; then
-    brew update
-    brew install sdl2
+    # brew update
+    # brew install sdl2
+    echo "No dependencies to install."
 fi

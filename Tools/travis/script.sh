@@ -17,7 +17,8 @@ elif
     mkdir -p My\ Projects/Torque3D/
     pushd My\ Projects/Torque3D/
     cmake ../../ -DTORQUE_APP_NAME=Torque3D $ADDITIONAL_CMAKE_ARGS
-    cmake --build . --target install
+    # cmake --build . --target install
+    cmake --build . --target Torque3D
     pushd game
     ./Torque3D runTests.cs || true
     popd
