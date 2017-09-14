@@ -35,8 +35,6 @@ script:
   else
   ./Tools/travis/script.sh
   fi
-- echo $CFLAGS
-- echo $LDFLAGS 
 
 before_deploy:
 - source ./Tools/travis/beforeDeploy.sh
