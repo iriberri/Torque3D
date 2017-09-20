@@ -1,0 +1,51 @@
+<map id="SceneZoneSpace" name="SceneZoneSpace">
+<area shape="rect" id="node43" href="$class_vector.html" title="Vector\&lt; SceneZoneSpace * \&gt;" alt="" coords="1452,231,1647,257"/>
+<area shape="rect" id="node45" href="$class_scene_simple_zone.html" title="SceneSimpleZone" alt="" coords="1257,287,1383,313"/>
+<area shape="rect" id="node49" href="$struct_scene_zone_space_1_1_zone_space_ref.html" title="Link to another zone space. " alt="" coords="1212,428,1428,455"/>
+<area shape="rect" id="node2" href="$class_scene_space.html" title="SceneSpace" alt="" coords="3145,1463,3241,1489"/>
+<area shape="rect" id="node3" href="$class_scene_object.html" title="SceneObject" alt="" coords="2805,1004,2903,1031"/>
+<area shape="rect" id="node26" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="3113,1124,3274,1151"/>
+<area shape="rect" id="node28" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="3133,981,3254,1008"/>
+<area shape="rect" id="node40" href="$class_vector.html" title="Vector\&lt; SceneObject * \&gt;" alt="" coords="3109,161,3277,188"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="NetObject" alt="" coords="913,1557,993,1584"/>
+<area shape="rect" id="node7" href="$struct_ghost_info.html" title="GhostInfo" alt="" coords="1281,1632,1359,1659"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="SimGroup" alt="" coords="503,1573,583,1600"/>
+<area shape="rect" id="node6" href="$class_bit_set32.html" title="BitSet32" alt="" coords="507,1361,579,1388"/>
+<area shape="rect" id="node16" href="$struct_d_d_s_file.html" title="DDSFile" alt="" coords="2095,1069,2165,1096"/>
+<area shape="rect" id="node8" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; NetObject \&gt;" alt="" coords="452,1523,635,1549"/>
+<area shape="rect" id="node9" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="2423,783,2570,809"/>
+<area shape="rect" id="node10" href="$class_process_object.html" title="ProcessObject" alt="" coords="2443,1641,2551,1668"/>
+<area shape="rect" id="node11" href="$struct_process_object_1_1_link.html" title="ProcessObject::Link" alt="" coords="2784,1664,2924,1691"/>
+<area shape="rect" id="node12" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="2433,901,2561,928"/>
+<area shape="rect" id="node13" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="2075,1120,2185,1147"/>
+<area shape="rect" id="node23" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="2447,1208,2546,1235"/>
+<area shape="rect" id="node14" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="1693,671,1795,697"/>
+<area shape="rect" id="node18" href="$class_g_f_x_device.html" title="GFXDevice" alt="" coords="2087,789,2173,816"/>
+<area shape="rect" id="node15" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="1716,1103,1772,1129"/>
+<area shape="rect" id="node17" href="$class_point3_i.html" title="Point3I" alt="" coords="2099,739,2161,765"/>
+<area shape="rect" id="node19" href="$class_point3_f.html" title="Point3F" alt="" coords="1287,705,1353,732"/>
+<area shape="rect" id="node30" href="$class_sphere_f.html" title="SphereF" alt="" coords="1895,1328,1965,1355"/>
+<area shape="rect" id="node31" href="$class_box3_f.html" title="Box3F" alt="" coords="1714,523,1774,549"/>
+<area shape="rect" id="node20" href="$class_matrix_f.html" title="MatrixF" alt="" coords="1711,979,1777,1005"/>
+<area shape="rect" id="node35" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="2442,240,2551,267"/>
+<area shape="rect" id="node21" href="$class_g_f_x_texture_profile.html" title="GFXTextureProfile" alt="" coords="2067,840,2193,867"/>
+<area shape="rect" id="node22" href="$class_g_bitmap.html" title="GBitmap" alt="" coords="2093,968,2167,995"/>
+<area shape="rect" id="node24" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="2045,1260,2215,1287"/>
+<area shape="rect" id="node25" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="2081,1209,2179,1236"/>
+<area shape="rect" id="node27" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="2439,1104,2555,1131"/>
+<area shape="rect" id="node29" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="2399,1156,2595,1183"/>
+<area shape="rect" id="node36" href="$class_scene_zone_space_manager.html" title="Object that manages zone spaces in a scene. " alt="" coords="2043,225,2217,252"/>
+<area shape="rect" id="node32" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="1283,480,1357,507"/>
+<area shape="rect" id="node33" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="2397,296,2596,323"/>
+<area shape="rect" id="node34" href="$class_scene_container.html" title="SceneContainer" alt="" coords="1687,57,1801,84"/>
+<area shape="rect" id="node37" href="$class_class_chunker.html" title="ClassChunker\&lt; SceneObject\l::ZoneRef \&gt;" alt="" coords="676,59,867,101"/>
+<area shape="rect" id="node38" href="$class_data_chunker.html" title="DataChunker" alt="" coords="288,179,385,205"/>
+<area shape="rect" id="node50" href="$class_class_chunker.html" title="ClassChunker\&lt; SceneZoneSpace\l::ZoneSpaceRef \&gt;" alt="" coords="435,237,652,278"/>
+<area shape="rect" id="node39" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="5,179,171,205"/>
+<area shape="rect" id="node41" href="$class_vector.html" title="Vector\&lt; SceneObject\l::ZoneRef * \&gt;" alt="" coords="1671,338,1817,379"/>
+<area shape="rect" id="node42" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="1244,339,1396,365"/>
+<area shape="rect" id="node44" href="$class_scene_root_zone.html" title="SceneRootZone" alt="" coords="1687,287,1801,313"/>
+<area shape="rect" id="node46" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="2407,347,2586,373"/>
+<area shape="rect" id="node47" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="2793,1547,2915,1573"/>
+<area shape="rect" id="node48" href="$class_vector.html" title="Vector\&lt; MatInstanceHook * \&gt;" alt="" coords="2399,1581,2594,1608"/>
+</map>

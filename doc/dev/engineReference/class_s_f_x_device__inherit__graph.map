@@ -1,0 +1,7 @@
+<map id="SFXDevice" name="SFXDevice">
+<area shape="rect" id="node2" href="$class_s_f_x_a_l_device.html" title="SFXALDevice" alt="" coords="5,80,105,107"/>
+<area shape="rect" id="node3" href="$class_s_f_x_d_s_device.html" title="SFXDSDevice" alt="" coords="129,80,232,107"/>
+<area shape="rect" id="node4" href="$class_s_f_x_f_m_o_d_device.html" title="SFXFMODDevice" alt="" coords="257,80,379,107"/>
+<area shape="rect" id="node5" href="$class_s_f_x_null_device.html" title="SFXNullDevice" alt="" coords="403,80,510,107"/>
+<area shape="rect" id="node6" href="$class_s_f_x_x_audio_device.html" title="SFXXAudioDevice" alt="" coords="535,80,659,107"/>
+</map>

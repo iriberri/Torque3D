@@ -1,0 +1,5 @@
+<map id="RiverNodeListNotify" name="RiverNodeListNotify">
+<area shape="rect" id="node2" href="$class_node_list_notify.html" title="NodeListNotify" alt="" coords="5,81,112,108"/>
+<area shape="rect" id="node3" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; River \&gt;" alt="" coords="136,81,288,108"/>
+<area shape="rect" id="node4" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; River \&gt;" alt="" coords="140,5,284,32"/>
+</map>

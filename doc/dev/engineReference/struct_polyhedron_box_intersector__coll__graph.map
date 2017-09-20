@@ -1,0 +1,11 @@
+<map id="PolyhedronBoxIntersector&lt; Polyhedron &gt;" name="PolyhedronBoxIntersector&lt; Polyhedron &gt;">
+<area shape="rect" id="node2" href="$struct_intersector_base.html" title="IntersectorBase\&lt; Polyhedron,\l Box3F \&gt;" alt="" coords="573,5,768,47"/>
+<area shape="rect" id="node3" href="$struct_polyhedron_impl.html" title="PolyhedronImpl\&lt; Base \&gt;" alt="" coords="231,10,396,37"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; PlaneF \&gt;" alt="" coords="608,75,733,102"/>
+<area shape="rect" id="node6" href="$class_plane_f.html" title="PlaneF" alt="" coords="282,75,345,102"/>
+<area shape="rect" id="node7" href="$class_point3_f.html" title="Point3F" alt="" coords="23,183,90,210"/>
+<area shape="rect" id="node8" href="$class_vector.html" title="Vector\&lt; Point3F \&gt;" alt="" coords="420,127,549,154"/>
+<area shape="rect" id="node9" href="$class_box3_f.html" title="Box3F" alt="" coords="283,245,343,271"/>
+<area shape="rect" id="node10" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="19,245,94,271"/>
+<area shape="rect" id="node11" href="$class_point3_i.html" title="Point3I" alt="" coords="639,305,702,331"/>
+</map>

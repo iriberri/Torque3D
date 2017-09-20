@@ -1,0 +1,6 @@
+<map id="Dispatcher::IMessageListener" name="Dispatcher::IMessageListener">
+<area shape="rect" id="node2" href="$class_event_manager_listener.html" title="EventManagerListener" alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node3" href="$class_popup_menu.html" title="PopupMenu" alt="" coords="181,80,271,107"/>
+<area shape="rect" id="node4" href="$class_script_msg_listener.html" title="Script accessible version of Dispatcher::IMessageListener. " alt="" coords="296,80,423,107"/>
+<area shape="rect" id="node5" href="$class_message_forwarder.html" title="Forward messages from one queue to another. " alt="" coords="293,155,425,181"/>
+</map>

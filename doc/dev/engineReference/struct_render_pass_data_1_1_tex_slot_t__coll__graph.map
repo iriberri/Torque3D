@@ -1,0 +1,8 @@
+<map id="RenderPassData::TexSlotT" name="RenderPassData::TexSlotT">
+<area shape="rect" id="node2" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; NamedTexTarget \&gt;" alt="" coords="5,346,220,373"/>
+<area shape="rect" id="node3" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="244,346,352,373"/>
+<area shape="rect" id="node4" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="210,247,386,288"/>
+<area shape="rect" id="node5" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="239,171,357,197"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="243,81,353,108"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="245,5,351,32"/>
+</map>

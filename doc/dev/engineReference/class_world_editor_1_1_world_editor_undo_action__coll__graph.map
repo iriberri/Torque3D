@@ -1,0 +1,51 @@
+<map id="WorldEditor::WorldEditorUndoAction" name="WorldEditor::WorldEditorUndoAction">
+<area shape="rect" id="node2" href="$class_undo_action.html" title="UndoAction" alt="" coords="3612,882,3701,909"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="SimObject" alt="" coords="3763,449,3846,475"/>
+<area shape="rect" id="node9" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="3999,643,4098,670"/>
+<area shape="rect" id="node17" href="$class_undo_manager.html" title="UndoManager" alt="" coords="3809,643,3912,670"/>
+<area shape="rect" id="node30" href="$struct_camera_query.html" title="CameraQuery" alt="" coords="2133,643,2236,670"/>
+<area shape="rect" id="node40" href="$class_gizmo_profile.html" title="GizmoProfile" alt="" coords="882,882,978,909"/>
+<area shape="rect" id="node4" href="$class_console_object.html" title="ConsoleObject" alt="" coords="3841,291,3947,317"/>
+<area shape="rect" id="node5" href="$class_engine_object.html" title="EngineObject" alt="" coords="3844,171,3944,197"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="3839,81,3949,108"/>
+<area shape="rect" id="node35" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="2326,223,2443,249"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="3841,5,3947,32"/>
+<area shape="rect" id="node8" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="3710,291,3817,317"/>
+<area shape="rect" id="node10" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="3901,449,4071,475"/>
+<area shape="rect" id="node11" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="4095,449,4194,475"/>
+<area shape="rect" id="node12" href="$class_namespace.html" title="Namespace" alt="" coords="4415,291,4506,317"/>
+<area shape="rect" id="node13" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="4366,449,4497,475"/>
+<area shape="rect" id="node15" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="4604,449,4731,475"/>
+<area shape="rect" id="node14" href="$class_data_chunker.html" title="DataChunker" alt="" coords="4412,171,4509,197"/>
+<area shape="rect" id="node16" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="3577,643,3633,670"/>
+<area shape="rect" id="node49" href="$class_sim_object_memento.html" title="SimObjectMemento" alt="" coords="3413,882,3551,909"/>
+<area shape="rect" id="node18" href="$class_vector.html" title="Vector\&lt; WorldEditor\l::WorldEditorUndoAction\l::Entry \&gt;" alt="" coords="2294,1023,2459,1079"/>
+<area shape="rect" id="node19" href="$struct_world_editor_1_1_world_editor_undo_action_1_1_entry.html" title="WorldEditor::WorldEditor\lUndoAction::Entry" alt="" coords="1567,636,1733,677"/>
+<area shape="rect" id="node20" href="$class_point3_f.html" title="Point3F" alt="" coords="630,449,697,475"/>
+<area shape="rect" id="node22" href="$class_world_editor.html" title="WorldEditor" alt="" coords="627,1260,718,1287"/>
+<area shape="rect" id="node23" href="$class_edit_t_s_ctrl.html" title="EditTSCtrl" alt="" coords="1313,1163,1395,1190"/>
+<area shape="rect" id="node42" href="$struct_gui3_d_mouse_event.html" title="Gui3DMouseEvent" alt="" coords="1261,643,1391,670"/>
+<area shape="rect" id="node44" href="$struct_world_editor_1_1_triangle.html" title="WorldEditor::Triangle" alt="" coords="664,882,807,909"/>
+<area shape="rect" id="node46" href="$class_box3_f.html" title="Box3F" alt="" coords="387,643,447,670"/>
+<area shape="rect" id="node21" href="$class_matrix_f.html" title="MatrixF" alt="" coords="2257,449,2323,475"/>
+<area shape="rect" id="node24" href="$class_gui_t_s_ctrl.html" title="Abstract base class for 3D viewport GUIs. " alt="" coords="2525,882,2604,909"/>
+<area shape="rect" id="node36" href="$class_frustum.html" title="Frustum" alt="" coords="2433,643,2504,670"/>
+<area shape="rect" id="node26" href="$class_vector.html" title="Vector\&lt; GuiTSCtrl * \&gt;" alt="" coords="2547,1163,2697,1190"/>
+<area shape="rect" id="node25" href="$class_gui_container.html" title="GuiContainer" alt="" coords="2312,643,2409,670"/>
+<area shape="rect" id="node27" href="$class_rect_i.html" title="RectI" alt="" coords="1753,449,1805,475"/>
+<area shape="rect" id="node28" href="$class_point2_i.html" title="Point2I" alt="" coords="1575,291,1637,317"/>
+<area shape="rect" id="node43" href="$struct_gui_event.html" title="GuiEvent" alt="" coords="1286,449,1361,475"/>
+<area shape="rect" id="node29" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; NamedTexTarget \&gt;" alt="" coords="2580,643,2795,670"/>
+<area shape="rect" id="node31" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="3001,449,3067,475"/>
+<area shape="rect" id="node32" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiOffscreen\lCanvas \&gt;" alt="" coords="2819,636,3006,677"/>
+<area shape="rect" id="node33" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCT \&gt;" alt="" coords="3031,636,3189,677"/>
+<area shape="rect" id="node34" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1900,643,2109,670"/>
+<area shape="rect" id="node37" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; Gizmo \&gt;" alt="" coords="1207,882,1370,909"/>
+<area shape="rect" id="node38" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; Gizmo \&gt;" alt="" coords="1082,643,1237,670"/>
+<area shape="rect" id="node39" href="$class_color_i.html" title="ColorI" alt="" coords="771,643,825,670"/>
+<area shape="rect" id="node41" href="$class_resource.html" title="Resource\&lt; GFont \&gt;" alt="" coords="920,643,1057,670"/>
+<area shape="rect" id="node50" href="$class_vector.html" title="Vector\&lt; WorldEditor\l::Triangle \&gt;" alt="" coords="644,1156,784,1197"/>
+<area shape="rect" id="node45" href="$class_signal.html" title="Signal\&lt; void(WorldEditor *)\&gt;" alt="" coords="5,1163,191,1190"/>
+<area shape="rect" id="node47" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="379,449,454,475"/>
+<area shape="rect" id="node48" href="$class_vector.html" title="Vector\&lt; SimObjectMemento \&gt;" alt="" coords="2876,1163,3075,1190"/>
+</map>

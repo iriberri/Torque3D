@@ -1,0 +1,5 @@
+<map id="BtPlayer" name="BtPlayer">
+<area shape="rect" id="node2" href="$class_physics_player.html" title="PhysicsPlayer" alt="" coords="5,155,112,181"/>
+<area shape="rect" id="node3" href="$class_physics_object.html" title="PhysicsObject" alt="" coords="5,80,112,107"/>
+<area shape="rect" id="node4" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="6,5,111,32"/>
+</map>

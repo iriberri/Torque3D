@@ -1,0 +1,11 @@
+<map id="MacFileSystemChangeNotifier" name="MacFileSystemChangeNotifier">
+<area shape="rect" id="node2" href="$class_torque_1_1_f_s_1_1_file_system_change_notifier.html" title="Torque::FS::FileSystemChange\lNotifier" alt="" coords="495,78,699,119"/>
+<area shape="rect" id="node4" href="$class_torque_1_1_f_s_1_1_file_system.html" title="Torque::FS::FileSystem" alt="" coords="867,40,1027,67"/>
+<area shape="rect" id="node3" href="$class_map.html" title="Map\&lt; Path, FileInfoList \&gt;" alt="" coords="205,85,373,112"/>
+<area shape="rect" id="node5" href="$class_torque_1_1_f_s_1_1_file_base.html" title="Torque::FS::FileBase" alt="" coords="524,5,669,32"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="235,5,344,32"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node8" href="$class_vector.html" title="Vector\&lt; MacFileSystemChange\lNotifier::Event * \&gt;" alt="" coords="493,157,700,198"/>
+<area shape="rect" id="node9" href="$struct_mac_file_system_change_notifier_1_1_event.html" title="MacFileSystemChangeNotifier\l::Event" alt="" coords="191,157,388,198"/>
+<area shape="rect" id="node10" href="$class_torque_1_1_path.html" title="Torque::Path" alt="" coords="10,164,106,191"/>
+</map>

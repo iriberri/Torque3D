@@ -1,0 +1,42 @@
+<map id="C:/projects/torque3d&#45;qw64q/Engine/source/console/consoleDoc.cpp" name="C:/projects/torque3d&#45;qw64q/Engine/source/console/consoleDoc.cpp">
+<area shape="rect" id="node2" href="$platform_8h_source.html" title="platform/platform.h" alt="" coords="793,721,922,748"/>
+<area shape="rect" id="node15" href="$console_8h_source.html" title="console/console.h" alt="" coords="1310,483,1437,509"/>
+<area shape="rect" id="node24" href="$ast_8h_source.html" title="console/ast.h" alt="" coords="43,184,143,211"/>
+<area shape="rect" id="node25" href="$t_algorithm_8h_source.html" title="core/tAlgorithm.h" alt="" coords="329,109,450,136"/>
+<area shape="rect" id="node26" href="$find_match_8h_source.html" title="core/strings/findMatch.h" alt="" coords="475,259,637,285"/>
+<area shape="rect" id="node28" href="$console_internal_8h_source.html" title="console/consoleInternal.h" alt="" coords="749,109,918,136"/>
+<area shape="rect" id="node36" href="$console_object_8h.html" title="console/consoleObject.h" alt="" coords="941,259,1107,285"/>
+<area shape="rect" id="node42" href="$core_2stream_2file_stream_8h_source.html" title="core/stream/fileStream.h" alt="" coords="2025,184,2189,211"/>
+<area shape="rect" id="node44" href="$compiler_8h_source.html" title="console/compiler.h" alt="" coords="173,109,304,136"/>
+<area shape="rect" id="node46" href="$frame_allocator_8h_source.html" title="core/frameAllocator.h" alt="" coords="43,647,189,673"/>
+<area shape="rect" id="node47" href="$engine_a_p_i_8h.html" title="console/engineAPI.h" alt="" coords="1500,109,1641,136"/>
+<area shape="rect" id="node5" href="$types_8h_source.html" title="platform/types.h" alt="" coords="1561,885,1676,912"/>
+<area shape="rect" id="node7" href="$platform_assert_8h_source.html" title="platform/platformAssert.h" alt="" coords="1165,803,1331,830"/>
+<area shape="rect" id="node8" href="$msg_box_8h_source.html" title="platform/nativeDialogs\l/msgBox.h" alt="" coords="490,796,638,837"/>
+<area shape="rect" id="node9" href="$version_8h_source.html" title="app/version.h" alt="" coords="663,803,761,830"/>
+<area shape="rect" id="node10" href="$str_8h_source.html" title="core/util/str.h" alt="" coords="1764,803,1863,830"/>
+<area shape="rect" id="node12" href="$safe_delete_8h_source.html" title="core/util/safeDelete.h" alt="" coords="785,803,929,830"/>
+<area shape="rect" id="node6" href="$stdint_8h_source.html" title="stdint.h" alt="" coords="1586,960,1651,987"/>
+<area shape="rect" id="node16" href="$bit_set_8h_source.html" title="core/bitSet.h" alt="" coords="869,565,965,591"/>
+<area shape="rect" id="node17" href="$ref_base_8h_source.html" title="core/util/refBase.h" alt="" coords="990,565,1117,591"/>
+<area shape="rect" id="node20" href="$journaled_signal_8h_source.html" title="core/util/journal/journaled\lSignal.h" alt="" coords="1243,557,1410,599"/>
+<area shape="rect" id="node18" href="$typetraits_8h.html" title="platform/typetraits.h" alt="" coords="927,647,1065,673"/>
+<area shape="rect" id="node21" href="$journal_8h_source.html" title="core/util/journal/journal.h" alt="" coords="1245,647,1408,673"/>
+<area shape="rect" id="node22" href="$stream_8h_source.html" title="core/stream/stream.h" alt="" coords="1731,721,1877,748"/>
+<area shape="rect" id="node23" href="$string_functions_8h_source.html" title="core/strings/stringFunctions.h" alt="" coords="1495,803,1689,830"/>
+<area shape="rect" id="node27" href="$t_vector_8h_source.html" title="core/util/tVector.h" alt="" coords="512,333,637,360"/>
+<area shape="rect" id="node29" href="$string_table_8h_source.html" title="core/stringTable.h" alt="" coords="763,483,888,509"/>
+<area shape="rect" id="node30" href="$data_chunker_8h_source.html" title="core/dataChunker.h" alt="" coords="659,565,794,591"/>
+<area shape="rect" id="node31" href="$console_types_8h.html" title="console/consoleTypes.h" alt="" coords="1187,184,1349,211"/>
+<area shape="rect" id="node35" href="$sim_object_8h_source.html" title="console/simObject.h" alt="" coords="821,184,963,211"/>
+<area shape="rect" id="node32" href="$dynamic_types_8h.html" title="console/dynamicTypes.h" alt="" coords="1150,408,1317,435"/>
+<area shape="rect" id="node33" href="$engine_primitives_8h.html" title="console/enginePrimitives.h" alt="" coords="1181,259,1357,285"/>
+<area shape="rect" id="node34" href="$engine_structs_8h.html" title="console/engineStructs.h" alt="" coords="1381,259,1544,285"/>
+<area shape="rect" id="node37" href="$engine_object_8h.html" title="Disable TMM for this file. " alt="" coords="1014,483,1173,509"/>
+<area shape="rect" id="node38" href="$engine_functions_8h.html" title="console/engineFunctions.h" alt="" coords="1721,333,1898,360"/>
+<area shape="rect" id="node40" href="$sim_object_ref_8h_source.html" title="console/simObjectRef.h" alt="" coords="1133,333,1293,360"/>
+<area shape="rect" id="node43" href="$volume_8h_source.html" title="core/volume.h" alt="" coords="814,259,917,285"/>
+<area shape="rect" id="node45" href="$code_block_8h_source.html" title="console/codeBlock.h" alt="" coords="167,184,310,211"/>
+<area shape="rect" id="node49" href="$sim_events_8h_source.html" title="console/simEvents.h" alt="" coords="1654,184,1797,211"/>
+<area shape="rect" id="node50" href="$string_stack_8h_source.html" title="console/stringStack.h" alt="" coords="1347,408,1495,435"/>
+</map>

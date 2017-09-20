@@ -1,0 +1,10 @@
+<map id="IResettable" name="IResettable">
+<area shape="rect" id="node2" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l Timer, Tick \&gt;" alt="" coords="140,5,284,47"/>
+<area shape="rect" id="node3" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l RealMSTimer \&gt;" alt="" coords="140,71,284,112"/>
+<area shape="rect" id="node4" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l SimMSTimer \&gt;" alt="" coords="140,136,284,177"/>
+<area shape="rect" id="node5" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l VirtualMSTimer \&gt;" alt="" coords="140,201,284,243"/>
+<area shape="rect" id="node6" href="$class_s_f_x_stream.html" title="SFXStream" alt="" coords="168,267,256,294"/>
+<area shape="rect" id="node7" href="$class_s_f_x_file_stream.html" title="An SFXStream that streams from a file. " alt="" coords="345,242,454,269"/>
+<area shape="rect" id="node9" href="$class_s_f_x_memory_stream.html" title="SFXMemoryStream" alt="" coords="332,293,467,319"/>
+<area shape="rect" id="node8" href="$class_s_f_x_wav_stream.html" title="An SFXFileStream that loads sample data from a WAV file. " alt="" coords="515,242,628,269"/>
+</map>

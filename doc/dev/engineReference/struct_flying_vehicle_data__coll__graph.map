@@ -1,0 +1,49 @@
+<map id="FlyingVehicleData" name="FlyingVehicleData">
+<area shape="rect" id="node2" href="$struct_vehicle_data.html" title="VehicleData" alt="" coords="2718,904,2810,931"/>
+<area shape="rect" id="node3" href="$struct_shape_base_data.html" title="ShapeBaseData" alt="" coords="2446,1121,2562,1148"/>
+<area shape="rect" id="node4" href="$struct_game_base_data.html" title="GameBaseData" alt="" coords="1035,1072,1150,1099"/>
+<area shape="rect" id="node13" href="$struct_debris_data.html" title="DebrisData" alt="" coords="1781,1056,1867,1083"/>
+<area shape="rect" id="node14" href="$class_particle_emitter_data.html" title="ParticleEmitterData" alt="" coords="1346,812,1481,839"/>
+<area shape="rect" id="node27" href="$class_explosion_data.html" title="ExplosionData" alt="" coords="2135,1011,2241,1037"/>
+<area shape="rect" id="node5" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="405,1299,511,1325"/>
+<area shape="rect" id="node17" href="$class_particle_data.html" title="ParticleData" alt="" coords="748,916,841,943"/>
+<area shape="rect" id="node28" href="$class_s_f_x_track.html" title="A datablock that describes sound data for playback. " alt="" coords="1785,1283,1863,1309"/>
+<area shape="rect" id="node29" href="$class_s_f_x_description.html" title="SFXDescription" alt="" coords="1358,1236,1469,1263"/>
+<area shape="rect" id="node32" href="$class_reflector_desc.html" title="ReflectorDesc" alt="" coords="884,1383,987,1409"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="SimObject" alt="" coords="222,1299,305,1325"/>
+<area shape="rect" id="node7" href="$class_signal.html" title="Signal\&lt; void(void)\&gt;" alt="" coords="729,1072,860,1099"/>
+<area shape="rect" id="node8" href="$class_vector.html" title="Vector\&lt; S32 \&gt;" alt="" coords="2135,1069,2241,1096"/>
+<area shape="rect" id="node9" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="1796,1428,1852,1455"/>
+<area shape="rect" id="node34" href="$class_s_f_x_profile.html" title="SFXProfile" alt="" coords="2147,1479,2229,1505"/>
+<area shape="rect" id="node10" href="$class_vector.html" title="Vector\&lt; Box3F \&gt;" alt="" coords="1959,619,2081,645"/>
+<area shape="rect" id="node11" href="$class_box3_f.html" title="Box3F" alt="" coords="1383,524,1443,551"/>
+<area shape="rect" id="node40" href="$class_scene_object.html" title="SceneObject" alt="" coords="1775,344,1873,371"/>
+<area shape="rect" id="node12" href="$class_point3_f.html" title="Point3F" alt="" coords="1059,405,1126,432"/>
+<area shape="rect" id="node38" href="$class_clipped_poly_list.html" title="ClippedPolyList" alt="" coords="2708,231,2820,257"/>
+<area shape="rect" id="node39" href="$class_abstract_poly_list.html" title="AbstractPolyList" alt="" coords="2129,357,2247,384"/>
+<area shape="rect" id="node47" href="$class_plane_f.html" title="PlaneF" alt="" coords="1793,137,1855,164"/>
+<area shape="rect" id="node49" href="$class_vector.html" title="Vector\&lt; Point3F \&gt;" alt="" coords="1540,80,1669,107"/>
+<area shape="rect" id="node15" href="$class_vector.html" title="Vector\&lt; U32 \&gt;" alt="" coords="1039,712,1146,739"/>
+<area shape="rect" id="node50" href="$class_fast_vector.html" title="FastVector\&lt; U32 \&gt;" alt="" coords="1953,652,2087,679"/>
+<area shape="rect" id="node16" href="$class_vector.html" title="Vector\&lt; ParticleData * \&gt;" alt="" coords="1011,837,1175,864"/>
+<area shape="rect" id="node18" href="$class_vector.html" title="Vector\&lt; U8 \&gt;" alt="" coords="408,931,508,957"/>
+<area shape="rect" id="node19" href="$class_color_f.html" title="ColorF" alt="" coords="428,880,488,907"/>
+<area shape="rect" id="node20" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="425,1064,491,1091"/>
+<area shape="rect" id="node21" href="$class_point2_i.html" title="Point2I" alt="" coords="427,1197,489,1224"/>
+<area shape="rect" id="node22" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="404,703,512,729"/>
+<area shape="rect" id="node23" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="175,991,351,1033"/>
+<area shape="rect" id="node24" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="5,1049,123,1076"/>
+<area shape="rect" id="node26" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXPrimitive\lBuffer \&gt;" alt="" coords="172,1115,355,1157"/>
+<area shape="rect" id="node25" href="$class_g_f_x_primitive_buffer_handle.html" title="GFXPrimitiveBufferHandle" alt="" coords="536,1095,705,1121"/>
+<area shape="rect" id="node30" href="$class_resource.html" title="Resource\&lt; TSShape \&gt;" alt="" coords="1336,1135,1491,1161"/>
+<area shape="rect" id="node31" href="$class_resource_base.html" title="ResourceBase" alt="" coords="1039,1263,1146,1289"/>
+<area shape="rect" id="node37" href="$class_resource.html" title="Resource\&lt; SFXResource \&gt;" alt="" coords="1515,1456,1695,1483"/>
+<area shape="rect" id="node33" href="$struct_vehicle_data_1_1_body.html" title="VehicleData::Body" alt="" coords="2439,1479,2569,1505"/>
+<area shape="rect" id="node35" href="$class_signal.html" title="Signal\&lt; void(SFXProfile *) \&gt;" alt="" coords="1733,1592,1915,1619"/>
+<area shape="rect" id="node36" href="$class_strong_weak_ref_ptr.html" title="StrongWeakRefPtr\&lt; SFXBuffer \&gt;" alt="" coords="1719,1479,1929,1505"/>
+<area shape="rect" id="node41" href="$class_matrix_f.html" title="MatrixF" alt="" coords="1380,284,1447,311"/>
+<area shape="rect" id="node42" href="$class_plane_transformer.html" title="PlaneTransformer" alt="" coords="1763,473,1885,500"/>
+<area shape="rect" id="node43" href="$class_vector.html" title="Vector\&lt; Vertex \&gt;" alt="" coords="2291,19,2413,45"/>
+<area shape="rect" id="node45" href="$class_vector.html" title="Vector\&lt; Poly \&gt;" alt="" coords="2449,256,2559,283"/>
+<area shape="rect" id="node48" href="$class_vector.html" title="Vector\&lt; PlaneF \&gt;" alt="" coords="2289,143,2415,169"/>
+</map>

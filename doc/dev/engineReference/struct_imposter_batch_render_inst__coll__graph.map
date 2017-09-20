@@ -1,0 +1,12 @@
+<map id="ImposterBatchRenderInst" name="ImposterBatchRenderInst">
+<area shape="rect" id="node2" href="$struct_imposter_base_render_inst.html" title="ImposterBaseRenderInst" alt="" coords="89,349,253,376"/>
+<area shape="rect" id="node3" href="$struct_render_inst.html" title="RenderInst" alt="" coords="5,260,89,287"/>
+<area shape="rect" id="node4" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="114,260,237,287"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; MatInstanceHook * \&gt;" alt="" coords="78,171,273,197"/>
+<area shape="rect" id="node6" href="$class_mat_instance_hook.html" title="MatInstanceHook" alt="" coords="114,81,237,108"/>
+<area shape="rect" id="node7" href="$class_g_f_x_vertex_buffer_handle_base.html" title="GFXVertexBufferHandleBase" alt="" coords="277,349,465,376"/>
+<area shape="rect" id="node8" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXVertexBuffer \&gt;" alt="" coords="263,260,479,287"/>
+<area shape="rect" id="node9" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="313,171,430,197"/>
+<area shape="rect" id="node10" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="317,81,426,108"/>
+<area shape="rect" id="node11" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="319,5,424,32"/>
+</map>

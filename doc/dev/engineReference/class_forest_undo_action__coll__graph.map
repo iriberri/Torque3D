@@ -1,0 +1,51 @@
+<map id="ForestUndoAction" name="ForestUndoAction">
+<area shape="rect" id="node2" href="$class_undo_action.html" title="UndoAction" alt="" coords="1531,1428,1620,1455"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="SimObject" alt="" coords="753,1261,836,1288"/>
+<area shape="rect" id="node8" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1117,1435,1215,1461"/>
+<area shape="rect" id="node16" href="$class_undo_manager.html" title="UndoManager" alt="" coords="1115,1575,1217,1601"/>
+<area shape="rect" id="node20" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="1113,892,1219,919"/>
+<area shape="rect" id="node21" href="$class_sim_set.html" title="SimSet" alt="" coords="1133,841,1199,868"/>
+<area shape="rect" id="node39" href="$struct_camera_query.html" title="CameraQuery" alt="" coords="1115,791,1217,817"/>
+<area shape="rect" id="node45" href="$class_gizmo_profile.html" title="GizmoProfile" alt="" coords="1118,457,1214,484"/>
+<area shape="rect" id="node4" href="$class_console_object.html" title="ConsoleObject" alt="" coords="468,948,575,975"/>
+<area shape="rect" id="node5" href="$class_engine_object.html" title="EngineObject" alt="" coords="164,652,264,679"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="5,548,115,575"/>
+<area shape="rect" id="node29" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="736,141,853,168"/>
+<area shape="rect" id="node30" href="$class_resource_base_1_1_header.html" title="ResourceBase::Header" alt="" coords="288,115,444,141"/>
+<area shape="rect" id="node7" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="468,1261,575,1288"/>
+<area shape="rect" id="node9" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="709,1395,880,1421"/>
+<area shape="rect" id="node10" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="745,1484,844,1511"/>
+<area shape="rect" id="node11" href="$class_namespace.html" title="Namespace" alt="" coords="476,1668,567,1695"/>
+<area shape="rect" id="node12" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="729,1765,860,1792"/>
+<area shape="rect" id="node14" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="731,1668,858,1695"/>
+<area shape="rect" id="node13" href="$class_data_chunker.html" title="DataChunker" alt="" coords="165,1668,263,1695"/>
+<area shape="rect" id="node15" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="1138,1524,1194,1551"/>
+<area shape="rect" id="node17" href="$class_vector.html" title="Vector\&lt; ForestItem \&gt;" alt="" coords="2216,469,2363,496"/>
+<area shape="rect" id="node18" href="$class_forest_item.html" title="ForestItem" alt="" coords="1868,685,1952,712"/>
+<area shape="rect" id="node19" href="$class_forest_item_data.html" title="ForestItemData" alt="" coords="1520,841,1631,868"/>
+<area shape="rect" id="node22" href="$class_box3_f.html" title="Box3F" alt="" coords="1136,639,1196,665"/>
+<area shape="rect" id="node23" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="757,652,832,679"/>
+<area shape="rect" id="node24" href="$class_point3_f.html" title="Point3F" alt="" coords="761,508,828,535"/>
+<area shape="rect" id="node32" href="$class_edit_t_s_ctrl.html" title="EditTSCtrl" alt="" coords="1869,365,1951,392"/>
+<area shape="rect" id="node46" href="$struct_gui3_d_mouse_event.html" title="Gui3DMouseEvent" alt="" coords="1315,380,1445,407"/>
+<area shape="rect" id="node25" href="$class_matrix_f.html" title="MatrixF" alt="" coords="761,776,828,803"/>
+<area shape="rect" id="node33" href="$class_gui_t_s_ctrl.html" title="Abstract base class for 3D viewport GUIs. " alt="" coords="1536,1028,1615,1055"/>
+<area shape="rect" id="node26" href="$class_resource.html" title="Resource\&lt; ForestData \&gt;" alt="" coords="2027,89,2192,116"/>
+<area shape="rect" id="node27" href="$class_resource_base.html" title="ResourceBase" alt="" coords="1522,23,1629,49"/>
+<area shape="rect" id="node28" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; ResourceBase\l::Header \&gt;" alt="" coords="1069,69,1263,110"/>
+<area shape="rect" id="node42" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1061,225,1271,252"/>
+<area shape="rect" id="node31" href="$class_forest_editor_ctrl.html" title="ForestEditorCtrl" alt="" coords="2233,336,2346,363"/>
+<area shape="rect" id="node35" href="$class_vector.html" title="Vector\&lt; GuiTSCtrl * \&gt;" alt="" coords="1835,1027,1985,1053"/>
+<area shape="rect" id="node34" href="$class_gui_container.html" title="GuiContainer" alt="" coords="1117,1333,1215,1360"/>
+<area shape="rect" id="node36" href="$class_rect_i.html" title="RectI" alt="" coords="769,911,821,937"/>
+<area shape="rect" id="node37" href="$class_point2_i.html" title="Point2I" alt="" coords="490,764,553,791"/>
+<area shape="rect" id="node38" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; NamedTexTarget \&gt;" alt="" coords="1059,1149,1273,1176"/>
+<area shape="rect" id="node40" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="1133,1283,1199,1309"/>
+<area shape="rect" id="node41" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiOffscreen\lCanvas \&gt;" alt="" coords="1073,1021,1259,1062"/>
+<area shape="rect" id="node43" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; Gizmo \&gt;" alt="" coords="1494,339,1657,365"/>
+<area shape="rect" id="node44" href="$class_color_i.html" title="ColorI" alt="" coords="767,327,822,353"/>
+<area shape="rect" id="node47" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; ForestTool \&gt;" alt="" coords="1817,135,2003,161"/>
+<area shape="rect" id="node48" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; ForestTool \&gt;" alt="" coords="1487,73,1664,100"/>
+<area shape="rect" id="node49" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; Forest \&gt;" alt="" coords="1829,288,1991,315"/>
+<area shape="rect" id="node50" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; Forest \&gt;" alt="" coords="1499,124,1652,151"/>
+</map>

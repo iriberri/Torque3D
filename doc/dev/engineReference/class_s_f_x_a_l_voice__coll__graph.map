@@ -1,0 +1,11 @@
+<map id="SFXALVoice" name="SFXALVoice">
+<area shape="rect" id="node2" href="$class_s_f_x_voice.html" title="SFXVoice" alt="" coords="561,101,639,128"/>
+<area shape="rect" id="node3" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="195,5,304,32"/>
+<area shape="rect" id="node4" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node5" href="$class_i_positionable.html" title="IPositionable\&lt; U32 \&gt;" alt="" coords="178,56,321,83"/>
+<area shape="rect" id="node6" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SFXBuffer \&gt;" alt="" coords="163,107,336,133"/>
+<area shape="rect" id="node7" href="$class_signal.html" title="Signal\&lt; void(SFXVoice *) \&gt;" alt="" coords="160,161,339,188"/>
+<area shape="rect" id="node8" href="$struct_o_p_e_n_a_l_f_n_t_a_b_l_e.html" title="OPENALFNTABLE" alt="" coords="533,155,667,181"/>
+<area shape="rect" id="node9" href="$class_mutex.html" title="Mutex" alt="" coords="571,209,629,236"/>
+<area shape="rect" id="node10" href="$struct_platform_mutex_data.html" title="PlatformMutexData" alt="" coords="183,212,316,239"/>
+</map>

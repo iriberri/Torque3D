@@ -1,0 +1,50 @@
+<map id="Portal" name="Portal">
+<area shape="rect" id="node2" href="$class_zone.html" title="Zone" alt="" coords="1942,1113,1993,1140"/>
+<area shape="rect" id="node3" href="$class_scene_ambient_sound_object.html" title="SceneAmbientSoundObject\l\&lt; ScenePolyhedralZone \&gt;" alt="" coords="1876,1023,2059,1064"/>
+<area shape="rect" id="node4" href="$class_scene_polyhedral_zone.html" title="ScenePolyhedralZone" alt="" coords="1457,933,1605,960"/>
+<area shape="rect" id="node5" href="$class_scene_polyhedral_object.html" title="ScenePolyhedralObject\l\&lt; SceneSimpleZone \&gt;" alt="" coords="1452,829,1611,871"/>
+<area shape="rect" id="node6" href="$class_scene_simple_zone.html" title="SceneSimpleZone" alt="" coords="1164,725,1291,752"/>
+<area shape="rect" id="node7" href="$class_scene_zone_space.html" title="SceneZoneSpace" alt="" coords="645,598,769,625"/>
+<area shape="rect" id="node9" href="$struct_scene_zone_space_1_1_zone_space_ref.html" title="Link to another zone space. " alt="" coords="599,725,815,752"/>
+<area shape="rect" id="node8" href="$class_scene_space.html" title="SceneSpace" alt="" coords="599,455,695,481"/>
+<area shape="rect" id="node10" href="$class_scene_zone_space_manager.html" title="Object that manages zone spaces in a scene. " alt="" coords="972,455,1147,481"/>
+<area shape="rect" id="node11" href="$class_vector.html" title="Vector\&lt; SceneObject * \&gt;" alt="" coords="273,307,441,333"/>
+<area shape="rect" id="node12" href="$class_box3_f.html" title="Box3F" alt="" coords="1165,307,1225,333"/>
+<area shape="rect" id="node23" href="$struct_polyhedron_box_intersector.html" title="PolyhedronBoxIntersector\l\&lt; PolyhedronType \&gt;" alt="" coords="1333,591,1503,632"/>
+<area shape="rect" id="node13" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="1239,119,1314,146"/>
+<area shape="rect" id="node19" href="$class_oriented_box3_f.html" title="OrientedBox3F" alt="" coords="1310,307,1419,333"/>
+<area shape="rect" id="node14" href="$class_point3_f.html" title="Point3F" alt="" coords="1789,119,1855,146"/>
+<area shape="rect" id="node26" href="$class_plane_f.html" title="PlaneF" alt="" coords="1883,307,1945,333"/>
+<area shape="rect" id="node27" href="$class_vector.html" title="Vector\&lt; Point3F \&gt;" alt="" coords="1685,455,1815,481"/>
+<area shape="rect" id="node43" href="$class_s_f_x_description.html" title="SFXDescription" alt="" coords="2421,725,2532,752"/>
+<area shape="rect" id="node44" href="$class_s_f_x_source.html" title="Baseclass for sources and controllers. " alt="" coords="2539,598,2625,625"/>
+<area shape="rect" id="node15" href="$class_class_chunker.html" title="ClassChunker\&lt; SceneZoneSpace\l::ZoneSpaceRef \&gt;" alt="" coords="5,373,223,415"/>
+<area shape="rect" id="node16" href="$class_data_chunker.html" title="DataChunker" alt="" coords="268,119,365,146"/>
+<area shape="rect" id="node39" href="$class_namespace.html" title="Namespace" alt="" coords="649,307,739,333"/>
+<area shape="rect" id="node17" href="$class_bit_set32.html" title="BitSet32" alt="" coords="1839,455,1911,481"/>
+<area shape="rect" id="node18" href="$class_color_f.html" title="ColorF" alt="" coords="1528,598,1588,625"/>
+<area shape="rect" id="node20" href="$struct_i_scene_polyhedral_object.html" title="Shared interface for polyhedral objects. " alt="" coords="1639,725,1800,752"/>
+<area shape="rect" id="node21" href="$struct_polyhedron_impl.html" title="PolyhedronImpl\&lt; Base \&gt;" alt="" coords="1449,725,1614,752"/>
+<area shape="rect" id="node24" href="$struct_intersector_base.html" title="IntersectorBase\&lt; Polyhedron\lType, Box3F \&gt;" alt="" coords="1331,447,1521,489"/>
+<area shape="rect" id="node25" href="$class_vector.html" title="Vector\&lt; PlaneF \&gt;" alt="" coords="1935,455,2061,481"/>
+<area shape="rect" id="node28" href="$class_point3_i.html" title="Point3I" alt="" coords="1545,455,1608,481"/>
+<area shape="rect" id="node29" href="$class_s_f_x_ambience.html" title="SFXAmbience" alt="" coords="2639,933,2743,960"/>
+<area shape="rect" id="node30" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="2773,598,2879,625"/>
+<area shape="rect" id="node42" href="$class_s_f_x_track.html" title="A datablock that describes sound data for playback. " alt="" coords="2791,837,2869,863"/>
+<area shape="rect" id="node47" href="$class_s_f_x_environment.html" title="A datablock that defines a reverb environment. " alt="" coords="2863,725,2981,752"/>
+<area shape="rect" id="node49" href="$class_s_f_x_state.html" title="SFXState" alt="" coords="2411,777,2489,804"/>
+<area shape="rect" id="node31" href="$class_sim_object.html" title="SimObject" alt="" coords="2890,455,2973,481"/>
+<area shape="rect" id="node36" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="2650,598,2749,625"/>
+<area shape="rect" id="node32" href="$class_console_object.html" title="ConsoleObject" alt="" coords="3009,307,3115,333"/>
+<area shape="rect" id="node33" href="$class_engine_object.html" title="EngineObject" alt="" coords="2945,119,3045,146"/>
+<area shape="rect" id="node34" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="2833,5,2942,32"/>
+<area shape="rect" id="node35" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="2878,307,2985,333"/>
+<area shape="rect" id="node37" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="2441,455,2611,481"/>
+<area shape="rect" id="node38" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="2635,455,2734,481"/>
+<area shape="rect" id="node40" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="378,455,509,481"/>
+<area shape="rect" id="node41" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="720,455,847,481"/>
+<area shape="rect" id="node45" href="$class_ease_f.html" title="EaseF" alt="" coords="2300,455,2360,481"/>
+<area shape="rect" id="node46" href="$class_s_f_x_sound_reverb_properties.html" title="SFXSoundReverbProperties" alt="" coords="2333,598,2514,625"/>
+<area shape="rect" id="node48" href="$class_s_f_x_reverb_properties.html" title="SFXReverbProperties" alt="" coords="2903,598,3047,625"/>
+<area shape="rect" id="node50" href="$class_signal.html" title="Signal\&lt; Signature \&gt;" alt="" coords="2561,837,2699,863"/>
+</map>

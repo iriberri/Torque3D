@@ -1,0 +1,9 @@
+<map id="OggDecoder" name="OggDecoder">
+<area shape="rect" id="node4" href="$class_vector.html" title="Vector\&lt; OggDecoder * \&gt;" alt="" coords="583,71,748,98"/>
+<area shape="rect" id="node2" href="$class_ogg_input_stream.html" title="A multiplexed OGG input stream feeding into stream decoders. " alt="" coords="885,154,1001,181"/>
+<area shape="rect" id="node3" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; OggInputStream \&gt;" alt="" coords="595,5,735,47"/>
+<area shape="rect" id="node5" href="$class_mutex.html" title="Mutex" alt="" coords="229,159,288,186"/>
+<area shape="rect" id="node6" href="$struct_platform_mutex_data.html" title="PlatformMutexData" alt="" coords="5,159,139,186"/>
+<area shape="rect" id="node7" href="$class_vector.html" title="Vector\&lt; Constructor \&gt;" alt="" coords="590,235,741,262"/>
+<area shape="rect" id="node8" href="$class_stream.html" title="Base stream class for streaming data across a specific media. " alt="" coords="633,286,697,313"/>
+</map>

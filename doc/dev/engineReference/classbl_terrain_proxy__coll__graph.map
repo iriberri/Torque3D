@@ -1,0 +1,26 @@
+<map id="blTerrainProxy" name="blTerrainProxy">
+<area shape="rect" id="node2" href="$class_scene_lighting_1_1_object_proxy.html" title="Create a proxy for each object to store data. " alt="" coords="1157,131,1341,157"/>
+<area shape="rect" id="node3" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="801,5,1000,32"/>
+<area shape="rect" id="node4" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SceneObject \&gt;" alt="" coords="363,5,554,32"/>
+<area shape="rect" id="node5" href="$class_color_f.html" title="ColorF" alt="" coords="429,725,489,752"/>
+<area shape="rect" id="node21" href="$class_light_info.html" title="LightInfo" alt="" coords="865,777,936,804"/>
+<area shape="rect" id="node6" href="$class_shadow_volume_b_s_p.html" title="Used to calculate shadows. " alt="" coords="1180,283,1319,309"/>
+<area shape="rect" id="node7" href="$class_chunker.html" title="Chunker\&lt; ShadowVolumeBSP\l::SVPoly \&gt;" alt="" coords="801,122,1000,163"/>
+<area shape="rect" id="node8" href="$class_data_chunker.html" title="DataChunker" alt="" coords="410,97,507,124"/>
+<area shape="rect" id="node18" href="$class_chunker.html" title="Chunker\&lt; ShadowVolumeBSP\l::SVNode \&gt;" alt="" coords="801,57,1000,98"/>
+<area shape="rect" id="node9" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="20,97,185,124"/>
+<area shape="rect" id="node10" href="$struct_shadow_volume_b_s_p_1_1_s_v_poly.html" title="ShadowVolumeBSP::SVPoly" alt="" coords="805,472,996,499"/>
+<area shape="rect" id="node11" href="$struct_shadow_volume_b_s_p_1_1_surface_info.html" title="ShadowVolumeBSP::SurfaceInfo" alt="" coords="353,324,564,351"/>
+<area shape="rect" id="node13" href="$struct_shadow_volume_b_s_p_1_1_s_v_node.html" title="ShadowVolumeBSP::SVNode" alt="" coords="5,279,200,305"/>
+<area shape="rect" id="node17" href="$class_vector.html" title="Vector\&lt; ShadowVolumeBSP\l::SurfaceInfo * \&gt;" alt="" coords="806,317,995,358"/>
+<area shape="rect" id="node12" href="$class_vector.html" title="Vector\&lt; U32 \&gt;" alt="" coords="49,369,156,396"/>
+<area shape="rect" id="node19" href="$class_vector.html" title="Vector\&lt; ShadowVolumeBSP\l::SVNode * \&gt;" alt="" coords="588,186,777,227"/>
+<area shape="rect" id="node14" href="$class_point3_f.html" title="Point3F" alt="" coords="69,547,136,573"/>
+<area shape="rect" id="node15" href="$class_plane_f.html" title="PlaneF" alt="" coords="427,485,490,512"/>
+<area shape="rect" id="node16" href="$class_vector.html" title="Vector\&lt; PlaneF \&gt;" alt="" coords="838,383,963,409"/>
+<area shape="rect" id="node20" href="$class_vector.html" title="Vector\&lt; LightInfo * \&gt;" alt="" coords="1179,660,1320,687"/>
+<area shape="rect" id="node22" href="$class_matrix_f.html" title="MatrixF" alt="" coords="425,928,492,955"/>
+<area shape="rect" id="node23" href="$class_vector.html" title="Vector\&lt; LightInfoEx * \&gt;" alt="" coords="380,839,537,865"/>
+<area shape="rect" id="node24" href="$class_light_info_ex.html" title="LightInfoEx" alt="" coords="59,839,146,865"/>
+<area shape="rect" id="node25" href="$class_bit_vector.html" title="Manage a vector of bits of arbitrary size. " alt="" coords="1211,711,1287,737"/>
+</map>

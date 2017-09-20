@@ -1,0 +1,5 @@
+<map id="ResizeBitStream" name="ResizeBitStream">
+<area shape="rect" id="node4" href="$class_infinite_bit_stream.html" title="InfiniteBitStream" alt="" coords="7,229,124,256"/>
+<area shape="rect" id="node2" href="$class_bit_stream.html" title="BitStream" alt="" coords="25,80,105,107"/>
+<area shape="rect" id="node3" href="$class_stream.html" title="Base stream class for streaming data across a specific media. " alt="" coords="33,5,97,32"/>
+</map>

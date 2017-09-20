@@ -1,0 +1,51 @@
+<map id="GuiPopUpBackgroundCtrlEx" name="GuiPopUpBackgroundCtrlEx">
+<area shape="rect" id="node42" href="$class_gui_pop_up_menu_ctrl_ex.html" title="GuiPopUpMenuCtrlEx" alt="" coords="2325,616,2475,643"/>
+<area shape="rect" id="node2" href="$class_gui_control.html" title="GuiControl" alt="" coords="1370,1003,1453,1029"/>
+<area shape="rect" id="node30" href="$class_gui_edit_ctrl.html" title="Native side of the GUI editor. " alt="" coords="2119,1240,2205,1267"/>
+<area shape="rect" id="node34" href="$class_vector.html" title="Vector\&lt; GuiControl * \&gt;" alt="" coords="1707,1003,1861,1029"/>
+<area shape="rect" id="node39" href="$class_gui_array_ctrl.html" title="Renders a grid of cells. " alt="" coords="1737,1537,1831,1564"/>
+<area shape="rect" id="node44" href="$class_gui_container.html" title="GuiContainer" alt="" coords="1735,616,1833,643"/>
+<area shape="rect" id="node3" href="$class_sim_group.html" title="SimGroup" alt="" coords="1046,1273,1126,1300"/>
+<area shape="rect" id="node4" href="$class_sim_set.html" title="SimSet" alt="" coords="689,1340,755,1367"/>
+<area shape="rect" id="node5" href="$class_sim_object.html" title="SimObject" alt="" coords="309,1511,391,1537"/>
+<area shape="rect" id="node8" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="673,1536,771,1563"/>
+<area shape="rect" id="node14" href="$class_gui_control_profile.html" title="GuiControlProfile" alt="" coords="1027,904,1145,931"/>
+<area shape="rect" id="node27" href="$class_lang_table.html" title="Language file table. " alt="" coords="681,1243,763,1269"/>
+<area shape="rect" id="node6" href="$class_console_object.html" title="ConsoleObject" alt="" coords="11,1511,117,1537"/>
+<area shape="rect" id="node7" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="11,1671,117,1697"/>
+<area shape="rect" id="node9" href="$class_namespace.html" title="Namespace" alt="" coords="19,1804,109,1831"/>
+<area shape="rect" id="node10" href="$class_taml_children.html" title="TamlChildren" alt="" coords="301,1279,399,1305"/>
+<area shape="rect" id="node11" href="$class_sim_object_list.html" title="SimObjectList" alt="" coords="298,1329,402,1356"/>
+<area shape="rect" id="node12" href="$class_signal.html" title="Signal\&lt; void(SetModification\l modification, SimSet *set,\l SimObject *object) \&gt;" alt="" coords="257,1380,443,1436"/>
+<area shape="rect" id="node13" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="694,803,750,829"/>
+<area shape="rect" id="node15" href="$class_color_i.html" title="ColorI" alt="" coords="695,132,749,159"/>
+<area shape="rect" id="node48" href="$struct_gui_pop_up_menu_ctrl_ex_1_1_entry.html" title="GuiPopUpMenuCtrlEx\l::Entry" alt="" coords="1011,125,1161,166"/>
+<area shape="rect" id="node50" href="$struct_gui_pop_up_menu_ctrl_ex_1_1_scheme.html" title="GuiPopUpMenuCtrlEx\l::Scheme" alt="" coords="1011,59,1161,101"/>
+<area shape="rect" id="node16" href="$class_resource.html" title="Resource\&lt; GFont \&gt;" alt="" coords="653,1192,791,1219"/>
+<area shape="rect" id="node17" href="$class_resource_base.html" title="ResourceBase" alt="" coords="297,1177,403,1204"/>
+<area shape="rect" id="node18" href="$class_point2_i.html" title="Point2I" alt="" coords="33,908,95,935"/>
+<area shape="rect" id="node22" href="$class_rect_i.html" title="RectI" alt="" coords="324,857,376,884"/>
+<area shape="rect" id="node32" href="$class_vector.html" title="Vector\&lt; Point2I \&gt;" alt="" coords="475,1463,599,1489"/>
+<area shape="rect" id="node45" href="$class_gui_scroll_ctrl.html" title="GuiScrollCtrl" alt="" coords="2115,509,2209,536"/>
+<area shape="rect" id="node46" href="$struct_gui_event.html" title="GuiEvent" alt="" coords="859,241,934,268"/>
+<area shape="rect" id="node19" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SFXTrack \&gt;" alt="" coords="632,963,812,989"/>
+<area shape="rect" id="node20" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SFXTrack \&gt;" alt="" coords="264,1025,436,1052"/>
+<area shape="rect" id="node21" href="$class_vector.html" title="Vector\&lt; RectI \&gt;" alt="" coords="665,857,779,884"/>
+<area shape="rect" id="node23" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="668,711,776,737"/>
+<area shape="rect" id="node24" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="262,959,438,1001"/>
+<area shape="rect" id="node25" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="5,1369,123,1396"/>
+<area shape="rect" id="node35" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="981,1392,1191,1419"/>
+<area shape="rect" id="node26" href="$class_vector.html" title="Vector\&lt; Vector\&lt; GuiWindow\lCtrl * \&gt; \&gt;" alt="" coords="992,1069,1180,1110"/>
+<area shape="rect" id="node28" href="$class_vector.html" title="Vector\&lt; LangFile * \&gt;" alt="" coords="279,1228,421,1255"/>
+<area shape="rect" id="node29" href="$class_lang_file.html" title="Class for working with language files. " alt="" coords="29,1228,99,1255"/>
+<area shape="rect" id="node31" href="$class_vector.html" title="Vector\&lt; U32 \&gt;" alt="" coords="1731,1436,1837,1463"/>
+<area shape="rect" id="node33" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCT \&gt;" alt="" coords="1705,1054,1863,1095"/>
+<area shape="rect" id="node36" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiControl \&gt;" alt="" coords="1691,1233,1877,1260"/>
+<area shape="rect" id="node37" href="$class_gui_popup_text_list_ctrl_ex.html" title="GuiPopupTextListCtrlEx" alt="" coords="2597,804,2759,831"/>
+<area shape="rect" id="node38" href="$class_gui_text_list_ctrl.html" title="GuiTextListCtrl" alt="" coords="2108,1572,2216,1599"/>
+<area shape="rect" id="node40" href="$class_vector.html" title="Vector\&lt; S32 \&gt;" alt="" coords="1731,1655,1837,1681"/>
+<area shape="rect" id="node41" href="$class_vector.html" title="Vector\&lt; GuiTextListCtrl\l::Entry \&gt;" alt="" coords="1705,1589,1863,1630"/>
+<area shape="rect" id="node43" href="$class_gui_text_ctrl.html" title="GuiTextCtrl" alt="" coords="2119,616,2205,643"/>
+<area shape="rect" id="node47" href="$class_vector.html" title="Vector\&lt; GuiPopUpMenuCtrl\lEx::Entry \&gt;" alt="" coords="1484,127,1667,169"/>
+<area shape="rect" id="node49" href="$class_vector.html" title="Vector\&lt; GuiPopUpMenuCtrl\lEx::Scheme \&gt;" alt="" coords="1901,62,2084,103"/>
+</map>

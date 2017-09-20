@@ -1,0 +1,6 @@
+<map id="fxFoliageItem" name="fxFoliageItem">
+<area shape="rect" id="node2" href="$class_box3_f.html" title="Box3F" alt="" coords="34,194,94,221"/>
+<area shape="rect" id="node3" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="5,43,80,70"/>
+<area shape="rect" id="node4" href="$class_point3_f.html" title="Point3F" alt="" coords="104,43,171,70"/>
+<area shape="rect" id="node5" href="$class_matrix_f.html" title="MatrixF" alt="" coords="179,194,245,221"/>
+</map>

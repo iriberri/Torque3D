@@ -1,0 +1,5 @@
+<map id="Dispatcher::_DispatchData" name="Dispatcher::_DispatchData">
+<area shape="rect" id="node2" href="$class_simple_hash_table.html" title="SimpleHashTable\&lt; Dispatcher\l::MessageQueue \&gt;" alt="" coords="5,185,203,227"/>
+<area shape="rect" id="node3" href="$class_sparse_array.html" title="SparseArray\&lt; Dispatcher\l::MessageQueue \&gt;" alt="" coords="20,95,188,136"/>
+<area shape="rect" id="node4" href="$struct_sparse_array_1_1_node.html" title="SparseArray\&lt; T \&gt;::Node" alt="" coords="23,5,185,32"/>
+</map>

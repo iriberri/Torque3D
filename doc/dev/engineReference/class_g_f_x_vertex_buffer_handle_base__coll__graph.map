@@ -1,0 +1,6 @@
+<map id="GFXVertexBufferHandleBase" name="GFXVertexBufferHandleBase">
+<area shape="rect" id="node2" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXVertexBuffer \&gt;" alt="" coords="5,247,221,273"/>
+<area shape="rect" id="node3" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="55,171,172,197"/>
+<area shape="rect" id="node4" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="59,81,168,108"/>
+<area shape="rect" id="node5" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="61,5,166,32"/>
+</map>

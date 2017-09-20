@@ -1,0 +1,51 @@
+<map id="GuiBubbleTextCtrl" name="GuiBubbleTextCtrl">
+<area shape="rect" id="node2" href="$class_gui_text_ctrl.html" title="GuiTextCtrl" alt="" coords="2223,59,2309,85"/>
+<area shape="rect" id="node3" href="$class_gui_container.html" title="GuiContainer" alt="" coords="1919,59,2016,85"/>
+<area shape="rect" id="node4" href="$class_gui_control.html" title="GuiControl" alt="" coords="1584,463,1667,489"/>
+<area shape="rect" id="node26" href="$class_gui_edit_ctrl.html" title="Native side of the GUI editor. " alt="" coords="2223,459,2309,485"/>
+<area shape="rect" id="node30" href="$class_vector.html" title="Vector\&lt; GuiControl * \&gt;" alt="" coords="1890,400,2045,427"/>
+<area shape="rect" id="node36" href="$class_gui_m_l_text_ctrl.html" title="GuiMLTextCtrl" alt="" coords="1915,1311,2020,1337"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="SimGroup" alt="" coords="1222,248,1302,275"/>
+<area shape="rect" id="node6" href="$class_sim_set.html" title="SimSet" alt="" coords="828,189,893,216"/>
+<area shape="rect" id="node7" href="$class_sim_object.html" title="SimObject" alt="" coords="447,336,530,363"/>
+<area shape="rect" id="node14" href="$class_gui_control_profile.html" title="GuiControlProfile" alt="" coords="1203,563,1321,589"/>
+<area shape="rect" id="node24" href="$class_lang_table.html" title="Language file table. " alt="" coords="820,297,901,324"/>
+<area shape="rect" id="node38" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="808,1064,913,1091"/>
+<area shape="rect" id="node8" href="$class_console_object.html" title="ConsoleObject" alt="" coords="177,20,283,47"/>
+<area shape="rect" id="node9" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="177,336,283,363"/>
+<area shape="rect" id="node10" href="$class_taml_children.html" title="TamlChildren" alt="" coords="440,104,537,131"/>
+<area shape="rect" id="node11" href="$class_sim_object_list.html" title="SimObjectList" alt="" coords="437,155,541,181"/>
+<area shape="rect" id="node12" href="$class_signal.html" title="Signal\&lt; void(SetModification\l modification, SimSet *set,\l SimObject *object) \&gt;" alt="" coords="396,205,581,261"/>
+<area shape="rect" id="node13" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="833,912,889,939"/>
+<area shape="rect" id="node15" href="$class_color_i.html" title="ColorI" alt="" coords="461,1048,516,1075"/>
+<area shape="rect" id="node41" href="$struct_gui_m_l_text_ctrl_1_1_style.html" title="GuiMLTextCtrl::Style" alt="" coords="789,1412,932,1439"/>
+<area shape="rect" id="node16" href="$class_resource.html" title="Resource\&lt; GFont \&gt;" alt="" coords="161,1688,299,1715"/>
+<area shape="rect" id="node42" href="$struct_gui_m_l_text_ctrl_1_1_font.html" title="GuiMLTextCtrl::Font" alt="" coords="419,1688,558,1715"/>
+<area shape="rect" id="node17" href="$class_resource_base.html" title="ResourceBase" alt="" coords="5,1688,112,1715"/>
+<area shape="rect" id="node18" href="$class_point2_i.html" title="Point2I" alt="" coords="199,619,261,645"/>
+<area shape="rect" id="node21" href="$class_rect_i.html" title="RectI" alt="" coords="463,619,515,645"/>
+<area shape="rect" id="node28" href="$class_vector.html" title="Vector\&lt; Point2I \&gt;" alt="" coords="614,861,738,888"/>
+<area shape="rect" id="node19" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SFXTrack \&gt;" alt="" coords="771,512,951,539"/>
+<area shape="rect" id="node20" href="$class_vector.html" title="Vector\&lt; RectI \&gt;" alt="" coords="803,563,918,589"/>
+<area shape="rect" id="node43" href="$struct_gui_m_l_text_ctrl_1_1_bitmap_ref.html" title="GuiMLTextCtrl::BitmapRef" alt="" coords="1539,1108,1712,1135"/>
+<area shape="rect" id="node22" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="807,1183,915,1209"/>
+<area shape="rect" id="node40" href="$struct_gui_m_l_text_ctrl_1_1_bitmap.html" title="GuiMLTextCtrl::Bitmap" alt="" coords="1185,1183,1339,1209"/>
+<area shape="rect" id="node23" href="$class_vector.html" title="Vector\&lt; Vector\&lt; GuiWindow\lCtrl * \&gt; \&gt;" alt="" coords="1168,455,1356,497"/>
+<area shape="rect" id="node25" href="$class_vector.html" title="Vector\&lt; LangFile * \&gt;" alt="" coords="417,285,560,312"/>
+<area shape="rect" id="node27" href="$class_vector.html" title="Vector\&lt; U32 \&gt;" alt="" coords="1914,349,2021,376"/>
+<area shape="rect" id="node29" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCT \&gt;" alt="" coords="1888,451,2047,493"/>
+<area shape="rect" id="node31" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1157,852,1367,879"/>
+<area shape="rect" id="node32" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="802,963,919,989"/>
+<area shape="rect" id="node33" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiControl \&gt;" alt="" coords="1875,967,2060,993"/>
+<area shape="rect" id="node34" href="$struct_control_sizing.html" title="Represents the Sizing Options for a GuiControl. " alt="" coords="1576,35,1675,61"/>
+<area shape="rect" id="node35" href="$struct_rect_spacing_i.html" title="RectSpacingI" alt="" coords="1213,15,1311,41"/>
+<area shape="rect" id="node37" href="$class_s_f_x_track.html" title="A datablock that describes sound data for playback. " alt="" coords="1586,953,1665,980"/>
+<area shape="rect" id="node39" href="$class_s_f_x_description.html" title="SFXDescription" alt="" coords="1207,1004,1317,1031"/>
+<area shape="rect" id="node44" href="$struct_gui_m_l_text_ctrl_1_1_atom.html" title="GuiMLTextCtrl::Atom" alt="" coords="1190,1532,1334,1559"/>
+<area shape="rect" id="node50" href="$struct_gui_m_l_text_ctrl_1_1_line.html" title="GuiMLTextCtrl::Line" alt="" coords="1557,1608,1694,1635"/>
+<area shape="rect" id="node45" href="$struct_gui_m_l_text_ctrl_1_1_u_r_l.html" title="GuiMLTextCtrl::URL" alt="" coords="791,1633,930,1660"/>
+<area shape="rect" id="node46" href="$class_data_chunker.html" title="DataChunker" alt="" coords="1577,1004,1674,1031"/>
+<area shape="rect" id="node47" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="1179,1093,1345,1120"/>
+<area shape="rect" id="node48" href="$class_string_buffer.html" title="StringBuffer" alt="" coords="1581,1221,1670,1248"/>
+<area shape="rect" id="node49" href="$struct_gui_m_l_text_ctrl_1_1_line_tag.html" title="GuiMLTextCtrl::LineTag" alt="" coords="1546,1311,1705,1337"/>
+</map>

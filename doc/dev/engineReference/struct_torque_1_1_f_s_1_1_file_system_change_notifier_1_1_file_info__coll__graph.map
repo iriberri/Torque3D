@@ -1,0 +1,5 @@
+<map id="Torque::FS::FileSystemChangeNotifier::FileInfo" name="Torque::FS::FileSystemChangeNotifier::FileInfo">
+<area shape="rect" id="node2" href="$class_torque_1_1_time.html" title="64 bit time representation with ten microsecond resolution. " alt="" coords="5,13,103,39"/>
+<area shape="rect" id="node3" href="$class_torque_1_1_path.html" title="Torque::Path" alt="" coords="153,13,249,39"/>
+<area shape="rect" id="node4" href="$class_signal.html" title="Signal\&lt; void(const\l Path &amp;)\&gt;" alt="" coords="273,5,401,47"/>
+</map>

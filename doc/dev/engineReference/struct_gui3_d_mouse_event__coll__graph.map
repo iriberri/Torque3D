@@ -1,0 +1,5 @@
+<map id="Gui3DMouseEvent" name="Gui3DMouseEvent">
+<area shape="rect" id="node2" href="$struct_gui_event.html" title="GuiEvent" alt="" coords="5,165,80,191"/>
+<area shape="rect" id="node3" href="$class_point2_i.html" title="Point2I" alt="" coords="11,21,74,48"/>
+<area shape="rect" id="node4" href="$class_point3_f.html" title="Point3F" alt="" coords="104,165,171,191"/>
+</map>

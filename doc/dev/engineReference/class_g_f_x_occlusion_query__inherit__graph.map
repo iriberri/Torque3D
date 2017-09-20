@@ -1,0 +1,5 @@
+<map id="GFXOcclusionQuery" name="GFXOcclusionQuery">
+<area shape="rect" id="node3" href="$class_g_f_x_d3_d11_occlusion_query.html" title="GFXD3D11OcclusionQuery" alt="" coords="5,155,184,181"/>
+<area shape="rect" id="node4" href="$class_g_f_x_g_l_occlusion_query.html" title="GFXGLOcclusionQuery" alt="" coords="208,155,365,181"/>
+<area shape="rect" id="node2" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="139,5,242,32"/>
+</map>

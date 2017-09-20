@@ -1,0 +1,51 @@
+<map id="RenderMeshMgr" name="RenderMeshMgr">
+<area shape="rect" id="node2" href="$class_render_bin_manager.html" title="RenderBinManager" alt="" coords="1236,333,1368,360"/>
+<area shape="rect" id="node28" href="$class_vector.html" title="Vector\&lt; RenderBinManager * \&gt;" alt="" coords="1541,271,1744,297"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="SimObject" alt="" coords="887,997,970,1024"/>
+<area shape="rect" id="node9" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1253,1144,1351,1171"/>
+<area shape="rect" id="node14" href="$union_namespace_1_1_entry_1_1_callback_union.html" title="Namespace::Entry::Callback\lUnion" alt="" coords="1208,850,1396,891"/>
+<area shape="rect" id="node24" href="$class_render_pass_manager.html" title="RenderPassManager" alt="" coords="1907,472,2050,499"/>
+<area shape="rect" id="node4" href="$class_console_object.html" title="ConsoleObject" alt="" coords="578,968,685,995"/>
+<area shape="rect" id="node5" href="$class_engine_object.html" title="EngineObject" alt="" coords="319,968,419,995"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,968,269,995"/>
+<area shape="rect" id="node45" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="870,561,987,588"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,968,111,995"/>
+<area shape="rect" id="node8" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="578,1019,685,1045"/>
+<area shape="rect" id="node10" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="843,1239,1014,1265"/>
+<area shape="rect" id="node11" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="879,1137,978,1164"/>
+<area shape="rect" id="node12" href="$class_namespace.html" title="Namespace" alt="" coords="1933,1012,2024,1039"/>
+<area shape="rect" id="node13" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="1577,955,1708,981"/>
+<area shape="rect" id="node19" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="2296,1103,2423,1129"/>
+<area shape="rect" id="node15" href="$class_code_block.html" title="CodeBlock" alt="" coords="1259,955,1345,981"/>
+<area shape="rect" id="node16" href="$struct_console_function_header.html" title="Extended information about a console function. " alt="" coords="1222,1005,1382,1032"/>
+<area shape="rect" id="node17" href="$class_data_chunker.html" title="DataChunker" alt="" coords="1253,677,1351,704"/>
+<area shape="rect" id="node26" href="$class_multi_typed_chunker.html" title="MultiTypedChunker" alt="" coords="1576,553,1709,580"/>
+<area shape="rect" id="node18" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="846,677,1011,704"/>
+<area shape="rect" id="node20" href="$class_console_base_type.html" title="Information about a console type. " alt="" coords="1915,1116,2042,1143"/>
+<area shape="rect" id="node21" href="$class_vector.html" title="Vector\&lt; Field \&gt;" alt="" coords="1923,1167,2035,1193"/>
+<area shape="rect" id="node22" href="$class_render_inst_type.html" title="RenderInstType" alt="" coords="575,245,687,272"/>
+<area shape="rect" id="node46" href="$class_vector.html" title="Vector\&lt; RenderInstType \&gt;" alt="" coords="841,333,1016,360"/>
+<area shape="rect" id="node23" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="341,120,397,147"/>
+<area shape="rect" id="node30" href="$class_light_manager.html" title="LightManager" alt="" coords="2987,739,3087,765"/>
+<area shape="rect" id="node29" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="2673,671,2782,697"/>
+<area shape="rect" id="node38" href="$class_scene_render_state.html" title="SceneRenderState" alt="" coords="2294,740,2425,767"/>
+<area shape="rect" id="node25" href="$class_matrix_set.html" title="MatrixSet" alt="" coords="1603,604,1682,631"/>
+<area shape="rect" id="node27" href="$class_hash_table.html" title="HashTable\&lt; RenderInstType\lHash, AddInstSignal \&gt;" alt="" coords="1550,655,1735,697"/>
+<area shape="rect" id="node31" href="$class_signal.html" title="Signal\&lt; void(const\l char *, bool)\&gt;" alt="" coords="2663,754,2791,795"/>
+<area shape="rect" id="node32" href="$class_point3_f.html" title="Point3F" alt="" coords="1945,879,2012,905"/>
+<area shape="rect" id="node41" href="$class_scene_camera_state.html" title="SceneCameraState" alt="" coords="2292,791,2427,817"/>
+<area shape="rect" id="node33" href="$class_available_s_l_interfaces.html" title="AvailableSLInterfaces" alt="" coords="2655,1009,2800,1036"/>
+<area shape="rect" id="node34" href="$class_scene_zone_space_manager.html" title="Object that manages zone spaces in a scene. " alt="" coords="2272,576,2447,603"/>
+<area shape="rect" id="node35" href="$class_vector.html" title="Vector\&lt; SceneObject * \&gt;" alt="" coords="1895,547,2063,573"/>
+<area shape="rect" id="node36" href="$struct_fog_data.html" title="The aerial fog settings. " alt="" coords="2324,841,2395,868"/>
+<area shape="rect" id="node37" href="$class_interpolated_change_property.html" title="InterpolatedChangeProperty\l\&lt; ColorF \&gt;" alt="" coords="2268,893,2451,934"/>
+<area shape="rect" id="node39" href="$class_matrix_f.html" title="MatrixF" alt="" coords="1945,701,2012,728"/>
+<area shape="rect" id="node40" href="$class_point2_i.html" title="Point2I" alt="" coords="2328,385,2391,412"/>
+<area shape="rect" id="node42" href="$struct_water_fog_data.html" title="The water fog settings. " alt="" coords="2306,627,2413,653"/>
+<area shape="rect" id="node43" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="1589,503,1697,529"/>
+<area shape="rect" id="node44" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="1214,495,1390,537"/>
+<area shape="rect" id="node50" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1197,561,1407,588"/>
+<area shape="rect" id="node47" href="$class_vector.html" title="Vector\&lt; RenderBinManager\l::MainSortElem \&gt;" alt="" coords="837,385,1020,426"/>
+<area shape="rect" id="node48" href="$struct_render_bin_manager_1_1_main_sort_elem.html" title="RenderBinManager::MainSortElem" alt="" coords="520,392,743,419"/>
+<area shape="rect" id="node49" href="$struct_render_inst.html" title="RenderInst" alt="" coords="327,392,411,419"/>
+</map>

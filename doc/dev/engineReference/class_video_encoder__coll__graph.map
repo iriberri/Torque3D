@@ -1,0 +1,10 @@
+<map id="VideoEncoder" name="VideoEncoder">
+<area shape="rect" id="node2" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="5,231,61,257"/>
+<area shape="rect" id="node3" href="$class_thread_safe_deque.html" title="ThreadSafeDeque\&lt; GBitmap * \&gt;" alt="" coords="187,231,395,257"/>
+<area shape="rect" id="node4" href="$class_thread_safe_free_list.html" title="ThreadSafeFreeList\l\&lt; ThreadSafeDeque::Node \&gt;" alt="" coords="436,96,623,137"/>
+<area shape="rect" id="node5" href="$class_thread_safe_deque_1_1_node.html" title="List node. " alt="" coords="559,223,702,265"/>
+<area shape="rect" id="node6" href="$class_thread_safe_free_list_node.html" title="ThreadSafeFreeListNode\l\&lt; Node, DeleteNode \&gt;" alt="" coords="647,96,811,137"/>
+<area shape="rect" id="node7" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; Node, DeleteNode \&gt;" alt="" coords="654,5,805,47"/>
+<area shape="rect" id="node8" href="$class_thread_safe_ref.html" title="ThreadSafeRef\&lt; Node \&gt;" alt="" coords="236,103,396,130"/>
+<area shape="rect" id="node9" href="$class_point2_i.html" title="Point2I" alt="" coords="419,231,482,257"/>
+</map>

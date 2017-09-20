@@ -1,0 +1,5 @@
+<map id="MoveList" name="MoveList">
+<area shape="rect" id="node2" href="$class_extended_move_list.html" title="ExtendedMoveList" alt="" coords="5,80,133,107"/>
+<area shape="rect" id="node3" href="$class_hifi_move_list.html" title="HifiMoveList" alt="" coords="157,80,248,107"/>
+<area shape="rect" id="node4" href="$class_std_move_list.html" title="StdMoveList" alt="" coords="272,80,365,107"/>
+</map>

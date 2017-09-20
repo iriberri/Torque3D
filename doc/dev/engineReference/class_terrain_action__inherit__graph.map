@@ -1,0 +1,21 @@
+<map id="TerrainAction" name="TerrainAction">
+<area shape="rect" id="node2" href="$class_brush_adjust_height_action.html" title="BrushAdjustHeightAction" alt="" coords="152,5,319,32"/>
+<area shape="rect" id="node4" href="$class_clear_action.html" title="ClearAction" alt="" coords="191,56,280,83"/>
+<area shape="rect" id="node5" href="$class_clear_empty_action.html" title="ClearEmptyAction" alt="" coords="172,107,299,133"/>
+<area shape="rect" id="node6" href="$class_clear_materials_action.html" title="ClearMaterialsAction" alt="" coords="164,157,307,184"/>
+<area shape="rect" id="node7" href="$class_deselect_action.html" title="DeselectAction" alt="" coords="180,208,291,235"/>
+<area shape="rect" id="node8" href="$class_flatten_height_action.html" title="FlattenHeightAction" alt="" coords="167,259,303,285"/>
+<area shape="rect" id="node9" href="$class_lower_height_action.html" title="LowerHeightAction" alt="" coords="170,309,301,336"/>
+<area shape="rect" id="node10" href="$class_outline_select_action.html" title="OutlineSelectAction" alt="" coords="167,360,304,387"/>
+<area shape="rect" id="node11" href="$class_paint_material_action.html" title="PaintMaterialAction" alt="" coords="168,411,303,437"/>
+<area shape="rect" id="node12" href="$class_paint_noise_action.html" title="PaintNoiseAction" alt="" coords="174,461,297,488"/>
+<area shape="rect" id="node13" href="$class_raise_height_action.html" title="RaiseHeightAction" alt="" coords="171,512,300,539"/>
+<area shape="rect" id="node14" href="$class_scale_height_action.html" title="ScaleHeightAction" alt="" coords="171,563,300,589"/>
+<area shape="rect" id="node15" href="$class_select_action.html" title="SelectAction" alt="" coords="187,613,283,640"/>
+<area shape="rect" id="node16" href="$class_set_empty_action.html" title="SetEmptyAction" alt="" coords="177,664,294,691"/>
+<area shape="rect" id="node17" href="$class_set_height_action.html" title="SetHeightAction" alt="" coords="177,715,293,741"/>
+<area shape="rect" id="node18" href="$class_smooth_height_action.html" title="SmoothHeightAction" alt="" coords="165,765,306,792"/>
+<area shape="rect" id="node19" href="$class_smooth_slope_action.html" title="SmoothSlopeAction" alt="" coords="167,816,304,843"/>
+<area shape="rect" id="node20" href="$class_soft_select_action.html" title="SoftSelectAction" alt="" coords="176,867,295,893"/>
+<area shape="rect" id="node3" href="$class_adjust_height_action.html" title="AdjustHeightAction" alt="" coords="367,5,500,32"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="C:/projects/torque3d&#45;qw64q/Engine/source/util/scopeTracker.h" name="C:/projects/torque3d&#45;qw64q/Engine/source/util/scopeTracker.h">
+<area shape="rect" id="node2" href="$typetraits_8h.html" title="platform/typetraits.h" alt="" coords="975,273,1112,300"/>
+<area shape="rect" id="node18" href="$bit_set_8h_source.html" title="core/bitSet.h" alt="" coords="1025,191,1121,218"/>
+<area shape="rect" id="node19" href="$t_vector_8h_source.html" title="core/util/tVector.h" alt="" coords="514,423,639,449"/>
+<area shape="rect" id="node22" href="$console_8h_source.html" title="console/console.h" alt="" coords="1093,109,1220,136"/>
+<area shape="rect" id="node38" href="$profiler_8h_source.html" title="platform/profiler.h" alt="" coords="1327,109,1448,136"/>
+<area shape="rect" id="node3" href="$platform_8h_source.html" title="platform/platform.h" alt="" coords="928,497,1057,524"/>
+<area shape="rect" id="node6" href="$types_8h_source.html" title="platform/types.h" alt="" coords="158,661,273,688"/>
+<area shape="rect" id="node10" href="$platform_assert_8h_source.html" title="platform/platformAssert.h" alt="" coords="1147,579,1313,606"/>
+<area shape="rect" id="node11" href="$msg_box_8h_source.html" title="platform/nativeDialogs\l/msgBox.h" alt="" coords="563,572,711,613"/>
+<area shape="rect" id="node12" href="$version_8h_source.html" title="app/version.h" alt="" coords="735,579,834,606"/>
+<area shape="rect" id="node13" href="$str_8h_source.html" title="core/util/str.h" alt="" coords="1338,579,1437,606"/>
+<area shape="rect" id="node15" href="$safe_delete_8h_source.html" title="core/util/safeDelete.h" alt="" coords="858,579,1002,606"/>
+<area shape="rect" id="node7" href="$stdint_8h_source.html" title="stdint.h" alt="" coords="183,736,248,763"/>
+<area shape="rect" id="node21" href="$t_vector_specializations_8h_source.html" title="core/util/tVectorSpecializations.h" alt="" coords="470,497,683,524"/>
+<area shape="rect" id="node23" href="$ref_base_8h_source.html" title="core/util/refBase.h" alt="" coords="1239,191,1365,218"/>
+<area shape="rect" id="node25" href="$journaled_signal_8h_source.html" title="core/util/journal/journaled\lSignal.h" alt="" coords="693,184,860,225"/>
+<area shape="rect" id="node26" href="$journal_8h_source.html" title="core/util/journal/journal.h" alt="" coords="490,273,653,300"/>
+<area shape="rect" id="node35" href="$t_signal_8h_source.html" title="core/util/tSignal.h" alt="" coords="715,273,838,300"/>
+<area shape="rect" id="node27" href="$stream_8h_source.html" title="core/stream/stream.h" alt="" coords="91,497,238,524"/>
+<area shape="rect" id="node32" href="$return_type_8h.html" title="util/returnType.h" alt="" coords="414,348,529,375"/>
+<area shape="rect" id="node33" href="$io_helper_8h_source.html" title="core/stream/ioHelper.h" alt="" coords="185,348,339,375"/>
+<area shape="rect" id="node34" href="$id_generator_8h_source.html" title="core/idGenerator.h" alt="" coords="604,348,733,375"/>
+<area shape="rect" id="node28" href="$endian_8h_source.html" title="core/util/endian.h" alt="" coords="5,579,127,606"/>
+<area shape="rect" id="node29" href="$string_functions_8h_source.html" title="core/strings/stringFunctions.h" alt="" coords="253,579,447,606"/>
+<area shape="rect" id="node36" href="$delegate_8h_source.html" title="core/util/delegate.h" alt="" coords="809,348,941,375"/>
+<area shape="rect" id="node37" href="$_fast_delegate_8h_source.html" title="core/util/FastDelegate.h" alt="" coords="795,423,955,449"/>
+</map>

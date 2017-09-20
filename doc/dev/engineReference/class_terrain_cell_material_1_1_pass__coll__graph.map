@@ -1,0 +1,51 @@
+<map id="TerrainCellMaterial::Pass" name="TerrainCellMaterial::Pass">
+<area shape="rect" id="node2" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXShaderConst\lBuffer \&gt;" alt="" coords="1859,515,2067,557"/>
+<area shape="rect" id="node3" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="1323,575,1440,601"/>
+<area shape="rect" id="node25" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="2303,580,2512,607"/>
+<area shape="rect" id="node50" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="1659,625,1835,666"/>
+<area shape="rect" id="node4" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="551,592,660,619"/>
+<area shape="rect" id="node7" href="$class_g_f_x_shader.html" title="GFXShader" alt="" coords="1703,347,1791,373"/>
+<area shape="rect" id="node23" href="$class_g_f_x_shader_const_buffer.html" title="GFXShaderConstBuffer" alt="" coords="859,388,1013,415"/>
+<area shape="rect" id="node31" href="$class_engine_object.html" title="EngineObject" alt="" coords="886,976,986,1003"/>
+<area shape="rect" id="node33" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="2135,1000,2234,1027"/>
+<area shape="rect" id="node5" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="287,592,393,619"/>
+<area shape="rect" id="node6" href="$class_g_f_x_shader_const_handle.html" title="GFXShaderConstHandle" alt="" coords="2103,832,2266,859"/>
+<area shape="rect" id="node27" href="$class_terrain_cell_material_1_1_material_info.html" title="TerrainCellMaterial\l::MaterialInfo" alt="" coords="2537,658,2666,699"/>
+<area shape="rect" id="node8" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="554,347,657,373"/>
+<area shape="rect" id="node9" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="312,145,368,172"/>
+<area shape="rect" id="node17" href="$struct_g_f_x_shader_macro.html" title="Passed to GFX for shader defines. " alt="" coords="543,68,667,95"/>
+<area shape="rect" id="node18" href="$class_g_f_x_vertex_format.html" title="GFXVertexFormat" alt="" coords="1318,184,1445,211"/>
+<area shape="rect" id="node21" href="$class_g_f_x_vertex_element.html" title="GFXVertexElement" alt="" coords="539,119,672,145"/>
+<area shape="rect" id="node24" href="$class_vector.html" title="Vector\&lt; String \&gt;" alt="" coords="696,257,815,284"/>
+<area shape="rect" id="node48" href="$class_file_name.html" title="FileName" alt="" coords="1538,695,1615,721"/>
+<area shape="rect" id="node10" href="$class_signal_3_01void_07_08_4.html" title="Signal\&lt; void()\&gt;" alt="" coords="1327,473,1435,500"/>
+<area shape="rect" id="node11" href="$class_signal_base_t.html" title="SignalBaseT\&lt; void()\&gt;" alt="" coords="863,489,1009,516"/>
+<area shape="rect" id="node12" href="$class_signal_base.html" title="SignalBase" alt="" coords="561,489,649,516"/>
+<area shape="rect" id="node13" href="$class_vector.html" title="Vector\&lt; SignalBase\l::DelegateLink * \&gt;" alt="" coords="271,461,409,502"/>
+<area shape="rect" id="node14" href="$struct_signal_base_1_1_delegate_link.html" title="SignalBase::DelegateLink" alt="" coords="5,503,176,529"/>
+<area shape="rect" id="node15" href="$class_torque_1_1_path.html" title="Torque::Path" alt="" coords="1333,372,1429,399"/>
+<area shape="rect" id="node16" href="$class_vector.html" title="Vector\&lt; GFXShaderMacro \&gt;" alt="" coords="1057,71,1244,97"/>
+<area shape="rect" id="node19" href="$class_g_f_x_vertex_decl.html" title="GFXVertexDecl" alt="" coords="881,220,991,247"/>
+<area shape="rect" id="node20" href="$class_vector.html" title="Vector\&lt; GFXVertexElement \&gt;" alt="" coords="839,119,1033,145"/>
+<area shape="rect" id="node22" href="$class_vector.html" title="Vector\&lt; GFXShaderConstBuffer * \&gt;" alt="" coords="1268,423,1495,449"/>
+<area shape="rect" id="node26" href="$class_vector.html" title="Vector\&lt; TerrainCellMaterial\l::MaterialInfo * \&gt;" alt="" coords="2839,647,3017,689"/>
+<area shape="rect" id="node28" href="$class_terrain_material.html" title="TerrainMaterial" alt="" coords="2131,743,2238,769"/>
+<area shape="rect" id="node29" href="$class_sim_object.html" title="SimObject" alt="" coords="1705,1091,1788,1117"/>
+<area shape="rect" id="node38" href="$union_namespace_1_1_entry_1_1_callback_union.html" title="Namespace::Entry::Callback\lUnion" alt="" coords="2091,1122,2279,1163"/>
+<area shape="rect" id="node30" href="$class_console_object.html" title="ConsoleObject" alt="" coords="1328,1091,1435,1117"/>
+<area shape="rect" id="node32" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="1328,1040,1435,1067"/>
+<area shape="rect" id="node34" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="1661,951,1832,977"/>
+<area shape="rect" id="node35" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="1697,1040,1796,1067"/>
+<area shape="rect" id="node36" href="$class_namespace.html" title="Namespace" alt="" coords="2883,1239,2973,1265"/>
+<area shape="rect" id="node37" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="2536,1135,2667,1161"/>
+<area shape="rect" id="node44" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="3152,1235,3279,1261"/>
+<area shape="rect" id="node39" href="$class_code_block.html" title="CodeBlock" alt="" coords="2142,943,2227,969"/>
+<area shape="rect" id="node40" href="$struct_compiler_1_1_console_parser.html" title="List of parsers for the compiler. " alt="" coords="1663,836,1830,863"/>
+<area shape="rect" id="node41" href="$struct_console_function_header.html" title="Extended information about a console function. " alt="" coords="2105,1188,2265,1215"/>
+<area shape="rect" id="node42" href="$class_data_chunker.html" title="DataChunker" alt="" coords="2553,1289,2650,1316"/>
+<area shape="rect" id="node43" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="2102,1328,2267,1355"/>
+<area shape="rect" id="node45" href="$class_console_base_type.html" title="Information about a console type. " alt="" coords="2865,1359,2991,1385"/>
+<area shape="rect" id="node46" href="$class_engine_type_info.html" title="EngineTypeInfo" alt="" coords="2546,1408,2657,1435"/>
+<area shape="rect" id="node47" href="$class_vector.html" title="Vector\&lt; Field \&gt;" alt="" coords="2872,1105,2984,1132"/>
+<area shape="rect" id="node49" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="2131,692,2239,719"/>
+</map>

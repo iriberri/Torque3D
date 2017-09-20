@@ -1,0 +1,13 @@
+<map id="DeferredSpecMapHLSL" name="DeferredSpecMapHLSL">
+<area shape="rect" id="node2" href="$class_shader_feature_h_l_s_l.html" title="ShaderFeatureHLSL" alt="" coords="1392,119,1531,145"/>
+<area shape="rect" id="node3" href="$class_shader_feature.html" title="ShaderFeature" alt="" coords="1205,119,1311,145"/>
+<area shape="rect" id="node4" href="$class_vector.html" title="Vector\&lt; const ShaderDependency * \&gt;" alt="" coords="767,99,1009,125"/>
+<area shape="rect" id="node5" href="$class_shader_dependency.html" title="The base class for shader dependencies. " alt="" coords="483,96,618,123"/>
+<area shape="rect" id="node6" href="$struct_lang_element.html" title="LangElement" alt="" coords="839,28,937,55"/>
+<area shape="rect" id="node7" href="$class_vector.html" title="Vector\&lt; LangElement * \&gt;" alt="" coords="1173,5,1343,32"/>
+<area shape="rect" id="node8" href="$class_g_f_x_vertex_format.html" title="GFXVertexFormat" alt="" coords="825,195,951,221"/>
+<area shape="rect" id="node9" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="16,219,72,245"/>
+<area shape="rect" id="node12" href="$class_g_f_x_vertex_element.html" title="GFXVertexElement" alt="" coords="191,248,324,275"/>
+<area shape="rect" id="node10" href="$class_g_f_x_vertex_decl.html" title="GFXVertexDecl" alt="" coords="495,147,606,173"/>
+<area shape="rect" id="node11" href="$class_vector.html" title="Vector\&lt; GFXVertexElement \&gt;" alt="" coords="453,248,648,275"/>
+</map>

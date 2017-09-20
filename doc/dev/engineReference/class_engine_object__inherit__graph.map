@@ -1,0 +1,50 @@
+<map id="EngineObject" name="EngineObject">
+<area shape="rect" id="node4" href="$class_console_object.html" title="ConsoleObject" alt="" coords="478,1373,585,1400"/>
+<area shape="rect" id="node48" href="$class_static_engine_object.html" title="StaticEngineObject" alt="" coords="464,1424,599,1451"/>
+<area shape="rect" id="node2" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="159,1399,268,1425"/>
+<area shape="rect" id="node3" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,1399,111,1425"/>
+<area shape="rect" id="node5" href="$class_net_event.html" title="NetEvent" alt="" coords="659,385,734,412"/>
+<area shape="rect" id="node21" href="$class_sim_object.html" title="SimObject" alt="" coords="655,1373,738,1400"/>
+<area shape="rect" id="node6" href="$class_connection_message_event.html" title="ConnectionMessageEvent" alt="" coords="798,5,970,32"/>
+<area shape="rect" id="node7" href="$class_file_chunk_event.html" title="FileChunkEvent" alt="" coords="828,56,940,83"/>
+<area shape="rect" id="node8" href="$class_file_download_request_event.html" title="FileDownloadRequestEvent" alt="" coords="795,107,973,133"/>
+<area shape="rect" id="node9" href="$class_ghost_always_object_event.html" title="GhostAlwaysObjectEvent" alt="" coords="799,157,969,184"/>
+<area shape="rect" id="node10" href="$class_lightning_strike_event.html" title="LightningStrikeEvent" alt="" coords="814,208,954,235"/>
+<area shape="rect" id="node11" href="$class_net_string_event.html" title="NetStringEvent" alt="" coords="830,259,938,285"/>
+<area shape="rect" id="node12" href="$class_node_list_event.html" title="NodeListEvent" alt="" coords="831,309,937,336"/>
+<area shape="rect" id="node13" href="$class_path_manager_event.html" title="PathManagerEvent" alt="" coords="819,360,949,387"/>
+<area shape="rect" id="node14" href="$class_radial_impulse_event.html" title="RadialImpulseEvent" alt="" coords="817,411,951,437"/>
+<area shape="rect" id="node15" href="$class_remote_command_event.html" title="RemoteCommandEvent" alt="" coords="805,461,963,488"/>
+<area shape="rect" id="node16" href="$class_set_mission_c_r_c_event.html" title="SetMissionCRCEvent" alt="" coords="811,512,957,539"/>
+<area shape="rect" id="node17" href="$class_sim2_d_audio_event.html" title="Sim2DAudioEvent" alt="" coords="821,563,947,589"/>
+<area shape="rect" id="node18" href="$class_sim3_d_audio_event.html" title="Sim3DAudioEvent" alt="" coords="821,613,947,640"/>
+<area shape="rect" id="node19" href="$class_sim_data_block_event.html" title="SimDataBlockEvent" alt="" coords="815,664,953,691"/>
+<area shape="rect" id="node20" href="$class_simple_message_event.html" title="SimpleMessageEvent" alt="" coords="811,715,957,741"/>
+<area shape="rect" id="node22" href="$class_action_map.html" title="ActionMap" alt="" coords="842,765,926,792"/>
+<area shape="rect" id="node23" href="$class_array_object.html" title="A data structure holding indexed sequences of key/value pairs for script use. " alt="" coords="839,816,929,843"/>
+<area shape="rect" id="node24" href="$class_asset_base.html" title="AssetBase" alt="" coords="841,867,927,893"/>
+<area shape="rect" id="node25" href="$class_asset_manager.html" title="AssetManager" alt="" coords="831,917,937,944"/>
+<area shape="rect" id="node26" href="$class_asset_query.html" title="AssetQuery" alt="" coords="839,968,929,995"/>
+<area shape="rect" id="node27" href="$class_asset_tags_manifest.html" title="AssetTagsManifest" alt="" coords="817,1019,951,1045"/>
+<area shape="rect" id="node28" href="$class_base_material_definition.html" title="BaseMaterialDefinition" alt="" coords="809,1069,959,1096"/>
+<area shape="rect" id="node29" href="$class_console_logger.html" title="ConsoleLogger" alt="" coords="830,1120,938,1147"/>
+<area shape="rect" id="node30" href="$class_cubemap_data.html" title="A script interface for creating static or dynamic cubemaps. " alt="" coords="832,1171,936,1197"/>
+<area shape="rect" id="node31" href="$class_debug_drawer.html" title="DebugDrawer" alt="" coords="835,1221,933,1248"/>
+<area shape="rect" id="node32" href="$class_declared_assets.html" title="DeclaredAssets" alt="" coords="827,1272,941,1299"/>
+<area shape="rect" id="node33" href="$class_event_manager.html" title="EventManager" alt="" coords="832,1323,936,1349"/>
+<area shape="rect" id="node34" href="$class_field_brush_object.html" title="FieldBrushObject" alt="" coords="823,1373,945,1400"/>
+<area shape="rect" id="node35" href="$class_file_dialog.html" title="FileDialog" alt="" coords="845,1424,923,1451"/>
+<area shape="rect" id="node36" href="$class_file_object.html" title="FileObject" alt="" coords="843,1475,925,1501"/>
+<area shape="rect" id="node37" href="$class_forest_brush_element.html" title="ForestBrushElement" alt="" coords="813,1525,955,1552"/>
+<area shape="rect" id="node38" href="$class_forest_tool.html" title="ForestTool" alt="" coords="843,1576,925,1603"/>
+<area shape="rect" id="node39" href="$class_g_f_x_sampler_state_data.html" title="Allows definition of sampler state via script, basically wraps a GFXSamplerStateDesc. " alt="" coords="807,1627,961,1653"/>
+<area shape="rect" id="node40" href="$class_g_f_x_state_block_data.html" title="Allows definition of render state via script, basically wraps a GFXStateBlockDesc. " alt="" coords="815,1677,953,1704"/>
+<area shape="rect" id="node41" href="$class_gizmo.html" title="Gizmo" alt="" coords="854,1728,914,1755"/>
+<area shape="rect" id="node42" href="$class_gizmo_profile.html" title="GizmoProfile" alt="" coords="836,1779,932,1805"/>
+<area shape="rect" id="node43" href="$class_gui_control_profile.html" title="GuiControlProfile" alt="" coords="825,1829,943,1856"/>
+<area shape="rect" id="node44" href="$class_gui_cursor.html" title="GuiCursor" alt="" coords="844,1880,924,1907"/>
+<area shape="rect" id="node45" href="$class_gui_image_list.html" title="GuiImageList" alt="" coords="835,1931,933,1957"/>
+<area shape="rect" id="node46" href="$class_input_device.html" title="InputDevice" alt="" coords="840,1981,928,2008"/>
+<area shape="rect" id="node47" href="$class_lang_table.html" title="Language file table. " alt="" coords="843,2032,925,2059"/>
+<area shape="rect" id="node49" href="$class_engine_export.html" title="EngineExport" alt="" coords="647,1424,747,1451"/>
+</map>

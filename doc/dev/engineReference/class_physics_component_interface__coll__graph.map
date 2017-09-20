@@ -1,0 +1,6 @@
+<map id="PhysicsComponentInterface" name="PhysicsComponentInterface">
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; PhysicsComponent\lInterface * \&gt;" alt="" coords="645,126,831,167"/>
+<area shape="rect" id="node2" href="$class_interface.html" title="Interface\&lt; PhysicsComponent\lInterface \&gt;" alt="" coords="896,159,1092,201"/>
+<area shape="rect" id="node4" href="$class_point3_f.html" title="Point3F" alt="" coords="71,132,138,159"/>
+<area shape="rect" id="node5" href="$class_signal.html" title="Signal\&lt; void(Point3F\l normal, Vector\&lt; SceneObject\l * \&gt; overlappedObjects) \&gt;" alt="" coords="5,183,204,239"/>
+</map>

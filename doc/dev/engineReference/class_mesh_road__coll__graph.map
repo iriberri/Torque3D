@@ -1,0 +1,51 @@
+<map id="MeshRoad" name="MeshRoad">
+<area shape="rect" id="node50" href="$class_mesh_road_convex.html" title="MeshRoadConvex" alt="" coords="1732,1068,1859,1095"/>
+<area shape="rect" id="node2" href="$class_scene_object.html" title="SceneObject" alt="" coords="722,773,819,800"/>
+<area shape="rect" id="node11" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="1122,760,1283,787"/>
+<area shape="rect" id="node14" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="1142,864,1263,891"/>
+<area shape="rect" id="node31" href="$class_convex.html" title="Convex" alt="" coords="1171,488,1235,515"/>
+<area shape="rect" id="node3" href="$class_net_object.html" title="NetObject" alt="" coords="346,589,426,616"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="SimGroup" alt="" coords="17,563,97,589"/>
+<area shape="rect" id="node5" href="$class_bit_set32.html" title="BitSet32" alt="" coords="21,628,93,655"/>
+<area shape="rect" id="node6" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="313,756,459,783"/>
+<area shape="rect" id="node7" href="$class_process_object.html" title="ProcessObject" alt="" coords="332,807,440,833"/>
+<area shape="rect" id="node8" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="322,925,450,952"/>
+<area shape="rect" id="node9" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="29,1067,85,1093"/>
+<area shape="rect" id="node10" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="337,976,435,1003"/>
+<area shape="rect" id="node12" href="$class_matrix_f.html" title="MatrixF" alt="" coords="23,331,90,357"/>
+<area shape="rect" id="node21" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="331,331,441,357"/>
+<area shape="rect" id="node13" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="328,1027,444,1053"/>
+<area shape="rect" id="node15" href="$class_point3_f.html" title="Point3F" alt="" coords="23,1371,90,1397"/>
+<area shape="rect" id="node17" href="$class_sphere_f.html" title="SphereF" alt="" coords="351,1179,421,1205"/>
+<area shape="rect" id="node18" href="$class_box3_f.html" title="Box3F" alt="" coords="356,1360,416,1387"/>
+<area shape="rect" id="node28" href="$struct_mesh_road_slice.html" title="MeshRoadSlice" alt="" coords="329,1452,443,1479"/>
+<area shape="rect" id="node46" href="$struct_mesh_road_node.html" title="MeshRoadNode" alt="" coords="329,1513,443,1540"/>
+<area shape="rect" id="node16" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="288,1077,484,1104"/>
+<area shape="rect" id="node27" href="$class_mesh_road_segment.html" title="MeshRoadSegment" alt="" coords="703,1128,839,1155"/>
+<area shape="rect" id="node19" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="287,229,485,256"/>
+<area shape="rect" id="node20" href="$class_scene_container.html" title="SceneContainer" alt="" coords="329,280,443,307"/>
+<area shape="rect" id="node22" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="310,488,462,515"/>
+<area shape="rect" id="node23" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="297,539,475,565"/>
+<area shape="rect" id="node24" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="1141,1017,1264,1044"/>
+<area shape="rect" id="node25" href="$class_vector.html" title="Vector\&lt; MatInstanceHook * \&gt;" alt="" coords="673,1027,868,1053"/>
+<area shape="rect" id="node26" href="$class_vector.html" title="Vector\&lt; MeshRoadSegment \&gt;" alt="" coords="1103,1119,1302,1145"/>
+<area shape="rect" id="node42" href="$class_vector.html" title="Vector\&lt; MeshRoadSlice \&gt;" alt="" coords="893,1452,1067,1479"/>
+<area shape="rect" id="node29" href="$class_physics_body.html" title="Simple physics object that represents a single rigid body. " alt="" coords="1153,1169,1252,1196"/>
+<area shape="rect" id="node30" href="$class_physics_object.html" title="PhysicsObject" alt="" coords="717,1179,824,1205"/>
+<area shape="rect" id="node33" href="$struct_collision_working_list.html" title="CollisionWorkingList" alt="" coords="1503,556,1643,583"/>
+<area shape="rect" id="node32" href="$struct_collision_state_list.html" title="CollisionStateList" alt="" coords="709,73,832,100"/>
+<area shape="rect" id="node34" href="$class_vector.html" title="Vector\&lt; MeshRoadRenderBatch \&gt;" alt="" coords="1092,1220,1313,1247"/>
+<area shape="rect" id="node35" href="$struct_mesh_road_render_batch.html" title="MeshRoadRenderBatch" alt="" coords="691,1229,850,1256"/>
+<area shape="rect" id="node36" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SimSet \&gt;" alt="" coords="1119,1271,1286,1297"/>
+<area shape="rect" id="node37" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SimSet \&gt;" alt="" coords="691,1280,850,1307"/>
+<area shape="rect" id="node38" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPNTT \&gt;" alt="" coords="1123,1322,1282,1363"/>
+<area shape="rect" id="node39" href="$class_g_f_x_vertex_buffer_handle_base.html" title="GFXVertexBufferHandleBase" alt="" coords="677,1331,865,1357"/>
+<area shape="rect" id="node40" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; T \&gt;" alt="" coords="917,137,1043,164"/>
+<area shape="rect" id="node41" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="327,127,445,153"/>
+<area shape="rect" id="node44" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXPrimitive\lBuffer \&gt;" alt="" coords="679,175,862,217"/>
+<area shape="rect" id="node43" href="$class_g_f_x_primitive_buffer_handle.html" title="GFXPrimitiveBufferHandle" alt="" coords="1118,709,1287,736"/>
+<area shape="rect" id="node45" href="$class_vector.html" title="Vector\&lt; MeshRoadNode \&gt;" alt="" coords="892,1515,1068,1541"/>
+<area shape="rect" id="node47" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; Material \&gt;" alt="" coords="1117,1068,1288,1095"/>
+<area shape="rect" id="node48" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; Material \&gt;" alt="" coords="689,1077,852,1104"/>
+<area shape="rect" id="node49" href="$class_vector.html" title="Vector\&lt; MeshRoadConvex * \&gt;" alt="" coords="1953,599,2151,625"/>
+</map>

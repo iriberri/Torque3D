@@ -1,0 +1,26 @@
+<map id="WindowInputGenerator" name="WindowInputGenerator">
+<area shape="rect" id="node6" href="$class_platform_window.html" title="PlatformWindow" alt="" coords="1979,353,2095,380"/>
+<area shape="rect" id="node2" href="$class_vector.html" title="Vector\&lt; WindowInputGenerator\l::AccKeyMap \&gt;" alt="" coords="1113,79,1316,121"/>
+<area shape="rect" id="node3" href="$struct_window_input_generator_1_1_acc_key_map.html" title="Accelerator key map. " alt="" coords="749,73,903,114"/>
+<area shape="rect" id="node4" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="555,44,611,71"/>
+<area shape="rect" id="node12" href="$struct_platform_cursor_controller_1_1_cursor___shape.html" title="PlatformCursorController\l::Cursor_Shape" alt="" coords="927,11,1089,53"/>
+<area shape="rect" id="node5" href="$class_i_process_input.html" title="IProcessInput" alt="" coords="1164,145,1265,172"/>
+<area shape="rect" id="node10" href="$class_platform_cursor_controller.html" title="PlatformCursorController" alt="" coords="2252,308,2415,335"/>
+<area shape="rect" id="node7" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, U32, U32, U16)\&gt;" alt="" coords="1577,186,1764,227"/>
+<area shape="rect" id="node8" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, S32, S32)\&gt;" alt="" coords="1593,251,1749,293"/>
+<area shape="rect" id="node9" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, S32)\&gt;" alt="" coords="1597,317,1744,358"/>
+<area shape="rect" id="node11" href="$class_vector.html" title="Vector\&lt; PlatformCursorController\l::Cursor_Shape \&gt;" alt="" coords="1340,10,1553,51"/>
+<area shape="rect" id="node13" href="$class_signal.html" title="Signal\&lt; Signature \&gt;" alt="" coords="1602,383,1739,409"/>
+<area shape="rect" id="node14" href="$class_point2_i.html" title="Point2I" alt="" coords="1183,364,1246,391"/>
+<area shape="rect" id="node15" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, U32, U32,\l U32, F32)\&gt;" alt="" coords="1597,511,1745,567"/>
+<area shape="rect" id="node16" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, U32, S32,\l S32, bool)\&gt;" alt="" coords="1597,591,1745,647"/>
+<area shape="rect" id="node17" href="$class_journaled_signal_3_01void_07_08_4.html" title="JournaledSignal\&lt; void()\&gt;" alt="" coords="1589,671,1752,697"/>
+<area shape="rect" id="node18" href="$class_signal_3_01void_07_08_4.html" title="Signal\&lt; void()\&gt;" alt="" coords="1161,671,1269,697"/>
+<area shape="rect" id="node19" href="$class_signal_base_t.html" title="SignalBaseT\&lt; void()\&gt;" alt="" coords="753,671,899,697"/>
+<area shape="rect" id="node20" href="$class_signal_base.html" title="SignalBase" alt="" coords="539,671,627,697"/>
+<area shape="rect" id="node21" href="$class_vector.html" title="Vector\&lt; SignalBase\l::DelegateLink * \&gt;" alt="" coords="271,715,409,757"/>
+<area shape="rect" id="node22" href="$struct_signal_base_1_1_delegate_link.html" title="SignalBase::DelegateLink" alt="" coords="5,680,176,707"/>
+<area shape="rect" id="node23" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, U32, U16)\&gt;" alt="" coords="1593,722,1749,763"/>
+<area shape="rect" id="node24" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId)\&gt;" alt="" coords="1597,787,1744,829"/>
+<area shape="rect" id="node25" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, U32, S32, S32)\&gt;" alt="" coords="1577,69,1764,110"/>
+</map>

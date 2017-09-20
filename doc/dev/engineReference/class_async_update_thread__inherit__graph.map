@@ -1,0 +1,5 @@
+<map id="AsyncUpdateThread" name="AsyncUpdateThread">
+<area shape="rect" id="node4" href="$class_async_periodic_update_thread.html" title="AsyncPeriodicUpdateThread" alt="" coords="11,169,197,196"/>
+<area shape="rect" id="node2" href="$class_thread.html" title="Thread" alt="" coords="5,13,67,39"/>
+<area shape="rect" id="node3" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; AsyncUpdateThread \&gt;" alt="" coords="91,5,253,47"/>
+</map>

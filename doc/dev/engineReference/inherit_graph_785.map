@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_processed_material.html" title="ProcessedMaterial" alt="" coords="5,31,136,57"/>
+<area shape="rect" id="node2" href="$class_processed_f_f_material.html" title="ProcessedFFMaterial" alt="" coords="196,5,343,32"/>
+<area shape="rect" id="node3" href="$class_processed_shader_material.html" title="ProcessedShaderMaterial" alt="" coords="184,56,355,83"/>
+<area shape="rect" id="node4" href="$class_processed_custom_material.html" title="ProcessedCustomMaterial" alt="" coords="405,31,579,57"/>
+<area shape="rect" id="node5" href="$class_processed_deferred_material.html" title="ProcessedDeferredMaterial" alt="" coords="403,81,581,108"/>
+</map>

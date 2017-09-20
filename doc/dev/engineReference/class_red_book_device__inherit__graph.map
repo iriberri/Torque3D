@@ -1,0 +1,4 @@
+<map id="RedBookDevice" name="RedBookDevice">
+<area shape="rect" id="node2" href="$class_unix_red_book_device.html" title="UnixRedBookDevice" alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node3" href="$class_win32_red_book_device.html" title="Win32RedBookDevice" alt="" coords="169,80,319,107"/>
+</map>

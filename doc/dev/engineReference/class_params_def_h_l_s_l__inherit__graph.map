@@ -1,0 +1,6 @@
+<map id="ParamsDefHLSL" name="ParamsDefHLSL">
+<area shape="rect" id="node4" href="$class_pixel_params_def_h_l_s_l.html" title="PixelParamsDefHLSL" alt="" coords="5,229,152,256"/>
+<area shape="rect" id="node5" href="$class_vertex_params_def_h_l_s_l.html" title="VertexParamsDefHLSL" alt="" coords="177,229,333,256"/>
+<area shape="rect" id="node2" href="$class_params_def.html" title="This is to provide common functionalty needed by vertex and pixel main defs. " alt="" coords="123,80,210,107"/>
+<area shape="rect" id="node3" href="$class_shader_component.html" title="ShaderComponent" alt="" coords="102,5,231,32"/>
+</map>

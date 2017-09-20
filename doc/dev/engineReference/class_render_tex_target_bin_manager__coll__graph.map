@@ -1,0 +1,51 @@
+<map id="RenderTexTargetBinManager" name="RenderTexTargetBinManager">
+<area shape="rect" id="node2" href="$class_render_bin_manager.html" title="RenderBinManager" alt="" coords="1484,608,1616,635"/>
+<area shape="rect" id="node22" href="$class_vector.html" title="Vector\&lt; RenderBinManager * \&gt;" alt="" coords="1759,671,1961,697"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="SimObject" alt="" coords="1165,32,1248,59"/>
+<area shape="rect" id="node9" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1501,197,1599,224"/>
+<area shape="rect" id="node18" href="$class_render_pass_manager.html" title="RenderPassManager" alt="" coords="2159,609,2302,636"/>
+<area shape="rect" id="node4" href="$class_console_object.html" title="ConsoleObject" alt="" coords="759,32,866,59"/>
+<area shape="rect" id="node5" href="$class_engine_object.html" title="EngineObject" alt="" coords="379,373,479,400"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,543,269,569"/>
+<area shape="rect" id="node38" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="371,835,488,861"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,837,111,864"/>
+<area shape="rect" id="node43" href="$class_named_tex_target.html" title="NamedTexTarget" alt="" coords="1490,1016,1610,1043"/>
+<area shape="rect" id="node8" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="759,83,866,109"/>
+<area shape="rect" id="node10" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="1121,395,1292,421"/>
+<area shape="rect" id="node11" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="1157,121,1256,148"/>
+<area shape="rect" id="node12" href="$class_namespace.html" title="Namespace" alt="" coords="767,277,858,304"/>
+<area shape="rect" id="node13" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="1141,211,1272,237"/>
+<area shape="rect" id="node15" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="1143,344,1270,371"/>
+<area shape="rect" id="node14" href="$class_data_chunker.html" title="DataChunker" alt="" coords="381,496,478,523"/>
+<area shape="rect" id="node20" href="$class_multi_typed_chunker.html" title="MultiTypedChunker" alt="" coords="948,496,1081,523"/>
+<area shape="rect" id="node16" href="$class_render_inst_type.html" title="RenderInstType" alt="" coords="757,703,869,729"/>
+<area shape="rect" id="node39" href="$class_vector.html" title="Vector\&lt; RenderInstType \&gt;" alt="" coords="1119,676,1294,703"/>
+<area shape="rect" id="node17" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="401,1225,457,1252"/>
+<area shape="rect" id="node24" href="$class_light_manager.html" title="LightManager" alt="" coords="3160,1291,3260,1317"/>
+<area shape="rect" id="node46" href="$class_conditioner_feature.html" title="ConditionerFeature" alt="" coords="747,1120,878,1147"/>
+<area shape="rect" id="node23" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="2900,1245,3009,1272"/>
+<area shape="rect" id="node29" href="$class_scene_render_state.html" title="SceneRenderState" alt="" coords="2546,1117,2677,1144"/>
+<area shape="rect" id="node19" href="$class_matrix_set.html" title="MatrixSet" alt="" coords="1821,21,1899,48"/>
+<area shape="rect" id="node21" href="$class_hash_table.html" title="HashTable\&lt; RenderInstType\lHash, AddInstSignal \&gt;" alt="" coords="1767,430,1953,471"/>
+<area shape="rect" id="node25" href="$class_scene_zone_space_manager.html" title="Object that manages zone spaces in a scene. " alt="" coords="2524,1245,2699,1272"/>
+<area shape="rect" id="node26" href="$class_vector.html" title="Vector\&lt; SceneObject * \&gt;" alt="" coords="2147,1223,2315,1249"/>
+<area shape="rect" id="node27" href="$struct_fog_data.html" title="The aerial fog settings. " alt="" coords="2576,1347,2647,1373"/>
+<area shape="rect" id="node28" href="$class_interpolated_change_property.html" title="InterpolatedChangeProperty\l\&lt; ColorF \&gt;" alt="" coords="2520,1398,2703,1439"/>
+<area shape="rect" id="node30" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="1517,1205,1583,1232"/>
+<area shape="rect" id="node31" href="$class_matrix_f.html" title="MatrixF" alt="" coords="2197,1447,2264,1473"/>
+<area shape="rect" id="node33" href="$class_scene_camera_state.html" title="SceneCameraState" alt="" coords="2544,1296,2679,1323"/>
+<area shape="rect" id="node32" href="$class_point2_i.html" title="Point2I" alt="" coords="781,1417,844,1444"/>
+<area shape="rect" id="node34" href="$class_rect_i.html" title="RectI" alt="" coords="1181,1417,1233,1444"/>
+<area shape="rect" id="node35" href="$struct_water_fog_data.html" title="The water fog settings. " alt="" coords="2558,941,2665,968"/>
+<area shape="rect" id="node36" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="1153,845,1261,872"/>
+<area shape="rect" id="node37" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="725,829,901,870"/>
+<area shape="rect" id="node50" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; T \&gt;" alt="" coords="1332,889,1459,916"/>
+<area shape="rect" id="node40" href="$class_vector.html" title="Vector\&lt; RenderBinManager\l::MainSortElem \&gt;" alt="" coords="1115,547,1298,589"/>
+<area shape="rect" id="node41" href="$struct_render_bin_manager_1_1_main_sort_elem.html" title="RenderBinManager::MainSortElem" alt="" coords="701,555,924,581"/>
+<area shape="rect" id="node42" href="$struct_render_inst.html" title="RenderInst" alt="" coords="387,555,471,581"/>
+<area shape="rect" id="node44" href="$struct_g_f_x_sampler_state_desc.html" title="GFXSamplerStateDesc" alt="" coords="1129,997,1285,1024"/>
+<area shape="rect" id="node45" href="$class_map.html" title="Map\&lt; Key, Value, Sequence \&gt;" alt="" coords="1106,1048,1307,1075"/>
+<area shape="rect" id="node48" href="$class_conditioner_method_dependency.html" title="ConditionerMethodDependency" alt="" coords="1105,1149,1308,1176"/>
+<area shape="rect" id="node49" href="$class_vector.html" title="Vector\&lt; ConditionerFeature * \&gt;" alt="" coords="1105,1099,1308,1125"/>
+<area shape="rect" id="node47" href="$class_shader_feature.html" title="ShaderFeature" alt="" coords="376,1120,483,1147"/>
+</map>

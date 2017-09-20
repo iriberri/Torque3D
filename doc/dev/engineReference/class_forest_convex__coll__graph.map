@@ -1,0 +1,51 @@
+<map id="ForestConvex" name="ForestConvex">
+<area shape="rect" id="node2" href="$class_convex.html" title="Convex" alt="" coords="1107,220,1171,247"/>
+<area shape="rect" id="node25" href="$struct_collision_state.html" title="CollisionState" alt="" coords="1388,276,1491,303"/>
+<area shape="rect" id="node26" href="$struct_collision_working_list.html" title="CollisionWorkingList" alt="" coords="1369,97,1509,124"/>
+<area shape="rect" id="node3" href="$class_scene_object.html" title="SceneObject" alt="" coords="685,780,783,807"/>
+<area shape="rect" id="node10" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="1059,900,1220,927"/>
+<area shape="rect" id="node13" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="1079,757,1200,784"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="NetObject" alt="" coords="299,179,379,205"/>
+<area shape="rect" id="node5" href="$class_bit_set32.html" title="BitSet32" alt="" coords="21,207,93,233"/>
+<area shape="rect" id="node6" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="266,611,413,637"/>
+<area shape="rect" id="node7" href="$class_process_object.html" title="ProcessObject" alt="" coords="285,661,393,688"/>
+<area shape="rect" id="node8" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="275,780,403,807"/>
+<area shape="rect" id="node9" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="290,831,389,857"/>
+<area shape="rect" id="node11" href="$class_matrix_f.html" title="MatrixF" alt="" coords="23,1805,90,1832"/>
+<area shape="rect" id="node21" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="285,1309,394,1336"/>
+<area shape="rect" id="node34" href="$class_t_s_shape_instance.html" title="TSShapeInstance" alt="" coords="1077,2089,1201,2116"/>
+<area shape="rect" id="node47" href="$class_vector.html" title="Vector\&lt; MatrixF \&gt;" alt="" coords="476,2104,604,2131"/>
+<area shape="rect" id="node12" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="281,881,397,908"/>
+<area shape="rect" id="node14" href="$class_point3_f.html" title="Point3F" alt="" coords="23,584,90,611"/>
+<area shape="rect" id="node16" href="$class_sphere_f.html" title="SphereF" alt="" coords="304,343,375,369"/>
+<area shape="rect" id="node17" href="$class_box3_f.html" title="Box3F" alt="" coords="309,1152,369,1179"/>
+<area shape="rect" id="node42" href="$class_t_s_shape.html" title="TSShape" alt="" coords="697,1639,771,1665"/>
+<area shape="rect" id="node45" href="$class_vector.html" title="Vector\&lt; Point3F \&gt;" alt="" coords="275,1411,404,1437"/>
+<area shape="rect" id="node15" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="241,932,437,959"/>
+<area shape="rect" id="node18" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="19,1152,94,1179"/>
+<area shape="rect" id="node19" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="240,983,439,1009"/>
+<area shape="rect" id="node20" href="$class_scene_container.html" title="SceneContainer" alt="" coords="282,1033,397,1060"/>
+<area shape="rect" id="node22" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="263,456,415,483"/>
+<area shape="rect" id="node23" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="250,507,429,533"/>
+<area shape="rect" id="node24" href="$struct_collision_state_list.html" title="CollisionStateList" alt="" coords="1613,233,1735,260"/>
+<area shape="rect" id="node27" href="$struct_collision_working_list_1_1_w_link.html" title="CollisionWorkingList\l::WLink" alt="" coords="1604,94,1744,135"/>
+<area shape="rect" id="node28" href="$struct_collision_working_list_1_1_r_link.html" title="CollisionWorkingList\l::RLink" alt="" coords="1604,13,1744,54"/>
+<area shape="rect" id="node29" href="$class_t_s_forest_item_data.html" title="TSForestItemData" alt="" coords="1376,2089,1503,2116"/>
+<area shape="rect" id="node30" href="$class_forest_item_data.html" title="ForestItemData" alt="" coords="1084,1321,1195,1348"/>
+<area shape="rect" id="node31" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="681,1271,787,1297"/>
+<area shape="rect" id="node32" href="$class_sim_set.html" title="SimSet" alt="" coords="701,1321,767,1348"/>
+<area shape="rect" id="node33" href="$class_vector.html" title="Vector\&lt; S32 \&gt;" alt="" coords="286,2204,393,2231"/>
+<area shape="rect" id="node35" href="$class_vector.html" title="Vector\&lt; TSShapeInstance\l::TSCallbackRecord \&gt;" alt="" coords="647,2070,821,2111"/>
+<area shape="rect" id="node36" href="$class_vector.html" title="Vector\&lt; TSThread * \&gt;" alt="" coords="660,2392,808,2419"/>
+<area shape="rect" id="node37" href="$class_t_s_thread.html" title="TSThread" alt="" coords="301,2384,378,2411"/>
+<area shape="rect" id="node38" href="$class_t_s_integer_set.html" title="TSIntegerSet" alt="" coords="685,2145,783,2172"/>
+<area shape="rect" id="node39" href="$class_vector.html" title="Vector\&lt; TSScale \&gt;" alt="" coords="667,2336,801,2363"/>
+<area shape="rect" id="node40" href="$class_vector.html" title="Vector\&lt; QuatF \&gt;" alt="" coords="674,2443,794,2469"/>
+<area shape="rect" id="node41" href="$class_t_s_material_list.html" title="Specialized material list for 3space objects. " alt="" coords="287,1677,392,1704"/>
+<area shape="rect" id="node43" href="$class_vector.html" title="Vector\&lt; Quat16 \&gt;" alt="" coords="276,1516,403,1543"/>
+<area shape="rect" id="node44" href="$class_vector.html" title="Vector\&lt; F32 \&gt;" alt="" coords="286,1787,393,1813"/>
+<area shape="rect" id="node46" href="$class_g_f_x_vertex_buffer_data_handle.html" title="GFXVertexBufferDataHandle" alt="" coords="247,1955,432,1981"/>
+<area shape="rect" id="node48" href="$class_vector.html" title="Vector\&lt; TSShapeInstance\l::MeshObjectInstance \&gt;" alt="" coords="647,2005,821,2046"/>
+<area shape="rect" id="node49" href="$class_resource.html" title="Resource\&lt; TSShape \&gt;" alt="" coords="657,2615,811,2641"/>
+<area shape="rect" id="node50" href="$class_resource_base.html" title="ResourceBase" alt="" coords="286,2615,393,2641"/>
+</map>

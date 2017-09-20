@@ -1,0 +1,24 @@
+<map id="ShapeBaseData" name="ShapeBaseData">
+<area shape="rect" id="node10" href="$class_camera_data.html" title="CameraData" alt="" coords="1249,5,1344,32"/>
+<area shape="rect" id="node11" href="$struct_item_data.html" title="ItemData" alt="" coords="1259,56,1334,83"/>
+<area shape="rect" id="node15" href="$class_mission_marker_data.html" title="MissionMarkerData" alt="" coords="1229,107,1364,133"/>
+<area shape="rect" id="node16" href="$struct_path_camera_data.html" title="PathCameraData" alt="" coords="1236,157,1357,184"/>
+<area shape="rect" id="node17" href="$struct_player_data.html" title="PlayerData" alt="" coords="1253,208,1340,235"/>
+<area shape="rect" id="node18" href="$class_rigid_shape_data.html" title="RigidShapeData" alt="" coords="1239,259,1354,285"/>
+<area shape="rect" id="node19" href="$struct_static_shape_data.html" title="StaticShapeData" alt="" coords="1237,309,1357,336"/>
+<area shape="rect" id="node20" href="$struct_vehicle_data.html" title="VehicleData" alt="" coords="1251,360,1343,387"/>
+<area shape="rect" id="node2" href="$struct_game_base_data.html" title="GameBaseData" alt="" coords="903,183,1017,209"/>
+<area shape="rect" id="node3" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="749,183,855,209"/>
+<area shape="rect" id="node4" href="$class_sim_object.html" title="SimObject" alt="" coords="619,183,701,209"/>
+<area shape="rect" id="node5" href="$class_console_object.html" title="ConsoleObject" alt="" coords="464,157,571,184"/>
+<area shape="rect" id="node6" href="$class_engine_object.html" title="EngineObject" alt="" coords="316,157,416,184"/>
+<area shape="rect" id="node7" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="159,157,268,184"/>
+<area shape="rect" id="node8" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,157,111,184"/>
+<area shape="rect" id="node9" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="464,208,571,235"/>
+<area shape="rect" id="node12" href="$struct_proximity_mine_data.html" title="ProximityMineData" alt="" coords="1417,31,1549,57"/>
+<area shape="rect" id="node13" href="$class_turret_shape_data.html" title="TurretShapeData" alt="" coords="1424,81,1543,108"/>
+<area shape="rect" id="node14" href="$class_a_i_turret_shape_data.html" title="AITurretShapeData" alt="" coords="1603,81,1733,108"/>
+<area shape="rect" id="node21" href="$struct_flying_vehicle_data.html" title="FlyingVehicleData" alt="" coords="1420,309,1547,336"/>
+<area shape="rect" id="node22" href="$class_hover_vehicle_data.html" title="HoverVehicleData" alt="" coords="1421,360,1545,387"/>
+<area shape="rect" id="node23" href="$struct_wheeled_vehicle_data.html" title="WheeledVehicleData" alt="" coords="1412,411,1555,437"/>
+</map>

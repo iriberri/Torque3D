@@ -1,0 +1,5 @@
+<map id="RenderComponentInterface" name="RenderComponentInterface">
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; RenderComponentInterface * \&gt;" alt="" coords="5,213,255,240"/>
+<area shape="rect" id="node2" href="$class_interface.html" title="Interface\&lt; RenderComponent\lInterface \&gt;" alt="" coords="147,303,337,344"/>
+<area shape="rect" id="node4" href="$class_signal.html" title="Signal\&lt; void(RenderComponent\lInterface *) \&gt;" alt="" coords="150,5,353,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ThreadPool::WorkItem" name="ThreadPool::WorkItem">
+<area shape="rect" id="node3" href="$class_async_buffered_read_item.html" title="Asynchronous work item for reading an element from the source stream. " alt="" coords="421,5,582,47"/>
+<area shape="rect" id="node4" href="$class_async_i_o_item.html" title="AsyncIOItem\&lt; T, Stream \&gt;" alt="" coords="412,71,591,98"/>
+<area shape="rect" id="node7" href="$class_async_i_o_item.html" title="AsyncIOItem\&lt; Parent\l::SourceElementType,\l StreamType \&gt;" alt="" coords="426,122,577,178"/>
+<area shape="rect" id="node10" href="$struct_net_async_1_1_name_lookup_work_item.html" title="Work item issued to the thread pool for each lookup request. " alt="" coords="392,202,611,229"/>
+<area shape="rect" id="node2" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; WorkItem \&gt;" alt="" coords="5,97,145,139"/>
+<area shape="rect" id="node5" href="$class_async_read_item.html" title="AsyncReadItem\&lt; T, Stream \&gt;" alt="" coords="659,13,853,39"/>
+<area shape="rect" id="node6" href="$class_async_write_item.html" title="AsyncWriteItem\&lt; T,\l Stream \&gt;" alt="" coords="687,64,825,105"/>
+<area shape="rect" id="node8" href="$class_async_read_item.html" title="AsyncReadItem\&lt; Parent\l::SourceElementType,\l StreamType \&gt;" alt="" coords="674,130,838,186"/>
+<area shape="rect" id="node9" href="$class_async_packet_buffered_input_stream_1_1_packet_read_item.html" title="Asynchronous work item for reading a packet from the source stream. " alt="" coords="901,130,1076,186"/>
+</map>

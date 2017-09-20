@@ -1,0 +1,5 @@
+<map id="ForestItemSelection" name="ForestItemSelection">
+<area shape="rect" id="node2" href="$class_selection.html" title="Selection\&lt; ForestItem \&gt;" alt="" coords="77,80,240,107"/>
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; ForestItem \&gt;" alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node4" href="$class_vector.html" title="Vector\&lt; GridInfo \&gt;" alt="" coords="176,5,304,32"/>
+</map>

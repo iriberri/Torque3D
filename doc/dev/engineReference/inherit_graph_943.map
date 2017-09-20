@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_s_f_x_provider.html" title="SFXProvider" alt="" coords="5,107,97,133"/>
+<area shape="rect" id="node2" href="$class_s_f_x_a_l_provider.html" title="SFXALProvider" alt="" coords="157,5,265,32"/>
+<area shape="rect" id="node3" href="$class_s_f_x_d_s_provider.html" title="SFXDSProvider" alt="" coords="156,56,267,83"/>
+<area shape="rect" id="node4" href="$class_s_f_x_f_m_o_d_provider.html" title="SFXFMODProvider" alt="" coords="146,107,277,133"/>
+<area shape="rect" id="node5" href="$class_s_f_x_null_provider.html" title="SFXNullProvider" alt="" coords="154,157,269,184"/>
+<area shape="rect" id="node6" href="$class_s_f_x_x_audio_provider.html" title="SFXXAudioProvider" alt="" coords="145,208,277,235"/>
+</map>

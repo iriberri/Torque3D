@@ -1,0 +1,51 @@
+<map id="PostEffectManager" name="PostEffectManager">
+<area shape="rect" id="node2" href="$struct_p_f_x_frame_state.html" title="PFXFrameState" alt="" coords="1653,1915,1768,1941"/>
+<area shape="rect" id="node3" href="$class_matrix_f.html" title="MatrixF" alt="" coords="1041,1797,1107,1824"/>
+<area shape="rect" id="node26" href="$class_g_f_x_device.html" title="GFXDevice" alt="" coords="1471,1412,1557,1439"/>
+<area shape="rect" id="node4" href="$class_g_f_x_target.html" title="GFXTarget" alt="" coords="1473,1948,1555,1975"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,1392,269,1419"/>
+<area shape="rect" id="node18" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="371,821,488,848"/>
+<area shape="rect" id="node20" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="1836,1521,1964,1548"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,571,111,597"/>
+<area shape="rect" id="node38" href="$class_named_tex_target.html" title="NamedTexTarget" alt="" coords="1840,887,1960,913"/>
+<area shape="rect" id="node7" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="1023,1915,1125,1941"/>
+<area shape="rect" id="node8" href="$class_map.html" title="Map\&lt; String, EffectVector \&gt;" alt="" coords="2439,1687,2623,1713"/>
+<area shape="rect" id="node9" href="$class_vector.html" title="Vector\&lt; PostEffect * \&gt;" alt="" coords="2454,912,2607,939"/>
+<area shape="rect" id="node10" href="$class_post_effect.html" title="PostEffect" alt="" coords="2233,793,2315,820"/>
+<area shape="rect" id="node11" href="$class_sim_group.html" title="SimGroup" alt="" coords="1860,179,1940,205"/>
+<area shape="rect" id="node12" href="$class_sim_set.html" title="SimSet" alt="" coords="1481,107,1547,133"/>
+<area shape="rect" id="node13" href="$class_sim_object.html" title="SimObject" alt="" coords="1033,5,1115,32"/>
+<area shape="rect" id="node48" href="$class_g_f_x_state_block_data.html" title="Allows definition of render state via script, basically wraps a GFXStateBlockDesc. " alt="" coords="1641,80,1780,107"/>
+<area shape="rect" id="node14" href="$class_taml_children.html" title="TamlChildren" alt="" coords="1025,56,1123,83"/>
+<area shape="rect" id="node15" href="$class_sim_object_list.html" title="SimObjectList" alt="" coords="1022,107,1126,133"/>
+<area shape="rect" id="node16" href="$class_signal.html" title="Signal\&lt; void(SetModification\l modification, SimSet *set,\l SimObject *object) \&gt;" alt="" coords="981,157,1167,213"/>
+<area shape="rect" id="node17" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXShaderConst\lBuffer \&gt;" alt="" coords="737,319,945,361"/>
+<area shape="rect" id="node33" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="969,903,1179,929"/>
+<area shape="rect" id="node35" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="537,730,713,771"/>
+<area shape="rect" id="node45" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXShader \&gt;" alt="" coords="1203,351,1389,377"/>
+<area shape="rect" id="node49" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lTarget \&gt;" alt="" coords="753,1027,929,1069"/>
+<area shape="rect" id="node19" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="1046,1139,1102,1165"/>
+<area shape="rect" id="node21" href="$struct_d_d_s_file.html" title="DDSFile" alt="" coords="1479,1684,1549,1711"/>
+<area shape="rect" id="node41" href="$class_conditioner_feature.html" title="ConditionerFeature" alt="" coords="1449,1005,1579,1032"/>
+<area shape="rect" id="node47" href="$struct_g_f_x_shader_macro.html" title="Passed to GFX for shader defines. " alt="" coords="1452,1171,1576,1197"/>
+<area shape="rect" id="node50" href="$class_file_name.html" title="FileName" alt="" coords="1672,1117,1749,1144"/>
+<area shape="rect" id="node22" href="$class_torque_1_1_path.html" title="Torque::Path" alt="" coords="1026,1657,1122,1684"/>
+<area shape="rect" id="node23" href="$class_bit_set32.html" title="BitSet32" alt="" coords="1038,1708,1110,1735"/>
+<area shape="rect" id="node24" href="$class_vector.html" title="Vector\&lt; DDSFile::Surface\lData * \&gt;" alt="" coords="988,1849,1160,1890"/>
+<area shape="rect" id="node25" href="$class_point3_i.html" title="Point3I" alt="" coords="1483,1521,1545,1548"/>
+<area shape="rect" id="node27" href="$class_g_f_x_device_statistics.html" title="GFXDeviceStatistics" alt="" coords="1004,1351,1144,1377"/>
+<area shape="rect" id="node28" href="$class_g_f_x_cubemap_handle.html" title="A reference counted handle to a cubemap resource. " alt="" coords="1003,1405,1145,1432"/>
+<area shape="rect" id="node29" href="$class_swizzle.html" title="Swizzle\&lt; U8, 3 \&gt;" alt="" coords="1013,1300,1135,1327"/>
+<area shape="rect" id="node30" href="$class_color_f.html" title="ColorF" alt="" coords="1044,748,1104,775"/>
+<area shape="rect" id="node31" href="$class_rect_i.html" title="RectI" alt="" coords="1048,852,1100,879"/>
+<area shape="rect" id="node32" href="$class_point2_i.html" title="Point2I" alt="" coords="594,547,657,573"/>
+<area shape="rect" id="node34" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="1020,571,1128,597"/>
+<area shape="rect" id="node36" href="$class_g_f_x_texture_profile.html" title="GFXTextureProfile" alt="" coords="1451,1633,1577,1660"/>
+<area shape="rect" id="node37" href="$class_g_bitmap.html" title="GBitmap" alt="" coords="1477,1361,1551,1388"/>
+<area shape="rect" id="node39" href="$struct_g_f_x_sampler_state_desc.html" title="GFXSamplerStateDesc" alt="" coords="1436,892,1592,919"/>
+<area shape="rect" id="node40" href="$class_map.html" title="Map\&lt; Key, Value, Sequence \&gt;" alt="" coords="1413,841,1615,868"/>
+<area shape="rect" id="node42" href="$class_g_f_x_shader_const_handle.html" title="GFXShaderConstHandle" alt="" coords="1819,719,1981,745"/>
+<area shape="rect" id="node43" href="$class_hash_table.html" title="HashTable\&lt; StringCase,\l EffectConst * \&gt;" alt="" coords="1819,821,1981,862"/>
+<area shape="rect" id="node44" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="1867,1167,1933,1193"/>
+<area shape="rect" id="node46" href="$class_vector.html" title="Vector\&lt; GFXShaderMacro \&gt;" alt="" coords="1807,1217,1993,1244"/>
+</map>

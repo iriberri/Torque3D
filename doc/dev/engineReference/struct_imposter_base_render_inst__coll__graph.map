@@ -1,0 +1,6 @@
+<map id="ImposterBaseRenderInst" name="ImposterBaseRenderInst">
+<area shape="rect" id="node2" href="$struct_render_inst.html" title="RenderInst" alt="" coords="5,184,89,211"/>
+<area shape="rect" id="node3" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="114,184,237,211"/>
+<area shape="rect" id="node4" href="$class_vector.html" title="Vector\&lt; MatInstanceHook * \&gt;" alt="" coords="78,95,273,121"/>
+<area shape="rect" id="node5" href="$class_mat_instance_hook.html" title="MatInstanceHook" alt="" coords="114,5,237,32"/>
+</map>

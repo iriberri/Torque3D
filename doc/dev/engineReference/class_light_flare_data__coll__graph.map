@@ -1,0 +1,48 @@
+<map id="LightFlareData" name="LightFlareData">
+<area shape="rect" id="node2" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="1053,786,1159,813"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="SimObject" alt="" coords="702,639,785,666"/>
+<area shape="rect" id="node9" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1057,478,1155,505"/>
+<area shape="rect" id="node14" href="$union_namespace_1_1_entry_1_1_callback_union.html" title="Namespace::Entry::Callback\lUnion" alt="" coords="1012,580,1200,621"/>
+<area shape="rect" id="node4" href="$class_console_object.html" title="ConsoleObject" alt="" coords="482,411,589,438"/>
+<area shape="rect" id="node5" href="$class_engine_object.html" title="EngineObject" alt="" coords="319,411,419,438"/>
+<area shape="rect" id="node25" href="$class_static_engine_object.html" title="StaticEngineObject" alt="" coords="468,313,603,339"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,462,269,489"/>
+<area shape="rect" id="node45" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="477,837,594,863"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,462,111,489"/>
+<area shape="rect" id="node8" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="482,639,589,666"/>
+<area shape="rect" id="node10" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="658,513,829,539"/>
+<area shape="rect" id="node11" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="694,411,793,438"/>
+<area shape="rect" id="node12" href="$class_namespace.html" title="Namespace" alt="" coords="1754,535,1845,562"/>
+<area shape="rect" id="node13" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="1385,529,1516,555"/>
+<area shape="rect" id="node20" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="2021,439,2148,466"/>
+<area shape="rect" id="node15" href="$class_code_block.html" title="CodeBlock" alt="" coords="1063,427,1149,454"/>
+<area shape="rect" id="node16" href="$struct_compiler_1_1_console_parser.html" title="List of parsers for the compiler. " alt="" coords="660,322,827,349"/>
+<area shape="rect" id="node17" href="$struct_console_function_header.html" title="Extended information about a console function. " alt="" coords="1026,529,1186,555"/>
+<area shape="rect" id="node18" href="$class_data_chunker.html" title="DataChunker" alt="" coords="1402,649,1499,675"/>
+<area shape="rect" id="node19" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="1023,685,1189,711"/>
+<area shape="rect" id="node21" href="$class_console_base_type.html" title="Information about a console type. " alt="" coords="1736,331,1863,358"/>
+<area shape="rect" id="node22" href="$class_engine_type_info.html" title="EngineTypeInfo" alt="" coords="1395,154,1506,181"/>
+<area shape="rect" id="node27" href="$class_engine_argument_type_table.html" title="Information about the return and argument types of a function type. " alt="" coords="1711,223,1888,250"/>
+<area shape="rect" id="node29" href="$struct_engine_field_table_1_1_field.html" title="A field descriptor in a field table. " alt="" coords="1721,170,1878,197"/>
+<area shape="rect" id="node23" href="$class_engine_export_scope.html" title="A group of engine exports. " alt="" coords="1037,153,1175,179"/>
+<area shape="rect" id="node24" href="$class_engine_export.html" title="EngineExport" alt="" coords="693,167,793,194"/>
+<area shape="rect" id="node26" href="$struct_engine_type_net_info.html" title="Networking related information for an engine API type. " alt="" coords="1041,63,1171,90"/>
+<area shape="rect" id="node28" href="$class_engine_field_table.html" title="Table of fields for a struct type. " alt="" coords="2024,133,2145,159"/>
+<area shape="rect" id="node30" href="$class_engine_enum_table.html" title="Table of values for an enumeration or bitfield type. " alt="" coords="1043,254,1169,281"/>
+<area shape="rect" id="node36" href="$struct_abstract_class_rep_1_1_field.html" title="AbstractClassRep::Field" alt="" coords="1369,317,1532,343"/>
+<area shape="rect" id="node31" href="$struct_engine_enum_table_1_1_value.html" title="EngineEnumTable::Value" alt="" coords="659,233,827,259"/>
+<area shape="rect" id="node32" href="$class_bit_set32.html" title="BitSet32" alt="" coords="1070,203,1142,230"/>
+<area shape="rect" id="node33" href="$class_engine_property_table.html" title="EnginePropertyTable" alt="" coords="1035,13,1177,39"/>
+<area shape="rect" id="node34" href="$struct_engine_property_table_1_1_property.html" title="EnginePropertyTable\l::Property" alt="" coords="672,5,815,47"/>
+<area shape="rect" id="node35" href="$class_vector.html" title="Vector\&lt; Field \&gt;" alt="" coords="1743,391,1855,418"/>
+<area shape="rect" id="node37" href="$class_type_validator.html" title="TypeValidator" alt="" coords="1055,338,1157,365"/>
+<area shape="rect" id="node38" href="$class_rect_f.html" title="RectF" alt="" coords="1077,1450,1135,1477"/>
+<area shape="rect" id="node39" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="710,1450,777,1477"/>
+<area shape="rect" id="node40" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="1078,926,1134,953"/>
+<area shape="rect" id="node41" href="$class_color_f.html" title="ColorF" alt="" coords="1076,1103,1136,1130"/>
+<area shape="rect" id="node42" href="$class_point3_f.html" title="Point3F" alt="" coords="1073,1399,1139,1426"/>
+<area shape="rect" id="node43" href="$class_g_f_x_primitive_buffer_handle.html" title="GFXPrimitiveBufferHandle" alt="" coords="1021,837,1191,863"/>
+<area shape="rect" id="node44" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXPrimitive\lBuffer \&gt;" alt="" coords="652,829,835,871"/>
+<area shape="rect" id="node47" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="655,975,831,1016"/>
+<area shape="rect" id="node46" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="1052,1222,1160,1249"/>
+</map>

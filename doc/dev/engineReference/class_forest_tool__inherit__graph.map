@@ -1,0 +1,10 @@
+<map id="ForestTool" name="ForestTool">
+<area shape="rect" id="node8" href="$class_forest_brush_tool.html" title="ForestBrushTool" alt="" coords="5,453,123,480"/>
+<area shape="rect" id="node9" href="$class_forest_selection_tool.html" title="ForestSelectionTool" alt="" coords="147,453,285,480"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="SimObject" alt="" coords="99,304,181,331"/>
+<area shape="rect" id="node3" href="$class_console_object.html" title="ConsoleObject" alt="" coords="21,229,128,256"/>
+<area shape="rect" id="node4" href="$class_engine_object.html" title="EngineObject" alt="" coords="25,155,125,181"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="20,80,129,107"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="22,5,127,32"/>
+<area shape="rect" id="node7" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="152,229,259,256"/>
+</map>

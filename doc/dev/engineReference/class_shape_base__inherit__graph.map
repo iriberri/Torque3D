@@ -1,0 +1,36 @@
+<map id="ShapeBase" name="ShapeBase">
+<area shape="rect" id="node17" href="$class_camera.html" title="Implements a basic camera object. " alt="" coords="1641,19,1708,45"/>
+<area shape="rect" id="node18" href="$class_item.html" title="Item" alt="" coords="1651,69,1698,96"/>
+<area shape="rect" id="node22" href="$class_mission_marker.html" title="MissionMarker" alt="" coords="1621,145,1728,172"/>
+<area shape="rect" id="node26" href="$class_path_camera.html" title="PathCamera" alt="" coords="1627,196,1722,223"/>
+<area shape="rect" id="node27" href="$class_player.html" title="Player" alt="" coords="1645,247,1704,273"/>
+<area shape="rect" id="node29" href="$class_rigid_shape.html" title="RigidShape" alt="" coords="1631,297,1719,324"/>
+<area shape="rect" id="node30" href="$class_static_shape.html" title="StaticShape" alt="" coords="1628,348,1721,375"/>
+<area shape="rect" id="node32" href="$class_vehicle.html" title="Vehicle" alt="" coords="1642,415,1707,441"/>
+<area shape="rect" id="node2" href="$class_game_base.html" title="GameBase" alt="" coords="1347,196,1434,223"/>
+<area shape="rect" id="node3" href="$class_scene_object.html" title="SceneObject" alt="" coords="1200,196,1297,223"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="NetObject" alt="" coords="1039,145,1119,172"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="SimGroup" alt="" coords="877,145,957,172"/>
+<area shape="rect" id="node6" href="$class_sim_set.html" title="SimSet" alt="" coords="764,145,829,172"/>
+<area shape="rect" id="node7" href="$class_sim_object.html" title="SimObject" alt="" coords="626,120,709,147"/>
+<area shape="rect" id="node8" href="$class_console_object.html" title="ConsoleObject" alt="" coords="464,95,571,121"/>
+<area shape="rect" id="node9" href="$class_engine_object.html" title="EngineObject" alt="" coords="316,95,416,121"/>
+<area shape="rect" id="node10" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="159,95,268,121"/>
+<area shape="rect" id="node11" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,95,111,121"/>
+<area shape="rect" id="node12" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="464,145,571,172"/>
+<area shape="rect" id="node13" href="$class_taml_children.html" title="TamlChildren" alt="" coords="619,171,716,197"/>
+<area shape="rect" id="node14" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="1005,196,1152,223"/>
+<area shape="rect" id="node15" href="$class_process_object.html" title="ProcessObject" alt="" coords="1025,247,1133,273"/>
+<area shape="rect" id="node16" href="$class_i_scene_light.html" title="ISceneLight" alt="" coords="1345,247,1436,273"/>
+<area shape="rect" id="node19" href="$class_proximity_mine.html" title="ProximityMine" alt="" coords="1793,5,1898,32"/>
+<area shape="rect" id="node20" href="$class_turret_shape.html" title="TurretShape" alt="" coords="1799,56,1891,83"/>
+<area shape="rect" id="node21" href="$class_a_i_turret_shape.html" title="AITurretShape" alt="" coords="1963,56,2067,83"/>
+<area shape="rect" id="node23" href="$class_camera_bookmark.html" title="CameraBookmark" alt="" coords="1782,107,1909,133"/>
+<area shape="rect" id="node24" href="$class_spawn_sphere.html" title="SpawnSphere" alt="" coords="1794,157,1897,184"/>
+<area shape="rect" id="node25" href="$class_way_point.html" title="WayPoint" alt="" coords="1806,208,1885,235"/>
+<area shape="rect" id="node28" href="$class_a_i_player.html" title="AIPlayer" alt="" coords="1810,259,1881,285"/>
+<area shape="rect" id="node31" href="$class_scope_always_shape.html" title="ScopeAlwaysShape" alt="" coords="1776,328,1915,355"/>
+<area shape="rect" id="node33" href="$class_flying_vehicle.html" title="FlyingVehicle" alt="" coords="1795,379,1895,405"/>
+<area shape="rect" id="node34" href="$class_hover_vehicle.html" title="HoverVehicle" alt="" coords="1797,429,1894,456"/>
+<area shape="rect" id="node35" href="$class_wheeled_vehicle.html" title="WheeledVehicle" alt="" coords="1787,480,1903,507"/>
+</map>

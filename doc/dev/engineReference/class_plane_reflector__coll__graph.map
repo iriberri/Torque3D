@@ -1,0 +1,51 @@
+<map id="PlaneReflector" name="PlaneReflector">
+<area shape="rect" id="node2" href="$class_reflector_base.html" title="ReflectorBase" alt="" coords="2311,1155,2413,1181"/>
+<area shape="rect" id="node3" href="$class_scene_object.html" title="SceneObject" alt="" coords="1993,785,2091,812"/>
+<area shape="rect" id="node30" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="2281,951,2443,977"/>
+<area shape="rect" id="node32" href="$class_scene_object_ref_base.html" title="SceneObjectRefBase\l\&lt; SceneObjectRef \&gt;" alt="" coords="2289,666,2435,707"/>
+<area shape="rect" id="node33" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="2301,848,2423,875"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="NetObject" alt="" coords="1246,139,1326,165"/>
+<area shape="rect" id="node7" href="$struct_ghost_info.html" title="GhostInfo" alt="" coords="1646,124,1723,151"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="SimGroup" alt="" coords="834,93,914,120"/>
+<area shape="rect" id="node6" href="$class_bit_set32.html" title="BitSet32" alt="" coords="838,249,910,276"/>
+<area shape="rect" id="node16" href="$struct_d_d_s_file.html" title="DDSFile" alt="" coords="1251,300,1321,327"/>
+<area shape="rect" id="node8" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; NetObject \&gt;" alt="" coords="783,144,965,171"/>
+<area shape="rect" id="node9" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="1611,279,1758,305"/>
+<area shape="rect" id="node10" href="$class_process_object.html" title="ProcessObject" alt="" coords="1631,1744,1739,1771"/>
+<area shape="rect" id="node11" href="$struct_process_object_1_1_link.html" title="ProcessObject::Link" alt="" coords="1972,1755,2112,1781"/>
+<area shape="rect" id="node12" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="1621,568,1749,595"/>
+<area shape="rect" id="node13" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="5,1183,115,1209"/>
+<area shape="rect" id="node23" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="216,1537,333,1564"/>
+<area shape="rect" id="node26" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="825,1233,923,1260"/>
+<area shape="rect" id="node14" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="823,1009,925,1036"/>
+<area shape="rect" id="node18" href="$class_g_f_x_device.html" title="GFXDevice" alt="" coords="1243,1083,1329,1109"/>
+<area shape="rect" id="node46" href="$class_g_f_x_occlusion_query.html" title="GFXOcclusionQuery" alt="" coords="1615,1096,1755,1123"/>
+<area shape="rect" id="node15" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="846,403,902,429"/>
+<area shape="rect" id="node17" href="$class_point3_i.html" title="Point3I" alt="" coords="1255,633,1317,660"/>
+<area shape="rect" id="node19" href="$class_point3_f.html" title="Point3F" alt="" coords="841,1411,907,1437"/>
+<area shape="rect" id="node36" href="$class_sphere_f.html" title="SphereF" alt="" coords="1448,1277,1519,1304"/>
+<area shape="rect" id="node37" href="$class_box3_f.html" title="Box3F" alt="" coords="1256,1529,1316,1556"/>
+<area shape="rect" id="node49" href="$class_plane_f.html" title="PlaneF" alt="" coords="1847,1533,1909,1560"/>
+<area shape="rect" id="node20" href="$class_matrix_f.html" title="MatrixF" alt="" coords="841,793,907,820"/>
+<area shape="rect" id="node42" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="1630,780,1739,807"/>
+<area shape="rect" id="node21" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="820,1537,928,1564"/>
+<area shape="rect" id="node22" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="383,1530,559,1571"/>
+<area shape="rect" id="node50" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lTarget \&gt;" alt="" coords="583,1653,759,1694"/>
+<area shape="rect" id="node24" href="$class_g_f_x_texture_profile.html" title="GFXTextureProfile" alt="" coords="1223,351,1349,377"/>
+<area shape="rect" id="node25" href="$class_g_bitmap.html" title="GBitmap" alt="" coords="1249,401,1323,428"/>
+<area shape="rect" id="node29" href="$class_sim_object.html" title="SimObject" alt="" coords="1245,1243,1327,1269"/>
+<area shape="rect" id="node27" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="385,1233,556,1260"/>
+<area shape="rect" id="node28" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="421,1323,520,1349"/>
+<area shape="rect" id="node48" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="1632,1228,1737,1255"/>
+<area shape="rect" id="node31" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="2548,689,2664,716"/>
+<area shape="rect" id="node34" href="$class_scene_tracker.html" title="SceneTracker" alt="" coords="1991,644,2093,671"/>
+<area shape="rect" id="node35" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="1587,449,1783,476"/>
+<area shape="rect" id="node38" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="837,1597,911,1624"/>
+<area shape="rect" id="node39" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="1585,329,1784,356"/>
+<area shape="rect" id="node40" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SceneObject \&gt;" alt="" coords="1191,199,1381,225"/>
+<area shape="rect" id="node41" href="$class_scene_container.html" title="SceneContainer" alt="" coords="1627,881,1742,908"/>
+<area shape="rect" id="node43" href="$class_point2_i.html" title="Point2I" alt="" coords="1255,931,1317,957"/>
+<area shape="rect" id="node44" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="1609,932,1761,959"/>
+<area shape="rect" id="node45" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="1595,5,1774,32"/>
+<area shape="rect" id="node47" href="$class_reflector_desc.html" title="ReflectorDesc" alt="" coords="1991,1193,2093,1220"/>
+</map>

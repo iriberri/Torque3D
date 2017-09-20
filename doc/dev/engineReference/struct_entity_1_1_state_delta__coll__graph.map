@@ -1,0 +1,5 @@
+<map id="Entity::StateDelta" name="Entity::StateDelta">
+<area shape="rect" id="node2" href="$struct_move.html" title="Move" alt="" coords="5,43,57,70"/>
+<area shape="rect" id="node3" href="$class_point3_f.html" title="Point3F" alt="" coords="82,43,149,70"/>
+<area shape="rect" id="node4" href="$class_quat_f.html" title="QuatF" alt="" coords="231,43,290,70"/>
+</map>

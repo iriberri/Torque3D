@@ -1,0 +1,9 @@
+<map id="GFXWindowTarget" name="GFXWindowTarget">
+<area shape="rect" id="node6" href="$class_g_f_x_d3_d11_window_target.html" title="GFXD3D11WindowTarget" alt="" coords="5,304,173,331"/>
+<area shape="rect" id="node7" href="$class_g_f_x_g_l_window_target.html" title="GFXGLWindowTarget" alt="" coords="197,304,344,331"/>
+<area shape="rect" id="node8" href="$class_g_f_x_null_window_target.html" title="GFXNullWindowTarget" alt="" coords="369,304,519,331"/>
+<area shape="rect" id="node2" href="$class_g_f_x_target.html" title="GFXTarget" alt="" coords="229,155,312,181"/>
+<area shape="rect" id="node3" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="151,80,260,107"/>
+<area shape="rect" id="node4" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="153,5,258,32"/>
+<area shape="rect" id="node5" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="285,80,387,107"/>
+</map>

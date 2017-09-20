@@ -1,0 +1,51 @@
+<map id="AITurretShapeData" name="AITurretShapeData">
+<area shape="rect" id="node2" href="$class_turret_shape_data.html" title="TurretShapeData" alt="" coords="3314,1019,3433,1045"/>
+<area shape="rect" id="node3" href="$struct_item_data.html" title="ItemData" alt="" coords="3089,1019,3164,1045"/>
+<area shape="rect" id="node4" href="$struct_shape_base_data.html" title="ShapeBaseData" alt="" coords="2889,635,3005,661"/>
+<area shape="rect" id="node5" href="$struct_game_base_data.html" title="GameBaseData" alt="" coords="1737,753,1852,780"/>
+<area shape="rect" id="node26" href="$struct_debris_data.html" title="DebrisData" alt="" coords="2377,569,2464,596"/>
+<area shape="rect" id="node27" href="$class_particle_emitter_data.html" title="ParticleEmitterData" alt="" coords="2057,660,2191,687"/>
+<area shape="rect" id="node38" href="$class_explosion_data.html" title="ExplosionData" alt="" coords="2613,635,2720,661"/>
+<area shape="rect" id="node6" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="1075,531,1180,557"/>
+<area shape="rect" id="node30" href="$class_particle_data.html" title="ParticleData" alt="" coords="1417,703,1511,729"/>
+<area shape="rect" id="node39" href="$class_s_f_x_track.html" title="A datablock that describes sound data for playback. " alt="" coords="2381,405,2460,432"/>
+<area shape="rect" id="node40" href="$class_s_f_x_description.html" title="SFXDescription" alt="" coords="2069,340,2179,367"/>
+<area shape="rect" id="node48" href="$class_reflector_desc.html" title="ReflectorDesc" alt="" coords="1565,145,1668,172"/>
+<area shape="rect" id="node7" href="$class_sim_object.html" title="SimObject" alt="" coords="775,544,858,571"/>
+<area shape="rect" id="node12" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1078,681,1177,708"/>
+<area shape="rect" id="node8" href="$class_console_object.html" title="ConsoleObject" alt="" coords="473,544,580,571"/>
+<area shape="rect" id="node9" href="$class_engine_object.html" title="EngineObject" alt="" coords="164,544,264,571"/>
+<area shape="rect" id="node10" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="5,639,115,665"/>
+<area shape="rect" id="node35" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="468,815,585,841"/>
+<area shape="rect" id="node47" href="$class_resource_base_1_1_header.html" title="ResourceBase::Header" alt="" coords="288,845,444,872"/>
+<area shape="rect" id="node11" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="473,493,580,520"/>
+<area shape="rect" id="node13" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="731,735,902,761"/>
+<area shape="rect" id="node14" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="767,684,866,711"/>
+<area shape="rect" id="node15" href="$class_namespace.html" title="Namespace" alt="" coords="481,1116,572,1143"/>
+<area shape="rect" id="node16" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="751,1213,882,1240"/>
+<area shape="rect" id="node18" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="753,1116,880,1143"/>
+<area shape="rect" id="node17" href="$class_data_chunker.html" title="DataChunker" alt="" coords="165,1116,263,1143"/>
+<area shape="rect" id="node19" href="$class_signal.html" title="Signal\&lt; void(void)\&gt;" alt="" coords="1399,753,1529,780"/>
+<area shape="rect" id="node20" href="$class_vector.html" title="Vector\&lt; S32 \&gt;" alt="" coords="2613,983,2720,1009"/>
+<area shape="rect" id="node21" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="2639,44,2695,71"/>
+<area shape="rect" id="node22" href="$class_vector.html" title="Vector\&lt; Box3F \&gt;" alt="" coords="2225,95,2348,121"/>
+<area shape="rect" id="node23" href="$class_box3_f.html" title="Box3F" alt="" coords="1765,95,1825,121"/>
+<area shape="rect" id="node24" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="1427,95,1501,121"/>
+<area shape="rect" id="node25" href="$class_point3_f.html" title="Point3F" alt="" coords="1431,447,1497,473"/>
+<area shape="rect" id="node41" href="$class_s_f_x_source.html" title="Baseclass for sources and controllers. " alt="" coords="1751,324,1838,351"/>
+<area shape="rect" id="node28" href="$class_vector.html" title="Vector\&lt; U32 \&gt;" alt="" coords="1741,703,1848,729"/>
+<area shape="rect" id="node29" href="$class_vector.html" title="Vector\&lt; ParticleData * \&gt;" alt="" coords="1713,652,1877,679"/>
+<area shape="rect" id="node31" href="$class_vector.html" title="Vector\&lt; U8 \&gt;" alt="" coords="1077,631,1177,657"/>
+<area shape="rect" id="node32" href="$class_color_f.html" title="ColorF" alt="" coords="1097,1084,1157,1111"/>
+<area shape="rect" id="node33" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="1073,800,1181,827"/>
+<area shape="rect" id="node34" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="729,786,905,827"/>
+<area shape="rect" id="node37" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXPrimitive\lBuffer \&gt;" alt="" coords="725,851,908,893"/>
+<area shape="rect" id="node46" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; ResourceBase\l::Header \&gt;" alt="" coords="720,917,913,958"/>
+<area shape="rect" id="node36" href="$class_g_f_x_primitive_buffer_handle.html" title="GFXPrimitiveBufferHandle" alt="" coords="1205,856,1375,883"/>
+<area shape="rect" id="node42" href="$class_ease_f.html" title="EaseF" alt="" coords="1434,265,1494,292"/>
+<area shape="rect" id="node43" href="$class_s_f_x_sound_reverb_properties.html" title="SFXSoundReverbProperties" alt="" coords="1704,375,1885,401"/>
+<area shape="rect" id="node44" href="$class_resource.html" title="Resource\&lt; TSShape \&gt;" alt="" coords="2047,824,2201,851"/>
+<area shape="rect" id="node45" href="$class_resource_base.html" title="ResourceBase" alt="" coords="1074,907,1181,933"/>
+<area shape="rect" id="node49" href="$struct_a_i_turret_shape_data_1_1_state_data.html" title="AITurretShapeData::\lStateData" alt="" coords="3304,1070,3443,1111"/>
+<area shape="rect" id="node50" href="$struct_a_i_turret_shape_data_1_1_state_data_1_1_transition.html" title="AITurretShapeData::\lStateData::Transition" alt="" coords="3055,1070,3199,1111"/>
+</map>

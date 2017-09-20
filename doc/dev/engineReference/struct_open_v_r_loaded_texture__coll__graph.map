@@ -1,0 +1,25 @@
+<map id="OpenVRLoadedTexture" name="OpenVRLoadedTexture">
+<area shape="rect" id="node2" href="$class_named_tex_target.html" title="NamedTexTarget" alt="" coords="1955,265,2075,292"/>
+<area shape="rect" id="node3" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="205,9,310,36"/>
+<area shape="rect" id="node24" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="496,44,605,71"/>
+<area shape="rect" id="node4" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="16,489,72,516"/>
+<area shape="rect" id="node9" href="$class_conditioner_feature.html" title="ConditionerFeature" alt="" coords="1569,593,1699,620"/>
+<area shape="rect" id="node15" href="$class_g_f_x_vertex_format.html" title="GFXVertexFormat" alt="" coords="919,485,1046,512"/>
+<area shape="rect" id="node18" href="$class_g_f_x_vertex_element.html" title="GFXVertexElement" alt="" coords="191,519,324,545"/>
+<area shape="rect" id="node5" href="$class_rect_i.html" title="RectI" alt="" coords="1608,215,1660,241"/>
+<area shape="rect" id="node6" href="$class_point2_i.html" title="Point2I" alt="" coords="1325,215,1387,241"/>
+<area shape="rect" id="node7" href="$struct_g_f_x_sampler_state_desc.html" title="GFXSamplerStateDesc" alt="" coords="1556,265,1712,292"/>
+<area shape="rect" id="node8" href="$class_map.html" title="Map\&lt; Key, Value, Sequence \&gt;" alt="" coords="1533,316,1735,343"/>
+<area shape="rect" id="node19" href="$class_conditioner_method_dependency.html" title="ConditionerMethodDependency" alt="" coords="1913,684,2116,711"/>
+<area shape="rect" id="node20" href="$class_vector.html" title="Vector\&lt; ConditionerFeature * \&gt;" alt="" coords="1913,571,2116,597"/>
+<area shape="rect" id="node10" href="$class_shader_feature.html" title="ShaderFeature" alt="" coords="1303,661,1409,688"/>
+<area shape="rect" id="node11" href="$class_vector.html" title="Vector\&lt; const ShaderDependency * \&gt;" alt="" coords="861,680,1104,707"/>
+<area shape="rect" id="node12" href="$class_shader_dependency.html" title="The base class for shader dependencies. " alt="" coords="483,708,618,735"/>
+<area shape="rect" id="node13" href="$struct_lang_element.html" title="LangElement" alt="" coords="933,811,1032,837"/>
+<area shape="rect" id="node14" href="$class_vector.html" title="Vector\&lt; LangElement * \&gt;" alt="" coords="1271,833,1441,860"/>
+<area shape="rect" id="node16" href="$class_g_f_x_vertex_decl.html" title="GFXVertexDecl" alt="" coords="495,417,606,444"/>
+<area shape="rect" id="node17" href="$class_vector.html" title="Vector\&lt; GFXVertexElement \&gt;" alt="" coords="453,519,648,545"/>
+<area shape="rect" id="node21" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="1580,111,1688,137"/>
+<area shape="rect" id="node22" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="1268,54,1444,95"/>
+<area shape="rect" id="node23" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="924,51,1041,77"/>
+</map>

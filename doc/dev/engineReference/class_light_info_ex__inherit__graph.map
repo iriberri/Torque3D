@@ -1,0 +1,4 @@
+<map id="LightInfoEx" name="LightInfoEx">
+<area shape="rect" id="node2" href="$class_light_map_params.html" title="LightMapParams" alt="" coords="5,80,125,107"/>
+<area shape="rect" id="node3" href="$class_shadow_map_params.html" title="ShadowMapParams" alt="" coords="149,80,288,107"/>
+</map>

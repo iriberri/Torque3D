@@ -1,0 +1,646 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$struct_polyhedron_impl.html" title="PolyhedronImpl\&lt; Base \&gt;" alt="" coords="2701,5,2866,32"/>
+<area shape="rect" id="node3" href="$class_scene_ambient_sound_object.html" title="SceneAmbientSoundObject\l\&lt; Base \&gt;" alt="" coords="2692,57,2875,98"/>
+<area shape="rect" id="node4" href="$class_scene_polyhedral_object.html" title="ScenePolyhedralObject\l\&lt; Base, P \&gt;" alt="" coords="2704,187,2863,229"/>
+<area shape="rect" id="node5" href="$struct_silhouette_extractor_impl.html" title="Common implementation parts for silhouette extraction. " alt="" coords="2705,122,2862,163"/>
+<area shape="rect" id="node6" href="$class_camera_interface.html" title="CameraInterface" alt="" coords="2203,4285,2319,4312"/>
+<area shape="rect" id="node7" href="$class_camera_component.html" title="CameraComponent" alt="" coords="2444,4665,2577,4692"/>
+<area shape="rect" id="node8" href="$class_cast_ray_interface.html" title="CastRayInterface" alt="" coords="2201,4995,2322,5021"/>
+<area shape="rect" id="node9" href="$class_collision_component.html" title="CollisionComponent" alt="" coords="2442,4944,2579,4971"/>
+<area shape="rect" id="node10" href="$class_cast_ray_rendered_interface.html" title="CastRayRenderedInterface" alt="" coords="2173,4843,2349,4869"/>
+<area shape="rect" id="node11" href="$class_mesh_component.html" title="MeshComponent" alt="" coords="2451,4893,2571,4920"/>
+<area shape="rect" id="node12" href="$class_collision_interface.html" title="CollisionInterface" alt="" coords="2201,5045,2321,5072"/>
+<area shape="rect" id="node13" href="$class_connection_protocol.html" title="ConnectionProtocol" alt="" coords="1682,2613,1817,2640"/>
+<area shape="rect" id="node14" href="$class_net_connection.html" title="NetConnection" alt="" coords="1962,2411,2069,2437"/>
+<area shape="rect" id="node15" href="$class_game_connection.html" title="GameConnection" alt="" coords="2200,2411,2323,2437"/>
+<area shape="rect" id="node16" href="$class_a_i_connection.html" title="AIConnection" alt="" coords="2461,2411,2560,2437"/>
+<area shape="rect" id="node17" href="$class_a_i_client.html" title="AIClient" alt="" coords="2750,2411,2817,2437"/>
+<area shape="rect" id="node18" href="$class_editor_inspect_interface.html" title="EditorInspectInterface" alt="" coords="2188,4893,2335,4920"/>
+<area shape="rect" id="node19" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="473,3969,575,3996"/>
+<area shape="rect" id="node20" href="$class_g_f_x_cubemap.html" title="GFXCubemap" alt="" coords="700,3931,803,3957"/>
+<area shape="rect" id="node24" href="$class_g_f_x_fence.html" title="GFXFence" alt="" coords="710,3399,793,3425"/>
+<area shape="rect" id="node28" href="$class_g_f_x_occlusion_query.html" title="GFXOcclusionQuery" alt="" coords="681,3525,821,3552"/>
+<area shape="rect" id="node31" href="$class_g_f_x_primitive_buffer.html" title="GFXPrimitiveBuffer" alt="" coords="687,4437,816,4464"/>
+<area shape="rect" id="node35" href="$class_g_f_x_shader.html" title="GFXShader" alt="" coords="707,4539,795,4565"/>
+<area shape="rect" id="node38" href="$class_g_f_x_shader_const_buffer.html" title="GFXShaderConstBuffer" alt="" coords="674,3677,829,3704"/>
+<area shape="rect" id="node41" href="$class_g_f_x_state_block.html" title="GFXStateBlock" alt="" coords="696,3779,807,3805"/>
+<area shape="rect" id="node45" href="$class_g_f_x_target.html" title="GFXTarget" alt="" coords="710,4007,793,4033"/>
+<area shape="rect" id="node53" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="687,4133,815,4160"/>
+<area shape="rect" id="node57" href="$class_g_f_x_vertex_buffer.html" title="GFXVertexBuffer" alt="" coords="692,4285,811,4312"/>
+<area shape="rect" id="node21" href="$class_g_f_x_d3_d11_cubemap.html" title="GFXD3D11Cubemap" alt="" coords="913,3829,1055,3856"/>
+<area shape="rect" id="node22" href="$class_g_f_x_g_l_cubemap.html" title="GFXGLCubemap" alt="" coords="925,3880,1043,3907"/>
+<area shape="rect" id="node23" href="$class_g_f_x_null_cubemap.html" title="GFXNullCubemap" alt="" coords="922,3931,1046,3957"/>
+<area shape="rect" id="node25" href="$class_g_f_x_d3_d11_query_fence.html" title="GFXD3D11QueryFence" alt="" coords="905,3373,1063,3400"/>
+<area shape="rect" id="node26" href="$class_g_f_x_general_fence.html" title="GFXGeneralFence" alt="" coords="920,3424,1048,3451"/>
+<area shape="rect" id="node27" href="$class_g_f_x_g_l_apple_fence.html" title="GFXGLAppleFence" alt="" coords="917,3323,1051,3349"/>
+<area shape="rect" id="node29" href="$class_g_f_x_d3_d11_occlusion_query.html" title="GFXD3D11OcclusionQuery" alt="" coords="895,3525,1073,3552"/>
+<area shape="rect" id="node30" href="$class_g_f_x_g_l_occlusion_query.html" title="GFXGLOcclusionQuery" alt="" coords="905,3475,1063,3501"/>
+<area shape="rect" id="node32" href="$class_g_f_x_d3_d11_primitive_buffer.html" title="GFXD3D11PrimitiveBuffer" alt="" coords="900,4437,1068,4464"/>
+<area shape="rect" id="node33" href="$class_g_f_x_g_l_primitive_buffer.html" title="This is a primitive buffer (index buffer to GL users) which uses VBOs. " alt="" coords="911,4488,1057,4515"/>
+<area shape="rect" id="node34" href="$class_g_f_x_null_primitive_buffer.html" title="GFXNullPrimitiveBuffer" alt="" coords="909,4387,1059,4413"/>
+<area shape="rect" id="node36" href="$class_g_f_x_d3_d11_shader.html" title="GFXD3D11Shader" alt="" coords="921,4589,1047,4616"/>
+<area shape="rect" id="node37" href="$class_g_f_x_g_l_shader.html" title="GFXGLShader" alt="" coords="931,4539,1037,4565"/>
+<area shape="rect" id="node39" href="$class_g_f_x_d3_d11_shader_const_buffer.html" title="The D3D11 implementation of a shader constant buffer. " alt="" coords="887,3627,1081,3653"/>
+<area shape="rect" id="node40" href="$class_g_f_x_g_l_shader_const_buffer.html" title="GFXGLShaderConstBuffer" alt="" coords="898,3576,1070,3603"/>
+<area shape="rect" id="node42" href="$class_g_f_x_d3_d11_state_block.html" title="GFXD3D11StateBlock" alt="" coords="909,3677,1059,3704"/>
+<area shape="rect" id="node43" href="$class_g_f_x_g_l_state_block.html" title="GFXGLStateBlock" alt="" coords="920,3728,1048,3755"/>
+<area shape="rect" id="node44" href="$class_g_f_x_null_state_block.html" title="GFXNullStateBlock" alt="" coords="917,3779,1051,3805"/>
+<area shape="rect" id="node46" href="$class_g_f_x_texture_target.html" title="GFXTextureTarget" alt="" coords="921,4032,1047,4059"/>
+<area shape="rect" id="node49" href="$class_g_f_x_window_target.html" title="GFXWindowTarget" alt="" coords="919,3981,1049,4008"/>
+<area shape="rect" id="node47" href="$class_g_f_x_d3_d11_texture_target.html" title="GFXD3D11TextureTarget" alt="" coords="1147,2917,1313,2944"/>
+<area shape="rect" id="node48" href="$class_g_f_x_g_l_texture_target.html" title="GFXGLTextureTarget" alt="" coords="1159,2867,1301,2893"/>
+<area shape="rect" id="node50" href="$class_g_f_x_d3_d11_window_target.html" title="GFXD3D11WindowTarget" alt="" coords="1146,2715,1314,2741"/>
+<area shape="rect" id="node51" href="$class_g_f_x_g_l_window_target.html" title="GFXGLWindowTarget" alt="" coords="1157,2765,1303,2792"/>
+<area shape="rect" id="node52" href="$class_g_f_x_null_window_target.html" title="GFXNullWindowTarget" alt="" coords="1155,2816,1305,2843"/>
+<area shape="rect" id="node54" href="$class_g_f_x_d3_d11_texture_object.html" title="GFXD3D11TextureObject" alt="" coords="901,4133,1067,4160"/>
+<area shape="rect" id="node55" href="$class_g_f_x_g_l_texture_object.html" title="GFXGLTextureObject" alt="" coords="911,4184,1057,4211"/>
+<area shape="rect" id="node56" href="$class_g_f_x_null_texture_object.html" title="GFXNullTextureObject" alt="" coords="909,4083,1059,4109"/>
+<area shape="rect" id="node58" href="$class_g_f_x_d3_d11_vertex_buffer.html" title="GFXD3D11VertexBuffer" alt="" coords="905,4285,1063,4312"/>
+<area shape="rect" id="node59" href="$class_g_f_x_g_l_vertex_buffer.html" title="This is a vertex buffer which uses GL_ARB_vertex_buffer_object. " alt="" coords="917,4336,1051,4363"/>
+<area shape="rect" id="node60" href="$class_g_f_x_null_vertex_buffer.html" title="GFXNullVertexBuffer" alt="" coords="914,4235,1054,4261"/>
+<area shape="rect" id="node62" href="$classgfx_d3_d11_include.html" title="gfxD3D11Include" alt="" coords="692,5757,811,5784"/>
+<area shape="rect" id="node63" href="$class_transform3_d_1_1_i_dirty_listener.html" title="Transform3D::IDirtyListener" alt="" coords="2172,296,2351,323"/>
+<area shape="rect" id="node64" href="$class_t3_d_scene_component.html" title="T3DSceneComponent" alt="" coords="2437,296,2585,323"/>
+<area shape="rect" id="node65" href="$class_t3_d_solid_scene_client.html" title="T3DSolidSceneClient" alt="" coords="2439,245,2583,272"/>
+<area shape="rect" id="node66" href="$class_i_input_stream.html" title="IInputStream\&lt; U8 \&gt;" alt="" coords="31,3017,166,3044"/>
+<area shape="rect" id="node67" href="$class_i_input_stream_filter.html" title="IInputStreamFilter\l\&lt; U8, IInputStream\&lt;\l RawData * \&gt; * \&gt;" alt="" coords="243,3000,381,3056"/>
+<area shape="rect" id="node69" href="$class_s_f_x_stream.html" title="SFXStream" alt="" coords="268,3080,356,3107"/>
+<area shape="rect" id="node68" href="$class_s_f_x_memory_stream.html" title="SFXMemoryStream" alt="" coords="457,3019,591,3045"/>
+<area shape="rect" id="node70" href="$class_s_f_x_file_stream.html" title="An SFXStream that streams from a file. " alt="" coords="469,3076,579,3103"/>
+<area shape="rect" id="node71" href="$class_s_f_x_wav_stream.html" title="An SFXFileStream that loads sample data from a WAV file. " alt="" coords="695,2943,808,2969"/>
+<area shape="rect" id="node72" href="$class_dispatcher_1_1_i_message_listener.html" title="Listener interface for objects that receive messages. " alt="" coords="1133,3272,1327,3299"/>
+<area shape="rect" id="node73" href="$class_event_manager_listener.html" title="EventManagerListener" alt="" coords="1405,3221,1555,3248"/>
+<area shape="rect" id="node74" href="$class_popup_menu.html" title="PopupMenu" alt="" coords="1435,3323,1525,3349"/>
+<area shape="rect" id="node75" href="$class_script_msg_listener.html" title="Script accessible version of Dispatcher::IMessageListener. " alt="" coords="1417,3272,1543,3299"/>
+<area shape="rect" id="node76" href="$class_message_forwarder.html" title="Forward messages from one queue to another. " alt="" coords="1683,3272,1815,3299"/>
+<area shape="rect" id="node77" href="$class_interface.html" title="Interface\&lt; PhysicsComponent\lInterface \&gt;" alt="" coords="1917,2990,2113,3031"/>
+<area shape="rect" id="node78" href="$class_physics_component_interface.html" title="PhysicsComponentInterface" alt="" coords="2169,3019,2353,3045"/>
+<area shape="rect" id="node79" href="$class_player_controller_component.html" title="PlayerControllerComponent" alt="" coords="2421,4615,2601,4641"/>
+<area shape="rect" id="node80" href="$class_rigid_body_component.html" title="RigidBodyComponent" alt="" coords="2437,3956,2584,3983"/>
+<area shape="rect" id="node81" href="$class_interface.html" title="Interface\&lt; RenderComponent\lInterface \&gt;" alt="" coords="1920,3957,2111,3998"/>
+<area shape="rect" id="node82" href="$class_render_component_interface.html" title="RenderComponentInterface" alt="" coords="2172,4944,2351,4971"/>
+<area shape="rect" id="node83" href="$class_interface.html" title="Interface\&lt; UpdateInterface \&gt;" alt="" coords="1657,4909,1842,4936"/>
+<area shape="rect" id="node84" href="$class_update_interface.html" title="UpdateInterface" alt="" coords="1959,5053,2071,5080"/>
+<area shape="rect" id="node85" href="$class_component.html" title="Component" alt="" coords="2217,5147,2305,5173"/>
+<area shape="rect" id="node86" href="$class_animation_component.html" title="AnimationComponent" alt="" coords="2437,4995,2584,5021"/>
+<area shape="rect" id="node87" href="$class_camera_orbiter_component.html" title="CameraOrbiterComponent" alt="" coords="2425,5045,2597,5072"/>
+<area shape="rect" id="node88" href="$class_physics_component.html" title="PhysicsComponent" alt="" coords="2443,5096,2578,5123"/>
+<area shape="rect" id="node89" href="$class_state_machine_component.html" title="StateMachineComponent" alt="" coords="2427,5147,2595,5173"/>
+<area shape="rect" id="node90" href="$class_trigger_component.html" title="TriggerComponent" alt="" coords="2447,5197,2574,5224"/>
+<area shape="rect" id="node91" href="$class_i_output_stream.html" title="IOutputStream\&lt; SFXInternal\l::SFXStreamPacket * \&gt;" alt="" coords="432,6851,616,6893"/>
+<area shape="rect" id="node92" href="$class_s_f_x_buffer.html" title="SFXBuffer" alt="" coords="712,6859,791,6885"/>
+<area shape="rect" id="node93" href="$class_s_f_x_a_l_buffer.html" title="SFXALBuffer" alt="" coords="937,6813,1031,6840"/>
+<area shape="rect" id="node94" href="$class_s_f_x_internal_1_1_s_f_x_wrap_around_buffer.html" title="SFXInternal::SFXWrapAround\lBuffer" alt="" coords="888,6865,1080,6906"/>
+<area shape="rect" id="node97" href="$class_s_f_x_null_buffer.html" title="SFXNullBuffer" alt="" coords="933,6931,1035,6957"/>
+<area shape="rect" id="node98" href="$class_s_f_x_x_audio_buffer.html" title="Audio data buffer for the XAudio device layer. " alt="" coords="925,6981,1043,7008"/>
+<area shape="rect" id="node95" href="$class_s_f_x_d_s_buffer.html" title="SFXDSBuffer" alt="" coords="1181,6847,1279,6873"/>
+<area shape="rect" id="node96" href="$class_s_f_x_f_m_o_d_buffer.html" title="SFXFMODBuffer" alt="" coords="1171,6897,1289,6924"/>
+<area shape="rect" id="node99" href="$class_i_polled.html" title="IPolled" alt="" coords="493,6788,555,6815"/>
+<area shape="rect" id="node100" href="$class_s_f_x_modifier.html" title="SFXModifier" alt="" coords="706,6763,797,6789"/>
+<area shape="rect" id="node101" href="$class_s_f_x_one_shot_modifier.html" title="An SFXModifier that is triggered once after passing a certain playback position. " alt="" coords="913,6712,1055,6739"/>
+<area shape="rect" id="node103" href="$class_s_f_x_range_modifier.html" title="An SFXModifier that is spans a certain range of playback time. " alt="" coords="920,6763,1048,6789"/>
+<area shape="rect" id="node102" href="$class_s_f_x_marker_modifier.html" title="SFXMarkerModifier" alt="" coords="1165,6712,1295,6739"/>
+<area shape="rect" id="node104" href="$class_s_f_x_fade_modifier.html" title="A volume fade effect (fade&#45;in or fade&#45;out). " alt="" coords="1170,6763,1290,6789"/>
+<area shape="rect" id="node105" href="$class_i_positionable.html" title="IPositionable\&lt; Tick \&gt;" alt="" coords="27,3289,171,3316"/>
+<area shape="rect" id="node106" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l Timer, Tick \&gt;" alt="" coords="240,3282,384,3323"/>
+<area shape="rect" id="node107" href="$class_i_positionable.html" title="IPositionable\&lt; typename\l RealMSTimer::TickType \&gt;" alt="" coords="11,3173,187,3214"/>
+<area shape="rect" id="node108" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l RealMSTimer \&gt;" alt="" coords="240,3217,384,3258"/>
+<area shape="rect" id="node109" href="$class_i_positionable.html" title="IPositionable\&lt; typename\l SimMSTimer::TickType \&gt;" alt="" coords="12,3391,185,3433"/>
+<area shape="rect" id="node110" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l SimMSTimer \&gt;" alt="" coords="240,3347,384,3389"/>
+<area shape="rect" id="node111" href="$class_i_positionable.html" title="IPositionable\&lt; typename\l VirtualMSTimer::TickType \&gt;" alt="" coords="5,3457,192,3498"/>
+<area shape="rect" id="node112" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l VirtualMSTimer \&gt;" alt="" coords="240,3413,384,3454"/>
+<area shape="rect" id="node113" href="$class_i_positionable.html" title="IPositionable\&lt; U32 \&gt;" alt="" coords="453,2943,595,2969"/>
+<area shape="rect" id="node114" href="$class_s_f_x_sound.html" title="A scriptable controller playing a specific single sound file. " alt="" coords="2220,2309,2303,2336"/>
+<area shape="rect" id="node115" href="$class_s_f_x_voice.html" title="SFXVoice" alt="" coords="712,2993,791,3020"/>
+<area shape="rect" id="node116" href="$class_s_f_x_a_l_voice.html" title="SFXALVoice" alt="" coords="937,2917,1031,2944"/>
+<area shape="rect" id="node117" href="$class_s_f_x_d_s_voice.html" title="SFXDSVoice" alt="" coords="935,2968,1033,2995"/>
+<area shape="rect" id="node118" href="$class_s_f_x_f_m_o_d_voice.html" title="SFXFMODVoice" alt="" coords="925,3019,1043,3045"/>
+<area shape="rect" id="node119" href="$class_s_f_x_null_voice.html" title="SFXNullVoice" alt="" coords="933,2867,1035,2893"/>
+<area shape="rect" id="node120" href="$class_s_f_x_x_audio_voice.html" title="SFXXAudioVoice" alt="" coords="925,3069,1043,3096"/>
+<area shape="rect" id="node121" href="$class_i_process.html" title="Interface for structures that represent processes. " alt="" coords="62,3340,135,3367"/>
+<area shape="rect" id="node122" href="$class_i_process_input.html" title="IProcessInput" alt="" coords="1965,2715,2066,2741"/>
+<area shape="rect" id="node123" href="$class_gui_canvas.html" title="GuiCanvas" alt="" coords="2219,2867,2303,2893"/>
+<area shape="rect" id="node124" href="$class_gui_offscreen_canvas.html" title="GuiOffscreenCanvas" alt="" coords="2441,2664,2580,2691"/>
+<area shape="rect" id="node125" href="$class_open_v_r_overlay.html" title="OpenVROverlay" alt="" coords="2726,2664,2841,2691"/>
+<area shape="rect" id="node126" href="$class_i_resettable.html" title="Interface for structures that allow their state to be reset. " alt="" coords="55,3239,142,3265"/>
+<area shape="rect" id="node127" href="$class_i_scene_light.html" title="ISceneLight" alt="" coords="2216,2132,2307,2159"/>
+<area shape="rect" id="node128" href="$class_explosion.html" title="Explosion" alt="" coords="2744,2051,2823,2077"/>
+<area shape="rect" id="node129" href="$class_light_base.html" title="LightBase" alt="" coords="2471,2272,2551,2299"/>
+<area shape="rect" id="node132" href="$class_projectile.html" title="Base class for all projectiles. " alt="" coords="2745,2133,2821,2160"/>
+<area shape="rect" id="node133" href="$class_scatter_sky.html" title="ScatterSky" alt="" coords="2467,2019,2554,2045"/>
+<area shape="rect" id="node134" href="$class_shape_base.html" title="ShapeBase" alt="" coords="2739,1992,2828,2019"/>
+<area shape="rect" id="node154" href="$class_sun.html" title="Sun" alt="" coords="2488,2069,2533,2096"/>
+<area shape="rect" id="node130" href="$class_point_light.html" title="PointLight" alt="" coords="2743,2297,2823,2324"/>
+<area shape="rect" id="node131" href="$class_spot_light.html" title="SpotLight" alt="" coords="2745,2247,2822,2273"/>
+<area shape="rect" id="node135" href="$class_camera.html" title="Implements a basic camera object. " alt="" coords="3047,1801,3114,1828"/>
+<area shape="rect" id="node136" href="$class_item.html" title="Item" alt="" coords="3057,1852,3104,1879"/>
+<area shape="rect" id="node140" href="$class_mission_marker.html" title="MissionMarker" alt="" coords="3027,1916,3134,1943"/>
+<area shape="rect" id="node144" href="$class_path_camera.html" title="PathCamera" alt="" coords="3033,1967,3128,1993"/>
+<area shape="rect" id="node145" href="$class_player.html" title="Player" alt="" coords="3051,2017,3110,2044"/>
+<area shape="rect" id="node147" href="$class_rigid_shape.html" title="RigidShape" alt="" coords="3037,2068,3125,2095"/>
+<area shape="rect" id="node148" href="$class_static_shape.html" title="StaticShape" alt="" coords="3034,2119,3127,2145"/>
+<area shape="rect" id="node150" href="$class_vehicle.html" title="Vehicle" alt="" coords="3048,2185,3113,2212"/>
+<area shape="rect" id="node137" href="$class_proximity_mine.html" title="ProximityMine" alt="" coords="3281,1827,3387,1853"/>
+<area shape="rect" id="node138" href="$class_turret_shape.html" title="TurretShape" alt="" coords="3288,1776,3380,1803"/>
+<area shape="rect" id="node139" href="$class_a_i_turret_shape.html" title="AITurretShape" alt="" coords="3483,1776,3587,1803"/>
+<area shape="rect" id="node141" href="$class_camera_bookmark.html" title="CameraBookmark" alt="" coords="3271,1928,3397,1955"/>
+<area shape="rect" id="node142" href="$class_spawn_sphere.html" title="SpawnSphere" alt="" coords="3283,1979,3385,2005"/>
+<area shape="rect" id="node143" href="$class_way_point.html" title="WayPoint" alt="" coords="3295,1877,3373,1904"/>
+<area shape="rect" id="node146" href="$class_a_i_player.html" title="AIPlayer" alt="" coords="3299,2029,3369,2056"/>
+<area shape="rect" id="node149" href="$class_scope_always_shape.html" title="ScopeAlwaysShape" alt="" coords="3265,2099,3403,2125"/>
+<area shape="rect" id="node151" href="$class_flying_vehicle.html" title="FlyingVehicle" alt="" coords="3284,2200,3384,2227"/>
+<area shape="rect" id="node152" href="$class_hover_vehicle.html" title="HoverVehicle" alt="" coords="3285,2251,3383,2277"/>
+<area shape="rect" id="node153" href="$class_wheeled_vehicle.html" title="WheeledVehicle" alt="" coords="3276,2149,3392,2176"/>
+<area shape="rect" id="node155" href="$struct_i_scene_polyhedral_object.html" title="Shared interface for polyhedral objects. " alt="" coords="2430,195,2591,221"/>
+<area shape="rect" id="node156" href="$class_scene_polyhedral_object.html" title="ScenePolyhedralObject\l\&lt; SceneSimpleZone \&gt;" alt="" coords="3255,590,3413,631"/>
+<area shape="rect" id="node161" href="$class_scene_polyhedral_object.html" title="ScenePolyhedralObject\l\&lt; SceneSpace \&gt;" alt="" coords="2704,391,2863,433"/>
+<area shape="rect" id="node157" href="$class_scene_polyhedral_zone.html" title="ScenePolyhedralZone" alt="" coords="3461,597,3609,624"/>
+<area shape="rect" id="node158" href="$class_scene_ambient_sound_object.html" title="SceneAmbientSoundObject\l\&lt; ScenePolyhedralZone \&gt;" alt="" coords="3657,590,3840,631"/>
+<area shape="rect" id="node159" href="$class_zone.html" title="Zone" alt="" coords="3888,597,3939,624"/>
+<area shape="rect" id="node160" href="$class_portal.html" title="Portal" alt="" coords="3987,597,4043,624"/>
+<area shape="rect" id="node162" href="$class_scene_ambient_sound_object.html" title="SceneAmbientSoundObject\l\&lt; ScenePolyhedralObject\l\&lt; SceneSpace \&gt; \&gt;" alt="" coords="2989,417,3172,473"/>
+<area shape="rect" id="node164" href="$class_scene_polyhedral_space.html" title="ScenePolyhedralSpace" alt="" coords="3002,367,3159,393"/>
+<area shape="rect" id="node163" href="$class_s_f_x_space.html" title="A convex space that defines a custom ambient sound space. " alt="" coords="3293,432,3375,459"/>
+<area shape="rect" id="node165" href="$class_accumulation_volume.html" title="A volume in space that blocks visibility. " alt="" coords="3261,324,3407,351"/>
+<area shape="rect" id="node166" href="$class_occlusion_volume.html" title="A volume in space that blocks visibility. " alt="" coords="3272,375,3396,401"/>
+<area shape="rect" id="node167" href="$class_i_solid3_d.html" title="ISolid3D" alt="" coords="2226,195,2297,221"/>
+<area shape="rect" id="node168" href="$class_i_tickable.html" title="ITickable" alt="" coords="1979,2259,2052,2285"/>
+<area shape="rect" id="node169" href="$class_forest_wind_mgr.html" title="ForestWindMgr" alt="" coords="2206,2208,2317,2235"/>
+<area shape="rect" id="node170" href="$class_gui_tick_ctrl.html" title="GuiTickCtrl" alt="" coords="2218,2613,2305,2640"/>
+<area shape="rect" id="node181" href="$class_script_tick_object.html" title="ScriptTickObject" alt="" coords="2202,2360,2321,2387"/>
+<area shape="rect" id="node171" href="$class_gui_auto_scroll_ctrl.html" title="A control that automatically scrolls its child control upwards. " alt="" coords="2449,2563,2572,2589"/>
+<area shape="rect" id="node172" href="$class_gui_menu_bar.html" title="GuiMenuBar" alt="" coords="2463,2613,2558,2640"/>
+<area shape="rect" id="node174" href="$class_gui_rollout_ctrl.html" title="GuiRolloutCtrl" alt="" coords="2459,2512,2562,2539"/>
+<area shape="rect" id="node173" href="$class_gui_platform_generic_menu_bar.html" title="GuiPlatformGenericMenuBar" alt="" coords="2690,2613,2877,2640"/>
+<area shape="rect" id="node175" href="$class_gui_inspector_group.html" title="GuiInspectorGroup" alt="" coords="2718,2512,2849,2539"/>
+<area shape="rect" id="node176" href="$class_gui_inspector_component_group.html" title="GuiInspectorComponentGroup" alt="" coords="2983,2512,3179,2539"/>
+<area shape="rect" id="node177" href="$class_gui_inspector_dynamic_group.html" title="GuiInspectorDynamicGroup" alt="" coords="2990,2563,3171,2589"/>
+<area shape="rect" id="node178" href="$class_gui_inspector_entity_group.html" title="GuiInspectorEntityGroup" alt="" coords="2999,2613,3163,2640"/>
+<area shape="rect" id="node179" href="$class_gui_inspector_mounting_group.html" title="GuiInspectorMountingGroup" alt="" coords="2989,2411,3172,2437"/>
+<area shape="rect" id="node180" href="$class_gui_inspector_variable_group.html" title="GuiInspectorVariableGroup" alt="" coords="2992,2461,3169,2488"/>
+<area shape="rect" id="node183" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="1942,1208,2089,1235"/>
+<area shape="rect" id="node184" href="$class_scene_object.html" title="SceneObject" alt="" coords="2213,1233,2310,1260"/>
+<area shape="rect" id="node185" href="$class_basic_clouds.html" title="BasicClouds" alt="" coords="2463,1563,2558,1589"/>
+<area shape="rect" id="node186" href="$class_cloud_layer.html" title="CloudLayer" alt="" coords="2467,1613,2554,1640"/>
+<area shape="rect" id="node187" href="$class_convex_shape.html" title="ConvexShape" alt="" coords="2460,1664,2561,1691"/>
+<area shape="rect" id="node188" href="$class_cover_point.html" title="CoverPoint" alt="" coords="2469,1715,2553,1741"/>
+<area shape="rect" id="node189" href="$class_decal_manager.html" title="Manage decals in the scene. " alt="" coords="2458,1765,2563,1792"/>
+<area shape="rect" id="node190" href="$class_decal_road.html" title="DecalRoad" alt="" coords="2468,1816,2553,1843"/>
+<area shape="rect" id="node191" href="$class_forest.html" title="Forest" alt="" coords="2481,1867,2540,1893"/>
+<area shape="rect" id="node192" href="$class_forest_wind_emitter.html" title="ForestWindEmitter" alt="" coords="2445,1917,2576,1944"/>
+<area shape="rect" id="node193" href="$classfx_foliage_replicator.html" title="fxFoliageReplicator" alt="" coords="2445,1968,2577,1995"/>
+<area shape="rect" id="node194" href="$classfx_shape_replicator.html" title="fxShapeReplicator" alt="" coords="2447,347,2574,373"/>
+<area shape="rect" id="node195" href="$class_game_base.html" title="GameBase" alt="" coords="2467,1512,2554,1539"/>
+<area shape="rect" id="node210" href="$class_ground_cover.html" title="GroundCover" alt="" coords="2463,397,2559,424"/>
+<area shape="rect" id="node211" href="$class_ground_plane.html" title="GroundPlane" alt="" coords="2462,448,2559,475"/>
+<area shape="rect" id="node212" href="$class_marker.html" title="Marker" alt="" coords="2479,499,2542,525"/>
+<area shape="rect" id="node213" href="$class_mesh_road.html" title="MeshRoad" alt="" coords="2469,549,2553,576"/>
+<area shape="rect" id="node214" href="$class_nav_mesh.html" title="NavMesh" alt="" coords="2473,600,2548,627"/>
+<area shape="rect" id="node215" href="$class_nav_path.html" title="NavPath" alt="" coords="2475,651,2546,677"/>
+<area shape="rect" id="node216" href="$class_physical_zone.html" title="PhysicalZone" alt="" coords="2461,701,2561,728"/>
+<area shape="rect" id="node217" href="$class_physics_force.html" title="A physics force controller used for gameplay effects. " alt="" coords="2459,752,2562,779"/>
+<area shape="rect" id="node218" href="$class_prefab.html" title="Prefab" alt="" coords="2481,803,2540,829"/>
+<area shape="rect" id="node219" href="$class_render_mesh_example.html" title="RenderMeshExample" alt="" coords="2437,853,2584,880"/>
+<area shape="rect" id="node220" href="$class_render_object_example.html" title="RenderObjectExample" alt="" coords="2435,904,2587,931"/>
+<area shape="rect" id="node221" href="$class_render_shape_example.html" title="RenderShapeExample" alt="" coords="2435,955,2586,981"/>
+<area shape="rect" id="node222" href="$class_scene_space.html" title="SceneSpace" alt="" coords="2463,1208,2559,1235"/>
+<area shape="rect" id="node226" href="$class_s_f_x_emitter.html" title="SFXEmitter" alt="" coords="2467,1005,2555,1032"/>
+<area shape="rect" id="node227" href="$class_sky_box.html" title="SkyBox" alt="" coords="2477,1056,2545,1083"/>
+<area shape="rect" id="node228" href="$class_terrain_block.html" title="TerrainBlock" alt="" coords="2463,1107,2558,1133"/>
+<area shape="rect" id="node229" href="$class_time_of_day.html" title="TimeOfDay" alt="" coords="2467,1157,2554,1184"/>
+<area shape="rect" id="node230" href="$class_t_s_static.html" title="A simple mesh shape with optional ambient animation. " alt="" coords="2475,1411,2547,1437"/>
+<area shape="rect" id="node232" href="$class_vehicle_blocker.html" title="VehicleBlocker" alt="" coords="2456,1259,2565,1285"/>
+<area shape="rect" id="node233" href="$class_volumetric_fog.html" title="VolumetricFog" alt="" coords="2457,1309,2564,1336"/>
+<area shape="rect" id="node234" href="$class_volumetric_fog_r_t_manager.html" title="VolumetricFogRTManager" alt="" coords="2425,1360,2597,1387"/>
+<area shape="rect" id="node235" href="$class_water_object.html" title="WaterObject" alt="" coords="2463,1461,2558,1488"/>
+<area shape="rect" id="node196" href="$class_collision_trigger.html" title="CollisionTrigger" alt="" coords="2728,1571,2839,1597"/>
+<area shape="rect" id="node197" href="$class_debris.html" title="Debris" alt="" coords="2754,1621,2813,1648"/>
+<area shape="rect" id="node198" href="$class_entity.html" title="Entity" alt="" coords="2755,1672,2811,1699"/>
+<area shape="rect" id="node199" href="$class_lightning.html" title="Lightning" alt="" coords="2746,1723,2821,1749"/>
+<area shape="rect" id="node200" href="$class_open_v_r_tracked_object.html" title="Implements a GameObject which tracks an OpenVR controller. " alt="" coords="2706,1773,2861,1800"/>
+<area shape="rect" id="node201" href="$class_particle_emitter.html" title="ParticleEmitter" alt="" coords="2729,1824,2837,1851"/>
+<area shape="rect" id="node202" href="$class_particle_emitter_node.html" title="ParticleEmitterNode" alt="" coords="2714,1875,2853,1901"/>
+<area shape="rect" id="node203" href="$class_physics_debris.html" title="PhysicsDebris" alt="" coords="2730,1925,2837,1952"/>
+<area shape="rect" id="node204" href="$class_physics_shape.html" title="A simple single body dynamic physics object. " alt="" coords="2730,1267,2837,1293"/>
+<area shape="rect" id="node205" href="$class_precipitation.html" title="Precipitation" alt="" coords="2736,1317,2831,1344"/>
+<area shape="rect" id="node206" href="$class_ribbon.html" title="Ribbon" alt="" coords="2752,1368,2815,1395"/>
+<area shape="rect" id="node207" href="$class_ribbon_node.html" title="RibbonNode" alt="" coords="2737,1419,2829,1445"/>
+<area shape="rect" id="node208" href="$class_splash.html" title="Splash" alt="" coords="2752,1469,2815,1496"/>
+<area shape="rect" id="node209" href="$class_trigger.html" title="Trigger" alt="" coords="2753,1520,2814,1547"/>
+<area shape="rect" id="node223" href="$class_scene_zone_space.html" title="SceneZoneSpace" alt="" coords="2721,736,2845,763"/>
+<area shape="rect" id="node224" href="$class_scene_simple_zone.html" title="SceneSimpleZone" alt="" coords="3017,683,3144,709"/>
+<area shape="rect" id="node225" href="$class_scene_root_zone.html" title="SceneRootZone" alt="" coords="3277,683,3391,709"/>
+<area shape="rect" id="node231" href="$classfx_shape_replicated_static.html" title="fxShapeReplicatedStatic" alt="" coords="2701,1064,2865,1091"/>
+<area shape="rect" id="node236" href="$class_river.html" title="River" alt="" coords="2758,1115,2809,1141"/>
+<area shape="rect" id="node237" href="$class_water_block.html" title="WaterBlock" alt="" coords="2738,1165,2829,1192"/>
+<area shape="rect" id="node238" href="$class_water_plane.html" title="WaterPlane" alt="" coords="2738,1216,2829,1243"/>
+<area shape="rect" id="node239" href="$class_module_callbacks.html" title="ModuleCallbacks" alt="" coords="1169,3373,1291,3400"/>
+<area shape="rect" id="node240" href="$class_asset_manager.html" title="AssetManager" alt="" coords="1427,3373,1533,3400"/>
+<area shape="rect" id="node241" href="$class_noncopyable.html" title="Noncopyable" alt="" coords="1181,6493,1279,6520"/>
+<area shape="rect" id="node242" href="$class_torque_1_1_zip_directory_node.html" title="Torque::ZipDirectoryNode" alt="" coords="1396,6464,1564,6491"/>
+<area shape="rect" id="node243" href="$class_torque_1_1_zip_fake_root_node.html" title="Torque::ZipFakeRootNode" alt="" coords="1394,6515,1566,6541"/>
+<area shape="rect" id="node244" href="$class_torque_1_1_zip_file_node.html" title="Torque::ZipFileNode" alt="" coords="1411,6616,1549,6643"/>
+<area shape="rect" id="node245" href="$class_process_object.html" title="ProcessObject" alt="" coords="1961,1259,2069,1285"/>
+<area shape="rect" id="node247" href="$class_px3_player.html" title="Px3Player" alt="" coords="943,3171,1025,3197"/>
+<area shape="rect" id="node249" href="$class_t3_d_scene_client.html" title="T3DSceneClient" alt="" coords="2204,245,2319,272"/>
+<area shape="rect" id="node250" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="931,4691,1037,4717"/>
+<area shape="rect" id="node251" href="$class_sim_object.html" title="SimObject" alt="" coords="1189,4640,1271,4667"/>
+<area shape="rect" id="node252" href="$class_action_map.html" title="ActionMap" alt="" coords="1438,3931,1522,3957"/>
+<area shape="rect" id="node253" href="$class_array_object.html" title="A data structure holding indexed sequences of key/value pairs for script use. " alt="" coords="1435,3981,1525,4008"/>
+<area shape="rect" id="node254" href="$class_asset_base.html" title="AssetBase" alt="" coords="1437,4539,1523,4565"/>
+<area shape="rect" id="node259" href="$class_asset_query.html" title="AssetQuery" alt="" coords="1435,4083,1525,4109"/>
+<area shape="rect" id="node260" href="$class_asset_tags_manifest.html" title="AssetTagsManifest" alt="" coords="1413,4133,1547,4160"/>
+<area shape="rect" id="node261" href="$class_base_material_definition.html" title="BaseMaterialDefinition" alt="" coords="1405,4184,1555,4211"/>
+<area shape="rect" id="node264" href="$class_console_logger.html" title="ConsoleLogger" alt="" coords="1426,4235,1534,4261"/>
+<area shape="rect" id="node265" href="$class_cubemap_data.html" title="A script interface for creating static or dynamic cubemaps. " alt="" coords="1428,4285,1532,4312"/>
+<area shape="rect" id="node266" href="$class_debug_drawer.html" title="DebugDrawer" alt="" coords="1431,4336,1529,4363"/>
+<area shape="rect" id="node267" href="$class_declared_assets.html" title="DeclaredAssets" alt="" coords="1423,4387,1537,4413"/>
+<area shape="rect" id="node268" href="$class_event_manager.html" title="EventManager" alt="" coords="1428,4437,1532,4464"/>
+<area shape="rect" id="node269" href="$class_field_brush_object.html" title="FieldBrushObject" alt="" coords="1419,4488,1541,4515"/>
+<area shape="rect" id="node270" href="$class_file_dialog.html" title="FileDialog" alt="" coords="1441,4691,1519,4717"/>
+<area shape="rect" id="node274" href="$class_file_object.html" title="FileObject" alt="" coords="1439,4589,1521,4616"/>
+<area shape="rect" id="node275" href="$class_forest_brush_element.html" title="ForestBrushElement" alt="" coords="1409,4640,1551,4667"/>
+<area shape="rect" id="node276" href="$class_forest_tool.html" title="ForestTool" alt="" coords="1439,4843,1521,4869"/>
+<area shape="rect" id="node279" href="$class_g_f_x_sampler_state_data.html" title="Allows definition of sampler state via script, basically wraps a GFXSamplerStateDesc. " alt="" coords="1403,4741,1557,4768"/>
+<area shape="rect" id="node280" href="$class_g_f_x_state_block_data.html" title="Allows definition of render state via script, basically wraps a GFXStateBlockDesc. " alt="" coords="1411,4792,1549,4819"/>
+<area shape="rect" id="node281" href="$class_gizmo.html" title="Gizmo" alt="" coords="1450,4893,1510,4920"/>
+<area shape="rect" id="node282" href="$class_gizmo_profile.html" title="GizmoProfile" alt="" coords="1432,4944,1528,4971"/>
+<area shape="rect" id="node283" href="$class_gui_control_profile.html" title="GuiControlProfile" alt="" coords="1421,5603,1539,5629"/>
+<area shape="rect" id="node286" href="$class_gui_cursor.html" title="GuiCursor" alt="" coords="1440,4995,1520,5021"/>
+<area shape="rect" id="node287" href="$class_gui_image_list.html" title="GuiImageList" alt="" coords="1431,5045,1529,5072"/>
+<area shape="rect" id="node288" href="$class_input_device.html" title="InputDevice" alt="" coords="1436,5096,1524,5123"/>
+<area shape="rect" id="node291" href="$class_lang_table.html" title="Language file table. " alt="" coords="1439,5147,1521,5173"/>
+<area shape="rect" id="node292" href="$class_leap_motion_frame.html" title="LeapMotionFrame" alt="" coords="1417,5197,1543,5224"/>
+<area shape="rect" id="node293" href="$class_message.html" title="Base class for messages. " alt="" coords="1443,5248,1517,5275"/>
+<area shape="rect" id="node294" href="$class_message_vector.html" title="MessageVector" alt="" coords="1423,5299,1537,5325"/>
+<area shape="rect" id="node295" href="$class_module_manager.html" title="ModuleManager" alt="" coords="1423,5349,1537,5376"/>
+<area shape="rect" id="node296" href="$class_module_merge_definition.html" title="ModuleMergeDefinition" alt="" coords="1403,5400,1557,5427"/>
+<area shape="rect" id="node297" href="$class_persistence_manager.html" title="PersistenceManager" alt="" coords="1409,5451,1551,5477"/>
+<area shape="rect" id="node298" href="$class_razer_hydra_frame.html" title="RazerHydraFrame" alt="" coords="1417,5501,1543,5528"/>
+<area shape="rect" id="node299" href="$class_referenced_assets.html" title="ReferencedAssets" alt="" coords="1416,5552,1544,5579"/>
+<area shape="rect" id="node300" href="$class_render_bin_manager.html" title="RenderBinManager" alt="" coords="1414,5653,1546,5680"/>
+<area shape="rect" id="node314" href="$class_render_pass_manager.html" title="RenderPassManager" alt="" coords="1409,5704,1551,5731"/>
+<area shape="rect" id="node317" href="$class_render_pass_state_token.html" title="RenderPassStateToken" alt="" coords="1401,5805,1559,5832"/>
+<area shape="rect" id="node319" href="$class_scene_lighting.html" title="SceneLighting" alt="" coords="1428,5755,1532,5781"/>
+<area shape="rect" id="node320" href="$class_script_object.html" title="ScriptObject" alt="" coords="1968,2867,2063,2893"/>
+<area shape="rect" id="node321" href="$class_settings.html" title="Settings" alt="" coords="1445,5856,1515,5883"/>
+<area shape="rect" id="node322" href="$class_s_f_x_parameter.html" title="SFXParameter" alt="" coords="1427,5907,1533,5933"/>
+<area shape="rect" id="node323" href="$class_shader_data.html" title="ShaderData" alt="" coords="1435,5957,1525,5984"/>
+<area shape="rect" id="node324" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="1427,6059,1533,6085"/>
+<area shape="rect" id="node375" href="$class_sim_response_curve.html" title="SimResponseCurve" alt="" coords="1413,3424,1547,3451"/>
+<area shape="rect" id="node376" href="$class_sim_set.html" title="SimSet" alt="" coords="1447,2613,1513,2640"/>
+<area shape="rect" id="node548" href="$class_sim_x_m_l_document.html" title="SimXMLDocument" alt="" coords="1415,3475,1545,3501"/>
+<area shape="rect" id="node549" href="$class_stream_object.html" title="Script wrapper for the Stream class. " alt="" coords="1429,3627,1531,3653"/>
+<area shape="rect" id="node551" href="$class_taml.html" title="Taml" alt="" coords="1455,3576,1505,3603"/>
+<area shape="rect" id="node552" href="$class_t_c_p_object.html" title="TCPObject" alt="" coords="1437,3779,1523,3805"/>
+<area shape="rect" id="node554" href="$class_terrain_material.html" title="TerrainMaterial" alt="" coords="1427,3677,1533,3704"/>
+<area shape="rect" id="node555" href="$class_t_s_shape_constructor.html" title="TSShapeConstructor" alt="" coords="1409,3728,1551,3755"/>
+<area shape="rect" id="node556" href="$class_undo_action.html" title="UndoAction" alt="" coords="1435,4032,1525,4059"/>
+<area shape="rect" id="node579" href="$class_undo_manager.html" title="UndoManager" alt="" coords="1429,3829,1531,3856"/>
+<area shape="rect" id="node580" href="$class_zip_object.html" title="Script wrapper for Zip::ZipArchive. " alt="" coords="1441,3880,1519,3907"/>
+<area shape="rect" id="node255" href="$class_component_asset.html" title="ComponentAsset" alt="" coords="1688,4656,1811,4683"/>
+<area shape="rect" id="node256" href="$class_example_asset.html" title="ExampleAsset" alt="" coords="1696,4707,1803,4733"/>
+<area shape="rect" id="node257" href="$class_game_object_asset.html" title="GameObjectAsset" alt="" coords="1685,4757,1814,4784"/>
+<area shape="rect" id="node258" href="$class_shape_asset.html" title="ShapeAsset" alt="" coords="1703,4605,1796,4632"/>
+<area shape="rect" id="node262" href="$class_material.html" title="The basic material definition. " alt="" coords="1715,4555,1783,4581"/>
+<area shape="rect" id="node263" href="$class_custom_material.html" title="CustomMaterial" alt="" coords="1959,4555,2072,4581"/>
+<area shape="rect" id="node271" href="$class_open_file_dialog.html" title="OpenFileDialog" alt="" coords="1694,4808,1805,4835"/>
+<area shape="rect" id="node273" href="$class_save_file_dialog.html" title="SaveFileDialog" alt="" coords="1696,4859,1803,4885"/>
+<area shape="rect" id="node272" href="$class_open_folder_dialog.html" title="OpenFolderDialog" alt="" coords="1953,4808,2078,4835"/>
+<area shape="rect" id="node277" href="$class_forest_brush_tool.html" title="ForestBrushTool" alt="" coords="1691,5011,1808,5037"/>
+<area shape="rect" id="node278" href="$class_forest_selection_tool.html" title="ForestSelectionTool" alt="" coords="1681,4960,1818,4987"/>
+<area shape="rect" id="node284" href="$class_gui_game_list_menu_profile.html" title="GuiGameListMenuProfile" alt="" coords="1666,5248,1833,5275"/>
+<area shape="rect" id="node285" href="$class_gui_game_list_options_profile.html" title="GuiGameListOptionsProfile" alt="" coords="1926,5248,2105,5275"/>
+<area shape="rect" id="node289" href="$class_d_input_device.html" title="DInputDevice" alt="" coords="1701,5079,1798,5105"/>
+<area shape="rect" id="node290" href="$class_joystick_input_device.html" title="JoystickInputDevice" alt="" coords="1681,5129,1817,5156"/>
+<area shape="rect" id="node301" href="$class_render_imposter_mgr.html" title="RenderImposterMgr" alt="" coords="1682,5501,1817,5528"/>
+<area shape="rect" id="node302" href="$class_render_mesh_mgr.html" title="RenderMeshMgr" alt="" coords="1691,5349,1808,5376"/>
+<area shape="rect" id="node304" href="$class_render_object_mgr.html" title="RenderObjectMgr" alt="" coords="1688,5552,1811,5579"/>
+<area shape="rect" id="node305" href="$class_render_occlusion_mgr.html" title="RenderOcclusionMgr" alt="" coords="1678,5603,1821,5629"/>
+<area shape="rect" id="node306" href="$class_render_pass_state_bin.html" title="RenderPassStateBin" alt="" coords="1678,5653,1821,5680"/>
+<area shape="rect" id="node307" href="$class_render_terrain_mgr.html" title="RenderTerrainMgr" alt="" coords="1687,5299,1811,5325"/>
+<area shape="rect" id="node308" href="$class_render_tex_target_bin_manager.html" title="RenderTexTargetBinManager" alt="" coords="1655,5400,1844,5427"/>
+<area shape="rect" id="node313" href="$class_render_translucent_mgr.html" title="RenderTranslucentMgr" alt="" coords="1673,5451,1825,5477"/>
+<area shape="rect" id="node303" href="$class_forced_material_mesh_mgr.html" title="Basically the same as RenderMeshMgr, but will override the material of the instance. " alt="" coords="1934,5299,2097,5325"/>
+<area shape="rect" id="node309" href="$class_advanced_light_bin_manager.html" title="AdvancedLightBinManager" alt="" coords="1928,5451,2103,5477"/>
+<area shape="rect" id="node310" href="$class_render_deferred_mgr.html" title="RenderDeferredMgr" alt="" coords="1949,5501,2082,5528"/>
+<area shape="rect" id="node311" href="$class_render_glow_mgr.html" title="RenderGlowMgr" alt="" coords="1958,5349,2073,5376"/>
+<area shape="rect" id="node312" href="$class_render_particle_mgr.html" title="RenderParticleMgr" alt="" coords="1951,5400,2080,5427"/>
+<area shape="rect" id="node315" href="$class_dynamic_shadow_render_pass_manager.html" title="DynamicShadowRenderPassManager" alt="" coords="1629,5704,1869,5731"/>
+<area shape="rect" id="node316" href="$class_shadow_render_pass_manager.html" title="ShadowRenderPassManager" alt="" coords="1655,5755,1844,5781"/>
+<area shape="rect" id="node318" href="$class_render_format_token.html" title="RenderFormatToken" alt="" coords="1680,5805,1819,5832"/>
+<area shape="rect" id="node325" href="$class_decal_data.html" title="DataBlock implementation for decals. " alt="" coords="1708,6565,1791,6592"/>
+<area shape="rect" id="node326" href="$class_forest_item_data.html" title="ForestItemData" alt="" coords="1694,6616,1805,6643"/>
+<area shape="rect" id="node328" href="$struct_game_base_data.html" title="GameBaseData" alt="" coords="1692,6869,1807,6896"/>
+<area shape="rect" id="node358" href="$class_light_anim_data.html" title="LightAnimData" alt="" coords="1696,5856,1803,5883"/>
+<area shape="rect" id="node359" href="$class_light_description.html" title="LightDescription" alt="" coords="1692,5907,1807,5933"/>
+<area shape="rect" id="node360" href="$class_light_flare_data.html" title="LightFlareData" alt="" coords="1696,5957,1803,5984"/>
+<area shape="rect" id="node361" href="$class_particle_data.html" title="ParticleData" alt="" coords="1703,6008,1796,6035"/>
+<area shape="rect" id="node362" href="$class_reflector_desc.html" title="ReflectorDesc" alt="" coords="1698,6059,1801,6085"/>
+<area shape="rect" id="node363" href="$class_s_f_x_ambience.html" title="SFXAmbience" alt="" coords="1697,6109,1801,6136"/>
+<area shape="rect" id="node364" href="$class_s_f_x_description.html" title="SFXDescription" alt="" coords="1694,6160,1805,6187"/>
+<area shape="rect" id="node365" href="$class_s_f_x_environment.html" title="A datablock that defines a reverb environment. " alt="" coords="1691,6211,1808,6237"/>
+<area shape="rect" id="node366" href="$class_s_f_x_f_m_o_d_event_group.html" title="SFXFMODEventGroup" alt="" coords="1674,6261,1825,6288"/>
+<area shape="rect" id="node367" href="$class_s_f_x_f_m_o_d_project.html" title="SFXFMODProject" alt="" coords="1687,6312,1812,6339"/>
+<area shape="rect" id="node368" href="$class_s_f_x_state.html" title="SFXState" alt="" coords="1711,6363,1788,6389"/>
+<area shape="rect" id="node369" href="$class_s_f_x_track.html" title="A datablock that describes sound data for playback. " alt="" coords="1710,6413,1789,6440"/>
+<area shape="rect" id="node373" href="$struct_wheeled_vehicle_spring.html" title="WheeledVehicleSpring" alt="" coords="1673,6515,1826,6541"/>
+<area shape="rect" id="node374" href="$struct_wheeled_vehicle_tire.html" title="WheeledVehicleTire" alt="" coords="1681,6464,1818,6491"/>
+<area shape="rect" id="node327" href="$class_t_s_forest_item_data.html" title="TSForestItemData" alt="" coords="1952,6489,2079,6516"/>
+<area shape="rect" id="node329" href="$struct_debris_data.html" title="DebrisData" alt="" coords="1972,6641,2059,6668"/>
+<area shape="rect" id="node330" href="$class_explosion_data.html" title="ExplosionData" alt="" coords="1962,6692,2069,6719"/>
+<area shape="rect" id="node331" href="$class_lightning_data.html" title="LightningData" alt="" coords="1965,6743,2066,6769"/>
+<area shape="rect" id="node332" href="$class_open_v_r_tracked_object_data.html" title="OpenVRTrackedObjectData" alt="" coords="1924,6793,2107,6820"/>
+<area shape="rect" id="node333" href="$class_particle_emitter_data.html" title="ParticleEmitterData" alt="" coords="1948,6844,2083,6871"/>
+<area shape="rect" id="node334" href="$class_particle_emitter_node_data.html" title="ParticleEmitterNodeData" alt="" coords="1933,6895,2098,6921"/>
+<area shape="rect" id="node335" href="$class_physics_debris_data.html" title="PhysicsDebrisData" alt="" coords="1949,6945,2082,6972"/>
+<area shape="rect" id="node336" href="$class_physics_shape_data.html" title="PhysicsShapeData" alt="" coords="1949,6996,2082,7023"/>
+<area shape="rect" id="node337" href="$class_precipitation_data.html" title="Precipitation datablock. " alt="" coords="1955,7047,2076,7073"/>
+<area shape="rect" id="node338" href="$class_projectile_data.html" title="Datablock for projectiles. This class is the base class for all other projectiles. " alt="" coords="1964,7097,2067,7124"/>
+<area shape="rect" id="node339" href="$class_ribbon_data.html" title="RibbonData" alt="" coords="1971,7148,2060,7175"/>
+<area shape="rect" id="node340" href="$class_ribbon_node_data.html" title="RibbonNodeData" alt="" coords="1956,7199,2075,7225"/>
+<area shape="rect" id="node341" href="$struct_shape_base_data.html" title="ShapeBaseData" alt="" coords="1957,7249,2073,7276"/>
+<area shape="rect" id="node356" href="$struct_shape_base_image_data.html" title="ShapeBaseImageData" alt="" coords="1940,6540,2091,6567"/>
+<area shape="rect" id="node357" href="$class_splash_data.html" title="SplashData" alt="" coords="1971,6591,2060,6617"/>
+<area shape="rect" id="node342" href="$class_camera_data.html" title="CameraData" alt="" coords="2214,7275,2309,7301"/>
+<area shape="rect" id="node343" href="$struct_item_data.html" title="ItemData" alt="" coords="2224,7325,2299,7352"/>
+<area shape="rect" id="node347" href="$class_mission_marker_data.html" title="MissionMarkerData" alt="" coords="2194,7376,2329,7403"/>
+<area shape="rect" id="node348" href="$struct_path_camera_data.html" title="PathCameraData" alt="" coords="2201,7427,2322,7453"/>
+<area shape="rect" id="node349" href="$struct_player_data.html" title="PlayerData" alt="" coords="2218,7072,2305,7099"/>
+<area shape="rect" id="node350" href="$class_rigid_shape_data.html" title="RigidShapeData" alt="" coords="2204,7123,2319,7149"/>
+<area shape="rect" id="node351" href="$struct_static_shape_data.html" title="StaticShapeData" alt="" coords="2201,7173,2321,7200"/>
+<area shape="rect" id="node352" href="$struct_vehicle_data.html" title="VehicleData" alt="" coords="2215,7224,2307,7251"/>
+<area shape="rect" id="node344" href="$struct_proximity_mine_data.html" title="ProximityMineData" alt="" coords="2445,7325,2577,7352"/>
+<area shape="rect" id="node345" href="$class_turret_shape_data.html" title="TurretShapeData" alt="" coords="2451,7376,2570,7403"/>
+<area shape="rect" id="node346" href="$class_a_i_turret_shape_data.html" title="AITurretShapeData" alt="" coords="2718,7376,2849,7403"/>
+<area shape="rect" id="node353" href="$struct_flying_vehicle_data.html" title="FlyingVehicleData" alt="" coords="2447,7224,2574,7251"/>
+<area shape="rect" id="node354" href="$class_hover_vehicle_data.html" title="HoverVehicleData" alt="" coords="2449,7275,2573,7301"/>
+<area shape="rect" id="node355" href="$struct_wheeled_vehicle_data.html" title="WheeledVehicleData" alt="" coords="2439,7173,2582,7200"/>
+<area shape="rect" id="node370" href="$class_s_f_x_f_m_o_d_event.html" title="SFXFMODEvent" alt="" coords="1957,6439,2073,6465"/>
+<area shape="rect" id="node371" href="$class_s_f_x_play_list.html" title="SFXPlayList" alt="" coords="1969,6337,2062,6364"/>
+<area shape="rect" id="node372" href="$class_s_f_x_profile.html" title="SFXProfile" alt="" coords="1974,6388,2057,6415"/>
+<area shape="rect" id="node377" href="$class_menu_bar.html" title="MenuBar" alt="" coords="1712,2512,1787,2539"/>
+<area shape="rect" id="node378" href="$class_module_definition.html" title="ModuleDefinition" alt="" coords="1691,2563,1808,2589"/>
+<area shape="rect" id="node379" href="$class_sim_group.html" title="SimGroup" alt="" coords="1709,2664,1789,2691"/>
+<area shape="rect" id="node546" href="$class_sim_persist_set.html" title="SimPersistSet" alt="" coords="1696,2411,1803,2437"/>
+<area shape="rect" id="node380" href="$class_forest_brush.html" title="ForestBrush" alt="" coords="1969,2765,2062,2792"/>
+<area shape="rect" id="node381" href="$class_gui_control.html" title="GuiControl" alt="" coords="1974,3905,2057,3932"/>
+<area shape="rect" id="node531" href="$class_input_manager.html" title="InputManager" alt="" coords="1965,2917,2065,2944"/>
+<area shape="rect" id="node534" href="$class_mesh_component_1_1bone_object.html" title="MeshComponent::boneObject" alt="" coords="1918,2816,2113,2843"/>
+<area shape="rect" id="node535" href="$class_net_object.html" title="NetObject" alt="" coords="1975,2664,2055,2691"/>
+<area shape="rect" id="node539" href="$class_post_effect.html" title="PostEffect" alt="" coords="1974,3056,2057,3083"/>
+<area shape="rect" id="node540" href="$class_script_group.html" title="ScriptGroup" alt="" coords="1970,2512,2061,2539"/>
+<area shape="rect" id="node541" href="$class_s_f_x_source.html" title="Baseclass for sources and controllers. " alt="" coords="1972,2461,2059,2488"/>
+<area shape="rect" id="node544" href="$class_sim_data_block_group.html" title="SimDataBlockGroup" alt="" coords="1945,2563,2085,2589"/>
+<area shape="rect" id="node545" href="$class_sim_path_1_1_path.html" title="A path! " alt="" coords="1962,2613,2069,2640"/>
+<area shape="rect" id="node382" href="$class_edit_manager.html" title="EditManager" alt="" coords="2214,3576,2309,3603"/>
+<area shape="rect" id="node383" href="$class_gui_array_ctrl.html" title="Renders a grid of cells. " alt="" coords="2215,5400,2308,5427"/>
+<area shape="rect" id="node394" href="$class_gui_background_ctrl.html" title="Renders a background, so you can have a backdrop for your GUI. " alt="" coords="2196,3627,2327,3653"/>
+<area shape="rect" id="node395" href="$class_gui_bitmap_border_ctrl.html" title="Renders a skinned border. " alt="" coords="2191,3728,2332,3755"/>
+<area shape="rect" id="node396" href="$class_gui_bitmap_ctrl.html" title="Renders a bitmap. " alt="" coords="2210,2917,2313,2944"/>
+<area shape="rect" id="node404" href="$class_gui_button_base_ctrl.html" title="GuiButtonBaseCtrl" alt="" coords="2196,2968,2327,2995"/>
+<area shape="rect" id="node416" href="$class_gui_chunked_bitmap_ctrl.html" title="GuiChunkedBitmapCtrl" alt="" coords="2184,3779,2339,3805"/>
+<area shape="rect" id="node417" href="$class_gui_clock_hud.html" title="GuiClockHud" alt="" coords="2212,3829,2311,3856"/>
+<area shape="rect" id="node418" href="$class_gui_color_picker_ctrl.html" title="GuiColorPickerCtrl" alt="" coords="2197,3880,2326,3907"/>
+<area shape="rect" id="node419" href="$class_gui_console_text_ctrl.html" title="GuiConsoleTextCtrl" alt="" coords="2194,3931,2329,3957"/>
+<area shape="rect" id="node420" href="$class_gui_container.html" title="GuiContainer" alt="" coords="2213,5805,2310,5832"/>
+<area shape="rect" id="node457" href="$class_gui_control_array_control.html" title="GuiControlArrayControl" alt="" coords="2184,4032,2339,4059"/>
+<area shape="rect" id="node458" href="$class_gui_decoy_ctrl.html" title="GuiDecoyCtrl" alt="" coords="2212,4083,2311,4109"/>
+<area shape="rect" id="node459" href="$class_gui_drag_and_drop_control.html" title="GuiDragAndDropControl" alt="" coords="2181,4133,2341,4160"/>
+<area shape="rect" id="node460" href="$class_gui_dynamic_ctrl_array_control.html" title="GuiDynamicCtrlArrayControl" alt="" coords="2169,3677,2354,3704"/>
+<area shape="rect" id="node461" href="$class_gui_ease_view_ctrl.html" title="Control to visualize an EaseF. " alt="" coords="2201,4336,2321,4363"/>
+<area shape="rect" id="node462" href="$class_gui_edit_ctrl.html" title="Native side of the GUI editor. " alt="" coords="2219,4387,2304,4413"/>
+<area shape="rect" id="node463" href="$class_gui_editor_ruler.html" title="GuiEditorRuler" alt="" coords="2208,4437,2315,4464"/>
+<area shape="rect" id="node464" href="$class_gui_filter_ctrl.html" title="GuiFilterCtrl" alt="" coords="2216,4488,2307,4515"/>
+<area shape="rect" id="node465" href="$class_gui_game_list_menu_ctrl.html" title="GuiGameListMenuCtrl" alt="" coords="2186,3981,2337,4008"/>
+<area shape="rect" id="node467" href="$class_gui_gradient_ctrl.html" title="GuiGradientCtrl. " alt="" coords="2206,4539,2317,4565"/>
+<area shape="rect" id="node468" href="$class_gui_graph_ctrl.html" title="GuiGraphCtrl" alt="" coords="2213,4691,2310,4717"/>
+<area shape="rect" id="node469" href="$class_gui_health_bar_hud.html" title="GuiHealthBarHud" alt="" coords="2200,4741,2323,4768"/>
+<area shape="rect" id="node470" href="$class_gui_health_text_hud.html" title="GuiHealthTextHud" alt="" coords="2198,4792,2325,4819"/>
+<area shape="rect" id="node471" href="$class_gui_inspector_field.html" title="GuiInspectorField" alt="" coords="2200,4184,2323,4211"/>
+<area shape="rect" id="node507" href="$class_gui_list_box_ctrl.html" title="GuiListBoxCtrl" alt="" coords="2208,4235,2315,4261"/>
+<area shape="rect" id="node509" href="$class_gui_menu_background_ctrl.html" title="GuiMenuBackgroundCtrl" alt="" coords="2180,4589,2343,4616"/>
+<area shape="rect" id="node511" href="$class_gui_message_vector_ctrl.html" title="GuiMessageVectorCtrl" alt="" coords="2185,5096,2338,5123"/>
+<area shape="rect" id="node512" href="$class_gui_m_l_text_ctrl.html" title="GuiMLTextCtrl" alt="" coords="2209,4640,2314,4667"/>
+<area shape="rect" id="node514" href="$class_gui_mouse_event_ctrl.html" title="GuiMouseEventCtrl" alt="" coords="2195,5197,2328,5224"/>
+<area shape="rect" id="node516" href="$class_gui_no_mouse_ctrl.html" title="GuiNoMouseCtrl" alt="" coords="2203,5248,2320,5275"/>
+<area shape="rect" id="node517" href="$class_gui_pane_control.html" title="GuiPaneControl" alt="" coords="2205,5451,2318,5477"/>
+<area shape="rect" id="node518" href="$class_gui_particle_graph_ctrl.html" title="GuiParticleGraphCtrl" alt="" coords="2191,3069,2332,3096"/>
+<area shape="rect" id="node519" href="$class_gui_pop_up_background_ctrl.html" title="GuiPopUpBackgroundCtrl" alt="" coords="2176,3120,2347,3147"/>
+<area shape="rect" id="node520" href="$class_gui_pop_up_background_ctrl_ex.html" title="GuiPopUpBackgroundCtrlEx" alt="" coords="2168,3171,2355,3197"/>
+<area shape="rect" id="node521" href="$class_gui_popup_menu_background_ctrl.html" title="GuiPopupMenuBackgroundCtrl" alt="" coords="2161,3221,2361,3248"/>
+<area shape="rect" id="node522" href="$class_gui_rect_handles.html" title="GuiRectHandles" alt="" coords="2203,3272,2319,3299"/>
+<area shape="rect" id="node523" href="$class_gui_script_notify_ctrl.html" title="GuiScriptNotifyCtrl" alt="" coords="2197,3323,2326,3349"/>
+<area shape="rect" id="node524" href="$class_gui_separator_ctrl.html" title="Renders a separator line with optional text. " alt="" coords="2202,3373,2321,3400"/>
+<area shape="rect" id="node525" href="$class_gui_shape_name_hud.html" title="GuiShapeNameHud" alt="" coords="2193,3424,2329,3451"/>
+<area shape="rect" id="node526" href="$class_gui_slider_ctrl.html" title="A slider control that selects out of a floating&#45;point value range. " alt="" coords="2214,3475,2309,3501"/>
+<area shape="rect" id="node527" href="$class_gui_stack_control.html" title="GuiStackControl" alt="" coords="2203,5299,2320,5325"/>
+<area shape="rect" id="node530" href="$class_gui_terr_preview_ctrl.html" title="GuiTerrPreviewCtrl" alt="" coords="2197,3525,2325,3552"/>
+<area shape="rect" id="node384" href="$class_creator_tree.html" title="Creator tree from old editor. Not used in current editor. " alt="" coords="2466,5451,2555,5477"/>
+<area shape="rect" id="node385" href="$class_dbg_file_view.html" title="DbgFileView" alt="" coords="2463,5501,2558,5528"/>
+<area shape="rect" id="node386" href="$class_gui_console.html" title="GuiConsole" alt="" coords="2466,5552,2555,5579"/>
+<area shape="rect" id="node387" href="$class_gui_text_list_ctrl.html" title="GuiTextListCtrl" alt="" coords="2457,5349,2565,5376"/>
+<area shape="rect" id="node392" href="$class_gui_tree_view_ctrl.html" title="GuiTreeViewCtrl" alt="" coords="2453,5400,2568,5427"/>
+<area shape="rect" id="node388" href="$class_gui_menu_text_list_ctrl.html" title="GuiMenuTextListCtrl" alt="" coords="2713,5400,2853,5427"/>
+<area shape="rect" id="node389" href="$class_gui_popup_menu_text_list_ctrl.html" title="GuiPopupMenuTextListCtrl" alt="" coords="2695,5248,2872,5275"/>
+<area shape="rect" id="node390" href="$class_gui_popup_text_list_ctrl.html" title="GuiPopupTextListCtrl" alt="" coords="2711,5299,2856,5325"/>
+<area shape="rect" id="node391" href="$class_gui_popup_text_list_ctrl_ex.html" title="GuiPopupTextListCtrlEx" alt="" coords="2703,5349,2864,5376"/>
+<area shape="rect" id="node393" href="$class_gui_file_tree_ctrl.html" title="GuiFileTreeCtrl" alt="" coords="2729,5451,2837,5477"/>
+<area shape="rect" id="node397" href="$classgui_anim_bitmap_ctrl.html" title="guiAnimBitmapCtrl" alt="" coords="2445,2765,2576,2792"/>
+<area shape="rect" id="node398" href="$class_gui_bitmap_bar_ctrl.html" title="GuiBitmapBarCtrl" alt="" coords="2449,2816,2572,2843"/>
+<area shape="rect" id="node399" href="$class_gui_cross_hair_hud.html" title="GuiCrossHairHud" alt="" coords="2449,2867,2572,2893"/>
+<area shape="rect" id="node400" href="$class_gui_fadein_bitmap_ctrl.html" title="A control that fades a bitmap in and out. " alt="" coords="2439,2917,2582,2944"/>
+<area shape="rect" id="node401" href="$class_gui_idle_cam_fade_bitmap_ctrl.html" title="GuiIdleCamFadeBitmapCtrl" alt="" coords="2421,2968,2600,2995"/>
+<area shape="rect" id="node402" href="$class_gui_mission_area_ctrl.html" title="GuiMissionAreaCtrl" alt="" coords="2443,3019,2578,3045"/>
+<area shape="rect" id="node403" href="$class_gui_speedometer_hud.html" title="GuiSpeedometerHud" alt="" coords="2439,2715,2582,2741"/>
+<area shape="rect" id="node405" href="$class_gui_border_button_ctrl.html" title="GuiBorderButtonCtrl" alt="" coords="2441,3221,2580,3248"/>
+<area shape="rect" id="node406" href="$class_gui_button_ctrl.html" title="GuiButtonCtrl" alt="" coords="2461,3069,2561,3096"/>
+<area shape="rect" id="node412" href="$class_gui_check_box_ctrl.html" title="A checkbox button. " alt="" coords="2449,3120,2572,3147"/>
+<area shape="rect" id="node414" href="$class_gui_swatch_button_ctrl.html" title="GuiSwatchButtonCtrl" alt="" coords="2439,3171,2582,3197"/>
+<area shape="rect" id="node407" href="$class_gui_bitmap_button_ctrl.html" title="GuiBitmapButtonCtrl" alt="" coords="2713,2943,2854,2969"/>
+<area shape="rect" id="node409" href="$class_gui_icon_button_ctrl.html" title="GuiIconButtonCtrl" alt="" coords="2721,2993,2845,3020"/>
+<area shape="rect" id="node410" href="$class_gui_toggle_button_ctrl.html" title="GuiToggleButtonCtrl" alt="" coords="2714,3044,2853,3071"/>
+<area shape="rect" id="node411" href="$class_gui_toolbox_button_ctrl.html" title="GuiToolboxButtonCtrl" alt="" coords="2711,3095,2856,3121"/>
+<area shape="rect" id="node408" href="$class_gui_bitmap_button_text_ctrl.html" title="Extension of GuiBitmapButtonCtrl that also display a text label on the button. " alt="" coords="2997,2943,3164,2969"/>
+<area shape="rect" id="node413" href="$class_gui_radio_ctrl.html" title="GuiRadioCtrl" alt="" coords="2736,3145,2831,3172"/>
+<area shape="rect" id="node415" href="$class_gui_gradient_swatch_ctrl.html" title="GuiGradientSwatchCtrl" alt="" coords="2706,3196,2861,3223"/>
+<area shape="rect" id="node421" href="$class_gui_frame_set_ctrl.html" title="GuiFrameSetCtrl" alt="" coords="2451,5957,2570,5984"/>
+<area shape="rect" id="node422" href="$class_gui_material_ctrl.html" title="GuiMaterialCtrl" alt="" coords="2457,6008,2565,6035"/>
+<area shape="rect" id="node423" href="$class_gui_panel.html" title="GuiPanel" alt="" coords="2473,6084,2548,6111"/>
+<area shape="rect" id="node425" href="$class_gui_scroll_ctrl.html" title="GuiScrollCtrl" alt="" coords="2463,5603,2558,5629"/>
+<area shape="rect" id="node426" href="$class_gui_split_container.html" title="GuiSplitContainer" alt="" coords="2449,5653,2572,5680"/>
+<area shape="rect" id="node427" href="$class_gui_tab_book_ctrl.html" title="GuiTabBookCtrl" alt="" coords="2454,5704,2567,5731"/>
+<area shape="rect" id="node428" href="$class_gui_text_ctrl.html" title="GuiTextCtrl" alt="" coords="2467,5755,2554,5781"/>
+<area shape="rect" id="node439" href="$class_gui_t_s_ctrl.html" title="Abstract base class for 3D viewport GUIs. " alt="" coords="2471,5856,2550,5883"/>
+<area shape="rect" id="node455" href="$class_gui_window_ctrl.html" title="GuiWindowCtrl" alt="" coords="2457,5907,2565,5933"/>
+<area shape="rect" id="node424" href="$class_gui_form_ctrl.html" title="GuiFormCtrl" alt="" coords="2737,6109,2829,6136"/>
+<area shape="rect" id="node429" href="$class_gui_bubble_text_ctrl.html" title="GuiBubbleTextCtrl" alt="" coords="2720,5603,2847,5629"/>
+<area shape="rect" id="node430" href="$class_gui_pop_up_menu_ctrl.html" title="GuiPopUpMenuCtrl" alt="" coords="2717,5653,2850,5680"/>
+<area shape="rect" id="node431" href="$class_gui_pop_up_menu_ctrl_ex.html" title="GuiPopUpMenuCtrlEx" alt="" coords="2709,5704,2858,5731"/>
+<area shape="rect" id="node432" href="$class_gui_progress_bitmap_ctrl.html" title="A control that renders a horizontal progress bar from a repeating bitmap image. " alt="" coords="2706,5755,2861,5781"/>
+<area shape="rect" id="node433" href="$class_gui_progress_ctrl.html" title="GuiProgressCtrl" alt="" coords="2726,5805,2841,5832"/>
+<area shape="rect" id="node434" href="$class_gui_tab_page_ctrl.html" title="GuiTabPageCtrl" alt="" coords="2727,5501,2840,5528"/>
+<area shape="rect" id="node435" href="$class_gui_text_edit_ctrl.html" title="GuiTextEditCtrl" alt="" coords="2728,5552,2839,5579"/>
+<area shape="rect" id="node436" href="$class_gui_console_edit_ctrl.html" title="GuiConsoleEditCtrl" alt="" coords="3015,5577,3147,5604"/>
+<area shape="rect" id="node437" href="$class_gui_text_edit_slider_bitmap_ctrl.html" title="GuiTextEditSliderBitmapCtrl" alt="" coords="2989,5476,3173,5503"/>
+<area shape="rect" id="node438" href="$class_gui_text_edit_slider_ctrl.html" title="GuiTextEditSliderCtrl" alt="" coords="3009,5527,3152,5553"/>
+<area shape="rect" id="node440" href="$class_edit_t_s_ctrl.html" title="EditTSCtrl" alt="" coords="2743,5856,2824,5883"/>
+<area shape="rect" id="node452" href="$class_game_t_s_ctrl.html" title="GameTSCtrl" alt="" coords="2737,5907,2830,5933"/>
+<area shape="rect" id="node453" href="$class_gui_material_preview.html" title="GuiMaterialPreview" alt="" coords="2717,5957,2849,5984"/>
+<area shape="rect" id="node454" href="$class_gui_object_view.html" title="A control that displays a TSShape in its view. " alt="" coords="2729,6008,2837,6035"/>
+<area shape="rect" id="node441" href="$class_forest_editor_ctrl.html" title="ForestEditorCtrl" alt="" coords="3024,5729,3137,5756"/>
+<area shape="rect" id="node442" href="$class_gui_convex_editor_ctrl.html" title="GuiConvexEditorCtrl" alt="" coords="3011,5780,3150,5807"/>
+<area shape="rect" id="node443" href="$class_gui_decal_editor_ctrl.html" title="GuiDecalEditorCtrl" alt="" coords="3016,5831,3145,5857"/>
+<area shape="rect" id="node444" href="$class_gui_mesh_road_editor_ctrl.html" title="GuiMeshRoadEditorCtrl" alt="" coords="3001,5881,3160,5908"/>
+<area shape="rect" id="node445" href="$class_gui_mission_area_editor_ctrl.html" title="GuiMissionAreaEditorCtrl" alt="" coords="2997,5932,3165,5959"/>
+<area shape="rect" id="node446" href="$class_gui_nav_editor_ctrl.html" title="GuiNavEditorCtrl" alt="" coords="3022,5983,3139,6009"/>
+<area shape="rect" id="node447" href="$class_gui_river_editor_ctrl.html" title="GuiRiverEditorCtrl" alt="" coords="3019,6033,3143,6060"/>
+<area shape="rect" id="node448" href="$class_gui_road_editor_ctrl.html" title="GuiRoadEditorCtrl" alt="" coords="3017,6084,3144,6111"/>
+<area shape="rect" id="node449" href="$class_gui_shape_ed_preview.html" title="GuiShapeEdPreview" alt="" coords="3011,6135,3150,6161"/>
+<area shape="rect" id="node450" href="$class_terrain_editor.html" title="TerrainEditor" alt="" coords="3033,5628,3128,5655"/>
+<area shape="rect" id="node451" href="$class_world_editor.html" title="WorldEditor" alt="" coords="3035,5679,3126,5705"/>
+<area shape="rect" id="node456" href="$class_gui_window_collapse_ctrl.html" title="GuiWindowCollapseCtrl" alt="" coords="2704,6059,2863,6085"/>
+<area shape="rect" id="node466" href="$class_gui_game_list_options_ctrl.html" title="GuiGameListOptionsCtrl" alt="" coords="2429,3636,2592,3663"/>
+<area shape="rect" id="node472" href="$class_gui_inspector_custom_field.html" title="GuiInspectorCustomField" alt="" coords="2427,4361,2595,4388"/>
+<area shape="rect" id="node473" href="$class_gui_inspector_dynamic_field.html" title="GuiInspectorDynamicField" alt="" coords="2423,4412,2598,4439"/>
+<area shape="rect" id="node474" href="$class_gui_inspector_node_list_field.html" title="GuiInspectorNodeListField" alt="" coords="2423,4463,2598,4489"/>
+<area shape="rect" id="node475" href="$class_gui_inspector_type_bit_mask32.html" title="GuiInspectorTypeBitMask32" alt="" coords="2418,4513,2603,4540"/>
+<area shape="rect" id="node476" href="$class_gui_inspector_type_bit_mask32_helper.html" title="GuiInspectorTypeBitMask32\lHelper" alt="" coords="2418,3687,2603,3729"/>
+<area shape="rect" id="node477" href="$class_gui_inspector_type_check_box.html" title="GuiInspectorTypeCheckBox" alt="" coords="2419,3753,2602,3780"/>
+<area shape="rect" id="node478" href="$class_gui_inspector_type_color.html" title="GuiInspectorTypeColor" alt="" coords="2434,3804,2587,3831"/>
+<area shape="rect" id="node481" href="$class_gui_inspector_type_command.html" title="GuiInspectorTypeCommand" alt="" coords="2419,3855,2602,3881"/>
+<area shape="rect" id="node482" href="$class_gui_inspector_type_ease_f.html" title="GuiInspectorTypeEaseF" alt="" coords="2430,3905,2591,3932"/>
+<area shape="rect" id="node483" href="$class_gui_inspector_type_file_name.html" title="GuiInspectorTypeFileName" alt="" coords="2421,4007,2600,4033"/>
+<area shape="rect" id="node487" href="$class_gui_inspector_type_material_name.html" title="GuiInspectorTypeMaterialName" alt="" coords="2409,4057,2612,4084"/>
+<area shape="rect" id="node491" href="$class_gui_inspector_type_menu_base.html" title="GuiInspectorTypeMenuBase" alt="" coords="2418,4108,2603,4135"/>
+<area shape="rect" id="node503" href="$class_gui_inspector_type_name.html" title="GuiInspectorTypeName" alt="" coords="2432,4159,2589,4185"/>
+<area shape="rect" id="node504" href="$class_gui_inspector_type_rect_u_v.html" title="GuiInspectorTypeRectUV" alt="" coords="2427,4209,2595,4236"/>
+<area shape="rect" id="node505" href="$class_gui_inspector_type_s32.html" title="GuiInspectorTypeS32" alt="" coords="2437,4260,2584,4287"/>
+<area shape="rect" id="node506" href="$class_gui_inspector_variable_field.html" title="GuiInspectorVariableField" alt="" coords="2425,4311,2596,4337"/>
+<area shape="rect" id="node479" href="$class_gui_inspector_type_color_f.html" title="GuiInspectorTypeColorF" alt="" coords="2703,3745,2864,3772"/>
+<area shape="rect" id="node480" href="$class_gui_inspector_type_color_i.html" title="GuiInspectorTypeColorI" alt="" coords="2705,3695,2861,3721"/>
+<area shape="rect" id="node484" href="$class_gui_inspector_type_image_file_name.html" title="GuiInspectorTypeImageFileName" alt="" coords="2677,3847,2890,3873"/>
+<area shape="rect" id="node485" href="$class_gui_inspector_type_prefab_filename.html" title="GuiInspectorTypePrefabFilename" alt="" coords="2677,3897,2890,3924"/>
+<area shape="rect" id="node486" href="$class_gui_inspector_type_shape_filename.html" title="GuiInspectorTypeShapeFilename" alt="" coords="2677,3796,2890,3823"/>
+<area shape="rect" id="node488" href="$class_gui_inspector_type_regular_material_name.html" title="GuiInspectorTypeRegularMaterialName" alt="" coords="2660,3999,2907,4025"/>
+<area shape="rect" id="node489" href="$class_gui_inspector_type_terrain_material_index.html" title="GuiInspectorTypeTerrainMaterial\lIndex" alt="" coords="2679,4050,2887,4091"/>
+<area shape="rect" id="node490" href="$class_gui_inspector_type_terrain_material_name.html" title="GuiInspectorTypeTerrainMaterialName" alt="" coords="2662,3948,2905,3975"/>
+<area shape="rect" id="node492" href="$class_gui_inspector_datablock_field.html" title="GuiInspectorDatablockField" alt="" coords="2693,4420,2874,4447"/>
+<area shape="rect" id="node497" href="$class_gui_inspector_type_cubemap_name.html" title="GuiInspectorTypeCubemapName" alt="" coords="2677,4116,2889,4143"/>
+<area shape="rect" id="node498" href="$class_gui_inspector_type_enum.html" title="GuiInspectorTypeEnum" alt="" coords="2705,4167,2862,4193"/>
+<area shape="rect" id="node499" href="$class_gui_inspector_type_gui_profile.html" title="GuiInspectorTypeGuiProfile" alt="" coords="2694,4217,2873,4244"/>
+<area shape="rect" id="node500" href="$class_gui_inspector_type_s_f_x_parameter_name.html" title="GuiInspectorTypeSFXParameterName" alt="" coords="2663,4268,2904,4295"/>
+<area shape="rect" id="node501" href="$class_gui_inspector_type_s_f_x_source_name.html" title="GuiInspectorTypeSFXSourceName" alt="" coords="2672,4319,2895,4345"/>
+<area shape="rect" id="node502" href="$class_gui_inspector_type_s_f_x_state_name.html" title="GuiInspectorTypeSFXStateName" alt="" coords="2677,4369,2889,4396"/>
+<area shape="rect" id="node493" href="$class_gui_inspector_type_s_f_x_ambience_name.html" title="GuiInspectorTypeSFXAmbienceName" alt="" coords="2961,4496,3200,4523"/>
+<area shape="rect" id="node494" href="$class_gui_inspector_type_s_f_x_description_name.html" title="GuiInspectorTypeSFXDescriptionName" alt="" coords="2957,4344,3204,4371"/>
+<area shape="rect" id="node495" href="$class_gui_inspector_type_s_f_x_environment_name.html" title="GuiInspectorTypeSFXEnvironmentName" alt="" coords="2955,4395,3207,4421"/>
+<area shape="rect" id="node496" href="$class_gui_inspector_type_s_f_x_track_name.html" title="GuiInspectorTypeSFXTrackName" alt="" coords="2974,4445,3187,4472"/>
+<area shape="rect" id="node508" href="$class_gui_directory_file_list_ctrl.html" title="GuiDirectoryFileListCtrl" alt="" coords="2433,4564,2589,4591"/>
+<area shape="rect" id="node510" href="$class_gui_submenu_background_ctrl.html" title="GuiSubmenuBackgroundCtrl" alt="" coords="2417,4716,2604,4743"/>
+<area shape="rect" id="node513" href="$class_gui_m_l_text_edit_ctrl.html" title="GuiMLTextEditCtrl" alt="" coords="2447,4767,2575,4793"/>
+<area shape="rect" id="node515" href="$class_gui_input_ctrl.html" title="GuiInputCtrl" alt="" coords="2465,5248,2556,5275"/>
+<area shape="rect" id="node528" href="$class_gui_inspector.html" title="A control that allows to edit the properties of one or more SimObjects. " alt="" coords="2463,5299,2558,5325"/>
+<area shape="rect" id="node529" href="$class_gui_variable_inspector.html" title="GuiVariableInspector" alt="" coords="2712,5197,2855,5224"/>
+<area shape="rect" id="node532" href="$class_d_input_manager.html" title="DInputManager" alt="" coords="2207,2765,2316,2792"/>
+<area shape="rect" id="node533" href="$class_u_input_manager.html" title="UInputManager" alt="" coords="2207,2816,2316,2843"/>
+<area shape="rect" id="node536" href="$class_level_info.html" title="LevelInfo" alt="" coords="2226,2715,2297,2741"/>
+<area shape="rect" id="node537" href="$class_mission_area.html" title="MissionArea" alt="" coords="2214,2563,2309,2589"/>
+<area shape="rect" id="node538" href="$class_simple_net_object.html" title="SimpleNetObject" alt="" coords="2201,2664,2321,2691"/>
+<area shape="rect" id="node542" href="$class_s_f_x_controller.html" title="SFXController" alt="" coords="2211,2512,2312,2539"/>
+<area shape="rect" id="node543" href="$class_s_f_x_f_m_o_d_event_source.html" title="SFXFMODEventSource" alt="" coords="2183,2461,2340,2488"/>
+<area shape="rect" id="node547" href="$class_world_editor_selection.html" title="WorldEditorSelection" alt="" coords="1943,2360,2087,2387"/>
+<area shape="rect" id="node550" href="$class_file_stream_object.html" title="FileStreamObject" alt="" coords="1688,3475,1811,3501"/>
+<area shape="rect" id="node553" href="$class_h_t_t_p_object.html" title="HTTPObject" alt="" coords="1703,3525,1795,3552"/>
+<area shape="rect" id="node557" href="$class_compound_undo_action.html" title="An undo action that is comprised of other undo actions. " alt="" coords="1674,4301,1825,4328"/>
+<area shape="rect" id="node558" href="$class_d_b_delete_undo_action.html" title="DBDeleteUndoAction" alt="" coords="1677,4352,1821,4379"/>
+<area shape="rect" id="node559" href="$class_d_b_retarget_undo_action.html" title="DBRetargetUndoAction" alt="" coords="1671,4403,1827,4429"/>
+<area shape="rect" id="node560" href="$class_d_i_create_undo_action.html" title="DICreateUndoAction" alt="" coords="1680,4453,1819,4480"/>
+<area shape="rect" id="node561" href="$class_d_i_delete_undo_action.html" title="DIDeleteUndoAction" alt="" coords="1680,4504,1819,4531"/>
+<area shape="rect" id="node562" href="$class_explode_prefab_undo_action.html" title="ExplodePrefabUndoAction" alt="" coords="1663,3627,1836,3653"/>
+<area shape="rect" id="node563" href="$class_forest_undo_action.html" title="ForestUndoAction" alt="" coords="1686,3576,1813,3603"/>
+<area shape="rect" id="node567" href="$class_gui_convex_editor_undo_action.html" title="GuiConvexEditorUndoAction" alt="" coords="1657,3677,1842,3704"/>
+<area shape="rect" id="node568" href="$class_gui_mesh_road_editor_undo_action.html" title="GuiMeshRoadEditorUndoAction" alt="" coords="1647,3728,1852,3755"/>
+<area shape="rect" id="node569" href="$class_gui_mission_area_undo_action.html" title="GuiMissionAreaUndoAction" alt="" coords="1659,3779,1840,3805"/>
+<area shape="rect" id="node570" href="$class_gui_nav_editor_undo_action.html" title="GuiNavEditorUndoAction" alt="" coords="1667,3829,1831,3856"/>
+<area shape="rect" id="node571" href="$class_gui_river_editor_undo_action.html" title="GuiRiverEditorUndoAction" alt="" coords="1664,3880,1835,3907"/>
+<area shape="rect" id="node572" href="$class_gui_road_editor_undo_action.html" title="GuiRoadEditorUndoAction" alt="" coords="1663,3931,1836,3957"/>
+<area shape="rect" id="node573" href="$class_inspector_field_undo_action.html" title="InspectorFieldUndoAction" alt="" coords="1664,3981,1835,4008"/>
+<area shape="rect" id="node574" href="$class_m_e_create_undo_action.html" title="MECreateUndoAction" alt="" coords="1676,4032,1823,4059"/>
+<area shape="rect" id="node575" href="$class_m_e_delete_undo_action.html" title="MEDeleteUndoAction" alt="" coords="1676,4083,1823,4109"/>
+<area shape="rect" id="node576" href="$class_terrain_smooth_action.html" title="An undo action used to perform terrain wide smoothing. " alt="" coords="1678,4133,1821,4160"/>
+<area shape="rect" id="node577" href="$class_undo_script_action.html" title="UndoScriptAction" alt="" coords="1688,4184,1811,4211"/>
+<area shape="rect" id="node578" href="$class_world_editor_1_1_world_editor_undo_action.html" title="WorldEditor::WorldEditor\lUndoAction" alt="" coords="1666,4235,1833,4277"/>
+<area shape="rect" id="node564" href="$class_forest_create_undo_action.html" title="ForestCreateUndoAction" alt="" coords="1933,4124,2097,4151"/>
+<area shape="rect" id="node565" href="$class_forest_delete_undo_action.html" title="ForestDeleteUndoAction" alt="" coords="1934,4023,2097,4049"/>
+<area shape="rect" id="node566" href="$class_forest_update_action.html" title="ForestUpdateAction" alt="" coords="1947,4073,2084,4100"/>
+<area shape="rect" id="node581" href="$class_taml_children.html" title="TamlChildren" alt="" coords="1181,2613,1279,2640"/>
+<area shape="rect" id="node582" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; SFXStream \&gt;" alt="" coords="29,3073,169,3114"/>
+<area shape="rect" id="node583" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="259,3165,365,3192"/>
+<area shape="rect" id="node584" href="$class_named_tex_target.html" title="NamedTexTarget" alt="" coords="464,3147,584,3173"/>
+<area shape="rect" id="node585" href="$class_physics_object.html" title="PhysicsObject" alt="" coords="471,3197,577,3224"/>
+<area shape="rect" id="node591" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="469,4539,579,4565"/>
+<area shape="rect" id="node586" href="$class_physics_body.html" title="Simple physics object that represents a single rigid body. " alt="" coords="702,3221,801,3248"/>
+<area shape="rect" id="node589" href="$class_physics_player.html" title="PhysicsPlayer" alt="" coords="698,3120,805,3147"/>
+<area shape="rect" id="node587" href="$class_bt_body.html" title="BtBody" alt="" coords="951,3221,1017,3248"/>
+<area shape="rect" id="node588" href="$class_px3_body.html" title="Px3Body" alt="" coords="947,3272,1021,3299"/>
+<area shape="rect" id="node590" href="$class_bt_player.html" title="BtPlayer" alt="" coords="948,3120,1020,3147"/>
+<area shape="rect" id="node592" href="$class_d_library.html" title="DLibrary" alt="" coords="716,4767,787,4793"/>
+<area shape="rect" id="node595" href="$class_engine_object.html" title="EngineObject" alt="" coords="701,4615,801,4641"/>
+<area shape="rect" id="node627" href="$class_physics_collision.html" title="PhysicsCollision" alt="" coords="692,5707,811,5733"/>
+<area shape="rect" id="node630" href="$class_resource_base_1_1_header.html" title="ResourceBase::Header" alt="" coords="673,4817,829,4844"/>
+<area shape="rect" id="node631" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="702,4868,801,4895"/>
+<area shape="rect" id="node632" href="$class_torque_1_1_f_s_1_1_file_base.html" title="Torque::FS::FileBase" alt="" coords="679,4665,824,4692"/>
+<area shape="rect" id="node649" href="$class_zip_1_1_zip_archive.html" title="Class for accessing Zip files. " alt="" coords="698,4716,805,4743"/>
+<area shape="rect" id="node593" href="$class_win32_d_library.html" title="Win32DLibrary" alt="" coords="931,6405,1037,6432"/>
+<area shape="rect" id="node594" href="$classx86_u_n_i_x_d_library.html" title="x86UNIXDLibrary" alt="" coords="925,6456,1043,6483"/>
+<area shape="rect" id="node596" href="$class_console_object.html" title="ConsoleObject" alt="" coords="931,4640,1037,4667"/>
+<area shape="rect" id="node616" href="$class_static_engine_object.html" title="StaticEngineObject" alt="" coords="917,5425,1051,5452"/>
+<area shape="rect" id="node597" href="$class_net_event.html" title="NetEvent" alt="" coords="1193,2968,1267,2995"/>
+<area shape="rect" id="node598" href="$class_connection_message_event.html" title="ConnectionMessageEvent" alt="" coords="1394,2867,1566,2893"/>
+<area shape="rect" id="node599" href="$class_file_chunk_event.html" title="FileChunkEvent" alt="" coords="1424,2917,1536,2944"/>
+<area shape="rect" id="node600" href="$class_file_download_request_event.html" title="FileDownloadRequestEvent" alt="" coords="1391,2968,1569,2995"/>
+<area shape="rect" id="node601" href="$class_ghost_always_object_event.html" title="GhostAlwaysObjectEvent" alt="" coords="1395,3019,1565,3045"/>
+<area shape="rect" id="node602" href="$class_lightning_strike_event.html" title="LightningStrikeEvent" alt="" coords="1410,3069,1550,3096"/>
+<area shape="rect" id="node603" href="$class_net_string_event.html" title="NetStringEvent" alt="" coords="1426,3120,1534,3147"/>
+<area shape="rect" id="node604" href="$class_node_list_event.html" title="NodeListEvent" alt="" coords="1427,3171,1533,3197"/>
+<area shape="rect" id="node608" href="$class_path_manager_event.html" title="PathManagerEvent" alt="" coords="1415,2411,1545,2437"/>
+<area shape="rect" id="node609" href="$class_radial_impulse_event.html" title="RadialImpulseEvent" alt="" coords="1413,2461,1547,2488"/>
+<area shape="rect" id="node610" href="$class_remote_command_event.html" title="RemoteCommandEvent" alt="" coords="1401,2512,1559,2539"/>
+<area shape="rect" id="node611" href="$class_set_mission_c_r_c_event.html" title="SetMissionCRCEvent" alt="" coords="1407,2563,1553,2589"/>
+<area shape="rect" id="node612" href="$class_sim2_d_audio_event.html" title="Sim2DAudioEvent" alt="" coords="1417,2664,1543,2691"/>
+<area shape="rect" id="node613" href="$class_sim3_d_audio_event.html" title="Sim3DAudioEvent" alt="" coords="1417,2715,1543,2741"/>
+<area shape="rect" id="node614" href="$class_sim_data_block_event.html" title="SimDataBlockEvent" alt="" coords="1411,2765,1549,2792"/>
+<area shape="rect" id="node615" href="$class_simple_message_event.html" title="SimpleMessageEvent" alt="" coords="1407,2816,1553,2843"/>
+<area shape="rect" id="node605" href="$class_decal_road_node_event.html" title="DecalRoadNodeEvent" alt="" coords="1676,3120,1823,3147"/>
+<area shape="rect" id="node606" href="$class_mesh_road_node_event.html" title="MeshRoadNodeEvent" alt="" coords="1676,3171,1823,3197"/>
+<area shape="rect" id="node607" href="$class_river_node_event.html" title="RiverNodeEvent" alt="" coords="1693,3221,1805,3248"/>
+<area shape="rect" id="node617" href="$class_engine_export.html" title="EngineExport" alt="" coords="1180,6109,1280,6136"/>
+<area shape="rect" id="node618" href="$class_engine_export_scope.html" title="A group of engine exports. " alt="" coords="1411,6109,1549,6136"/>
+<area shape="rect" id="node626" href="$class_engine_function_info.html" title="EngineFunctionInfo" alt="" coords="1414,6160,1546,6187"/>
+<area shape="rect" id="node619" href="$class_engine_type_info.html" title="EngineTypeInfo" alt="" coords="1694,7409,1805,7436"/>
+<area shape="rect" id="node620" href="$class_engine_class_type_info.html" title="Template for class type infos. " alt="" coords="1944,7402,2087,7443"/>
+<area shape="rect" id="node621" href="$class_engine_function_type_info.html" title="Template for function type infos. " alt="" coords="1920,7468,2111,7495"/>
+<area shape="rect" id="node622" href="$class_engine_function_type_info.html" title="EngineFunctionTypeInfo\l\&lt; T(R)(T(ArgTs)...) \&gt;" alt="" coords="1935,7519,2095,7561"/>
+<area shape="rect" id="node623" href="$class_engine_function_type_info.html" title="EngineFunctionTypeInfo\l\&lt; T(R)(T(ArgTs)...,...) \&gt;" alt="" coords="1935,7585,2095,7626"/>
+<area shape="rect" id="node624" href="$class_engine_simple_type_info.html" title="Template for type infos of primitive, enum, and bitfield types. " alt="" coords="1925,7300,2106,7327"/>
+<area shape="rect" id="node625" href="$class_engine_struct_type_info.html" title="Template for struct type infos. " alt="" coords="1927,7351,2103,7377"/>
+<area shape="rect" id="node628" href="$class_bt_collision.html" title="BtCollision" alt="" coords="942,6507,1026,6533"/>
+<area shape="rect" id="node629" href="$class_px3_collision.html" title="Px3Collision" alt="" coords="937,6557,1031,6584"/>
+<area shape="rect" id="node633" href="$class_torque_1_1_f_s_1_1_file_node.html" title="Torque::FS::FileNode" alt="" coords="911,6275,1057,6301"/>
+<area shape="rect" id="node642" href="$class_torque_1_1_f_s_1_1_file_system.html" title="Torque::FS::FileSystem" alt="" coords="904,6355,1064,6381"/>
+<area shape="rect" id="node634" href="$class_torque_1_1_f_s_1_1_directory.html" title="Torque::FS::Directory" alt="" coords="1157,6275,1303,6301"/>
+<area shape="rect" id="node638" href="$class_torque_1_1_f_s_1_1_file.html" title="Torque::FS::File" alt="" coords="1173,6325,1287,6352"/>
+<area shape="rect" id="node635" href="$class_torque_1_1_mem_1_1_mem_directory.html" title="Torque::Mem::MemDirectory" alt="" coords="1387,6211,1573,6237"/>
+<area shape="rect" id="node636" href="$class_torque_1_1_posix_1_1_posix_directory.html" title="Torque::Posix::PosixDirectory" alt="" coords="1383,6261,1577,6288"/>
+<area shape="rect" id="node637" href="$class_torque_1_1_win32_1_1_win32_directory.html" title="Torque::Win32::Win32Directory" alt="" coords="1379,6312,1581,6339"/>
+<area shape="rect" id="node639" href="$class_torque_1_1_mem_1_1_mem_file.html" title="Torque::Mem::MemFile" alt="" coords="1402,6413,1558,6440"/>
+<area shape="rect" id="node640" href="$class_torque_1_1_posix_1_1_posix_file.html" title="Torque::Posix::PosixFile" alt="" coords="1398,6565,1562,6592"/>
+<area shape="rect" id="node641" href="$class_torque_1_1_win32_1_1_win32_file.html" title="Torque::Win32::Win32File" alt="" coords="1394,6363,1566,6389"/>
+<area shape="rect" id="node643" href="$class_torque_1_1_file_system_redirect.html" title="Torque::FileSystemRedirect" alt="" coords="1139,6544,1321,6571"/>
+<area shape="rect" id="node644" href="$class_torque_1_1_mem_1_1_mem_file_system.html" title="Torque::Mem::MemFileSystem" alt="" coords="1129,6595,1331,6621"/>
+<area shape="rect" id="node645" href="$class_torque_1_1_posix_1_1_posix_file_system.html" title="Torque::Posix::PosixFile\lSystem" alt="" coords="1148,6646,1312,6687"/>
+<area shape="rect" id="node647" href="$class_torque_1_1_win32_1_1_win32_file_system.html" title="Torque::Win32::Win32File\lSystem" alt="" coords="1144,6377,1316,6418"/>
+<area shape="rect" id="node648" href="$class_torque_1_1_zip_file_system.html" title="Torque::ZipFileSystem" alt="" coords="1154,6443,1306,6469"/>
+<area shape="rect" id="node646" href="$class_mac_file_system.html" title="Mac filesystem. " alt="" coords="1423,6667,1537,6693"/>
+</map>

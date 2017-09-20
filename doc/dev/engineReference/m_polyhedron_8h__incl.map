@@ -1,0 +1,26 @@
+<map id="C:/projects/torque3d&#45;qw64q/Engine/source/math/mPolyhedron.h" name="C:/projects/torque3d&#45;qw64q/Engine/source/math/mPolyhedron.h">
+<area shape="rect" id="node2" href="$m_point3_8h_source.html" title="math/mPoint3.h" alt="" coords="271,408,385,435"/>
+<area shape="rect" id="node7" href="$m_constants_8h_source.html" title="math/mConstants.h" alt="" coords="5,632,141,659"/>
+<area shape="rect" id="node23" href="$m_plane_8h_source.html" title="math/mPlane.h" alt="" coords="166,184,277,211"/>
+<area shape="rect" id="node28" href="$m_plane_set_8h_source.html" title="math/mPlaneSet.h" alt="" coords="399,109,529,136"/>
+<area shape="rect" id="node31" href="$t_vector_8h_source.html" title="core/util/tVector.h" alt="" coords="705,109,831,136"/>
+<area shape="rect" id="node34" href="$t_unmanaged_vector_8h_source.html" title="core/util/tUnmanagedVector.h" alt="" coords="855,109,1049,136"/>
+<area shape="rect" id="node35" href="$t_fixed_size_vector_8h_source.html" title="core/util/tFixedSizeVector.h" alt="" coords="1074,109,1257,136"/>
+<area shape="rect" id="node3" href="$m_math_fn_8h_source.html" title="math/mMathFn.h" alt="" coords="239,557,361,584"/>
+<area shape="rect" id="node22" href="$m_point2_8h_source.html" title="math/mPoint2.h" alt="" coords="176,483,291,509"/>
+<area shape="rect" id="node8" href="$platform_assert_8h_source.html" title="platform/platformAssert.h" alt="" coords="217,632,383,659"/>
+<area shape="rect" id="node9" href="$platform_8h_source.html" title="platform/platform.h" alt="" coords="521,707,650,733"/>
+<area shape="rect" id="node11" href="$types_8h_source.html" title="platform/types.h" alt="" coords="783,871,897,897"/>
+<area shape="rect" id="node15" href="$msg_box_8h_source.html" title="platform/nativeDialogs\l/msgBox.h" alt="" coords="166,781,314,823"/>
+<area shape="rect" id="node16" href="$version_8h_source.html" title="app/version.h" alt="" coords="339,789,437,815"/>
+<area shape="rect" id="node17" href="$str_8h_source.html" title="core/util/str.h" alt="" coords="461,789,560,815"/>
+<area shape="rect" id="node19" href="$safe_delete_8h_source.html" title="core/util/safeDelete.h" alt="" coords="584,789,728,815"/>
+<area shape="rect" id="node12" href="$stdint_8h_source.html" title="stdint.h" alt="" coords="807,945,873,972"/>
+<area shape="rect" id="node24" href="$m_box_8h_source.html" title="math/mBox.h" alt="" coords="162,259,262,285"/>
+<area shape="rect" id="node26" href="$m_oriented_box_8h_source.html" title="math/mOrientedBox.h" alt="" coords="287,259,436,285"/>
+<area shape="rect" id="node27" href="$m_sphere_8h_source.html" title="math/mSphere.h" alt="" coords="461,259,579,285"/>
+<area shape="rect" id="node25" href="$m_box_base_8h_source.html" title="math/mBoxBase.h" alt="" coords="263,333,393,360"/>
+<area shape="rect" id="node29" href="$temp_alloc_8h_source.html" title="util/tempAlloc.h" alt="" coords="519,333,631,360"/>
+<area shape="rect" id="node30" href="$t_algorithm_8h_source.html" title="core/tAlgorithm.h" alt="" coords="403,184,525,211"/>
+<area shape="rect" id="node33" href="$t_vector_specializations_8h_source.html" title="core/util/tVectorSpecializations.h" alt="" coords="804,184,1017,211"/>
+</map>

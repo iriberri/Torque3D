@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_g_f_x_device.html" title="GFXDevice" alt="" coords="5,56,91,83"/>
+<area shape="rect" id="node2" href="$class_g_f_x_d3_d11_device.html" title="GFXD3D11Device" alt="" coords="139,5,263,32"/>
+<area shape="rect" id="node3" href="$class_g_f_x_g_l_device.html" title="GFXGLDevice" alt="" coords="149,56,252,83"/>
+<area shape="rect" id="node4" href="$class_g_f_x_null_device.html" title="GFXNullDevice" alt="" coords="147,107,254,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="GuiMenuBar::Menu" name="GuiMenuBar::Menu">
+<area shape="rect" id="node4" href="$struct_gui_menu_bar_1_1_menu_item.html" title="GuiMenuBar::MenuItem" alt="" coords="21,337,179,364"/>
+<area shape="rect" id="node2" href="$class_rect_i.html" title="RectI" alt="" coords="229,143,281,169"/>
+<area shape="rect" id="node3" href="$class_point2_i.html" title="Point2I" alt="" coords="223,21,286,48"/>
+<area shape="rect" id="node5" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="5,233,61,260"/>
+</map>

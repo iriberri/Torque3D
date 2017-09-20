@@ -1,0 +1,5 @@
+<map id="TerrainNormalMapFeatHLSL" name="TerrainNormalMapFeatHLSL">
+<area shape="rect" id="node2" href="$class_terrain_feat_h_l_s_l.html" title="TerrainFeatHLSL" alt="" coords="39,155,157,181"/>
+<area shape="rect" id="node3" href="$class_shader_feature_h_l_s_l.html" title="ShaderFeatureHLSL" alt="" coords="29,80,167,107"/>
+<area shape="rect" id="node4" href="$class_shader_feature.html" title="ShaderFeature" alt="" coords="45,5,151,32"/>
+</map>

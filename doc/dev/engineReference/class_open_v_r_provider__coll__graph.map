@@ -1,0 +1,51 @@
+<map id="OpenVRProvider" name="OpenVRProvider">
+<area shape="rect" id="node2" href="$class_i_display_device.html" title="IDisplayDevice" alt="" coords="1318,852,1425,879"/>
+<area shape="rect" id="node3" href="$class_i_input_device.html" title="IInputDevice" alt="" coords="1326,953,1417,980"/>
+<area shape="rect" id="node4" href="$struct_g_f_x_adapter_l_u_i_d.html" title="GFXAdapterLUID" alt="" coords="1311,1004,1431,1031"/>
+<area shape="rect" id="node5" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="230,1153,286,1180"/>
+<area shape="rect" id="node8" href="$class_named_tex_target.html" title="NamedTexTarget" alt="" coords="574,1349,694,1376"/>
+<area shape="rect" id="node12" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="570,1236,698,1263"/>
+<area shape="rect" id="node14" href="$class_net_connection.html" title="NetConnection" alt="" coords="581,641,687,668"/>
+<area shape="rect" id="node32" href="$class_open_v_r_overlay.html" title="OpenVROverlay" alt="" coords="965,1300,1080,1327"/>
+<area shape="rect" id="node40" href="$class_gui_control.html" title="GuiControl" alt="" coords="593,439,675,465"/>
+<area shape="rect" id="node6" href="$class_vector.html" title="Vector\&lt; OpenVRProvider\l::LoadedRenderTexture \&gt;" alt="" coords="1287,1169,1455,1210"/>
+<area shape="rect" id="node7" href="$struct_open_v_r_provider_1_1_loaded_render_texture.html" title="OpenVRProvider::LoadedRender\lTexture" alt="" coords="919,1191,1127,1233"/>
+<area shape="rect" id="node9" href="$class_rect_i.html" title="RectI" alt="" coords="232,1331,284,1357"/>
+<area shape="rect" id="node21" href="$struct_open_v_r_render_state.html" title="OpenVRRenderState" alt="" coords="951,1609,1094,1636"/>
+<area shape="rect" id="node39" href="$class_gui_canvas.html" title="GuiCanvas" alt="" coords="981,473,1065,500"/>
+<area shape="rect" id="node10" href="$class_point2_i.html" title="Point2I" alt="" coords="5,373,68,400"/>
+<area shape="rect" id="node45" href="$struct_gui_event.html" title="GuiEvent" alt="" coords="397,225,471,252"/>
+<area shape="rect" id="node46" href="$class_platform_window.html" title="PlatformWindow" alt="" coords="576,79,692,105"/>
+<area shape="rect" id="node11" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="204,1676,312,1703"/>
+<area shape="rect" id="node22" href="$class_v_r_texture_set.html" title="VRTextureSet\&lt; 4 \&gt;" alt="" coords="567,1809,701,1836"/>
+<area shape="rect" id="node13" href="$class_game_connection.html" title="GameConnection" alt="" coords="961,952,1084,979"/>
+<area shape="rect" id="node20" href="$class_move_list.html" title="MoveList" alt="" coords="1335,903,1408,929"/>
+<area shape="rect" id="node15" href="$class_sim_group.html" title="SimGroup" alt="" coords="218,436,298,463"/>
+<area shape="rect" id="node16" href="$class_signal_3_01void_07_08_4.html" title="Signal\&lt; void()\&gt;" alt="" coords="204,861,312,888"/>
+<area shape="rect" id="node17" href="$struct_auth_info.html" title="Formerly contained data indicating whether a user is valid. " alt="" coords="599,1067,669,1093"/>
+<area shape="rect" id="node18" href="$class_vector.html" title="Vector\&lt; SimDataBlock * \&gt;" alt="" coords="546,769,722,796"/>
+<area shape="rect" id="node19" href="$class_signal.html" title="Signal\&lt; void(F32)\&gt;" alt="" coords="569,953,699,980"/>
+<area shape="rect" id="node23" href="$struct_fov_port.html" title="Advanced fov specification for oculus. " alt="" coords="601,1552,667,1579"/>
+<area shape="rect" id="node24" href="$class_matrix_f.html" title="MatrixF" alt="" coords="601,1501,667,1528"/>
+<area shape="rect" id="node25" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lTarget \&gt;" alt="" coords="546,1603,722,1645"/>
+<area shape="rect" id="node26" href="$class_map.html" title="Map\&lt; StringTableEntry,\l S32 \&gt;" alt="" coords="1292,1234,1451,1275"/>
+<area shape="rect" id="node27" href="$class_namespace.html" title="Namespace" alt="" coords="1326,1657,1417,1684"/>
+<area shape="rect" id="node28" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="1689,1609,1820,1636"/>
+<area shape="rect" id="node30" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="1691,1743,1818,1769"/>
+<area shape="rect" id="node29" href="$class_data_chunker.html" title="DataChunker" alt="" coords="974,1660,1071,1687"/>
+<area shape="rect" id="node31" href="$class_vector.html" title="Vector\&lt; OpenVROverlay * \&gt;" alt="" coords="1279,1300,1464,1327"/>
+<area shape="rect" id="node33" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="601,903,667,929"/>
+<area shape="rect" id="node34" href="$class_point3_f.html" title="Point3F" alt="" coords="989,423,1056,449"/>
+<area shape="rect" id="node35" href="$struct_display_pose.html" title="Defines the basic display pose common to most display devices. " alt="" coords="1324,423,1419,449"/>
+<area shape="rect" id="node36" href="$class_quat_f.html" title="QuatF" alt="" coords="993,245,1052,272"/>
+<area shape="rect" id="node37" href="$class_signal.html" title="Signal\&lt; void(const\l vr::VREvent_t &amp;evt)\&gt;" alt="" coords="1299,1414,1444,1455"/>
+<area shape="rect" id="node38" href="$class_map.html" title="Map\&lt; U32, S32 \&gt;" alt="" coords="1309,1480,1434,1507"/>
+<area shape="rect" id="node41" href="$class_i_process_input.html" title="IProcessInput" alt="" coords="583,540,685,567"/>
+<area shape="rect" id="node42" href="$class_g_f_x_fence.html" title="GFXFence" alt="" coords="593,591,675,617"/>
+<area shape="rect" id="node43" href="$class_signal.html" title="Signal\&lt; Signature \&gt;" alt="" coords="189,292,327,319"/>
+<area shape="rect" id="node44" href="$class_vector.html" title="Vector\&lt; GuiCanvas::\lAccKeyMap \&gt;" alt="" coords="563,13,705,54"/>
+<area shape="rect" id="node47" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiControl \&gt;" alt="" coords="541,192,727,219"/>
+<area shape="rect" id="node48" href="$class_gui_cursor.html" title="GuiCursor" alt="" coords="594,243,674,269"/>
+<area shape="rect" id="node49" href="$class_vector.html" title="Vector\&lt; OpenVRProvider\l::LoadedRenderModel \&gt;" alt="" coords="1288,786,1455,827"/>
+<area shape="rect" id="node50" href="$struct_open_v_r_provider_1_1_loaded_render_model.html" title="OpenVRProvider::LoadedRender\lModel" alt="" coords="919,786,1127,827"/>
+</map>

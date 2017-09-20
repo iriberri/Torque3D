@@ -1,0 +1,50 @@
+<map id="SimSet" name="SimSet">
+<area shape="rect" id="node9" href="$class_menu_bar.html" title="MenuBar" alt="" coords="899,740,973,767"/>
+<area shape="rect" id="node10" href="$class_module_definition.html" title="ModuleDefinition" alt="" coords="877,791,995,817"/>
+<area shape="rect" id="node11" href="$class_sim_group.html" title="SimGroup" alt="" coords="896,841,976,868"/>
+<area shape="rect" id="node48" href="$class_sim_persist_set.html" title="SimPersistSet" alt="" coords="883,993,989,1020"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="SimObject" alt="" coords="626,791,709,817"/>
+<area shape="rect" id="node3" href="$class_console_object.html" title="ConsoleObject" alt="" coords="464,765,571,792"/>
+<area shape="rect" id="node4" href="$class_engine_object.html" title="EngineObject" alt="" coords="316,765,416,792"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="159,765,268,792"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,765,111,792"/>
+<area shape="rect" id="node7" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="464,816,571,843"/>
+<area shape="rect" id="node8" href="$class_taml_children.html" title="TamlChildren" alt="" coords="619,841,716,868"/>
+<area shape="rect" id="node12" href="$class_forest_brush.html" title="ForestBrush" alt="" coords="1093,563,1187,589"/>
+<area shape="rect" id="node13" href="$class_gui_control.html" title="GuiControl" alt="" coords="1099,613,1181,640"/>
+<area shape="rect" id="node39" href="$class_input_manager.html" title="InputManager" alt="" coords="1090,664,1190,691"/>
+<area shape="rect" id="node40" href="$class_mesh_component_1_1bone_object.html" title="MeshComponent::boneObject" alt="" coords="1043,715,1237,741"/>
+<area shape="rect" id="node41" href="$class_net_connection.html" title="NetConnection" alt="" coords="1087,765,1193,792"/>
+<area shape="rect" id="node42" href="$class_net_object.html" title="NetObject" alt="" coords="1100,816,1180,843"/>
+<area shape="rect" id="node43" href="$class_post_effect.html" title="PostEffect" alt="" coords="1099,867,1181,893"/>
+<area shape="rect" id="node44" href="$class_script_group.html" title="ScriptGroup" alt="" coords="1095,917,1185,944"/>
+<area shape="rect" id="node45" href="$class_s_f_x_source.html" title="Baseclass for sources and controllers. " alt="" coords="1097,968,1183,995"/>
+<area shape="rect" id="node46" href="$class_sim_data_block_group.html" title="SimDataBlockGroup" alt="" coords="1070,1019,1210,1045"/>
+<area shape="rect" id="node47" href="$class_sim_path_1_1_path.html" title="A path! " alt="" coords="1087,1069,1193,1096"/>
+<area shape="rect" id="node14" href="$class_edit_manager.html" title="EditManager" alt="" coords="1331,5,1425,32"/>
+<area shape="rect" id="node15" href="$class_gui_array_ctrl.html" title="Renders a grid of cells. " alt="" coords="1331,56,1425,83"/>
+<area shape="rect" id="node16" href="$class_gui_background_ctrl.html" title="Renders a background, so you can have a backdrop for your GUI. " alt="" coords="1313,107,1443,133"/>
+<area shape="rect" id="node17" href="$class_gui_bitmap_border_ctrl.html" title="Renders a skinned border. " alt="" coords="1307,157,1449,184"/>
+<area shape="rect" id="node18" href="$class_gui_bitmap_ctrl.html" title="Renders a bitmap. " alt="" coords="1327,208,1429,235"/>
+<area shape="rect" id="node19" href="$class_gui_button_base_ctrl.html" title="GuiButtonBaseCtrl" alt="" coords="1313,259,1443,285"/>
+<area shape="rect" id="node20" href="$class_gui_canvas.html" title="GuiCanvas" alt="" coords="1336,309,1420,336"/>
+<area shape="rect" id="node21" href="$class_gui_chunked_bitmap_ctrl.html" title="GuiChunkedBitmapCtrl" alt="" coords="1301,360,1455,387"/>
+<area shape="rect" id="node22" href="$class_gui_clock_hud.html" title="GuiClockHud" alt="" coords="1329,411,1427,437"/>
+<area shape="rect" id="node23" href="$class_gui_color_picker_ctrl.html" title="GuiColorPickerCtrl" alt="" coords="1313,461,1443,488"/>
+<area shape="rect" id="node24" href="$class_gui_console_text_ctrl.html" title="GuiConsoleTextCtrl" alt="" coords="1311,512,1445,539"/>
+<area shape="rect" id="node25" href="$class_gui_container.html" title="GuiContainer" alt="" coords="1329,563,1427,589"/>
+<area shape="rect" id="node26" href="$class_gui_control_array_control.html" title="GuiControlArrayControl" alt="" coords="1301,613,1455,640"/>
+<area shape="rect" id="node27" href="$class_gui_decoy_ctrl.html" title="GuiDecoyCtrl" alt="" coords="1329,664,1427,691"/>
+<area shape="rect" id="node28" href="$class_gui_drag_and_drop_control.html" title="GuiDragAndDropControl" alt="" coords="1298,715,1458,741"/>
+<area shape="rect" id="node29" href="$class_gui_dynamic_ctrl_array_control.html" title="GuiDynamicCtrlArrayControl" alt="" coords="1285,765,1471,792"/>
+<area shape="rect" id="node30" href="$class_gui_ease_view_ctrl.html" title="Control to visualize an EaseF. " alt="" coords="1318,816,1438,843"/>
+<area shape="rect" id="node31" href="$class_gui_edit_ctrl.html" title="Native side of the GUI editor. " alt="" coords="1335,867,1421,893"/>
+<area shape="rect" id="node32" href="$class_gui_editor_ruler.html" title="GuiEditorRuler" alt="" coords="1325,917,1431,944"/>
+<area shape="rect" id="node33" href="$class_gui_filter_ctrl.html" title="GuiFilterCtrl" alt="" coords="1333,968,1423,995"/>
+<area shape="rect" id="node34" href="$class_gui_game_list_menu_ctrl.html" title="GuiGameListMenuCtrl" alt="" coords="1303,1019,1453,1045"/>
+<area shape="rect" id="node35" href="$class_gui_gradient_ctrl.html" title="GuiGradientCtrl. " alt="" coords="1323,1069,1433,1096"/>
+<area shape="rect" id="node36" href="$class_gui_graph_ctrl.html" title="GuiGraphCtrl" alt="" coords="1329,1120,1427,1147"/>
+<area shape="rect" id="node37" href="$class_gui_health_bar_hud.html" title="GuiHealthBarHud" alt="" coords="1317,1171,1439,1197"/>
+<area shape="rect" id="node38" href="$class_gui_health_text_hud.html" title="GuiHealthTextHud" alt="" coords="1315,1221,1441,1248"/>
+<area shape="rect" id="node49" href="$class_world_editor_selection.html" title="WorldEditorSelection" alt="" coords="1068,1120,1212,1147"/>
+</map>

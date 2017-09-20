@@ -1,0 +1,51 @@
+<map id="HoverVehicle" name="HoverVehicle">
+<area shape="rect" id="node2" href="$class_vehicle.html" title="Vehicle" alt="" coords="1919,1368,1985,1395"/>
+<area shape="rect" id="node3" href="$class_shape_base.html" title="ShapeBase" alt="" coords="1190,1132,1279,1159"/>
+<area shape="rect" id="node29" href="$class_shape_base_convex.html" title="ShapeBaseConvex" alt="" coords="1517,1339,1648,1366"/>
+<area shape="rect" id="node4" href="$class_game_base.html" title="GameBase" alt="" coords="816,1056,903,1083"/>
+<area shape="rect" id="node5" href="$class_i_scene_light.html" title="ISceneLight" alt="" coords="814,1107,905,1134"/>
+<area shape="rect" id="node6" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="433,895,489,922"/>
+<area shape="rect" id="node12" href="$struct_shape_base_1_1_mounted_image.html" title="An image mounted on a shapebase. " alt="" coords="768,1006,951,1032"/>
+<area shape="rect" id="node17" href="$struct_shape_base_data.html" title="ShapeBaseData" alt="" coords="801,827,917,854"/>
+<area shape="rect" id="node42" href="$class_s_f_x_profile.html" title="SFXProfile" alt="" coords="818,448,901,475"/>
+<area shape="rect" id="node7" href="$struct_shape_base_1_1_collision_timeout.html" title="ShapeBase::CollisionTimeout" alt="" coords="552,1370,744,1396"/>
+<area shape="rect" id="node8" href="$class_point3_f.html" title="Point3F" alt="" coords="79,1459,145,1486"/>
+<area shape="rect" id="node20" href="$class_s_f_x_source.html" title="Baseclass for sources and controllers. " alt="" coords="417,271,504,298"/>
+<area shape="rect" id="node30" href="$class_box3_f.html" title="Box3F" alt="" coords="1205,1478,1265,1504"/>
+<area shape="rect" id="node37" href="$class_rigid.html" title="Rigid" alt="" coords="435,1894,486,1920"/>
+<area shape="rect" id="node39" href="$struct_vehicle_data.html" title="VehicleData" alt="" coords="1537,652,1629,679"/>
+<area shape="rect" id="node40" href="$class_particle_emitter_data.html" title="ParticleEmitterData" alt="" coords="975,572,1109,599"/>
+<area shape="rect" id="node43" href="$struct_vehicle_1_1_state_delta.html" title="Vehicle::StateDelta" alt="" coords="393,2175,528,2202"/>
+<area shape="rect" id="node45" href="$class_clipped_poly_list.html" title="ClippedPolyList" alt="" coords="803,1679,915,1706"/>
+<area shape="rect" id="node46" href="$class_abstract_poly_list.html" title="AbstractPolyList" alt="" coords="401,1670,520,1696"/>
+<area shape="rect" id="node9" href="$struct_shape_base_1_1_thread.html" title="ShapeBase::Thread" alt="" coords="580,707,716,734"/>
+<area shape="rect" id="node10" href="$class_t_s_thread.html" title="TSThread" alt="" coords="73,755,151,782"/>
+<area shape="rect" id="node14" href="$class_t_s_shape_instance.html" title="TSShapeInstance" alt="" coords="399,1250,523,1276"/>
+<area shape="rect" id="node11" href="$class_convex.html" title="Convex" alt="" coords="827,1476,891,1503"/>
+<area shape="rect" id="node13" href="$class_net_string_handle.html" title="NetStringHandle" alt="" coords="403,1162,519,1188"/>
+<area shape="rect" id="node15" href="$class_matrix_f.html" title="MatrixF" alt="" coords="79,1858,145,1884"/>
+<area shape="rect" id="node16" href="$class_bit_vector.html" title="Manage a vector of bits of arbitrary size. " alt="" coords="821,955,897,982"/>
+<area shape="rect" id="node18" href="$class_cube_reflector.html" title="CubeReflector" alt="" coords="808,1158,911,1184"/>
+<area shape="rect" id="node19" href="$struct_shape_base_1_1_sound.html" title="ShapeBase::Sound" alt="" coords="792,571,927,598"/>
+<area shape="rect" id="node21" href="$class_sim_group.html" title="SimGroup" alt="" coords="72,6,152,32"/>
+<area shape="rect" id="node22" href="$class_ease_f.html" title="EaseF" alt="" coords="82,56,142,83"/>
+<area shape="rect" id="node23" href="$class_torque_1_1_list.html" title="Torque::List\&lt; SFXModifier * \&gt;" alt="" coords="16,107,208,134"/>
+<area shape="rect" id="node24" href="$class_vector.html" title="Vector\&lt; SFXParameter * \&gt;" alt="" coords="23,158,201,184"/>
+<area shape="rect" id="node25" href="$class_bit_set32.html" title="BitSet32" alt="" coords="76,208,148,235"/>
+<area shape="rect" id="node26" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l RealMSTimer \&gt;" alt="" coords="40,260,184,301"/>
+<area shape="rect" id="node27" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SFXDescription \&gt;" alt="" coords="5,326,219,352"/>
+<area shape="rect" id="node28" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SFXTrack \&gt;" alt="" coords="22,376,202,403"/>
+<area shape="rect" id="node31" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="822,1578,897,1604"/>
+<area shape="rect" id="node32" href="$class_physics_body.html" title="Simple physics object that represents a single rigid body. " alt="" coords="1533,1452,1632,1479"/>
+<area shape="rect" id="node33" href="$class_physics_object.html" title="PhysicsObject" alt="" coords="1181,1586,1288,1612"/>
+<area shape="rect" id="node34" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; ParticleEmitter \&gt;" alt="" coords="1477,1030,1688,1056"/>
+<area shape="rect" id="node35" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; ParticleEmitter \&gt;" alt="" coords="1133,1028,1336,1055"/>
+<area shape="rect" id="node36" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="1549,1586,1616,1612"/>
+<area shape="rect" id="node38" href="$class_quat_f.html" title="QuatF" alt="" coords="83,2104,141,2131"/>
+<area shape="rect" id="node41" href="$struct_vehicle_data_1_1_body.html" title="VehicleData::Body" alt="" coords="1169,510,1300,536"/>
+<area shape="rect" id="node44" href="$struct_move.html" title="Move" alt="" coords="86,2250,138,2276"/>
+<area shape="rect" id="node47" href="$class_vector.html" title="Vector\&lt; Vertex \&gt;" alt="" coords="399,1720,522,1747"/>
+<area shape="rect" id="node48" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1478,1920,1687,1947"/>
+<area shape="rect" id="node49" href="$class_collision_list.html" title="CollisionList" alt="" coords="1537,602,1629,628"/>
+<area shape="rect" id="node50" href="$struct_hover_vehicle_1_1_jet_activation.html" title="HoverVehicle::JetActivation" alt="" coords="1863,1419,2041,1446"/>
+</map>

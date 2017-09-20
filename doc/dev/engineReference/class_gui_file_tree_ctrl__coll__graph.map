@@ -1,0 +1,51 @@
+<map id="GuiFileTreeCtrl" name="GuiFileTreeCtrl">
+<area shape="rect" id="node2" href="$class_gui_tree_view_ctrl.html" title="GuiTreeViewCtrl" alt="" coords="2903,407,3017,433"/>
+<area shape="rect" id="node34" href="$class_gui_tree_view_ctrl_1_1_item.html" title="GuiTreeViewCtrl::Item" alt="" coords="3229,449,3377,476"/>
+<area shape="rect" id="node3" href="$class_gui_array_ctrl.html" title="Renders a grid of cells. " alt="" coords="1907,1508,2001,1535"/>
+<area shape="rect" id="node4" href="$class_gui_control.html" title="GuiControl" alt="" coords="1597,977,1680,1004"/>
+<area shape="rect" id="node24" href="$class_gui_edit_ctrl.html" title="Native side of the GUI editor. " alt="" coords="2255,885,2341,912"/>
+<area shape="rect" id="node28" href="$class_vector.html" title="Vector\&lt; GuiControl * \&gt;" alt="" coords="1877,936,2031,963"/>
+<area shape="rect" id="node43" href="$class_gui_container.html" title="GuiContainer" alt="" coords="1905,1201,2003,1228"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="SimGroup" alt="" coords="1269,1199,1349,1225"/>
+<area shape="rect" id="node48" href="$class_s_f_x_source.html" title="Baseclass for sources and controllers. " alt="" coords="1595,1319,1682,1345"/>
+<area shape="rect" id="node6" href="$class_sim_set.html" title="SimSet" alt="" coords="912,1211,977,1237"/>
+<area shape="rect" id="node7" href="$class_sim_object.html" title="SimObject" alt="" coords="619,1112,702,1139"/>
+<area shape="rect" id="node9" href="$class_gui_control_profile.html" title="GuiControlProfile" alt="" coords="1249,1031,1368,1057"/>
+<area shape="rect" id="node22" href="$class_lang_table.html" title="Language file table. " alt="" coords="904,1045,985,1072"/>
+<area shape="rect" id="node46" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="1586,1447,1691,1473"/>
+<area shape="rect" id="node8" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="917,200,973,227"/>
+<area shape="rect" id="node41" href="$class_gui_text_edit_ctrl.html" title="GuiTextEditCtrl" alt="" coords="2579,1216,2690,1243"/>
+<area shape="rect" id="node50" href="$class_vector.html" title="Vector\&lt; String \&gt;" alt="" coords="1717,88,1836,115"/>
+<area shape="rect" id="node10" href="$class_color_i.html" title="ColorI" alt="" coords="917,1464,972,1491"/>
+<area shape="rect" id="node11" href="$class_resource.html" title="Resource\&lt; GFont \&gt;" alt="" coords="876,1261,1013,1288"/>
+<area shape="rect" id="node12" href="$class_resource_base.html" title="ResourceBase" alt="" coords="607,1195,714,1221"/>
+<area shape="rect" id="node13" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; ResourceBase\l::Header \&gt;" alt="" coords="172,823,365,865"/>
+<area shape="rect" id="node14" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="5,667,123,693"/>
+<area shape="rect" id="node20" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="389,659,565,701"/>
+<area shape="rect" id="node29" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1204,657,1413,684"/>
+<area shape="rect" id="node15" href="$class_resource_base_1_1_header.html" title="ResourceBase::Header" alt="" coords="191,1195,347,1221"/>
+<area shape="rect" id="node16" href="$class_point2_i.html" title="Point2I" alt="" coords="913,813,976,840"/>
+<area shape="rect" id="node26" href="$class_vector.html" title="Vector\&lt; Point2I \&gt;" alt="" coords="1437,744,1561,771"/>
+<area shape="rect" id="node17" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SFXTrack \&gt;" alt="" coords="855,1117,1035,1144"/>
+<area shape="rect" id="node18" href="$class_vector.html" title="Vector\&lt; RectI \&gt;" alt="" coords="887,933,1002,960"/>
+<area shape="rect" id="node19" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="891,667,999,693"/>
+<area shape="rect" id="node21" href="$class_vector.html" title="Vector\&lt; Vector\&lt; GuiWindow\lCtrl * \&gt; \&gt;" alt="" coords="1215,875,1403,917"/>
+<area shape="rect" id="node23" href="$class_vector.html" title="Vector\&lt; LangFile * \&gt;" alt="" coords="589,1045,732,1072"/>
+<area shape="rect" id="node25" href="$class_vector.html" title="Vector\&lt; U32 \&gt;" alt="" coords="1901,717,2007,744"/>
+<area shape="rect" id="node27" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCT \&gt;" alt="" coords="1875,769,2033,810"/>
+<area shape="rect" id="node30" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiControl \&gt;" alt="" coords="1861,1049,2047,1076"/>
+<area shape="rect" id="node31" href="$class_vector.html" title="Vector\&lt; S32 \&gt;" alt="" coords="2581,363,2688,389"/>
+<area shape="rect" id="node32" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SimObject \&gt;" alt="" coords="2542,464,2727,491"/>
+<area shape="rect" id="node35" href="$struct_gui_tree_view_ctrl_1_1_item_1_1_inspector_tag.html" title="GuiTreeViewCtrl::Item\l::InspectorTag" alt="" coords="2886,479,3034,521"/>
+<area shape="rect" id="node33" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SimObject \&gt;" alt="" coords="2209,464,2387,491"/>
+<area shape="rect" id="node40" href="$class_vector.html" title="Vector\&lt; GuiTreeViewCtrl\l::Item * \&gt;" alt="" coords="3472,343,3637,385"/>
+<area shape="rect" id="node36" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiControl\lProfile \&gt;" alt="" coords="2873,545,3047,586"/>
+<area shape="rect" id="node37" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; GuiControlProfile \&gt;" alt="" coords="2528,1649,2741,1676"/>
+<area shape="rect" id="node38" href="$class_bit_set32.html" title="BitSet32" alt="" coords="1273,312,1345,339"/>
+<area shape="rect" id="node39" href="$struct_gui_tree_view_ctrl_1_1_item_1_1_script_tag.html" title="GuiTreeViewCtrl::Item\l::ScriptTag" alt="" coords="2886,610,3034,651"/>
+<area shape="rect" id="node42" href="$class_gui_text_ctrl.html" title="GuiTextCtrl" alt="" coords="2255,1165,2341,1192"/>
+<area shape="rect" id="node44" href="$struct_control_sizing.html" title="Represents the Sizing Options for a GuiControl. " alt="" coords="1589,1216,1688,1243"/>
+<area shape="rect" id="node45" href="$class_s_f_x_track.html" title="A datablock that describes sound data for playback. " alt="" coords="2259,1407,2337,1433"/>
+<area shape="rect" id="node47" href="$class_s_f_x_description.html" title="SFXDescription" alt="" coords="1899,1457,2009,1484"/>
+<area shape="rect" id="node49" href="$class_string_buffer.html" title="StringBuffer" alt="" coords="2253,1216,2343,1243"/>
+</map>

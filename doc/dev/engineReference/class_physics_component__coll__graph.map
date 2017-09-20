@@ -1,0 +1,51 @@
+<map id="PhysicsComponent" name="PhysicsComponent">
+<area shape="rect" id="node2" href="$class_component.html" title="Component" alt="" coords="2759,974,2847,1001"/>
+<area shape="rect" id="node3" href="$class_net_object.html" title="NetObject" alt="" coords="1025,361,1105,388"/>
+<area shape="rect" id="node12" href="$struct_ghost_info.html" title="GhostInfo" alt="" coords="1371,406,1449,433"/>
+<area shape="rect" id="node14" href="$class_net_connection.html" title="NetConnection" alt="" coords="2423,421,2530,448"/>
+<area shape="rect" id="node31" href="$class_scene_object.html" title="SceneObject" alt="" coords="1361,962,1459,989"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="SimGroup" alt="" coords="655,361,735,388"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="SimSet" alt="" coords="435,536,500,562"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="SimObject" alt="" coords="57,709,139,736"/>
+<area shape="rect" id="node7" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="418,754,517,781"/>
+<area shape="rect" id="node8" href="$class_taml_children.html" title="TamlChildren" alt="" coords="49,536,147,562"/>
+<area shape="rect" id="node9" href="$class_sim_object_list.html" title="SimObjectList" alt="" coords="46,586,150,613"/>
+<area shape="rect" id="node10" href="$class_signal.html" title="Signal\&lt; void(SetModification\l modification, SimSet *set,\l SimObject *object) \&gt;" alt="" coords="5,456,191,512"/>
+<area shape="rect" id="node11" href="$class_bit_set32.html" title="BitSet32" alt="" coords="659,678,731,705"/>
+<area shape="rect" id="node13" href="$struct_net_connection_1_1_ghost_ref.html" title="NetConnection::GhostRef" alt="" coords="1629,510,1799,537"/>
+<area shape="rect" id="node18" href="$struct_net_connection_1_1_packet_notify.html" title="NetConnection::PacketNotify" alt="" coords="1987,510,2177,537"/>
+<area shape="rect" id="node15" href="$class_connection_protocol.html" title="ConnectionProtocol" alt="" coords="2015,253,2149,280"/>
+<area shape="rect" id="node16" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="667,537,723,564"/>
+<area shape="rect" id="node34" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="1001,656,1129,682"/>
+<area shape="rect" id="node43" href="$class_water_object.html" title="WaterObject" alt="" coords="1667,818,1761,845"/>
+<area shape="rect" id="node17" href="$class_vector.html" title="Vector\&lt; NetConnection\l::GhostSave \&gt;" alt="" coords="2003,304,2161,346"/>
+<area shape="rect" id="node19" href="$class_signal_3_01void_07_08_4.html" title="Signal\&lt; void()\&gt;" alt="" coords="2028,612,2136,638"/>
+<area shape="rect" id="node20" href="$class_vector.html" title="Vector\&lt; char * \&gt;" alt="" coords="2023,662,2141,689"/>
+<area shape="rect" id="node21" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; NetObject \&gt;" alt="" coords="604,126,787,153"/>
+<area shape="rect" id="node22" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; NetObject \&gt;" alt="" coords="380,126,555,153"/>
+<area shape="rect" id="node23" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; NetConnection \&gt;" alt="" coords="1977,770,2187,797"/>
+<area shape="rect" id="node24" href="$class_stream.html" title="Base stream class for streaming data across a specific media. " alt="" coords="2050,713,2114,740"/>
+<area shape="rect" id="node25" href="$class_update_interface.html" title="UpdateInterface" alt="" coords="2421,1572,2533,1598"/>
+<area shape="rect" id="node27" href="$class_vector.html" title="Vector\&lt; UpdateInterface * \&gt;" alt="" coords="2712,1572,2895,1598"/>
+<area shape="rect" id="node26" href="$class_interface.html" title="Interface\&lt; UpdateInterface \&gt;" alt="" coords="2960,1597,3145,1624"/>
+<area shape="rect" id="node28" href="$class_vector.html" title="Vector\&lt; StringTableEntry \&gt;" alt="" coords="2387,974,2567,1001"/>
+<area shape="rect" id="node29" href="$class_entity.html" title="Entity" alt="" coords="2449,1025,2505,1052"/>
+<area shape="rect" id="node30" href="$class_game_base.html" title="GameBase" alt="" coords="2039,972,2125,998"/>
+<area shape="rect" id="node35" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="1633,981,1795,1008"/>
+<area shape="rect" id="node37" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="1653,1102,1775,1129"/>
+<area shape="rect" id="node32" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="991,1257,1138,1284"/>
+<area shape="rect" id="node33" href="$class_process_object.html" title="ProcessObject" alt="" coords="1011,1308,1119,1334"/>
+<area shape="rect" id="node36" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="1007,870,1123,897"/>
+<area shape="rect" id="node38" href="$class_point3_f.html" title="Point3F" alt="" coords="662,1358,729,1385"/>
+<area shape="rect" id="node40" href="$class_sphere_f.html" title="SphereF" alt="" coords="1029,1358,1100,1385"/>
+<area shape="rect" id="node41" href="$class_box3_f.html" title="Box3F" alt="" coords="1035,1090,1095,1117"/>
+<area shape="rect" id="node45" href="$struct_entity_1_1_state_delta.html" title="Entity::StateDelta" alt="" coords="2019,1208,2145,1234"/>
+<area shape="rect" id="node50" href="$struct_physics_component_1_1_state_delta.html" title="PhysicsComponent::StateDelta" alt="" coords="1980,1442,2184,1469"/>
+<area shape="rect" id="node39" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="967,921,1163,948"/>
+<area shape="rect" id="node42" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="965,972,1164,998"/>
+<area shape="rect" id="node44" href="$struct_move.html" title="Move" alt="" coords="1688,1381,1740,1408"/>
+<area shape="rect" id="node46" href="$class_quat_f.html" title="QuatF" alt="" coords="1685,1282,1743,1309"/>
+<area shape="rect" id="node47" href="$class_signal.html" title="Signal\&lt; void(SimObject\l *, String, String) \&gt;" alt="" coords="2003,906,2161,947"/>
+<area shape="rect" id="node48" href="$class_vector.html" title="Vector\&lt; ComponentField \&gt;" alt="" coords="2387,210,2566,237"/>
+<area shape="rect" id="node49" href="$struct_component_field.html" title="ComponentField" alt="" coords="2024,50,2140,77"/>
+</map>

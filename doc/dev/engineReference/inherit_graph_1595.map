@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_vector.html" title="Vector\&lt; void * \&gt;" alt="" coords="5,195,120,221"/>
+<area shape="rect" id="node2" href="$class_vector_ptr.html" title="Template for vectors of pointers. " alt="" coords="207,5,315,32"/>
+<area shape="rect" id="node3" href="$class_vector_ptr.html" title="VectorPtr\&lt; Dispatcher\l::IMessageListener * \&gt;" alt="" coords="185,57,338,98"/>
+<area shape="rect" id="node4" href="$class_vector_ptr.html" title="VectorPtr\&lt; GuiFrameSetCtrl\l::FrameDetail * \&gt;" alt="" coords="168,122,355,163"/>
+<area shape="rect" id="node5" href="$class_vector_ptr.html" title="VectorPtr\&lt; GuiListBoxCtrl\l::LBItem * \&gt;" alt="" coords="175,187,348,229"/>
+<area shape="rect" id="node6" href="$class_vector_ptr.html" title="VectorPtr\&lt; MacWindow * \&gt;" alt="" coords="171,253,352,280"/>
+<area shape="rect" id="node7" href="$class_vector_ptr.html" title="VectorPtr\&lt; SimObject * \&gt;" alt="" coords="176,304,347,331"/>
+<area shape="rect" id="node9" href="$class_vector_ptr.html" title="VectorPtr\&lt; TerrainBlock * \&gt;" alt="" coords="170,355,353,381"/>
+<area shape="rect" id="node8" href="$class_sim_object_list.html" title="SimObjectList" alt="" coords="403,304,507,331"/>
+</map>

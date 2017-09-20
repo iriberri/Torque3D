@@ -1,0 +1,6 @@
+<map id="FeatureSet" name="FeatureSet">
+<area shape="rect" id="node2" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="38,5,94,32"/>
+<area shape="rect" id="node5" href="$class_feature_type.html" title="FeatureType" alt="" coords="91,95,185,121"/>
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; FeatureSet\l::FeatureInfo \&gt;" alt="" coords="105,273,241,315"/>
+<area shape="rect" id="node4" href="$struct_feature_set_1_1_feature_info.html" title="FeatureSet::FeatureInfo" alt="" coords="133,184,292,211"/>
+</map>

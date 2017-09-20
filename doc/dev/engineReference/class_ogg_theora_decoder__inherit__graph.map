@@ -1,0 +1,4 @@
+<map id="OggTheoraDecoder" name="OggTheoraDecoder">
+<area shape="rect" id="node2" href="$class_ogg_decoder.html" title="Single substream in a multiplexed OGG stream. " alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node3" href="$class_i_input_stream.html" title="IInputStream\&lt; OggTheoraFrame * \&gt;" alt="" coords="124,5,352,32"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="SkyBox" name="SkyBox">
+<area shape="rect" id="node2" href="$class_scene_object.html" title="SceneObject" alt="" coords="1090,716,1187,743"/>
+<area shape="rect" id="node18" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="1393,625,1555,652"/>
+<area shape="rect" id="node21" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="1413,745,1535,772"/>
+<area shape="rect" id="node3" href="$class_net_object.html" title="NetObject" alt="" coords="348,1085,428,1112"/>
+<area shape="rect" id="node6" href="$struct_ghost_info.html" title="GhostInfo" alt="" coords="718,1204,795,1231"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="SimGroup" alt="" coords="57,307,137,333"/>
+<area shape="rect" id="node5" href="$class_bit_set32.html" title="BitSet32" alt="" coords="61,119,133,145"/>
+<area shape="rect" id="node15" href="$struct_d_d_s_file.html" title="DDSFile" alt="" coords="353,119,423,145"/>
+<area shape="rect" id="node7" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; NetObject \&gt;" alt="" coords="5,1085,188,1112"/>
+<area shape="rect" id="node8" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="683,1035,830,1061"/>
+<area shape="rect" id="node9" href="$class_process_object.html" title="ProcessObject" alt="" coords="703,1305,811,1332"/>
+<area shape="rect" id="node10" href="$struct_process_object_1_1_link.html" title="ProcessObject::Link" alt="" coords="1069,1228,1209,1255"/>
+<area shape="rect" id="node11" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="693,237,821,264"/>
+<area shape="rect" id="node12" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="333,401,443,428"/>
+<area shape="rect" id="node17" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="707,389,806,416"/>
+<area shape="rect" id="node13" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="337,169,439,196"/>
+<area shape="rect" id="node14" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="69,2265,125,2292"/>
+<area shape="rect" id="node38" href="$class_material.html" title="The basic material definition. " alt="" coords="1105,2011,1173,2037"/>
+<area shape="rect" id="node46" href="$class_file_name.html" title="FileName" alt="" coords="349,2265,427,2292"/>
+<area shape="rect" id="node16" href="$class_point3_i.html" title="Point3I" alt="" coords="357,273,419,300"/>
+<area shape="rect" id="node19" href="$class_matrix_f.html" title="MatrixF" alt="" coords="355,491,421,517"/>
+<area shape="rect" id="node28" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="702,880,811,907"/>
+<area shape="rect" id="node20" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="699,1255,815,1281"/>
+<area shape="rect" id="node22" href="$class_point3_f.html" title="Point3F" alt="" coords="355,768,421,795"/>
+<area shape="rect" id="node24" href="$class_sphere_f.html" title="SphereF" alt="" coords="721,931,792,957"/>
+<area shape="rect" id="node25" href="$class_box3_f.html" title="Box3F" alt="" coords="727,716,787,743"/>
+<area shape="rect" id="node23" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="659,119,855,145"/>
+<area shape="rect" id="node26" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="657,339,856,365"/>
+<area shape="rect" id="node27" href="$class_scene_container.html" title="SceneContainer" alt="" coords="699,547,814,573"/>
+<area shape="rect" id="node29" href="$class_point2_i.html" title="Point2I" alt="" coords="357,968,419,995"/>
+<area shape="rect" id="node30" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="681,597,833,624"/>
+<area shape="rect" id="node31" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="667,829,846,856"/>
+<area shape="rect" id="node32" href="$struct_sky_mat_params.html" title="SkyMatParams" alt="" coords="1083,1563,1195,1589"/>
+<area shape="rect" id="node33" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="1077,1512,1200,1539"/>
+<area shape="rect" id="node34" href="$class_vector.html" title="Vector\&lt; MatInstanceHook * \&gt;" alt="" coords="659,1457,854,1484"/>
+<area shape="rect" id="node35" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPC \&gt;" alt="" coords="1059,1345,1218,1386"/>
+<area shape="rect" id="node36" href="$class_g_f_x_vertex_buffer_handle_base.html" title="GFXVertexBufferHandleBase" alt="" coords="663,1356,851,1383"/>
+<area shape="rect" id="node48" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPNT \&gt;" alt="" coords="1059,1279,1218,1321"/>
+<area shape="rect" id="node37" href="$class_color_f.html" title="ColorF" alt="" coords="727,1635,787,1661"/>
+<area shape="rect" id="node39" href="$class_base_material_definition.html" title="BaseMaterialDefinition" alt="" coords="681,2101,832,2128"/>
+<area shape="rect" id="node40" href="$class_s_f_x_track.html" title="A datablock that describes sound data for playback. " alt="" coords="717,2419,796,2445"/>
+<area shape="rect" id="node41" href="$class_vector.html" title="Vector\&lt; RectF \&gt;" alt="" coords="697,1763,816,1789"/>
+<area shape="rect" id="node42" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="723,1896,790,1923"/>
+<area shape="rect" id="node43" href="$class_engine_enum_table.html" title="Table of values for an enumeration or bitfield type. " alt="" coords="693,1947,820,1973"/>
+<area shape="rect" id="node44" href="$class_point4_f.html" title="Point4F" alt="" coords="723,2051,790,2077"/>
+<area shape="rect" id="node45" href="$class_cubemap_data.html" title="A script interface for creating static or dynamic cubemaps. " alt="" coords="705,2152,809,2179"/>
+<area shape="rect" id="node47" href="$class_matrix_set.html" title="MatrixSet" alt="" coords="1099,1461,1178,1488"/>
+<area shape="rect" id="node49" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; Material \&gt;" alt="" coords="1053,1411,1224,1437"/>
+<area shape="rect" id="node50" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; Material \&gt;" alt="" coords="675,1407,838,1433"/>
+</map>

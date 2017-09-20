@@ -1,0 +1,8 @@
+<map id="SFXInternal::SFXVoiceTimeSource" name="SFXInternal::SFXVoiceTimeSource">
+<area shape="rect" id="node2" href="$class_s_f_x_voice.html" title="SFXVoice" alt="" coords="533,79,612,105"/>
+<area shape="rect" id="node3" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="195,5,304,32"/>
+<area shape="rect" id="node4" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node5" href="$class_i_positionable.html" title="IPositionable\&lt; U32 \&gt;" alt="" coords="178,56,321,83"/>
+<area shape="rect" id="node6" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SFXBuffer \&gt;" alt="" coords="163,107,336,133"/>
+<area shape="rect" id="node7" href="$class_signal.html" title="Signal\&lt; void(SFXVoice *) \&gt;" alt="" coords="160,161,339,188"/>
+</map>

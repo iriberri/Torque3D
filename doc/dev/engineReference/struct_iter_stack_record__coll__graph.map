@@ -1,0 +1,51 @@
+<map id="IterStackRecord" name="IterStackRecord">
+<area shape="rect" id="node2" href="$struct_iter_stack_record_1_1_string_pos.html" title="Information for a string iterator loop. " alt="" coords="1985,47,2165,73"/>
+<area shape="rect" id="node3" href="$struct_iter_stack_record_1_1_object_pos.html" title="Information for an object iterator loop. " alt="" coords="1777,99,1961,125"/>
+<area shape="rect" id="node4" href="$class_sim_set.html" title="SimSet" alt="" coords="1320,99,1385,125"/>
+<area shape="rect" id="node5" href="$class_sim_object.html" title="SimObject" alt="" coords="935,799,1018,825"/>
+<area shape="rect" id="node11" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1303,857,1402,884"/>
+<area shape="rect" id="node16" href="$union_namespace_1_1_entry_1_1_callback_union.html" title="Namespace::Entry::Callback\lUnion" alt="" coords="1259,586,1447,627"/>
+<area shape="rect" id="node6" href="$class_console_object.html" title="ConsoleObject" alt="" coords="616,876,723,903"/>
+<area shape="rect" id="node7" href="$class_engine_object.html" title="EngineObject" alt="" coords="354,896,454,923"/>
+<area shape="rect" id="node8" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,931,269,957"/>
+<area shape="rect" id="node9" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,931,111,957"/>
+<area shape="rect" id="node10" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="616,799,723,825"/>
+<area shape="rect" id="node12" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="891,1004,1062,1031"/>
+<area shape="rect" id="node13" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="927,903,1026,929"/>
+<area shape="rect" id="node14" href="$class_namespace.html" title="Namespace" alt="" coords="2030,665,2121,692"/>
+<area shape="rect" id="node15" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="1607,701,1737,728"/>
+<area shape="rect" id="node22" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="2299,579,2425,605"/>
+<area shape="rect" id="node17" href="$class_code_block.html" title="CodeBlock" alt="" coords="1310,741,1395,768"/>
+<area shape="rect" id="node18" href="$struct_compiler_1_1_console_parser.html" title="List of parsers for the compiler. " alt="" coords="893,636,1060,663"/>
+<area shape="rect" id="node19" href="$struct_console_function_header.html" title="Extended information about a console function. " alt="" coords="1273,652,1433,679"/>
+<area shape="rect" id="node20" href="$class_data_chunker.html" title="DataChunker" alt="" coords="1623,441,1721,468"/>
+<area shape="rect" id="node21" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="1270,439,1435,465"/>
+<area shape="rect" id="node23" href="$class_console_base_type.html" title="Information about a console type. " alt="" coords="2012,481,2139,508"/>
+<area shape="rect" id="node24" href="$class_engine_type_info.html" title="EngineTypeInfo" alt="" coords="1617,351,1727,377"/>
+<area shape="rect" id="node28" href="$class_engine_argument_type_table.html" title="Information about the return and argument types of a function type. " alt="" coords="1987,377,2164,404"/>
+<area shape="rect" id="node30" href="$struct_engine_field_table_1_1_field.html" title="A field descriptor in a field table. " alt="" coords="1997,264,2154,291"/>
+<area shape="rect" id="node25" href="$class_engine_export_scope.html" title="A group of engine exports. " alt="" coords="1284,997,1421,1024"/>
+<area shape="rect" id="node26" href="$class_engine_export.html" title="EngineExport" alt="" coords="1622,997,1722,1024"/>
+<area shape="rect" id="node27" href="$struct_engine_type_net_info.html" title="Networking related information for an engine API type. " alt="" coords="1287,215,1418,241"/>
+<area shape="rect" id="node29" href="$class_engine_field_table.html" title="Table of fields for a struct type. " alt="" coords="2301,292,2423,319"/>
+<area shape="rect" id="node31" href="$class_engine_enum_table.html" title="Table of values for an enumeration or bitfield type. " alt="" coords="1289,349,1416,376"/>
+<area shape="rect" id="node37" href="$struct_abstract_class_rep_1_1_field.html" title="AbstractClassRep::Field" alt="" coords="1591,532,1753,559"/>
+<area shape="rect" id="node50" href="$class_console_value.html" title="ConsoleValue" alt="" coords="1621,225,1723,252"/>
+<area shape="rect" id="node32" href="$struct_engine_enum_table_1_1_value.html" title="EngineEnumTable::Value" alt="" coords="893,349,1061,376"/>
+<area shape="rect" id="node33" href="$class_bit_set32.html" title="BitSet32" alt="" coords="1317,511,1389,537"/>
+<area shape="rect" id="node34" href="$class_engine_property_table.html" title="EnginePropertyTable" alt="" coords="1281,265,1424,292"/>
+<area shape="rect" id="node35" href="$struct_engine_property_table_1_1_property.html" title="EnginePropertyTable\l::Property" alt="" coords="905,258,1048,299"/>
+<area shape="rect" id="node36" href="$class_vector.html" title="Vector\&lt; Field \&gt;" alt="" coords="2019,532,2131,559"/>
+<area shape="rect" id="node38" href="$class_type_validator.html" title="TypeValidator" alt="" coords="1302,908,1403,935"/>
+<area shape="rect" id="node39" href="$class_taml_children.html" title="TamlChildren" alt="" coords="928,136,1025,163"/>
+<area shape="rect" id="node40" href="$class_sim_object_list.html" title="SimObjectList" alt="" coords="925,85,1029,112"/>
+<area shape="rect" id="node41" href="$class_vector_ptr.html" title="VectorPtr\&lt; SimObject * \&gt;" alt="" coords="584,85,755,112"/>
+<area shape="rect" id="node42" href="$class_vector.html" title="Vector\&lt; void * \&gt;" alt="" coords="347,85,461,112"/>
+<area shape="rect" id="node43" href="$class_signal.html" title="Signal\&lt; void(SetModification\l modification, SimSet *set,\l SimObject *object) \&gt;" alt="" coords="884,5,1069,61"/>
+<area shape="rect" id="node44" href="$struct_dictionary_1_1_entry.html" title="Dictionary::Entry" alt="" coords="2016,213,2135,240"/>
+<area shape="rect" id="node45" href="$class_signal_3_01void_07_08_4.html" title="Signal\&lt; void()\&gt;" alt="" coords="1618,167,1726,193"/>
+<area shape="rect" id="node46" href="$class_signal_base_t.html" title="SignalBaseT\&lt; void()\&gt;" alt="" coords="1280,164,1425,191"/>
+<area shape="rect" id="node47" href="$class_signal_base.html" title="SignalBase" alt="" coords="933,187,1021,213"/>
+<area shape="rect" id="node48" href="$class_vector.html" title="Vector\&lt; SignalBase\l::DelegateLink * \&gt;" alt="" coords="600,223,739,265"/>
+<area shape="rect" id="node49" href="$struct_signal_base_1_1_delegate_link.html" title="SignalBase::DelegateLink" alt="" coords="319,201,489,228"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="JournaledSignal&lt; void(A)&gt;" name="JournaledSignal&lt; void(A)&gt;">
+<area shape="rect" id="node2" href="$class_signal_3_01void_07_a_08_4.html" title="Signal\&lt; void(A)\&gt;" alt="" coords="33,353,150,380"/>
+<area shape="rect" id="node3" href="$class_signal_base_t.html" title="SignalBaseT\&lt; void(A)\&gt;" alt="" coords="14,277,169,304"/>
+<area shape="rect" id="node4" href="$class_signal_base.html" title="SignalBase" alt="" coords="47,201,135,228"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; SignalBase\l::DelegateLink * \&gt;" alt="" coords="110,97,249,139"/>
+<area shape="rect" id="node6" href="$struct_signal_base_1_1_delegate_link.html" title="SignalBase::DelegateLink" alt="" coords="6,7,177,33"/>
+</map>

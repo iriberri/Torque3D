@@ -1,0 +1,6 @@
+<map id="ThreadPool::WorkerThread" name="ThreadPool::WorkerThread">
+<area shape="rect" id="node2" href="$class_thread.html" title="Thread" alt="" coords="132,95,193,121"/>
+<area shape="rect" id="node3" href="$class_platform_thread_data.html" title="PlatformThreadData" alt="" coords="205,184,341,211"/>
+<area shape="rect" id="node4" href="$class_semaphore.html" title="Semaphore" alt="" coords="277,95,365,121"/>
+<area shape="rect" id="node5" href="$class_platform_semaphore.html" title="PlatformSemaphore" alt="" coords="253,5,389,32"/>
+</map>

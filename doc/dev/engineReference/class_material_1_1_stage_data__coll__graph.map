@@ -1,0 +1,8 @@
+<map id="Material::StageData" name="Material::StageData">
+<area shape="rect" id="node2" href="$class_hash_table.html" title="HashTable\&lt; const Feature\lType *, GFXTexHandle \&gt;" alt="" coords="5,171,180,212"/>
+<area shape="rect" id="node3" href="$class_g_f_x_cubemap.html" title="GFXCubemap" alt="" coords="204,178,307,205"/>
+<area shape="rect" id="node4" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="70,81,179,108"/>
+<area shape="rect" id="node5" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="72,5,177,32"/>
+<area shape="rect" id="node6" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="204,81,307,108"/>
+<area shape="rect" id="node7" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="331,81,387,108"/>
+</map>

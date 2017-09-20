@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_render_pass_data.html" title="This contains the common data needed to render a pass. " alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$class_shader_render_pass_data.html" title="ShaderRenderPassData" alt="" coords="173,5,335,32"/>
+</map>

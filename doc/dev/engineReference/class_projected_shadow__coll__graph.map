@@ -1,0 +1,51 @@
+<map id="ProjectedShadow" name="ProjectedShadow">
+<area shape="rect" id="node2" href="$class_shadow_base.html" title="ShadowBase" alt="" coords="1483,35,1581,61"/>
+<area shape="rect" id="node3" href="$class_scene_object.html" title="SceneObject" alt="" coords="713,1432,810,1459"/>
+<area shape="rect" id="node11" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="1071,1500,1233,1527"/>
+<area shape="rect" id="node14" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="1091,1373,1213,1400"/>
+<area shape="rect" id="node38" href="$class_game_base.html" title="GameBase" alt="" coords="1109,1155,1195,1181"/>
+<area shape="rect" id="node40" href="$struct_shape_base_1_1_collision_timeout.html" title="ShapeBase::CollisionTimeout" alt="" coords="1056,1016,1248,1043"/>
+<area shape="rect" id="node43" href="$class_convex.html" title="Convex" alt="" coords="1120,1259,1184,1285"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="NetObject" alt="" coords="346,1471,426,1497"/>
+<area shape="rect" id="node5" href="$class_bit_set32.html" title="BitSet32" alt="" coords="21,1433,93,1460"/>
+<area shape="rect" id="node6" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="313,1575,459,1601"/>
+<area shape="rect" id="node7" href="$class_process_object.html" title="ProcessObject" alt="" coords="332,1676,440,1703"/>
+<area shape="rect" id="node8" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="322,860,450,887"/>
+<area shape="rect" id="node9" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="29,421,85,448"/>
+<area shape="rect" id="node27" href="$class_decal_data.html" title="DataBlock implementation for decals. " alt="" coords="720,112,803,139"/>
+<area shape="rect" id="node37" href="$class_shape_base.html" title="ShapeBase" alt="" coords="1487,717,1577,744"/>
+<area shape="rect" id="node44" href="$struct_shape_base_1_1_mounted_image.html" title="An image mounted on a shapebase. " alt="" coords="1061,717,1243,744"/>
+<area shape="rect" id="node48" href="$struct_shape_base_data.html" title="ShapeBaseData" alt="" coords="521,419,637,445"/>
+<area shape="rect" id="node10" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="337,1727,435,1753"/>
+<area shape="rect" id="node12" href="$class_matrix_f.html" title="MatrixF" alt="" coords="23,1823,90,1849"/>
+<area shape="rect" id="node21" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="331,1625,441,1652"/>
+<area shape="rect" id="node46" href="$class_t_s_shape_instance.html" title="TSShapeInstance" alt="" coords="699,928,823,955"/>
+<area shape="rect" id="node13" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="328,1884,444,1911"/>
+<area shape="rect" id="node15" href="$class_point3_f.html" title="Point3F" alt="" coords="23,1024,90,1051"/>
+<area shape="rect" id="node17" href="$class_sphere_f.html" title="SphereF" alt="" coords="351,1125,421,1152"/>
+<area shape="rect" id="node18" href="$class_box3_f.html" title="Box3F" alt="" coords="356,1244,416,1271"/>
+<area shape="rect" id="node26" href="$class_decal_instance.html" title="DecalInstance" alt="" coords="1100,171,1204,197"/>
+<area shape="rect" id="node16" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="288,1935,484,1961"/>
+<area shape="rect" id="node19" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="287,1985,485,2012"/>
+<area shape="rect" id="node20" href="$class_scene_container.html" title="SceneContainer" alt="" coords="329,2036,443,2063"/>
+<area shape="rect" id="node22" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="310,1075,462,1101"/>
+<area shape="rect" id="node23" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="297,1357,475,1384"/>
+<area shape="rect" id="node24" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; PostEffect \&gt;" alt="" coords="1440,1931,1624,1957"/>
+<area shape="rect" id="node25" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; PostEffect \&gt;" alt="" coords="1064,1931,1240,1957"/>
+<area shape="rect" id="node28" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="333,5,439,32"/>
+<area shape="rect" id="node29" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="325,133,447,160"/>
+<area shape="rect" id="node30" href="$class_rect_f.html" title="RectF" alt="" coords="357,184,415,211"/>
+<area shape="rect" id="node31" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; Material \&gt;" alt="" coords="301,235,471,261"/>
+<area shape="rect" id="node32" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="707,281,815,308"/>
+<area shape="rect" id="node49" href="$class_cube_reflector.html" title="CubeReflector" alt="" coords="1101,460,1203,487"/>
+<area shape="rect" id="node33" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; RenderPass\lManager \&gt;" alt="" coords="1441,1982,1623,2023"/>
+<area shape="rect" id="node34" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; RenderPassManager \&gt;" alt="" coords="1033,1989,1271,2016"/>
+<area shape="rect" id="node35" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lTarget \&gt;" alt="" coords="673,461,849,502"/>
+<area shape="rect" id="node36" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="327,472,445,499"/>
+<area shape="rect" id="node39" href="$class_i_scene_light.html" title="ISceneLight" alt="" coords="1107,511,1197,537"/>
+<area shape="rect" id="node41" href="$struct_shape_base_1_1_thread.html" title="ShapeBase::Thread" alt="" coords="873,885,1009,912"/>
+<area shape="rect" id="node42" href="$class_t_s_thread.html" title="TSThread" alt="" coords="347,741,425,768"/>
+<area shape="rect" id="node45" href="$class_net_string_handle.html" title="NetStringHandle" alt="" coords="703,827,819,853"/>
+<area shape="rect" id="node47" href="$class_bit_vector.html" title="Manage a vector of bits of arbitrary size. " alt="" coords="1114,561,1190,588"/>
+<area shape="rect" id="node50" href="$class_material_parameter_handle.html" title="MaterialParameterHandle" alt="" coords="1448,2048,1616,2075"/>
+</map>

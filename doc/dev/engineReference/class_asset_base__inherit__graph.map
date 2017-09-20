@@ -1,0 +1,12 @@
+<map id="AssetBase" name="AssetBase">
+<area shape="rect" id="node8" href="$class_component_asset.html" title="ComponentAsset" alt="" coords="5,453,128,480"/>
+<area shape="rect" id="node9" href="$class_example_asset.html" title="ExampleAsset" alt="" coords="152,453,259,480"/>
+<area shape="rect" id="node10" href="$class_game_object_asset.html" title="GameObjectAsset" alt="" coords="283,453,413,480"/>
+<area shape="rect" id="node11" href="$class_shape_asset.html" title="ShapeAsset" alt="" coords="437,453,531,480"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="SimObject" alt="" coords="235,304,317,331"/>
+<area shape="rect" id="node3" href="$class_console_object.html" title="ConsoleObject" alt="" coords="157,229,264,256"/>
+<area shape="rect" id="node4" href="$class_engine_object.html" title="EngineObject" alt="" coords="161,155,261,181"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="156,80,265,107"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="158,5,263,32"/>
+<area shape="rect" id="node7" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="288,229,395,256"/>
+</map>

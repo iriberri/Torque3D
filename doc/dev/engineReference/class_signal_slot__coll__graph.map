@@ -1,0 +1,6 @@
+<map id="SignalSlot&lt; Signature &gt;" name="SignalSlot&lt; Signature &gt;">
+<area shape="rect" id="node2" href="$class_signal_base_t.html" title="SignalBaseT\&lt; Signature \&gt;" alt="" coords="5,277,180,304"/>
+<area shape="rect" id="node3" href="$class_signal_base.html" title="SignalBase" alt="" coords="49,201,137,228"/>
+<area shape="rect" id="node4" href="$class_vector.html" title="Vector\&lt; SignalBase\l::DelegateLink * \&gt;" alt="" coords="111,97,250,139"/>
+<area shape="rect" id="node5" href="$struct_signal_base_1_1_delegate_link.html" title="SignalBase::DelegateLink" alt="" coords="7,7,178,33"/>
+</map>

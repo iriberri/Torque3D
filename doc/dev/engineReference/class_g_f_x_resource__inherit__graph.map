@@ -1,0 +1,43 @@
+<map id="GFXResource" name="GFXResource">
+<area shape="rect" id="node2" href="$class_g_f_x_cubemap.html" title="GFXCubemap" alt="" coords="182,81,285,108"/>
+<area shape="rect" id="node6" href="$class_g_f_x_fence.html" title="GFXFence" alt="" coords="192,233,275,260"/>
+<area shape="rect" id="node10" href="$class_g_f_x_occlusion_query.html" title="GFXOcclusionQuery" alt="" coords="163,360,303,387"/>
+<area shape="rect" id="node13" href="$class_g_f_x_primitive_buffer.html" title="GFXPrimitiveBuffer" alt="" coords="169,487,298,513"/>
+<area shape="rect" id="node17" href="$class_g_f_x_shader.html" title="GFXShader" alt="" coords="189,613,277,640"/>
+<area shape="rect" id="node20" href="$class_g_f_x_shader_const_buffer.html" title="GFXShaderConstBuffer" alt="" coords="156,664,311,691"/>
+<area shape="rect" id="node23" href="$class_g_f_x_state_block.html" title="GFXStateBlock" alt="" coords="178,791,289,817"/>
+<area shape="rect" id="node27" href="$class_g_f_x_target.html" title="GFXTarget" alt="" coords="192,917,275,944"/>
+<area shape="rect" id="node35" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="169,1044,297,1071"/>
+<area shape="rect" id="node39" href="$class_g_f_x_vertex_buffer.html" title="GFXVertexBuffer" alt="" coords="174,1196,293,1223"/>
+<area shape="rect" id="node3" href="$class_g_f_x_d3_d11_cubemap.html" title="GFXD3D11Cubemap" alt="" coords="385,5,527,32"/>
+<area shape="rect" id="node4" href="$class_g_f_x_g_l_cubemap.html" title="GFXGLCubemap" alt="" coords="397,56,515,83"/>
+<area shape="rect" id="node5" href="$class_g_f_x_null_cubemap.html" title="GFXNullCubemap" alt="" coords="394,107,518,133"/>
+<area shape="rect" id="node7" href="$class_g_f_x_d3_d11_query_fence.html" title="GFXD3D11QueryFence" alt="" coords="377,157,535,184"/>
+<area shape="rect" id="node8" href="$class_g_f_x_general_fence.html" title="GFXGeneralFence" alt="" coords="392,208,520,235"/>
+<area shape="rect" id="node9" href="$class_g_f_x_g_l_apple_fence.html" title="GFXGLAppleFence" alt="" coords="389,259,523,285"/>
+<area shape="rect" id="node11" href="$class_g_f_x_d3_d11_occlusion_query.html" title="GFXD3D11OcclusionQuery" alt="" coords="367,309,545,336"/>
+<area shape="rect" id="node12" href="$class_g_f_x_g_l_occlusion_query.html" title="GFXGLOcclusionQuery" alt="" coords="377,360,535,387"/>
+<area shape="rect" id="node14" href="$class_g_f_x_d3_d11_primitive_buffer.html" title="GFXD3D11PrimitiveBuffer" alt="" coords="372,411,540,437"/>
+<area shape="rect" id="node15" href="$class_g_f_x_g_l_primitive_buffer.html" title="This is a primitive buffer (index buffer to GL users) which uses VBOs. " alt="" coords="383,461,529,488"/>
+<area shape="rect" id="node16" href="$class_g_f_x_null_primitive_buffer.html" title="GFXNullPrimitiveBuffer" alt="" coords="381,512,531,539"/>
+<area shape="rect" id="node18" href="$class_g_f_x_d3_d11_shader.html" title="GFXD3D11Shader" alt="" coords="393,563,519,589"/>
+<area shape="rect" id="node19" href="$class_g_f_x_g_l_shader.html" title="GFXGLShader" alt="" coords="403,613,509,640"/>
+<area shape="rect" id="node21" href="$class_g_f_x_d3_d11_shader_const_buffer.html" title="The D3D11 implementation of a shader constant buffer. " alt="" coords="359,664,553,691"/>
+<area shape="rect" id="node22" href="$class_g_f_x_g_l_shader_const_buffer.html" title="GFXGLShaderConstBuffer" alt="" coords="370,715,542,741"/>
+<area shape="rect" id="node24" href="$class_g_f_x_d3_d11_state_block.html" title="GFXD3D11StateBlock" alt="" coords="381,765,531,792"/>
+<area shape="rect" id="node25" href="$class_g_f_x_g_l_state_block.html" title="GFXGLStateBlock" alt="" coords="392,816,520,843"/>
+<area shape="rect" id="node26" href="$class_g_f_x_null_state_block.html" title="GFXNullStateBlock" alt="" coords="389,867,523,893"/>
+<area shape="rect" id="node28" href="$class_g_f_x_texture_target.html" title="GFXTextureTarget" alt="" coords="393,917,519,944"/>
+<area shape="rect" id="node31" href="$class_g_f_x_window_target.html" title="GFXWindowTarget" alt="" coords="391,968,521,995"/>
+<area shape="rect" id="node29" href="$class_g_f_x_d3_d11_texture_target.html" title="GFXD3D11TextureTarget" alt="" coords="603,867,768,893"/>
+<area shape="rect" id="node30" href="$class_g_f_x_g_l_texture_target.html" title="GFXGLTextureTarget" alt="" coords="614,917,757,944"/>
+<area shape="rect" id="node32" href="$class_g_f_x_d3_d11_window_target.html" title="GFXD3D11WindowTarget" alt="" coords="601,968,769,995"/>
+<area shape="rect" id="node33" href="$class_g_f_x_g_l_window_target.html" title="GFXGLWindowTarget" alt="" coords="612,1019,759,1045"/>
+<area shape="rect" id="node34" href="$class_g_f_x_null_window_target.html" title="GFXNullWindowTarget" alt="" coords="610,1069,761,1096"/>
+<area shape="rect" id="node36" href="$class_g_f_x_d3_d11_texture_object.html" title="GFXD3D11TextureObject" alt="" coords="373,1019,539,1045"/>
+<area shape="rect" id="node37" href="$class_g_f_x_g_l_texture_object.html" title="GFXGLTextureObject" alt="" coords="383,1069,529,1096"/>
+<area shape="rect" id="node38" href="$class_g_f_x_null_texture_object.html" title="GFXNullTextureObject" alt="" coords="381,1120,531,1147"/>
+<area shape="rect" id="node40" href="$class_g_f_x_d3_d11_vertex_buffer.html" title="GFXD3D11VertexBuffer" alt="" coords="377,1171,535,1197"/>
+<area shape="rect" id="node41" href="$class_g_f_x_g_l_vertex_buffer.html" title="This is a vertex buffer which uses GL_ARB_vertex_buffer_object. " alt="" coords="389,1221,523,1248"/>
+<area shape="rect" id="node42" href="$class_g_f_x_null_vertex_buffer.html" title="GFXNullVertexBuffer" alt="" coords="386,1272,526,1299"/>
+</map>

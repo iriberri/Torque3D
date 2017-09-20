@@ -1,0 +1,8 @@
+<map id="GFXCubemap" name="GFXCubemap">
+<area shape="rect" id="node5" href="$class_g_f_x_d3_d11_cubemap.html" title="GFXD3D11Cubemap" alt="" coords="5,229,147,256"/>
+<area shape="rect" id="node6" href="$class_g_f_x_g_l_cubemap.html" title="GFXGLCubemap" alt="" coords="171,229,290,256"/>
+<area shape="rect" id="node7" href="$class_g_f_x_null_cubemap.html" title="GFXNullCubemap" alt="" coords="314,229,438,256"/>
+<area shape="rect" id="node2" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="111,80,220,107"/>
+<area shape="rect" id="node3" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="113,5,218,32"/>
+<area shape="rect" id="node4" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="245,80,347,107"/>
+</map>

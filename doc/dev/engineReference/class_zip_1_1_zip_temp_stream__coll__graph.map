@@ -1,0 +1,9 @@
+<map id="Zip::ZipTempStream" name="Zip::ZipTempStream">
+<area shape="rect" id="node2" href="$class_file_stream.html" title="FileStream" alt="" coords="5,273,91,300"/>
+<area shape="rect" id="node3" href="$class_stream.html" title="Base stream class for streaming data across a specific media. " alt="" coords="16,184,80,211"/>
+<area shape="rect" id="node4" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="100,95,156,121"/>
+<area shape="rect" id="node6" href="$class_zip_1_1_file_header.html" title="Zip::FileHeader" alt="" coords="165,184,275,211"/>
+<area shape="rect" id="node5" href="$class_zip_1_1_central_dir.html" title="Zip::CentralDir" alt="" coords="165,273,269,300"/>
+<area shape="rect" id="node7" href="$class_vector.html" title="Vector\&lt; Zip::ExtraField * \&gt;" alt="" coords="282,95,459,121"/>
+<area shape="rect" id="node8" href="$class_zip_1_1_extra_field.html" title="Zip::ExtraField" alt="" coords="317,5,424,32"/>
+</map>

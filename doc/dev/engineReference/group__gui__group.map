@@ -1,0 +1,4 @@
+<map id="Gui System" name="Gui System">
+<area shape="rect" id="node1" href="$group__gui__container__group.html" title="Containers" alt="" coords="144,5,228,32"/>
+<area shape="rect" id="node2" href="$group__gui__core__group.html" title="Core" alt="" coords="161,56,211,83"/>
+</map>

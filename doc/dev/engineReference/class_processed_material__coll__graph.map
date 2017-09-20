@@ -1,0 +1,51 @@
+<map id="ProcessedMaterial" name="ProcessedMaterial">
+<area shape="rect" id="node2" href="$class_material.html" title="The basic material definition. " alt="" coords="1956,941,2024,968"/>
+<area shape="rect" id="node3" href="$class_base_material_definition.html" title="BaseMaterialDefinition" alt="" coords="917,967,1068,993"/>
+<area shape="rect" id="node4" href="$class_sim_object.html" title="SimObject" alt="" coords="475,1029,557,1056"/>
+<area shape="rect" id="node8" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="756,1015,855,1041"/>
+<area shape="rect" id="node11" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="753,1379,858,1405"/>
+<area shape="rect" id="node22" href="$class_cubemap_data.html" title="A script interface for creating static or dynamic cubemaps. " alt="" coords="1147,752,1251,779"/>
+<area shape="rect" id="node5" href="$class_console_object.html" title="ConsoleObject" alt="" coords="181,1029,287,1056"/>
+<area shape="rect" id="node6" href="$class_engine_object.html" title="EngineObject" alt="" coords="5,1029,105,1056"/>
+<area shape="rect" id="node7" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="181,1080,287,1107"/>
+<area shape="rect" id="node9" href="$class_namespace.html" title="Namespace" alt="" coords="189,979,279,1005"/>
+<area shape="rect" id="node10" href="$class_s_f_x_track.html" title="A datablock that describes sound data for playback. " alt="" coords="1580,1429,1659,1456"/>
+<area shape="rect" id="node12" href="$class_s_f_x_description.html" title="SFXDescription" alt="" coords="1144,1379,1255,1405"/>
+<area shape="rect" id="node13" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="488,319,544,345"/>
+<area shape="rect" id="node26" href="$class_file_name.html" title="FileName" alt="" coords="767,804,844,831"/>
+<area shape="rect" id="node27" href="$class_feature_set.html" title="FeatureSet" alt="" coords="762,431,849,457"/>
+<area shape="rect" id="node32" href="$struct_g_f_x_shader_const_desc.html" title="Instances of this struct are returned GFXShaderConstBuffer. " alt="" coords="729,291,881,317"/>
+<area shape="rect" id="node33" href="$class_mat_state_hint.html" title="MatStateHint" alt="" coords="1375,651,1473,677"/>
+<area shape="rect" id="node35" href="$struct_g_f_x_shader_macro.html" title="Passed to GFX for shader defines. " alt="" coords="743,21,867,48"/>
+<area shape="rect" id="node39" href="$class_g_f_x_vertex_format.html" title="GFXVertexFormat" alt="" coords="1556,135,1683,161"/>
+<area shape="rect" id="node42" href="$class_g_f_x_vertex_element.html" title="GFXVertexElement" alt="" coords="739,72,872,99"/>
+<area shape="rect" id="node44" href="$struct_render_pass_data.html" title="This contains the common data needed to render a pass. " alt="" coords="1559,452,1679,479"/>
+<area shape="rect" id="node50" href="$class_g_f_x_cubemap.html" title="GFXCubemap" alt="" coords="754,173,857,200"/>
+<area shape="rect" id="node14" href="$class_vector.html" title="Vector\&lt; RectF \&gt;" alt="" coords="1560,1017,1679,1044"/>
+<area shape="rect" id="node15" href="$class_rect_f.html" title="RectF" alt="" coords="1171,1032,1228,1059"/>
+<area shape="rect" id="node16" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="772,1148,839,1175"/>
+<area shape="rect" id="node17" href="$class_color_f.html" title="ColorF" alt="" coords="1589,1245,1649,1272"/>
+<area shape="rect" id="node18" href="$class_point2_i.html" title="Point2I" alt="" coords="1588,1379,1651,1405"/>
+<area shape="rect" id="node19" href="$class_engine_enum_table.html" title="Table of values for an enumeration or bitfield type. " alt="" coords="1556,611,1683,637"/>
+<area shape="rect" id="node20" href="$struct_engine_enum_table_1_1_value.html" title="EngineEnumTable::Value" alt="" coords="1115,701,1283,728"/>
+<area shape="rect" id="node21" href="$class_point4_f.html" title="Point4F" alt="" coords="1586,715,1653,741"/>
+<area shape="rect" id="node23" href="$class_g_f_x_cubemap_handle.html" title="A reference counted handle to a cubemap resource. " alt="" coords="734,481,877,508"/>
+<area shape="rect" id="node24" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lTarget \&gt;" alt="" coords="717,738,893,779"/>
+<area shape="rect" id="node25" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="751,600,859,627"/>
+<area shape="rect" id="node45" href="$struct_render_pass_data_1_1_tex_slot_t.html" title="RenderPassData::TexSlotT" alt="" coords="1110,600,1289,627"/>
+<area shape="rect" id="node46" href="$struct_material_feature_data.html" title="MaterialFeatureData" alt="" coords="1130,485,1269,512"/>
+<area shape="rect" id="node28" href="$class_vector.html" title="Vector\&lt; FeatureSet\l::FeatureInfo \&gt;" alt="" coords="448,679,584,721"/>
+<area shape="rect" id="node29" href="$struct_feature_set_1_1_feature_info.html" title="FeatureSet::FeatureInfo" alt="" coords="155,687,313,713"/>
+<area shape="rect" id="node30" href="$class_material_parameters.html" title="MaterialParameters" alt="" coords="1729,296,1863,323"/>
+<area shape="rect" id="node31" href="$class_vector.html" title="Vector\&lt; GFXShaderConstDesc \&gt;" alt="" coords="1092,283,1307,309"/>
+<area shape="rect" id="node34" href="$class_vector.html" title="Vector\&lt; GFXShaderMacro \&gt;" alt="" coords="1331,29,1517,56"/>
+<area shape="rect" id="node36" href="$struct_g_f_x_state_block_desc.html" title="GFXStateBlockDesc defines a render state, which is then used to create a GFXStateBlock instance..." alt="" coords="1919,1531,2061,1557"/>
+<area shape="rect" id="node37" href="$struct_g_f_x_sampler_state_desc.html" title="GFXSamplerStateDesc" alt="" coords="1541,1531,1697,1557"/>
+<area shape="rect" id="node38" href="$class_color_i.html" title="ColorI" alt="" coords="1592,1708,1647,1735"/>
+<area shape="rect" id="node40" href="$class_g_f_x_vertex_decl.html" title="GFXVertexDecl" alt="" coords="1144,121,1255,148"/>
+<area shape="rect" id="node41" href="$class_vector.html" title="Vector\&lt; GFXVertexElement \&gt;" alt="" coords="1102,71,1297,97"/>
+<area shape="rect" id="node43" href="$class_vector.html" title="Vector\&lt; RenderPassData * \&gt;" alt="" coords="1895,440,2085,467"/>
+<area shape="rect" id="node47" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1095,435,1304,461"/>
+<area shape="rect" id="node48" href="$class_material_1_1_stage_data.html" title="Material::StageData" alt="" coords="1131,232,1268,259"/>
+<area shape="rect" id="node49" href="$class_hash_table.html" title="HashTable\&lt; const Feature\lType *, GFXTexHandle \&gt;" alt="" coords="718,225,893,266"/>
+</map>

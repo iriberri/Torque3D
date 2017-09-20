@@ -1,0 +1,45 @@
+<map id="SFXBuffer::AsyncState" name="SFXBuffer::AsyncState">
+<area shape="rect" id="node16" href="$class_thread_safe_ref.html" title="ThreadSafeRef\&lt; AsyncState \&gt;" alt="" coords="3399,269,3598,296"/>
+<area shape="rect" id="node2" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; AsyncState \&gt;" alt="" coords="2753,223,2893,265"/>
+<area shape="rect" id="node3" href="$class_s_f_x_internal_1_1_s_f_x_async_queue.html" title="SFXInternal::SFXAsyncQueue" alt="" coords="4437,227,4632,253"/>
+<area shape="rect" id="node4" href="$class_async_packet_queue.html" title="AsyncPacketQueue\&lt; SFXStream\lPacket *, SFXVoiceTimeSource,\l SFXBuffer * \&gt;" alt="" coords="4172,353,4388,409"/>
+<area shape="rect" id="node5" href="$class_s_f_x_internal_1_1_s_f_x_voice_time_source.html" title="SFXInternal::SFXVoiceTime\lSource" alt="" coords="3825,558,4007,599"/>
+<area shape="rect" id="node6" href="$class_s_f_x_voice.html" title="SFXVoice" alt="" coords="3459,655,3538,681"/>
+<area shape="rect" id="node7" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="3055,471,3164,497"/>
+<area shape="rect" id="node12" href="$class_s_f_x_buffer.html" title="SFXBuffer" alt="" coords="3877,396,3955,423"/>
+<area shape="rect" id="node8" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="2770,471,2875,497"/>
+<area shape="rect" id="node9" href="$class_i_positionable.html" title="IPositionable\&lt; U32 \&gt;" alt="" coords="3038,604,3181,631"/>
+<area shape="rect" id="node10" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SFXBuffer \&gt;" alt="" coords="3023,655,3196,681"/>
+<area shape="rect" id="node11" href="$class_signal.html" title="Signal\&lt; void(SFXVoice *) \&gt;" alt="" coords="3020,715,3199,741"/>
+<area shape="rect" id="node13" href="$class_i_polled.html" title="IPolled" alt="" coords="3468,421,3529,448"/>
+<area shape="rect" id="node14" href="$class_i_output_stream.html" title="IOutputStream\&lt; SFXInternal\l::SFXStreamPacket * \&gt;" alt="" coords="3407,473,3591,514"/>
+<area shape="rect" id="node15" href="$class_signal.html" title="Signal\&lt; void(SFXBuffer\l *buffer, Status newStatus) \&gt;" alt="" coords="3404,538,3593,579"/>
+<area shape="rect" id="node17" href="$class_s_f_x_format.html" title="SFXFormat" alt="" coords="3455,604,3542,631"/>
+<area shape="rect" id="node18" href="$class_signal.html" title="Signal\&lt; void(SFXBuffer *) \&gt;" alt="" coords="3409,219,3588,245"/>
+<area shape="rect" id="node19" href="$class_strong_weak_ref_ptr.html" title="StrongWeakRefPtr\&lt; SFXVoice \&gt;" alt="" coords="3393,320,3604,347"/>
+<area shape="rect" id="node20" href="$class_fixed_size_deque.html" title="FixedSizeDeque\&lt; QueuedPacket \&gt;" alt="" coords="3803,345,4029,372"/>
+<area shape="rect" id="node21" href="$class_thread_safe_ref.html" title="ThreadSafeRef\&lt; SFXInternal\l::SFXAsyncStream \&gt;" alt="" coords="2731,158,2915,199"/>
+<area shape="rect" id="node22" href="$class_s_f_x_internal_1_1_s_f_x_async_stream.html" title="SFXInternal::SFXAsyncStream" alt="" coords="2451,165,2649,192"/>
+<area shape="rect" id="node23" href="$class_async_packet_buffered_input_stream.html" title="AsyncPacketBufferedInput\lStream\&lt; SFXStreamRef,\l SFXStreamPacket \&gt;" alt="" coords="2227,151,2401,207"/>
+<area shape="rect" id="node24" href="$class_async_buffered_input_stream.html" title="AsyncBufferedInputStream\l\&lt; SFXStreamPacket *, SFXStreamRef \&gt;" alt="" coords="1923,158,2177,199"/>
+<area shape="rect" id="node25" href="$class_i_input_stream_filter.html" title="IInputStreamFilter\l\&lt; SFXStreamPacket *,\l SFXStreamRef \&gt;" alt="" coords="1547,5,1701,61"/>
+<area shape="rect" id="node26" href="$class_i_input_stream.html" title="IInputStream\&lt; SFXStreamPacket * \&gt;" alt="" coords="1080,20,1315,47"/>
+<area shape="rect" id="node27" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; AsyncBufferedInputStream\l\&lt; SFXStreamPacket *, SFXStreamRef \&gt; \&gt;" alt="" coords="1491,85,1757,141"/>
+<area shape="rect" id="node28" href="$class_thread_pool.html" title="ThreadPool" alt="" coords="1581,165,1667,192"/>
+<area shape="rect" id="node29" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="1169,289,1225,316"/>
+<area shape="rect" id="node30" href="$class_semaphore.html" title="Semaphore" alt="" coords="263,101,351,128"/>
+<area shape="rect" id="node38" href="$class_platform_thread_data.html" title="PlatformThreadData" alt="" coords="511,72,647,99"/>
+<area shape="rect" id="node31" href="$class_platform_semaphore.html" title="PlatformSemaphore" alt="" coords="5,101,141,128"/>
+<area shape="rect" id="node32" href="$struct_thread_safe_priority_queue_with_update.html" title="ThreadSafePriorityQueueWith\lUpdate\&lt; WorkItemWrapper, F32 \&gt;" alt="" coords="1086,185,1309,226"/>
+<area shape="rect" id="node33" href="$struct_thread_safe_priority_queue.html" title="ThreadSafePriorityQueue\l\&lt; WorkItemWrapper, F32,\l false, 4, 50 \&gt;" alt="" coords="764,264,937,320"/>
+<area shape="rect" id="node34" href="$class_thread_safe_ref.html" title="ThreadSafeRef\&lt; Node \&gt;" alt="" coords="499,299,659,325"/>
+<area shape="rect" id="node35" href="$struct_thread_safe_priority_queue.html" title="ThreadSafePriorityQueue\l\&lt; ThreadSafeRef\&lt; Node\l \&gt;, TickType, true, 4, 50 \&gt;" alt="" coords="764,184,937,240"/>
+<area shape="rect" id="node40" href="$class_thread_safe_deque.html" title="ThreadSafeDeque\&lt; Element\lType \&gt;" alt="" coords="1532,350,1716,391"/>
+<area shape="rect" id="node42" href="$class_thread_safe_deque_1_1_node.html" title="List node. " alt="" coords="779,346,922,387"/>
+<area shape="rect" id="node36" href="$struct_thread_pool_1_1_worker_thread.html" title="ThreadPool::WorkerThread" alt="" coords="1109,72,1285,99"/>
+<area shape="rect" id="node37" href="$class_thread.html" title="Thread" alt="" coords="820,71,881,97"/>
+<area shape="rect" id="node39" href="$class_thread_pool_1_1_context.html" title="ThreadPool::Context" alt="" coords="1554,299,1694,325"/>
+<area shape="rect" id="node41" href="$class_thread_safe_free_list.html" title="ThreadSafeFreeList\l\&lt; ThreadSafeDeque::Node \&gt;" alt="" coords="1104,346,1291,387"/>
+<area shape="rect" id="node43" href="$class_thread_safe_free_list_node.html" title="ThreadSafeFreeListNode\l\&lt; Node, DeleteNode \&gt;" alt="" coords="497,373,661,414"/>
+<area shape="rect" id="node44" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; Node, DeleteNode \&gt;" alt="" coords="232,373,383,414"/>
+</map>

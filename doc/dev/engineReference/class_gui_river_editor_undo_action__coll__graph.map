@@ -1,0 +1,51 @@
+<map id="GuiRiverEditorUndoAction" name="GuiRiverEditorUndoAction">
+<area shape="rect" id="node2" href="$class_undo_action.html" title="UndoAction" alt="" coords="1758,1656,1847,1683"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="SimObject" alt="" coords="993,1685,1075,1712"/>
+<area shape="rect" id="node9" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1377,1827,1475,1853"/>
+<area shape="rect" id="node17" href="$class_undo_manager.html" title="UndoManager" alt="" coords="1375,1668,1477,1695"/>
+<area shape="rect" id="node29" href="$struct_camera_query.html" title="CameraQuery" alt="" coords="1375,704,1477,731"/>
+<area shape="rect" id="node40" href="$class_gizmo_profile.html" title="GizmoProfile" alt="" coords="1755,1208,1851,1235"/>
+<area shape="rect" id="node46" href="$class_sim_set.html" title="SimSet" alt="" coords="1393,883,1459,909"/>
+<area shape="rect" id="node4" href="$class_console_object.html" title="ConsoleObject" alt="" coords="668,1656,775,1683"/>
+<area shape="rect" id="node5" href="$class_engine_object.html" title="EngineObject" alt="" coords="371,1656,471,1683"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,1656,269,1683"/>
+<area shape="rect" id="node35" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="495,480,612,507"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,1656,111,1683"/>
+<area shape="rect" id="node8" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="668,1707,775,1733"/>
+<area shape="rect" id="node10" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="949,1820,1119,1847"/>
+<area shape="rect" id="node11" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="985,1960,1083,1987"/>
+<area shape="rect" id="node12" href="$class_namespace.html" title="Namespace" alt="" coords="676,2092,767,2119"/>
+<area shape="rect" id="node13" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="969,2049,1099,2076"/>
+<area shape="rect" id="node15" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="971,2183,1097,2209"/>
+<area shape="rect" id="node14" href="$class_data_chunker.html" title="DataChunker" alt="" coords="372,2092,469,2119"/>
+<area shape="rect" id="node16" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="1398,1617,1454,1644"/>
+<area shape="rect" id="node21" href="$class_gui_river_editor_ctrl.html" title="GuiRiverEditorCtrl" alt="" coords="2351,1059,2475,1085"/>
+<area shape="rect" id="node18" href="$class_vector.html" title="Vector\&lt; RiverNode \&gt;" alt="" coords="1908,1444,2051,1471"/>
+<area shape="rect" id="node19" href="$struct_river_node.html" title="RiverNode" alt="" coords="1386,1528,1466,1555"/>
+<area shape="rect" id="node20" href="$class_point3_f.html" title="Point3F" alt="" coords="1001,1299,1067,1325"/>
+<area shape="rect" id="node22" href="$class_edit_t_s_ctrl.html" title="EditTSCtrl" alt="" coords="2110,940,2191,967"/>
+<area shape="rect" id="node42" href="$struct_gui3_d_mouse_event.html" title="Gui3DMouseEvent" alt="" coords="1563,1345,1692,1372"/>
+<area shape="rect" id="node23" href="$class_gui_t_s_ctrl.html" title="Abstract base class for 3D viewport GUIs. " alt="" coords="1763,339,1842,365"/>
+<area shape="rect" id="node25" href="$class_vector.html" title="Vector\&lt; GuiTSCtrl * \&gt;" alt="" coords="2076,155,2225,181"/>
+<area shape="rect" id="node24" href="$class_gui_container.html" title="GuiContainer" alt="" coords="1377,229,1475,256"/>
+<area shape="rect" id="node26" href="$class_rect_i.html" title="RectI" alt="" coords="1008,705,1060,732"/>
+<area shape="rect" id="node27" href="$class_point2_i.html" title="Point2I" alt="" coords="690,756,753,783"/>
+<area shape="rect" id="node36" href="$class_frustum.html" title="Frustum" alt="" coords="1391,463,1461,489"/>
+<area shape="rect" id="node43" href="$struct_gui_event.html" title="GuiEvent" alt="" coords="997,1095,1071,1121"/>
+<area shape="rect" id="node28" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; NamedTexTarget \&gt;" alt="" coords="1319,280,1533,307"/>
+<area shape="rect" id="node30" href="$class_matrix_f.html" title="MatrixF" alt="" coords="1001,560,1067,587"/>
+<area shape="rect" id="node31" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="1001,324,1067,351"/>
+<area shape="rect" id="node32" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiOffscreen\lCanvas \&gt;" alt="" coords="1333,331,1519,373"/>
+<area shape="rect" id="node33" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCT \&gt;" alt="" coords="1347,397,1505,438"/>
+<area shape="rect" id="node34" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1321,116,1531,143"/>
+<area shape="rect" id="node37" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; Gizmo \&gt;" alt="" coords="1721,1375,1884,1401"/>
+<area shape="rect" id="node38" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; Gizmo \&gt;" alt="" coords="1349,1427,1503,1453"/>
+<area shape="rect" id="node39" href="$class_color_i.html" title="ColorI" alt="" coords="1399,1111,1453,1137"/>
+<area shape="rect" id="node41" href="$class_resource.html" title="Resource\&lt; GFont \&gt;" alt="" coords="1357,1224,1495,1251"/>
+<area shape="rect" id="node44" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; River \&gt;" alt="" coords="2075,655,2227,681"/>
+<area shape="rect" id="node45" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; River \&gt;" alt="" coords="1731,655,1875,681"/>
+<area shape="rect" id="node47" href="$class_taml_children.html" title="TamlChildren" alt="" coords="985,857,1083,884"/>
+<area shape="rect" id="node48" href="$class_sim_object_list.html" title="SimObjectList" alt="" coords="982,1028,1086,1055"/>
+<area shape="rect" id="node49" href="$class_vector_ptr.html" title="VectorPtr\&lt; SimObject * \&gt;" alt="" coords="636,1028,807,1055"/>
+<area shape="rect" id="node50" href="$class_signal.html" title="Signal\&lt; void(SetModification\l modification, SimSet *set,\l SimObject *object) \&gt;" alt="" coords="941,923,1127,979"/>
+</map>

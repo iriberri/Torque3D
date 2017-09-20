@@ -1,0 +1,8 @@
+<map id="GlyphMap" name="GlyphMap">
+<area shape="rect" id="node2" href="$class_g_bitmap.html" title="GBitmap" alt="" coords="136,95,209,121"/>
+<area shape="rect" id="node4" href="$struct_g_bitmap_1_1_registration.html" title="GBitmap::Registration" alt="" coords="251,184,401,211"/>
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; GBitmap::Registration \&gt;" alt="" coords="5,273,217,300"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; String \&gt;" alt="" coords="271,95,389,121"/>
+<area shape="rect" id="node6" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="302,5,358,32"/>
+<area shape="rect" id="node7" href="$class_stream.html" title="Base stream class for streaming data across a specific media. " alt="" coords="414,95,478,121"/>
+</map>

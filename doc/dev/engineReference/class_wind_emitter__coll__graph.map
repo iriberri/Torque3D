@@ -1,0 +1,5 @@
+<map id="WindEmitter" name="WindEmitter">
+<area shape="rect" id="node2" href="$class_vector.html" title="Vector\&lt; T \&gt;" alt="" coords="5,171,96,197"/>
+<area shape="rect" id="node4" href="$class_point3_f.html" title="Point3F" alt="" coords="145,43,212,70"/>
+<area shape="rect" id="node5" href="$class_sphere_f.html" title="SphereF" alt="" coords="245,171,315,197"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="TSSkinMesh::BatchData" name="TSSkinMesh::BatchData">
+<area shape="rect" id="node2" href="$class_vector.html" title="Vector\&lt; S32 \&gt;" alt="" coords="583,79,689,106"/>
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; TSSkinMesh\l::BatchData::BatchedVertex \&gt;" alt="" coords="537,131,735,172"/>
+<area shape="rect" id="node4" href="$struct_t_s_skin_mesh_1_1_batch_data_1_1_batched_vertex.html" title="TSSkinMesh::BatchData\l::BatchedVertex" alt="" coords="277,5,443,47"/>
+<area shape="rect" id="node5" href="$struct_t_s_skin_mesh_1_1_batch_data_1_1_transform_op.html" title="TSSkinMesh::BatchData\l::TransformOp" alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node6" href="$class_vector.html" title="Vector\&lt; Point3F \&gt;" alt="" coords="571,198,701,225"/>
+<area shape="rect" id="node7" href="$class_point3_f.html" title="Point3F" alt="" coords="327,198,393,225"/>
+<area shape="rect" id="node8" href="$class_vector.html" title="Vector\&lt; MatrixF \&gt;" alt="" coords="572,258,700,285"/>
+<area shape="rect" id="node9" href="$class_matrix_f.html" title="MatrixF" alt="" coords="327,287,393,314"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="PhysicsPlugin" name="PhysicsPlugin">
+<area shape="rect" id="node2" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="269,44,325,71"/>
+<area shape="rect" id="node3" href="$class_signal.html" title="Signal\&lt; Signature \&gt;" alt="" coords="228,95,365,121"/>
+<area shape="rect" id="node4" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SimSet \&gt;" alt="" coords="213,145,380,172"/>
+<area shape="rect" id="node5" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SimSet \&gt;" alt="" coords="5,145,164,172"/>
+<area shape="rect" id="node6" href="$class_map.html" title="Map\&lt; StringNoCase,\l PhysicsWorld * \&gt;" alt="" coords="225,197,368,238"/>
+</map>

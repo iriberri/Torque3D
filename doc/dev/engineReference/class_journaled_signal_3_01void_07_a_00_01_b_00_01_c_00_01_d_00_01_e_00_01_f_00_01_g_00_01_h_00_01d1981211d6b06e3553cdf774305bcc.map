@@ -1,0 +1,7 @@
+<map id="JournaledSignal&lt; void(A, B, C, D, E, F, G, H, I, J, K, L, M)&gt;" name="JournaledSignal&lt; void(A, B, C, D, E, F, G, H, I, J, K, L, M)&gt;">
+<area shape="rect" id="node2" href="$class_signal_3_01void_07_a_00_01_b_00_01_c_00_01_d_00_01_e_00_01_f_00_01_g_00_01_h_00_01_i_00_01_j_00_01_k_00_01_l_00_01_m_08_4.html" title="Signal\&lt; void(A, B,\l C, D, E, F, G, H, I,\l J, K, L, M)\&gt;" alt="" coords="23,383,158,439"/>
+<area shape="rect" id="node3" href="$class_signal_base_t.html" title="SignalBaseT\&lt; void(A,\l B, C, D, E, F, G, H,\l I, J, K, L, M)\&gt;" alt="" coords="17,277,164,333"/>
+<area shape="rect" id="node4" href="$class_signal_base.html" title="SignalBase" alt="" coords="47,201,135,228"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; SignalBase\l::DelegateLink * \&gt;" alt="" coords="109,97,248,139"/>
+<area shape="rect" id="node6" href="$struct_signal_base_1_1_delegate_link.html" title="SignalBase::DelegateLink" alt="" coords="5,7,176,33"/>
+</map>

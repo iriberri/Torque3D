@@ -1,0 +1,51 @@
+<map id="NetConnection::PacketNotify" name="NetConnection::PacketNotify">
+<area shape="rect" id="node35" href="$class_net_connection.html" title="NetConnection" alt="" coords="2014,287,2121,313"/>
+<area shape="rect" id="node2" href="$struct_net_connection_1_1_ghost_ref.html" title="NetConnection::GhostRef" alt="" coords="2572,196,2741,223"/>
+<area shape="rect" id="node3" href="$struct_ghost_info.html" title="GhostInfo" alt="" coords="2323,268,2401,295"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="NetObject" alt="" coords="2617,376,2697,403"/>
+<area shape="rect" id="node39" href="$struct_net_connection_1_1_ghost_save.html" title="Structure to track ghost&#45;always objects and their ghost indices. " alt="" coords="2827,137,3005,164"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="SimGroup" alt="" coords="1659,433,1739,460"/>
+<area shape="rect" id="node6" href="$class_sim_set.html" title="SimSet" alt="" coords="1327,433,1392,460"/>
+<area shape="rect" id="node7" href="$class_sim_object.html" title="SimObject" alt="" coords="935,697,1018,724"/>
+<area shape="rect" id="node13" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1310,908,1409,935"/>
+<area shape="rect" id="node18" href="$union_namespace_1_1_entry_1_1_callback_union.html" title="Namespace::Entry::Callback\lUnion" alt="" coords="1265,737,1453,778"/>
+<area shape="rect" id="node8" href="$class_console_object.html" title="ConsoleObject" alt="" coords="616,544,723,571"/>
+<area shape="rect" id="node50" href="$class_net_event.html" title="NetEvent" alt="" coords="939,264,1014,291"/>
+<area shape="rect" id="node9" href="$class_engine_object.html" title="EngineObject" alt="" coords="354,544,454,571"/>
+<area shape="rect" id="node10" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,857,269,884"/>
+<area shape="rect" id="node11" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,857,111,884"/>
+<area shape="rect" id="node12" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="616,697,723,724"/>
+<area shape="rect" id="node14" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="891,1023,1062,1049"/>
+<area shape="rect" id="node15" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="927,921,1026,948"/>
+<area shape="rect" id="node16" href="$class_namespace.html" title="Namespace" alt="" coords="2022,701,2113,728"/>
+<area shape="rect" id="node17" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="1634,769,1765,796"/>
+<area shape="rect" id="node24" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="2299,759,2425,785"/>
+<area shape="rect" id="node19" href="$class_code_block.html" title="CodeBlock" alt="" coords="1317,841,1402,868"/>
+<area shape="rect" id="node20" href="$struct_compiler_1_1_console_parser.html" title="List of parsers for the compiler. " alt="" coords="893,832,1060,859"/>
+<area shape="rect" id="node21" href="$struct_console_function_header.html" title="Extended information about a console function. " alt="" coords="1279,959,1439,985"/>
+<area shape="rect" id="node22" href="$class_data_chunker.html" title="DataChunker" alt="" coords="1651,624,1748,651"/>
+<area shape="rect" id="node23" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="1277,624,1442,651"/>
+<area shape="rect" id="node25" href="$class_console_base_type.html" title="Information about a console type. " alt="" coords="2004,871,2131,897"/>
+<area shape="rect" id="node26" href="$class_vector.html" title="Vector\&lt; Field \&gt;" alt="" coords="2011,767,2123,793"/>
+<area shape="rect" id="node27" href="$class_taml_children.html" title="TamlChildren" alt="" coords="928,525,1025,552"/>
+<area shape="rect" id="node28" href="$class_sim_object_list.html" title="SimObjectList" alt="" coords="925,475,1029,501"/>
+<area shape="rect" id="node29" href="$class_vector_ptr.html" title="VectorPtr\&lt; SimObject * \&gt;" alt="" coords="584,595,755,621"/>
+<area shape="rect" id="node30" href="$class_vector.html" title="Vector\&lt; void * \&gt;" alt="" coords="347,595,461,621"/>
+<area shape="rect" id="node31" href="$class_signal.html" title="Signal\&lt; void(SetModification\l modification, SimSet *set,\l SimObject *object) \&gt;" alt="" coords="884,395,1069,451"/>
+<area shape="rect" id="node32" href="$class_bit_set32.html" title="BitSet32" alt="" coords="2326,611,2398,637"/>
+<area shape="rect" id="node33" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; NetObject \&gt;" alt="" coords="1608,535,1791,561"/>
+<area shape="rect" id="node34" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; NetObject \&gt;" alt="" coords="1272,535,1447,561"/>
+<area shape="rect" id="node36" href="$class_connection_protocol.html" title="ConnectionProtocol" alt="" coords="1632,293,1767,320"/>
+<area shape="rect" id="node37" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="1671,383,1727,409"/>
+<area shape="rect" id="node38" href="$class_vector.html" title="Vector\&lt; NetConnection\l::GhostSave \&gt;" alt="" coords="3100,41,3257,82"/>
+<area shape="rect" id="node40" href="$class_signal_3_01void_07_08_4.html" title="Signal\&lt; void()\&gt;" alt="" coords="1645,192,1753,219"/>
+<area shape="rect" id="node41" href="$class_signal_base_t.html" title="SignalBaseT\&lt; void()\&gt;" alt="" coords="1287,192,1432,219"/>
+<area shape="rect" id="node42" href="$class_signal_base.html" title="SignalBase" alt="" coords="933,192,1021,219"/>
+<area shape="rect" id="node43" href="$class_vector.html" title="Vector\&lt; SignalBase\l::DelegateLink * \&gt;" alt="" coords="600,151,739,193"/>
+<area shape="rect" id="node44" href="$struct_signal_base_1_1_delegate_link.html" title="SignalBase::DelegateLink" alt="" coords="319,197,489,224"/>
+<area shape="rect" id="node45" href="$class_vector.html" title="Vector\&lt; char * \&gt;" alt="" coords="1640,141,1759,168"/>
+<area shape="rect" id="node46" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; NetConnection \&gt;" alt="" coords="1595,484,1804,511"/>
+<area shape="rect" id="node47" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; NetConnection \&gt;" alt="" coords="1259,484,1460,511"/>
+<area shape="rect" id="node48" href="$class_stream.html" title="Base stream class for streaming data across a specific media. " alt="" coords="1667,243,1731,269"/>
+<area shape="rect" id="node49" href="$struct_net_event_note.html" title="NetEventNote" alt="" coords="1309,129,1410,156"/>
+</map>

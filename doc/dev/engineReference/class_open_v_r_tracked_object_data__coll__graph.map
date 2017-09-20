@@ -1,0 +1,46 @@
+<map id="OpenVRTrackedObjectData" name="OpenVRTrackedObjectData">
+<area shape="rect" id="node2" href="$struct_game_base_data.html" title="GameBaseData" alt="" coords="1808,795,1923,821"/>
+<area shape="rect" id="node3" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="1435,845,1540,872"/>
+<area shape="rect" id="node4" href="$class_sim_object.html" title="SimObject" alt="" coords="1089,777,1172,804"/>
+<area shape="rect" id="node10" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1438,903,1537,929"/>
+<area shape="rect" id="node15" href="$union_namespace_1_1_entry_1_1_callback_union.html" title="Namespace::Entry::Callback\lUnion" alt="" coords="1393,667,1581,709"/>
+<area shape="rect" id="node5" href="$class_console_object.html" title="ConsoleObject" alt="" coords="735,689,842,716"/>
+<area shape="rect" id="node6" href="$class_engine_object.html" title="EngineObject" alt="" coords="379,689,479,716"/>
+<area shape="rect" id="node26" href="$class_static_engine_object.html" title="StaticEngineObject" alt="" coords="721,639,856,665"/>
+<area shape="rect" id="node7" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,717,269,744"/>
+<area shape="rect" id="node44" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="371,741,488,768"/>
+<area shape="rect" id="node45" href="$class_resource_base_1_1_header.html" title="ResourceBase::Header" alt="" coords="512,596,668,623"/>
+<area shape="rect" id="node8" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,717,111,744"/>
+<area shape="rect" id="node9" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="735,807,842,833"/>
+<area shape="rect" id="node11" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="1045,859,1216,885"/>
+<area shape="rect" id="node12" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="1081,948,1180,975"/>
+<area shape="rect" id="node13" href="$class_namespace.html" title="Namespace" alt="" coords="2171,461,2262,488"/>
+<area shape="rect" id="node14" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="1800,521,1931,548"/>
+<area shape="rect" id="node21" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="2441,373,2568,400"/>
+<area shape="rect" id="node16" href="$class_code_block.html" title="CodeBlock" alt="" coords="1445,556,1530,583"/>
+<area shape="rect" id="node17" href="$struct_compiler_1_1_console_parser.html" title="List of parsers for the compiler. " alt="" coords="1047,556,1214,583"/>
+<area shape="rect" id="node18" href="$struct_console_function_header.html" title="Extended information about a console function. " alt="" coords="1407,467,1567,493"/>
+<area shape="rect" id="node19" href="$class_data_chunker.html" title="DataChunker" alt="" coords="1817,416,1914,443"/>
+<area shape="rect" id="node20" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="1405,416,1570,443"/>
+<area shape="rect" id="node22" href="$class_console_base_type.html" title="Information about a console type. " alt="" coords="2153,268,2280,295"/>
+<area shape="rect" id="node23" href="$class_engine_type_info.html" title="EngineTypeInfo" alt="" coords="1810,143,1921,169"/>
+<area shape="rect" id="node28" href="$class_engine_argument_type_table.html" title="Information about the return and argument types of a function type. " alt="" coords="2128,160,2305,187"/>
+<area shape="rect" id="node30" href="$struct_engine_field_table_1_1_field.html" title="A field descriptor in a field table. " alt="" coords="2138,105,2295,132"/>
+<area shape="rect" id="node24" href="$class_engine_export_scope.html" title="A group of engine exports. " alt="" coords="1419,44,1556,71"/>
+<area shape="rect" id="node25" href="$class_engine_export.html" title="EngineExport" alt="" coords="1081,55,1181,81"/>
+<area shape="rect" id="node27" href="$struct_engine_type_net_info.html" title="Networking related information for an engine API type. " alt="" coords="1422,145,1553,172"/>
+<area shape="rect" id="node29" href="$class_engine_field_table.html" title="Table of fields for a struct type. " alt="" coords="2444,68,2565,95"/>
+<area shape="rect" id="node31" href="$class_engine_enum_table.html" title="Table of values for an enumeration or bitfield type. " alt="" coords="1424,211,1551,237"/>
+<area shape="rect" id="node37" href="$struct_abstract_class_rep_1_1_field.html" title="AbstractClassRep::Field" alt="" coords="1784,324,1947,351"/>
+<area shape="rect" id="node32" href="$struct_engine_enum_table_1_1_value.html" title="EngineEnumTable::Value" alt="" coords="1047,211,1215,237"/>
+<area shape="rect" id="node33" href="$class_bit_set32.html" title="BitSet32" alt="" coords="1451,276,1523,303"/>
+<area shape="rect" id="node34" href="$class_engine_property_table.html" title="EnginePropertyTable" alt="" coords="1416,95,1559,121"/>
+<area shape="rect" id="node35" href="$struct_engine_property_table_1_1_property.html" title="EnginePropertyTable\l::Property" alt="" coords="1059,115,1202,157"/>
+<area shape="rect" id="node36" href="$class_vector.html" title="Vector\&lt; Field \&gt;" alt="" coords="2161,327,2273,353"/>
+<area shape="rect" id="node38" href="$class_type_validator.html" title="TypeValidator" alt="" coords="1437,327,1538,353"/>
+<area shape="rect" id="node39" href="$class_signal.html" title="Signal\&lt; void(void)\&gt;" alt="" coords="1422,795,1553,821"/>
+<area shape="rect" id="node40" href="$class_point3_f.html" title="Point3F" alt="" coords="1832,972,1899,999"/>
+<area shape="rect" id="node41" href="$class_resource.html" title="Resource\&lt; TSShape \&gt;" alt="" coords="1605,612,1760,639"/>
+<area shape="rect" id="node42" href="$class_resource_base.html" title="ResourceBase" alt="" coords="1077,607,1184,633"/>
+<area shape="rect" id="node43" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; ResourceBase\l::Header \&gt;" alt="" coords="692,741,885,782"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ReservedSocketList&lt; T &gt;" name="ReservedSocketList&lt; T &gt;">
+<area shape="rect" id="node2" href="$class_mutex.html" title="Mutex" alt="" coords="45,206,104,233"/>
+<area shape="rect" id="node3" href="$struct_platform_mutex_data.html" title="PlatformMutexData" alt="" coords="5,102,139,129"/>
+<area shape="rect" id="node4" href="$class_vector.html" title="Vector\&lt; ReservedSocketList\l::EntryType \&gt;" alt="" coords="129,199,316,240"/>
+<area shape="rect" id="node5" href="$struct_reserved_socket_list_1_1_entry_type.html" title="ReservedSocketList\l\&lt; T \&gt;::EntryType" alt="" coords="163,95,301,136"/>
+</map>

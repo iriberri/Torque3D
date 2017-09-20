@@ -1,0 +1,12 @@
+<map id="ThreadPool" name="ThreadPool">
+<area shape="rect" id="node2" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="1097,44,1153,71"/>
+<area shape="rect" id="node3" href="$class_semaphore.html" title="Semaphore" alt="" coords="232,116,320,143"/>
+<area shape="rect" id="node11" href="$class_platform_thread_data.html" title="PlatformThreadData" alt="" coords="447,145,583,172"/>
+<area shape="rect" id="node4" href="$class_platform_semaphore.html" title="PlatformSemaphore" alt="" coords="5,116,141,143"/>
+<area shape="rect" id="node5" href="$struct_thread_safe_priority_queue_with_update.html" title="ThreadSafePriorityQueueWith\lUpdate\&lt; WorkItemWrapper, F32 \&gt;" alt="" coords="1013,214,1236,255"/>
+<area shape="rect" id="node6" href="$struct_thread_safe_priority_queue.html" title="ThreadSafePriorityQueue\l\&lt; WorkItemWrapper, F32,\l false, 4, 50 \&gt;" alt="" coords="697,207,871,263"/>
+<area shape="rect" id="node7" href="$class_thread_safe_ref.html" title="ThreadSafeRef\&lt; Node \&gt;" alt="" coords="435,268,595,295"/>
+<area shape="rect" id="node8" href="$struct_thread_safe_priority_queue.html" title="ThreadSafePriorityQueue\l\&lt; ThreadSafeRef\&lt; Node\l \&gt;, TickType, true, 4, 50 \&gt;" alt="" coords="697,287,871,343"/>
+<area shape="rect" id="node9" href="$struct_thread_pool_1_1_worker_thread.html" title="ThreadPool::WorkerThread" alt="" coords="1037,148,1213,175"/>
+<area shape="rect" id="node10" href="$class_thread.html" title="Thread" alt="" coords="753,156,815,183"/>
+</map>

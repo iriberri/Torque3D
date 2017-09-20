@@ -1,0 +1,13 @@
+<map id="GuiTabBookCtrl" name="GuiTabBookCtrl">
+<area shape="rect" id="node2" href="$class_gui_container.html" title="GuiContainer" alt="" coords="134,603,231,629"/>
+<area shape="rect" id="node3" href="$class_gui_control.html" title="GuiControl" alt="" coords="141,528,224,555"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="SimGroup" alt="" coords="143,453,223,480"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="SimSet" alt="" coords="150,379,215,405"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="SimObject" alt="" coords="84,304,167,331"/>
+<area shape="rect" id="node7" href="$class_console_object.html" title="ConsoleObject" alt="" coords="7,229,113,256"/>
+<area shape="rect" id="node8" href="$class_engine_object.html" title="EngineObject" alt="" coords="10,155,110,181"/>
+<area shape="rect" id="node9" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="5,80,115,107"/>
+<area shape="rect" id="node10" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="7,5,113,32"/>
+<area shape="rect" id="node11" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="137,229,244,256"/>
+<area shape="rect" id="node12" href="$class_taml_children.html" title="TamlChildren" alt="" coords="191,304,289,331"/>
+</map>

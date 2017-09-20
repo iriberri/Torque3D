@@ -1,0 +1,7 @@
+<map id="BasicLightManager::LightingShaderConstants" name="BasicLightManager::LightingShaderConstants">
+<area shape="rect" id="node2" href="$class_g_f_x_shader_const_handle.html" title="GFXShaderConstHandle" alt="" coords="5,247,168,273"/>
+<area shape="rect" id="node3" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXShader \&gt;" alt="" coords="192,247,379,273"/>
+<area shape="rect" id="node4" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="227,171,344,197"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="231,81,340,108"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="233,5,338,32"/>
+</map>

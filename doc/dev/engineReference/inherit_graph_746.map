@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_platform_timer.html" title="PlatformTimer" alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$class_default_platform_timer.html" title="DefaultPlatformTimer" alt="" coords="156,5,299,32"/>
+<area shape="rect" id="node3" href="$class_win32_timer.html" title="Win32Timer" alt="" coords="182,56,273,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Memory::FreeHeader" name="Memory::FreeHeader">
+<area shape="rect" id="node2" href="$struct_memory_1_1_tree_node.html" title="Red/Black Tree Node &#45; used to store queues of free blocks. " alt="" coords="11,227,143,254"/>
+<area shape="rect" id="node3" href="$struct_memory_1_1_header.html" title="Memory::Header" alt="" coords="18,7,137,33"/>
+</map>

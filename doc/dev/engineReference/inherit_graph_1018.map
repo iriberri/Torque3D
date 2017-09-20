@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_silhouette_extractor_base.html" title="SilhouetteExtractorBase\l\&lt; PolyhedronType \&gt;" alt="" coords="5,13,168,54"/>
+<area shape="rect" id="node2" href="$struct_silhouette_extractor_base_perspective.html" title="SilhouetteExtractorBasePerspective\l\&lt; PolyhedronType \&gt;" alt="" coords="216,13,447,54"/>
+<area shape="rect" id="node3" href="$struct_silhouette_extractor_impl.html" title="SilhouetteExtractorImpl\l\&lt; SilhouetteExtractorBasePerspective\l\&lt; PolyhedronType \&gt; \&gt;" alt="" coords="495,5,737,61"/>
+</map>

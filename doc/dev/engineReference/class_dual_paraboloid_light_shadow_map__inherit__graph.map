@@ -1,0 +1,4 @@
+<map id="DualParaboloidLightShadowMap" name="DualParaboloidLightShadowMap">
+<area shape="rect" id="node2" href="$class_paraboloid_light_shadow_map.html" title="ParaboloidLightShadowMap" alt="" coords="18,80,201,107"/>
+<area shape="rect" id="node3" href="$class_light_shadow_map.html" title="LightShadowMap" alt="" coords="49,5,170,32"/>
+</map>

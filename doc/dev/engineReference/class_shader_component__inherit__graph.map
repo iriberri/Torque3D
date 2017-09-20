@@ -1,0 +1,12 @@
+<map id="ShaderComponent" name="ShaderComponent">
+<area shape="rect" id="node2" href="$class_params_def.html" title="This is to provide common functionalty needed by vertex and pixel main defs. " alt="" coords="201,107,287,133"/>
+<area shape="rect" id="node8" href="$class_shader_connector.html" title="ShaderConnector" alt="" coords="183,208,305,235"/>
+<area shape="rect" id="node3" href="$class_params_def_h_l_s_l.html" title="ParamsDefHLSL" alt="" coords="377,31,496,57"/>
+<area shape="rect" id="node6" href="$class_pixel_params_def_g_l_s_l.html" title="PixelParamsDefGLSL" alt="" coords="363,81,511,108"/>
+<area shape="rect" id="node7" href="$class_vertex_params_def_g_l_s_l.html" title="VertexParamsDefGLSL" alt="" coords="358,132,515,159"/>
+<area shape="rect" id="node4" href="$class_pixel_params_def_h_l_s_l.html" title="PixelParamsDefHLSL" alt="" coords="573,5,719,32"/>
+<area shape="rect" id="node5" href="$class_vertex_params_def_h_l_s_l.html" title="VertexParamsDefHLSL" alt="" coords="568,56,724,83"/>
+<area shape="rect" id="node9" href="$class_app_vert_connector_g_l_s_l.html" title="AppVertConnectorGLSL" alt="" coords="356,183,517,209"/>
+<area shape="rect" id="node10" href="$class_shader_connector_h_l_s_l.html" title="ShaderConnectorHLSL" alt="" coords="359,233,514,260"/>
+<area shape="rect" id="node11" href="$class_vert_pixel_connector_g_l_s_l.html" title="VertPixelConnectorGLSL" alt="" coords="353,284,520,311"/>
+</map>

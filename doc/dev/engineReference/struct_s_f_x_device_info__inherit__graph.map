@@ -1,0 +1,6 @@
+<map id="SFXDeviceInfo" name="SFXDeviceInfo">
+<area shape="rect" id="node2" href="$struct_s_f_x_a_l_provider_1_1_a_l_device_info.html" title="SFXALProvider::ALDeviceInfo" alt="" coords="177,5,367,32"/>
+<area shape="rect" id="node3" href="$struct_s_f_x_d_s_provider_1_1_d_s_device_info.html" title="SFXDSProvider::DSDeviceInfo" alt="" coords="175,56,369,83"/>
+<area shape="rect" id="node4" href="$struct_s_f_x_f_m_o_d_provider_1_1_f_mod_device_info.html" title="SFXFMODProvider::FModDeviceInfo" alt="" coords="157,107,387,133"/>
+<area shape="rect" id="node5" href="$struct_s_f_x_x_audio_provider_1_1_x_a_device_info.html" title="SFXXAudioProvider::\lXADeviceInfo" alt="" coords="202,158,342,199"/>
+</map>

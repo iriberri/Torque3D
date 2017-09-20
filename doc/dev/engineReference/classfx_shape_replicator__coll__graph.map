@@ -1,0 +1,51 @@
+<map id="fxShapeReplicator" name="fxShapeReplicator">
+<area shape="rect" id="node2" href="$class_scene_object.html" title="SceneObject" alt="" coords="1804,776,1901,803"/>
+<area shape="rect" id="node29" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="2112,633,2273,660"/>
+<area shape="rect" id="node31" href="$class_scene_object_ref_base.html" title="SceneObjectRefBase\l\&lt; SceneObjectRef \&gt;" alt="" coords="2119,837,2266,878"/>
+<area shape="rect" id="node32" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="2132,785,2253,812"/>
+<area shape="rect" id="node3" href="$class_net_object.html" title="NetObject" alt="" coords="1061,100,1141,127"/>
+<area shape="rect" id="node6" href="$struct_ghost_info.html" title="GhostInfo" alt="" coords="1437,76,1514,103"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="SimGroup" alt="" coords="635,107,715,133"/>
+<area shape="rect" id="node5" href="$class_bit_set32.html" title="BitSet32" alt="" coords="639,179,711,205"/>
+<area shape="rect" id="node15" href="$struct_d_d_s_file.html" title="DDSFile" alt="" coords="1065,392,1136,419"/>
+<area shape="rect" id="node7" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; NetObject \&gt;" alt="" coords="584,56,767,83"/>
+<area shape="rect" id="node8" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="1402,313,1549,340"/>
+<area shape="rect" id="node9" href="$class_process_object.html" title="ProcessObject" alt="" coords="1421,1623,1529,1649"/>
+<area shape="rect" id="node10" href="$struct_process_object_1_1_link.html" title="ProcessObject::Link" alt="" coords="1783,1641,1923,1668"/>
+<area shape="rect" id="node11" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="1411,635,1539,661"/>
+<area shape="rect" id="node12" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="36,443,145,469"/>
+<area shape="rect" id="node22" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="320,1471,437,1497"/>
+<area shape="rect" id="node25" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="329,229,428,256"/>
+<area shape="rect" id="node13" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="624,796,727,823"/>
+<area shape="rect" id="node17" href="$class_g_f_x_device.html" title="GFXDevice" alt="" coords="1058,991,1143,1017"/>
+<area shape="rect" id="node14" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="647,560,703,587"/>
+<area shape="rect" id="node42" href="$class_light_manager.html" title="LightManager" alt="" coords="1803,1295,1903,1321"/>
+<area shape="rect" id="node16" href="$class_point3_i.html" title="Point3I" alt="" coords="1069,725,1132,752"/>
+<area shape="rect" id="node18" href="$class_color_f.html" title="ColorF" alt="" coords="645,1197,705,1224"/>
+<area shape="rect" id="node48" href="$classfx_shape_replicator_1_1tag_field_data.html" title="fxShapeReplicator::\ltagFieldData" alt="" coords="1033,1462,1168,1503"/>
+<area shape="rect" id="node19" href="$class_point3_f.html" title="Point3F" alt="" coords="345,1093,412,1120"/>
+<area shape="rect" id="node35" href="$class_sphere_f.html" title="SphereF" alt="" coords="857,1015,928,1041"/>
+<area shape="rect" id="node36" href="$class_box3_f.html" title="Box3F" alt="" coords="645,1316,705,1343"/>
+<area shape="rect" id="node20" href="$class_matrix_f.html" title="MatrixF" alt="" coords="642,707,709,733"/>
+<area shape="rect" id="node41" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="1421,1300,1530,1327"/>
+<area shape="rect" id="node21" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="571,1589,780,1616"/>
+<area shape="rect" id="node23" href="$class_g_f_x_texture_profile.html" title="GFXTextureProfile" alt="" coords="1037,776,1164,803"/>
+<area shape="rect" id="node24" href="$class_g_bitmap.html" title="GBitmap" alt="" coords="1064,493,1137,520"/>
+<area shape="rect" id="node28" href="$class_sim_object.html" title="SimObject" alt="" coords="634,5,717,32"/>
+<area shape="rect" id="node26" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="5,252,176,279"/>
+<area shape="rect" id="node27" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="41,201,140,228"/>
+<area shape="rect" id="node30" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="2379,871,2495,897"/>
+<area shape="rect" id="node33" href="$class_scene_tracker.html" title="SceneTracker" alt="" coords="1801,1345,1904,1372"/>
+<area shape="rect" id="node34" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="1377,364,1573,391"/>
+<area shape="rect" id="node43" href="$class_scene_zone_space_manager.html" title="Object that manages zone spaces in a scene. " alt="" coords="1013,1300,1188,1327"/>
+<area shape="rect" id="node37" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="341,1316,416,1343"/>
+<area shape="rect" id="node38" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="1376,465,1575,492"/>
+<area shape="rect" id="node39" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SceneObject \&gt;" alt="" coords="1005,279,1196,305"/>
+<area shape="rect" id="node40" href="$class_scene_container.html" title="SceneContainer" alt="" coords="618,1367,733,1393"/>
+<area shape="rect" id="node44" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="1399,725,1551,752"/>
+<area shape="rect" id="node45" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="1386,776,1565,803"/>
+<area shape="rect" id="node46" href="$class_vector.html" title="Vector\&lt; fxShapeReplicated\lStatic * \&gt;" alt="" coords="1763,1554,1943,1595"/>
+<area shape="rect" id="node47" href="$classfx_shape_replicated_static.html" title="fxShapeReplicatedStatic" alt="" coords="1393,1563,1557,1589"/>
+<area shape="rect" id="node49" href="$class_m_random_l_c_g.html" title="MRandomLCG" alt="" coords="1799,1501,1906,1528"/>
+<area shape="rect" id="node50" href="$class_m_random_generator.html" title="Base class for random number generators. " alt="" coords="1406,1501,1545,1528"/>
+</map>

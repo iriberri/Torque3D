@@ -1,0 +1,10 @@
+<map id="RenderPassManager" name="RenderPassManager">
+<area shape="rect" id="node8" href="$class_dynamic_shadow_render_pass_manager.html" title="DynamicShadowRenderPassManager" alt="" coords="5,453,245,480"/>
+<area shape="rect" id="node9" href="$class_shadow_render_pass_manager.html" title="ShadowRenderPassManager" alt="" coords="269,453,459,480"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="SimObject" alt="" coords="203,304,285,331"/>
+<area shape="rect" id="node3" href="$class_console_object.html" title="ConsoleObject" alt="" coords="125,229,232,256"/>
+<area shape="rect" id="node4" href="$class_engine_object.html" title="EngineObject" alt="" coords="129,155,229,181"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="124,80,233,107"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="126,5,231,32"/>
+<area shape="rect" id="node7" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="256,229,363,256"/>
+</map>

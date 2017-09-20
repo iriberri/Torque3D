@@ -1,0 +1,19 @@
+<map id="GuiBitmapCtrl" name="GuiBitmapCtrl">
+<area shape="rect" id="node12" href="$classgui_anim_bitmap_ctrl.html" title="guiAnimBitmapCtrl" alt="" coords="1311,5,1441,32"/>
+<area shape="rect" id="node13" href="$class_gui_bitmap_bar_ctrl.html" title="GuiBitmapBarCtrl" alt="" coords="1315,56,1437,83"/>
+<area shape="rect" id="node14" href="$class_gui_cross_hair_hud.html" title="GuiCrossHairHud" alt="" coords="1315,107,1437,133"/>
+<area shape="rect" id="node15" href="$class_gui_fadein_bitmap_ctrl.html" title="A control that fades a bitmap in and out. " alt="" coords="1305,157,1447,184"/>
+<area shape="rect" id="node16" href="$class_gui_idle_cam_fade_bitmap_ctrl.html" title="GuiIdleCamFadeBitmapCtrl" alt="" coords="1287,208,1465,235"/>
+<area shape="rect" id="node17" href="$class_gui_mission_area_ctrl.html" title="GuiMissionAreaCtrl" alt="" coords="1309,259,1443,285"/>
+<area shape="rect" id="node18" href="$class_gui_speedometer_hud.html" title="GuiSpeedometerHud" alt="" coords="1305,309,1447,336"/>
+<area shape="rect" id="node2" href="$class_gui_control.html" title="GuiControl" alt="" coords="1005,157,1088,184"/>
+<area shape="rect" id="node3" href="$class_sim_group.html" title="SimGroup" alt="" coords="877,157,957,184"/>
+<area shape="rect" id="node4" href="$class_sim_set.html" title="SimSet" alt="" coords="764,157,829,184"/>
+<area shape="rect" id="node5" href="$class_sim_object.html" title="SimObject" alt="" coords="626,132,709,159"/>
+<area shape="rect" id="node6" href="$class_console_object.html" title="ConsoleObject" alt="" coords="464,107,571,133"/>
+<area shape="rect" id="node7" href="$class_engine_object.html" title="EngineObject" alt="" coords="316,107,416,133"/>
+<area shape="rect" id="node8" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="159,107,268,133"/>
+<area shape="rect" id="node9" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,107,111,133"/>
+<area shape="rect" id="node10" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="464,157,571,184"/>
+<area shape="rect" id="node11" href="$class_taml_children.html" title="TamlChildren" alt="" coords="619,183,716,209"/>
+</map>

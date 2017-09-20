@@ -1,0 +1,14 @@
+<map id="GFXGLCubemap" name="GFXGLCubemap">
+<area shape="rect" id="node2" href="$class_g_f_x_cubemap.html" title="GFXCubemap" alt="" coords="378,84,481,111"/>
+<area shape="rect" id="node3" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,159,269,185"/>
+<area shape="rect" id="node10" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="371,209,488,236"/>
+<area shape="rect" id="node11" href="$class_resource_base_1_1_header.html" title="ResourceBase::Header" alt="" coords="512,148,668,175"/>
+<area shape="rect" id="node4" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,159,111,185"/>
+<area shape="rect" id="node5" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="163,5,266,32"/>
+<area shape="rect" id="node6" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="187,95,243,121"/>
+<area shape="rect" id="node7" href="$class_resource.html" title="Resource\&lt; DDSFile \&gt;" alt="" coords="1308,148,1457,175"/>
+<area shape="rect" id="node8" href="$class_resource_base.html" title="ResourceBase" alt="" coords="1045,148,1152,175"/>
+<area shape="rect" id="node9" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; ResourceBase\l::Header \&gt;" alt="" coords="692,199,885,241"/>
+<area shape="rect" id="node13" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="701,265,877,306"/>
+<area shape="rect" id="node12" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="1176,252,1284,279"/>
+</map>

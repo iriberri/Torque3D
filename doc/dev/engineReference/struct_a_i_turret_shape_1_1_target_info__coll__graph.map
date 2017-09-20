@@ -1,0 +1,5 @@
+<map id="AITurretShape::TargetInfo" name="AITurretShape::TargetInfo">
+<area shape="rect" id="node2" href="$class_point3_f.html" title="Point3F" alt="" coords="5,119,72,146"/>
+<area shape="rect" id="node3" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; ShapeBase \&gt;" alt="" coords="155,119,346,146"/>
+<area shape="rect" id="node4" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; ShapeBase \&gt;" alt="" coords="159,5,342,32"/>
+</map>

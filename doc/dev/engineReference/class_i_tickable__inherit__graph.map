@@ -1,0 +1,18 @@
+<map id="ITickable" name="ITickable">
+<area shape="rect" id="node2" href="$class_forest_wind_mgr.html" title="ForestWindMgr" alt="" coords="131,56,241,83"/>
+<area shape="rect" id="node3" href="$class_gui_tick_ctrl.html" title="GuiTickCtrl" alt="" coords="143,107,229,133"/>
+<area shape="rect" id="node14" href="$class_light_base.html" title="LightBase" alt="" coords="146,157,226,184"/>
+<area shape="rect" id="node17" href="$class_script_tick_object.html" title="ScriptTickObject" alt="" coords="127,208,245,235"/>
+<area shape="rect" id="node4" href="$class_gui_auto_scroll_ctrl.html" title="A control that automatically scrolls its child control upwards. " alt="" coords="293,5,416,32"/>
+<area shape="rect" id="node5" href="$class_gui_menu_bar.html" title="GuiMenuBar" alt="" coords="307,56,402,83"/>
+<area shape="rect" id="node7" href="$class_gui_rollout_ctrl.html" title="GuiRolloutCtrl" alt="" coords="303,107,406,133"/>
+<area shape="rect" id="node6" href="$class_gui_platform_generic_menu_bar.html" title="GuiPlatformGenericMenuBar" alt="" coords="464,56,651,83"/>
+<area shape="rect" id="node8" href="$class_gui_inspector_group.html" title="GuiInspectorGroup" alt="" coords="492,107,623,133"/>
+<area shape="rect" id="node9" href="$class_gui_inspector_component_group.html" title="GuiInspectorComponentGroup" alt="" coords="699,5,895,32"/>
+<area shape="rect" id="node10" href="$class_gui_inspector_dynamic_group.html" title="GuiInspectorDynamicGroup" alt="" coords="706,56,887,83"/>
+<area shape="rect" id="node11" href="$class_gui_inspector_entity_group.html" title="GuiInspectorEntityGroup" alt="" coords="715,107,879,133"/>
+<area shape="rect" id="node12" href="$class_gui_inspector_mounting_group.html" title="GuiInspectorMountingGroup" alt="" coords="705,157,888,184"/>
+<area shape="rect" id="node13" href="$class_gui_inspector_variable_group.html" title="GuiInspectorVariableGroup" alt="" coords="708,208,885,235"/>
+<area shape="rect" id="node15" href="$class_point_light.html" title="PointLight" alt="" coords="315,157,395,184"/>
+<area shape="rect" id="node16" href="$class_spot_light.html" title="SpotLight" alt="" coords="316,208,393,235"/>
+</map>

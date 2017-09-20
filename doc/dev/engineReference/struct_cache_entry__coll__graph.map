@@ -1,0 +1,6 @@
+<map id="CacheEntry" name="CacheEntry">
+<area shape="rect" id="node2" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; FileNode \&gt;" alt="" coords="5,247,176,273"/>
+<area shape="rect" id="node3" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="32,171,149,197"/>
+<area shape="rect" id="node4" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="36,81,145,108"/>
+<area shape="rect" id="node5" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="38,5,143,32"/>
+</map>

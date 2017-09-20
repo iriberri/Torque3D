@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; Node \&gt;" alt="" coords="5,20,145,61"/>
+<area shape="rect" id="node2" href="$struct_thread_safe_priority_queue_1_1_node.html" title="ThreadSafePriorityQueue\l\&lt; T, K, SORT_MIN_TO_MAX,\l MAX_LEVEL, PROBABILISTIC\l_BIAS \&gt;::Node" alt="" coords="193,5,399,76"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ForestUndoAction" name="ForestUndoAction">
+<area shape="rect" id="node9" href="$class_forest_create_undo_action.html" title="ForestCreateUndoAction" alt="" coords="5,528,169,555"/>
+<area shape="rect" id="node10" href="$class_forest_delete_undo_action.html" title="ForestDeleteUndoAction" alt="" coords="194,528,357,555"/>
+<area shape="rect" id="node11" href="$class_forest_update_action.html" title="ForestUpdateAction" alt="" coords="381,528,519,555"/>
+<area shape="rect" id="node2" href="$class_undo_action.html" title="UndoAction" alt="" coords="231,379,320,405"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="SimObject" alt="" coords="234,304,317,331"/>
+<area shape="rect" id="node4" href="$class_console_object.html" title="ConsoleObject" alt="" coords="157,229,263,256"/>
+<area shape="rect" id="node5" href="$class_engine_object.html" title="EngineObject" alt="" coords="160,155,260,181"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="155,80,265,107"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="157,5,263,32"/>
+<area shape="rect" id="node8" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="287,229,394,256"/>
+</map>

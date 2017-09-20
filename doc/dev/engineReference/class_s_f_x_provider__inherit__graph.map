@@ -1,0 +1,7 @@
+<map id="SFXProvider" name="SFXProvider">
+<area shape="rect" id="node2" href="$class_s_f_x_a_l_provider.html" title="SFXALProvider" alt="" coords="5,80,113,107"/>
+<area shape="rect" id="node3" href="$class_s_f_x_d_s_provider.html" title="SFXDSProvider" alt="" coords="137,80,248,107"/>
+<area shape="rect" id="node4" href="$class_s_f_x_f_m_o_d_provider.html" title="SFXFMODProvider" alt="" coords="273,80,403,107"/>
+<area shape="rect" id="node5" href="$class_s_f_x_null_provider.html" title="SFXNullProvider" alt="" coords="427,80,542,107"/>
+<area shape="rect" id="node6" href="$class_s_f_x_x_audio_provider.html" title="SFXXAudioProvider" alt="" coords="567,80,699,107"/>
+</map>

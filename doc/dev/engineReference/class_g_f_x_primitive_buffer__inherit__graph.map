@@ -1,0 +1,8 @@
+<map id="GFXPrimitiveBuffer" name="GFXPrimitiveBuffer">
+<area shape="rect" id="node5" href="$class_g_f_x_d3_d11_primitive_buffer.html" title="GFXD3D11PrimitiveBuffer" alt="" coords="5,229,173,256"/>
+<area shape="rect" id="node6" href="$class_g_f_x_g_l_primitive_buffer.html" title="This is a primitive buffer (index buffer to GL users) which uses VBOs. " alt="" coords="197,229,344,256"/>
+<area shape="rect" id="node7" href="$class_g_f_x_null_primitive_buffer.html" title="GFXNullPrimitiveBuffer" alt="" coords="369,229,519,256"/>
+<area shape="rect" id="node2" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="151,80,260,107"/>
+<area shape="rect" id="node3" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="153,5,258,32"/>
+<area shape="rect" id="node4" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="285,80,387,107"/>
+</map>

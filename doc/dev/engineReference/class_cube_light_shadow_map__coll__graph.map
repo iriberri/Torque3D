@@ -1,0 +1,51 @@
+<map id="CubeLightShadowMap" name="CubeLightShadowMap">
+<area shape="rect" id="node2" href="$class_light_shadow_map.html" title="LightShadowMap" alt="" coords="2880,559,3001,586"/>
+<area shape="rect" id="node48" href="$class_vector.html" title="Vector\&lt; LightShadowMap * \&gt;" alt="" coords="3180,546,3372,572"/>
+<area shape="rect" id="node3" href="$class_named_tex_target.html" title="NamedTexTarget" alt="" coords="2532,952,2652,979"/>
+<area shape="rect" id="node4" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="287,662,393,688"/>
+<area shape="rect" id="node25" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="551,568,660,595"/>
+<area shape="rect" id="node5" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="312,974,368,1000"/>
+<area shape="rect" id="node10" href="$class_conditioner_feature.html" title="ConditionerFeature" alt="" coords="2134,1232,2265,1259"/>
+<area shape="rect" id="node16" href="$class_g_f_x_vertex_format.html" title="GFXVertexFormat" alt="" coords="1326,1059,1453,1086"/>
+<area shape="rect" id="node19" href="$class_g_f_x_vertex_element.html" title="GFXVertexElement" alt="" coords="539,1087,672,1114"/>
+<area shape="rect" id="node28" href="$class_g_f_x_shader.html" title="GFXShader" alt="" coords="1731,719,1819,746"/>
+<area shape="rect" id="node37" href="$struct_g_f_x_shader_macro.html" title="Passed to GFX for shader defines. " alt="" coords="543,923,667,950"/>
+<area shape="rect" id="node40" href="$class_vector.html" title="Vector\&lt; String \&gt;" alt="" coords="696,755,815,782"/>
+<area shape="rect" id="node6" href="$class_rect_i.html" title="RectI" alt="" coords="2173,926,2225,952"/>
+<area shape="rect" id="node7" href="$class_point2_i.html" title="Point2I" alt="" coords="1743,955,1806,982"/>
+<area shape="rect" id="node8" href="$struct_g_f_x_sampler_state_desc.html" title="GFXSamplerStateDesc" alt="" coords="2121,976,2277,1003"/>
+<area shape="rect" id="node9" href="$class_map.html" title="Map\&lt; Key, Value, Sequence \&gt;" alt="" coords="2099,1027,2300,1054"/>
+<area shape="rect" id="node20" href="$class_conditioner_method_dependency.html" title="ConditionerMethodDependency" alt="" coords="2491,1232,2693,1259"/>
+<area shape="rect" id="node21" href="$class_vector.html" title="Vector\&lt; ConditionerFeature * \&gt;" alt="" coords="2491,1303,2693,1330"/>
+<area shape="rect" id="node11" href="$class_shader_feature.html" title="ShaderFeature" alt="" coords="1721,1267,1828,1294"/>
+<area shape="rect" id="node12" href="$class_vector.html" title="Vector\&lt; const ShaderDependency * \&gt;" alt="" coords="1268,1299,1511,1326"/>
+<area shape="rect" id="node13" href="$class_shader_dependency.html" title="The base class for shader dependencies. " alt="" coords="869,1355,1003,1382"/>
+<area shape="rect" id="node14" href="$struct_lang_element.html" title="LangElement" alt="" coords="1340,1428,1439,1455"/>
+<area shape="rect" id="node15" href="$class_vector.html" title="Vector\&lt; LangElement * \&gt;" alt="" coords="1690,1451,1859,1478"/>
+<area shape="rect" id="node17" href="$class_g_f_x_vertex_decl.html" title="GFXVertexDecl" alt="" coords="881,1075,991,1102"/>
+<area shape="rect" id="node18" href="$class_vector.html" title="Vector\&lt; GFXVertexElement \&gt;" alt="" coords="839,1126,1033,1152"/>
+<area shape="rect" id="node22" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="2145,648,2253,675"/>
+<area shape="rect" id="node23" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="1687,566,1863,608"/>
+<area shape="rect" id="node24" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="1331,446,1448,472"/>
+<area shape="rect" id="node47" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lTarget \&gt;" alt="" coords="1899,433,2075,474"/>
+<area shape="rect" id="node50" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXCubemap \&gt;" alt="" coords="1675,162,1875,188"/>
+<area shape="rect" id="node39" href="$class_g_f_x_shader_const_buffer.html" title="GFXShaderConstBuffer" alt="" coords="859,603,1013,630"/>
+<area shape="rect" id="node26" href="$class_g_f_x_shader_const_handle.html" title="GFXShaderConstHandle" alt="" coords="2511,568,2673,595"/>
+<area shape="rect" id="node27" href="$class_platform_timer.html" title="PlatformTimer" alt="" coords="2541,619,2643,646"/>
+<area shape="rect" id="node29" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="554,636,657,663"/>
+<area shape="rect" id="node30" href="$class_signal_3_01void_07_08_4.html" title="Signal\&lt; void()\&gt;" alt="" coords="1335,502,1443,528"/>
+<area shape="rect" id="node31" href="$class_signal_base_t.html" title="SignalBaseT\&lt; void()\&gt;" alt="" coords="863,416,1009,443"/>
+<area shape="rect" id="node32" href="$class_signal_base.html" title="SignalBase" alt="" coords="561,416,649,443"/>
+<area shape="rect" id="node33" href="$class_vector.html" title="Vector\&lt; SignalBase\l::DelegateLink * \&gt;" alt="" coords="271,372,409,413"/>
+<area shape="rect" id="node34" href="$struct_signal_base_1_1_delegate_link.html" title="SignalBase::DelegateLink" alt="" coords="5,414,176,440"/>
+<area shape="rect" id="node35" href="$class_torque_1_1_path.html" title="Torque::Path" alt="" coords="1341,806,1437,832"/>
+<area shape="rect" id="node36" href="$class_vector.html" title="Vector\&lt; GFXShaderMacro \&gt;" alt="" coords="1057,923,1244,950"/>
+<area shape="rect" id="node38" href="$class_vector.html" title="Vector\&lt; GFXShaderConstBuffer * \&gt;" alt="" coords="1276,603,1503,630"/>
+<area shape="rect" id="node41" href="$class_matrix_f.html" title="MatrixF" alt="" coords="2166,530,2233,556"/>
+<area shape="rect" id="node42" href="$class_light_info.html" title="LightInfo" alt="" coords="2557,350,2627,376"/>
+<area shape="rect" id="node43" href="$class_color_f.html" title="ColorF" alt="" coords="2169,162,2229,188"/>
+<area shape="rect" id="node44" href="$class_point3_f.html" title="Point3F" alt="" coords="2166,339,2233,366"/>
+<area shape="rect" id="node45" href="$class_vector.html" title="Vector\&lt; LightInfoEx * \&gt;" alt="" coords="2121,390,2278,416"/>
+<area shape="rect" id="node46" href="$class_light_info_ex.html" title="LightInfoEx" alt="" coords="1731,388,1818,415"/>
+<area shape="rect" id="node49" href="$class_g_f_x_cubemap_handle.html" title="A reference counted handle to a cubemap resource. " alt="" coords="2324,74,2467,100"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GFXCardProfiler" name="GFXCardProfiler">
+<area shape="rect" id="node2" href="$class_g_f_x_d3_d11_card_profiler.html" title="GFXD3D11CardProfiler" alt="" coords="5,80,159,107"/>
+<area shape="rect" id="node3" href="$class_g_f_x_g_l_card_profiler.html" title="GFXGLCardProfiler" alt="" coords="183,80,314,107"/>
+<area shape="rect" id="node4" href="$class_g_f_x_null_card_profiler.html" title="GFXNullCardProfiler" alt="" coords="338,80,474,107"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="AsyncPacketBufferedInputStream&lt; Stream, Packet &gt;::PacketReadItem" name="AsyncPacketBufferedInputStream&lt; Stream, Packet &gt;::PacketReadItem">
+<area shape="rect" id="node2" href="$class_async_read_item.html" title="AsyncReadItem\&lt; Parent\l::SourceElementType,\l StreamType \&gt;" alt="" coords="743,85,907,141"/>
+<area shape="rect" id="node3" href="$class_async_i_o_item.html" title="AsyncIOItem\&lt; Parent\l::SourceElementType,\l StreamType \&gt;" alt="" coords="527,85,677,141"/>
+<area shape="rect" id="node4" href="$class_thread_pool_1_1_work_item.html" title="ThreadPool::WorkItem" alt="" coords="263,49,413,75"/>
+<area shape="rect" id="node5" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; WorkItem \&gt;" alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node6" href="$class_thread_pool_1_1_context.html" title="ThreadPool::Context" alt="" coords="5,154,145,181"/>
+<area shape="rect" id="node8" href="$class_raw_data_t.html" title="RawDataT\&lt; ValueType \&gt;" alt="" coords="255,150,421,177"/>
+<area shape="rect" id="node9" href="$class_thread_safe_ref.html" title="ThreadSafeRef\&lt; AsyncPacket\lBufferedInputStream\&lt; Stream,\l Packet \&gt; \&gt;" alt="" coords="727,165,924,221"/>
+</map>

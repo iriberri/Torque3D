@@ -1,0 +1,51 @@
+<map id="Precipitation" name="Precipitation">
+<area shape="rect" id="node2" href="$class_game_base.html" title="GameBase" alt="" coords="1906,652,1993,679"/>
+<area shape="rect" id="node3" href="$class_scene_object.html" title="SceneObject" alt="" coords="1131,1147,1228,1173"/>
+<area shape="rect" id="node11" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="1515,1133,1676,1160"/>
+<area shape="rect" id="node14" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="1535,1237,1656,1264"/>
+<area shape="rect" id="node24" href="$class_water_object.html" title="WaterObject" alt="" coords="1548,652,1643,679"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="NetObject" alt="" coords="701,1500,781,1527"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="SimGroup" alt="" coords="239,1601,319,1628"/>
+<area shape="rect" id="node35" href="$class_s_f_x_source.html" title="Baseclass for sources and controllers. " alt="" coords="697,1821,784,1848"/>
+<area shape="rect" id="node6" href="$class_bit_set32.html" title="BitSet32" alt="" coords="243,1500,315,1527"/>
+<area shape="rect" id="node7" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="667,997,814,1024"/>
+<area shape="rect" id="node8" href="$class_process_object.html" title="ProcessObject" alt="" coords="687,1387,795,1413"/>
+<area shape="rect" id="node9" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="677,1619,805,1645"/>
+<area shape="rect" id="node10" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="691,1669,790,1696"/>
+<area shape="rect" id="node12" href="$class_matrix_f.html" title="MatrixF" alt="" coords="245,1372,312,1399"/>
+<area shape="rect" id="node21" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="686,1229,795,1256"/>
+<area shape="rect" id="node13" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="683,1720,799,1747"/>
+<area shape="rect" id="node15" href="$class_point3_f.html" title="Point3F" alt="" coords="245,879,312,905"/>
+<area shape="rect" id="node17" href="$class_sphere_f.html" title="SphereF" alt="" coords="705,640,776,667"/>
+<area shape="rect" id="node18" href="$class_box3_f.html" title="Box3F" alt="" coords="711,1116,771,1143"/>
+<area shape="rect" id="node42" href="$struct_raindrop.html" title="Raindrop" alt="" coords="1742,321,1815,348"/>
+<area shape="rect" id="node16" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="643,691,839,717"/>
+<area shape="rect" id="node19" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="641,741,840,768"/>
+<area shape="rect" id="node20" href="$class_scene_container.html" title="SceneContainer" alt="" coords="683,792,798,819"/>
+<area shape="rect" id="node22" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="665,843,817,869"/>
+<area shape="rect" id="node23" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="651,893,830,920"/>
+<area shape="rect" id="node25" href="$class_named_tex_target.html" title="NamedTexTarget" alt="" coords="1119,540,1239,567"/>
+<area shape="rect" id="node26" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="687,415,795,441"/>
+<area shape="rect" id="node27" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="191,250,367,291"/>
+<area shape="rect" id="node28" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="5,140,123,167"/>
+<area shape="rect" id="node32" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1075,209,1284,236"/>
+<area shape="rect" id="node33" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXShaderConst\lBuffer \&gt;" alt="" coords="409,17,617,58"/>
+<area shape="rect" id="node43" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXShader \&gt;" alt="" coords="864,84,1051,111"/>
+<area shape="rect" id="node45" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXPrimitive\lBuffer \&gt;" alt="" coords="187,133,370,174"/>
+<area shape="rect" id="node29" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="1118,733,1241,760"/>
+<area shape="rect" id="node30" href="$class_color_f.html" title="ColorF" alt="" coords="1149,489,1209,516"/>
+<area shape="rect" id="node31" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="1146,883,1213,909"/>
+<area shape="rect" id="node34" href="$class_g_f_x_shader_const_handle.html" title="GFXShaderConstHandle" alt="" coords="1868,1608,2031,1635"/>
+<area shape="rect" id="node36" href="$class_ease_f.html" title="EaseF" alt="" coords="249,1871,309,1897"/>
+<area shape="rect" id="node37" href="$class_torque_1_1_list.html" title="Torque::List\&lt; SFXModifier * \&gt;" alt="" coords="183,1921,375,1948"/>
+<area shape="rect" id="node38" href="$class_vector.html" title="Vector\&lt; SFXParameter * \&gt;" alt="" coords="190,1972,367,1999"/>
+<area shape="rect" id="node39" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l RealMSTimer \&gt;" alt="" coords="207,1703,351,1745"/>
+<area shape="rect" id="node40" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SFXDescription \&gt;" alt="" coords="172,1769,385,1796"/>
+<area shape="rect" id="node41" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SFXTrack \&gt;" alt="" coords="189,1820,369,1847"/>
+<area shape="rect" id="node44" href="$class_g_f_x_primitive_buffer_handle.html" title="GFXPrimitiveBufferHandle" alt="" coords="1308,148,1477,175"/>
+<area shape="rect" id="node46" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCT \&gt;" alt="" coords="1870,1659,2029,1701"/>
+<area shape="rect" id="node47" href="$class_g_f_x_vertex_buffer_handle_base.html" title="GFXVertexBufferHandleBase" alt="" coords="1501,1667,1689,1693"/>
+<area shape="rect" id="node48" href="$class_precipitation_data.html" title="Precipitation datablock. " alt="" coords="1889,1725,2010,1752"/>
+<area shape="rect" id="node49" href="$struct_game_base_data.html" title="GameBaseData" alt="" coords="1538,1721,1653,1748"/>
+<area shape="rect" id="node50" href="$class_s_f_x_track.html" title="A datablock that describes sound data for playback. " alt="" coords="1556,1772,1635,1799"/>
+</map>

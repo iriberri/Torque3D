@@ -1,0 +1,16 @@
+<map id="GuiInspectorTypeFileName" name="GuiInspectorTypeFileName">
+<area shape="rect" id="node13" href="$class_gui_inspector_type_image_file_name.html" title="GuiInspectorTypeImageFileName" alt="" coords="1533,5,1747,32"/>
+<area shape="rect" id="node14" href="$class_gui_inspector_type_prefab_filename.html" title="GuiInspectorTypePrefabFilename" alt="" coords="1533,56,1747,83"/>
+<area shape="rect" id="node15" href="$class_gui_inspector_type_shape_filename.html" title="GuiInspectorTypeShapeFilename" alt="" coords="1533,107,1747,133"/>
+<area shape="rect" id="node2" href="$class_gui_inspector_field.html" title="GuiInspectorField" alt="" coords="1136,56,1259,83"/>
+<area shape="rect" id="node3" href="$class_gui_control.html" title="GuiControl" alt="" coords="1005,56,1088,83"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="SimGroup" alt="" coords="877,56,957,83"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="SimSet" alt="" coords="764,56,829,83"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="SimObject" alt="" coords="626,31,709,57"/>
+<area shape="rect" id="node7" href="$class_console_object.html" title="ConsoleObject" alt="" coords="464,5,571,32"/>
+<area shape="rect" id="node8" href="$class_engine_object.html" title="EngineObject" alt="" coords="316,5,416,32"/>
+<area shape="rect" id="node9" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="159,5,268,32"/>
+<area shape="rect" id="node10" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node11" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="464,56,571,83"/>
+<area shape="rect" id="node12" href="$class_taml_children.html" title="TamlChildren" alt="" coords="619,81,716,108"/>
+</map>

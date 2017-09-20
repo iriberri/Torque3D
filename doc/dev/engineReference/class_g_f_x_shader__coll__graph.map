@@ -1,0 +1,21 @@
+<map id="GFXShader" name="GFXShader">
+<area shape="rect" id="node2" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="551,184,660,211"/>
+<area shape="rect" id="node19" href="$class_g_f_x_shader_const_buffer.html" title="GFXShaderConstBuffer" alt="" coords="859,149,1013,176"/>
+<area shape="rect" id="node3" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="287,184,393,211"/>
+<area shape="rect" id="node4" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="554,115,657,141"/>
+<area shape="rect" id="node5" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="312,403,368,429"/>
+<area shape="rect" id="node13" href="$struct_g_f_x_shader_macro.html" title="Passed to GFX for shader defines. " alt="" coords="543,511,667,537"/>
+<area shape="rect" id="node14" href="$class_g_f_x_vertex_format.html" title="GFXVertexFormat" alt="" coords="1318,327,1445,353"/>
+<area shape="rect" id="node17" href="$class_g_f_x_vertex_element.html" title="GFXVertexElement" alt="" coords="539,352,672,379"/>
+<area shape="rect" id="node20" href="$class_vector.html" title="Vector\&lt; String \&gt;" alt="" coords="696,403,815,429"/>
+<area shape="rect" id="node6" href="$class_signal_3_01void_07_08_4.html" title="Signal\&lt; void()\&gt;" alt="" coords="1327,581,1435,608"/>
+<area shape="rect" id="node7" href="$class_signal_base_t.html" title="SignalBaseT\&lt; void()\&gt;" alt="" coords="863,581,1009,608"/>
+<area shape="rect" id="node8" href="$class_signal_base.html" title="SignalBase" alt="" coords="561,581,649,608"/>
+<area shape="rect" id="node9" href="$class_vector.html" title="Vector\&lt; SignalBase\l::DelegateLink * \&gt;" alt="" coords="271,629,409,670"/>
+<area shape="rect" id="node10" href="$struct_signal_base_1_1_delegate_link.html" title="SignalBase::DelegateLink" alt="" coords="5,593,176,620"/>
+<area shape="rect" id="node11" href="$class_torque_1_1_path.html" title="Torque::Path" alt="" coords="1333,632,1429,659"/>
+<area shape="rect" id="node12" href="$class_vector.html" title="Vector\&lt; GFXShaderMacro \&gt;" alt="" coords="1057,519,1244,545"/>
+<area shape="rect" id="node15" href="$class_g_f_x_vertex_decl.html" title="GFXVertexDecl" alt="" coords="881,251,991,277"/>
+<area shape="rect" id="node16" href="$class_vector.html" title="Vector\&lt; GFXVertexElement \&gt;" alt="" coords="839,352,1033,379"/>
+<area shape="rect" id="node18" href="$class_vector.html" title="Vector\&lt; GFXShaderConstBuffer * \&gt;" alt="" coords="1268,149,1495,176"/>
+</map>

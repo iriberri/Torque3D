@@ -1,0 +1,11 @@
+<map id="SFXDSProvider" name="SFXDSProvider">
+<area shape="rect" id="node2" href="$class_s_f_x_provider.html" title="SFXProvider" alt="" coords="88,364,180,391"/>
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; SFXDeviceInfo * \&gt;" alt="" coords="5,275,180,301"/>
+<area shape="rect" id="node4" href="$struct_s_f_x_device_info.html" title="SFXDeviceInfo" alt="" coords="39,185,143,212"/>
+<area shape="rect" id="node5" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="57,81,113,108"/>
+<area shape="rect" id="node6" href="$struct_d_sound_f_n_table.html" title="DSoundFNTable" alt="" coords="208,364,324,391"/>
+<area shape="rect" id="node7" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; DLibrary \&gt;" alt="" coords="205,275,373,301"/>
+<area shape="rect" id="node8" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="230,185,347,212"/>
+<area shape="rect" id="node9" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="238,81,347,108"/>
+<area shape="rect" id="node10" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="240,5,345,32"/>
+</map>

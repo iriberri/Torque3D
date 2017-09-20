@@ -1,0 +1,7 @@
+<map id="MeshRoadSegment" name="MeshRoadSegment">
+<area shape="rect" id="node2" href="$struct_mesh_road_slice.html" title="MeshRoadSlice" alt="" coords="243,297,357,323"/>
+<area shape="rect" id="node3" href="$class_point3_f.html" title="Point3F" alt="" coords="155,43,221,70"/>
+<area shape="rect" id="node4" href="$class_box3_f.html" title="Box3F" alt="" coords="13,297,73,323"/>
+<area shape="rect" id="node6" href="$class_plane_f.html" title="PlaneF" alt="" coords="157,297,219,323"/>
+<area shape="rect" id="node5" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="5,43,80,70"/>
+</map>

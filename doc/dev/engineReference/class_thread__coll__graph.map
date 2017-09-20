@@ -1,0 +1,5 @@
+<map id="Thread" name="Thread">
+<area shape="rect" id="node2" href="$class_platform_thread_data.html" title="PlatformThreadData" alt="" coords="30,184,166,211"/>
+<area shape="rect" id="node3" href="$class_semaphore.html" title="Semaphore" alt="" coords="128,95,216,121"/>
+<area shape="rect" id="node4" href="$class_platform_semaphore.html" title="PlatformSemaphore" alt="" coords="104,5,240,32"/>
+</map>

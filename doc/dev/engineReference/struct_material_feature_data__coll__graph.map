@@ -1,0 +1,7 @@
+<map id="MaterialFeatureData" name="MaterialFeatureData">
+<area shape="rect" id="node2" href="$class_feature_set.html" title="FeatureSet" alt="" coords="31,377,118,404"/>
+<area shape="rect" id="node3" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="64,5,120,32"/>
+<area shape="rect" id="node6" href="$class_feature_type.html" title="FeatureType" alt="" coords="117,95,211,121"/>
+<area shape="rect" id="node4" href="$class_vector.html" title="Vector\&lt; FeatureSet\l::FeatureInfo \&gt;" alt="" coords="131,273,267,315"/>
+<area shape="rect" id="node5" href="$struct_feature_set_1_1_feature_info.html" title="FeatureSet::FeatureInfo" alt="" coords="159,184,318,211"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="SFXBuffer" name="SFXBuffer">
+<area shape="rect" id="node6" href="$class_s_f_x_a_l_buffer.html" title="SFXALBuffer" alt="" coords="5,251,100,278"/>
+<area shape="rect" id="node7" href="$class_s_f_x_internal_1_1_s_f_x_wrap_around_buffer.html" title="SFXInternal::SFXWrapAround\lBuffer" alt="" coords="125,244,317,285"/>
+<area shape="rect" id="node10" href="$class_s_f_x_null_buffer.html" title="SFXNullBuffer" alt="" coords="341,251,442,278"/>
+<area shape="rect" id="node11" href="$class_s_f_x_x_audio_buffer.html" title="Audio data buffer for the XAudio device layer. " alt="" coords="467,251,585,278"/>
+<area shape="rect" id="node2" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="142,87,251,114"/>
+<area shape="rect" id="node3" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="144,5,249,32"/>
+<area shape="rect" id="node4" href="$class_i_polled.html" title="IPolled" alt="" coords="275,87,337,114"/>
+<area shape="rect" id="node5" href="$class_i_output_stream.html" title="IOutputStream\&lt; SFXInternal\l::SFXStreamPacket * \&gt;" alt="" coords="361,80,545,121"/>
+<area shape="rect" id="node8" href="$class_s_f_x_d_s_buffer.html" title="SFXDSBuffer" alt="" coords="107,333,204,360"/>
+<area shape="rect" id="node9" href="$class_s_f_x_f_m_o_d_buffer.html" title="SFXFMODBuffer" alt="" coords="229,333,346,360"/>
+</map>

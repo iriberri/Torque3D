@@ -1,0 +1,14 @@
+<map id="UpdateInterface" name="UpdateInterface">
+<area shape="rect" id="node3" href="$class_component.html" title="Component" alt="" coords="399,233,487,260"/>
+<area shape="rect" id="node2" href="$class_interface.html" title="Interface\&lt; UpdateInterface \&gt;" alt="" coords="5,233,191,260"/>
+<area shape="rect" id="node4" href="$class_animation_component.html" title="AnimationComponent" alt="" coords="551,5,698,32"/>
+<area shape="rect" id="node5" href="$class_camera_component.html" title="CameraComponent" alt="" coords="558,56,691,83"/>
+<area shape="rect" id="node6" href="$class_camera_orbiter_component.html" title="CameraOrbiterComponent" alt="" coords="539,107,711,133"/>
+<area shape="rect" id="node7" href="$class_collision_component.html" title="CollisionComponent" alt="" coords="556,157,693,184"/>
+<area shape="rect" id="node8" href="$class_mesh_component.html" title="MeshComponent" alt="" coords="565,208,685,235"/>
+<area shape="rect" id="node9" href="$class_physics_component.html" title="PhysicsComponent" alt="" coords="557,259,692,285"/>
+<area shape="rect" id="node10" href="$class_player_controller_component.html" title="PlayerControllerComponent" alt="" coords="535,309,715,336"/>
+<area shape="rect" id="node11" href="$class_rigid_body_component.html" title="RigidBodyComponent" alt="" coords="551,360,698,387"/>
+<area shape="rect" id="node12" href="$class_state_machine_component.html" title="StateMachineComponent" alt="" coords="541,411,709,437"/>
+<area shape="rect" id="node13" href="$class_trigger_component.html" title="TriggerComponent" alt="" coords="561,461,688,488"/>
+</map>

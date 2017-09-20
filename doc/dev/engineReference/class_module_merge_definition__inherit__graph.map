@@ -1,0 +1,8 @@
+<map id="ModuleMergeDefinition" name="ModuleMergeDefinition">
+<area shape="rect" id="node2" href="$class_sim_object.html" title="SimObject" alt="" coords="84,304,167,331"/>
+<area shape="rect" id="node3" href="$class_console_object.html" title="ConsoleObject" alt="" coords="7,229,113,256"/>
+<area shape="rect" id="node4" href="$class_engine_object.html" title="EngineObject" alt="" coords="10,155,110,181"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="5,80,115,107"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="7,5,113,32"/>
+<area shape="rect" id="node7" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="137,229,244,256"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ColladaAppMaterial" name="ColladaAppMaterial">
+<area shape="rect" id="node2" href="$struct_app_material.html" title="AppMaterial" alt="" coords="5,279,96,306"/>
+<area shape="rect" id="node3" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="120,279,176,306"/>
+<area shape="rect" id="node4" href="$class_color_f.html" title="ColorF" alt="" coords="302,279,362,306"/>
+<area shape="rect" id="node5" href="$class_collada_extension__effect.html" title="Extensions for the &lt;effect&gt; element (and its children) " alt="" coords="457,279,618,306"/>
+<area shape="rect" id="node6" href="$class_collada_extension.html" title="ColladaExtension" alt="" coords="304,5,427,32"/>
+<area shape="rect" id="node7" href="$struct_animated_element.html" title="AnimatedElement\&lt; bool \&gt;" alt="" coords="451,5,624,32"/>
+<area shape="rect" id="node8" href="$struct_animated_element.html" title="AnimatedElement\&lt; double \&gt;" alt="" coords="648,5,835,32"/>
+</map>

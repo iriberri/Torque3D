@@ -1,0 +1,8 @@
+<map id="Zip::ZipArchive::ZipEntry" name="Zip::ZipArchive::ZipEntry">
+<area shape="rect" id="node2" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="5,95,61,121"/>
+<area shape="rect" id="node5" href="$class_zip_1_1_file_header.html" title="Zip::FileHeader" alt="" coords="71,184,180,211"/>
+<area shape="rect" id="node3" href="$class_map.html" title="Map\&lt; String, Zip::ZipArchive\l::ZipEntry * \&gt;" alt="" coords="201,273,386,315"/>
+<area shape="rect" id="node4" href="$class_zip_1_1_central_dir.html" title="Zip::CentralDir" alt="" coords="72,281,176,307"/>
+<area shape="rect" id="node6" href="$class_vector.html" title="Vector\&lt; Zip::ExtraField * \&gt;" alt="" coords="187,95,365,121"/>
+<area shape="rect" id="node7" href="$class_zip_1_1_extra_field.html" title="Zip::ExtraField" alt="" coords="223,5,329,32"/>
+</map>

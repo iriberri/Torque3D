@@ -1,0 +1,8 @@
+<map id="Torque::FileSystemRedirectChangeNotifier" name="Torque::FileSystemRedirectChangeNotifier">
+<area shape="rect" id="node2" href="$class_torque_1_1_f_s_1_1_file_system_change_notifier.html" title="Torque::FS::FileSystemChange\lNotifier" alt="" coords="175,171,379,212"/>
+<area shape="rect" id="node4" href="$class_torque_1_1_f_s_1_1_file_system.html" title="Torque::FS::FileSystem" alt="" coords="54,282,214,309"/>
+<area shape="rect" id="node3" href="$class_map.html" title="Map\&lt; Path, FileInfoList \&gt;" alt="" coords="193,81,361,108"/>
+<area shape="rect" id="node5" href="$class_torque_1_1_f_s_1_1_file_base.html" title="Torque::FS::FileBase" alt="" coords="5,178,151,205"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="23,81,133,108"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="25,5,131,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SceneLighting::ObjectProxy" name="SceneLighting::ObjectProxy">
+<area shape="rect" id="node2" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="5,81,204,108"/>
+<area shape="rect" id="node3" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SceneObject \&gt;" alt="" coords="9,5,200,32"/>
+</map>

@@ -1,0 +1,49 @@
+<map id="PersistenceManager" name="PersistenceManager">
+<area shape="rect" id="node2" href="$class_sim_object.html" title="SimObject" alt="" coords="1025,652,1107,679"/>
+<area shape="rect" id="node8" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1383,736,1482,763"/>
+<area shape="rect" id="node13" href="$union_namespace_1_1_entry_1_1_callback_union.html" title="Namespace::Entry::Callback\lUnion" alt="" coords="1339,551,1527,593"/>
+<area shape="rect" id="node3" href="$class_console_object.html" title="ConsoleObject" alt="" coords="752,677,859,704"/>
+<area shape="rect" id="node4" href="$class_engine_object.html" title="EngineObject" alt="" coords="477,677,577,704"/>
+<area shape="rect" id="node24" href="$class_static_engine_object.html" title="StaticEngineObject" alt="" coords="738,445,873,472"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="194,728,303,755"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,728,111,755"/>
+<area shape="rect" id="node7" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="752,627,859,653"/>
+<area shape="rect" id="node9" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="981,884,1151,911"/>
+<area shape="rect" id="node10" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="1017,833,1115,860"/>
+<area shape="rect" id="node11" href="$class_namespace.html" title="Namespace" alt="" coords="2055,543,2146,569"/>
+<area shape="rect" id="node12" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="1687,500,1817,527"/>
+<area shape="rect" id="node19" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="2323,452,2449,479"/>
+<area shape="rect" id="node14" href="$class_code_block.html" title="CodeBlock" alt="" coords="1390,500,1475,527"/>
+<area shape="rect" id="node15" href="$struct_compiler_1_1_console_parser.html" title="List of parsers for the compiler. " alt="" coords="983,469,1149,496"/>
+<area shape="rect" id="node16" href="$struct_console_function_header.html" title="Extended information about a console function. " alt="" coords="1353,411,1513,437"/>
+<area shape="rect" id="node17" href="$class_data_chunker.html" title="DataChunker" alt="" coords="1703,707,1801,733"/>
+<area shape="rect" id="node18" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="1350,825,1515,852"/>
+<area shape="rect" id="node20" href="$class_console_base_type.html" title="Information about a console type. " alt="" coords="2037,345,2164,372"/>
+<area shape="rect" id="node21" href="$class_engine_type_info.html" title="EngineTypeInfo" alt="" coords="1697,179,1807,205"/>
+<area shape="rect" id="node26" href="$class_engine_argument_type_table.html" title="Information about the return and argument types of a function type. " alt="" coords="2012,153,2189,180"/>
+<area shape="rect" id="node28" href="$struct_engine_field_table_1_1_field.html" title="A field descriptor in a field table. " alt="" coords="2022,91,2179,117"/>
+<area shape="rect" id="node22" href="$class_engine_export_scope.html" title="A group of engine exports. " alt="" coords="1364,44,1501,71"/>
+<area shape="rect" id="node23" href="$class_engine_export.html" title="EngineExport" alt="" coords="1016,68,1116,95"/>
+<area shape="rect" id="node25" href="$struct_engine_type_net_info.html" title="Networking related information for an engine API type. " alt="" coords="1367,95,1498,121"/>
+<area shape="rect" id="node27" href="$class_engine_field_table.html" title="Table of fields for a struct type. " alt="" coords="2325,183,2447,209"/>
+<area shape="rect" id="node29" href="$class_engine_enum_table.html" title="Table of values for an enumeration or bitfield type. " alt="" coords="1369,284,1496,311"/>
+<area shape="rect" id="node35" href="$struct_abstract_class_rep_1_1_field.html" title="AbstractClassRep::Field" alt="" coords="1671,343,1833,369"/>
+<area shape="rect" id="node30" href="$struct_engine_enum_table_1_1_value.html" title="EngineEnumTable::Value" alt="" coords="982,284,1150,311"/>
+<area shape="rect" id="node31" href="$class_bit_set32.html" title="BitSet32" alt="" coords="1397,211,1469,237"/>
+<area shape="rect" id="node32" href="$class_engine_property_table.html" title="EnginePropertyTable" alt="" coords="1361,145,1504,172"/>
+<area shape="rect" id="node33" href="$struct_engine_property_table_1_1_property.html" title="EnginePropertyTable\l::Property" alt="" coords="995,138,1137,179"/>
+<area shape="rect" id="node34" href="$class_vector.html" title="Vector\&lt; Field \&gt;" alt="" coords="2045,400,2157,427"/>
+<area shape="rect" id="node36" href="$class_type_validator.html" title="TypeValidator" alt="" coords="1382,360,1483,387"/>
+<area shape="rect" id="node37" href="$struct_persistence_manager_1_1_parsed_object.html" title="PersistenceManager\l::ParsedObject" alt="" coords="735,1097,876,1138"/>
+<area shape="rect" id="node43" href="$class_vector.html" title="Vector\&lt; PersistenceManager\l::ParsedObject * \&gt;" alt="" coords="971,1051,1161,1093"/>
+<area shape="rect" id="node38" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SimObject \&gt;" alt="" coords="435,1115,620,1141"/>
+<area shape="rect" id="node45" href="$struct_persistence_manager_1_1_dirty_object.html" title="PersistenceManager\l::DirtyObject" alt="" coords="735,1163,876,1205"/>
+<area shape="rect" id="node48" href="$struct_persistence_manager_1_1_remove_field.html" title="PersistenceManager\l::RemoveField" alt="" coords="735,993,876,1034"/>
+<area shape="rect" id="node39" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SimObject \&gt;" alt="" coords="160,1115,337,1141"/>
+<area shape="rect" id="node40" href="$class_vector.html" title="Vector\&lt; PersistenceManager\l::ParsedProperty \&gt;" alt="" coords="432,1017,623,1058"/>
+<area shape="rect" id="node41" href="$struct_persistence_manager_1_1_parsed_property.html" title="PersistenceManager\l::ParsedProperty" alt="" coords="178,1017,319,1058"/>
+<area shape="rect" id="node42" href="$class_vector.html" title="Vector\&lt; const char * \&gt;" alt="" coords="989,1231,1143,1257"/>
+<area shape="rect" id="node44" href="$class_vector.html" title="Vector\&lt; DirtyObject \&gt;" alt="" coords="991,1180,1141,1207"/>
+<area shape="rect" id="node46" href="$class_tokenizer.html" title="Tokenizer" alt="" coords="1027,935,1105,961"/>
+<area shape="rect" id="node47" href="$class_vector.html" title="Vector\&lt; PersistenceManager\l::RemoveField \&gt;" alt="" coords="971,986,1161,1027"/>
+</map>

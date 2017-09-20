@@ -1,0 +1,11 @@
+<map id="PolyhedronUnmanagedVectorData" name="PolyhedronUnmanagedVectorData">
+<area shape="rect" id="node2" href="$struct_polyhedron_data.html" title="PolyhedronData" alt="" coords="555,235,669,261"/>
+<area shape="rect" id="node3" href="$class_unmanaged_vector.html" title="UnmanagedVector\&lt; Edge \&gt;" alt="" coords="521,285,703,312"/>
+<area shape="rect" id="node4" href="$struct_edge.html" title="Edge" alt="" coords="211,221,263,248"/>
+<area shape="rect" id="node5" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="23,88,90,115"/>
+<area shape="rect" id="node6" href="$class_point2_i.html" title="Point2I" alt="" coords="25,221,88,248"/>
+<area shape="rect" id="node7" href="$class_unmanaged_vector.html" title="UnmanagedVector\&lt; Point3F \&gt;" alt="" coords="292,340,491,367"/>
+<area shape="rect" id="node8" href="$class_point3_f.html" title="Point3F" alt="" coords="23,399,90,425"/>
+<area shape="rect" id="node10" href="$class_plane_f.html" title="PlaneF" alt="" coords="205,399,268,425"/>
+<area shape="rect" id="node9" href="$class_unmanaged_vector.html" title="UnmanagedVector\&lt; PlaneF \&gt;" alt="" coords="515,399,709,425"/>
+</map>

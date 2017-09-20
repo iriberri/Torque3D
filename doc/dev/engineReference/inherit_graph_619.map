@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_material_parameter_handle.html" title="MaterialParameterHandle" alt="" coords="5,56,173,83"/>
+<area shape="rect" id="node2" href="$class_f_f_material_parameter_handle.html" title="FFMaterialParameterHandle" alt="" coords="234,5,418,32"/>
+<area shape="rect" id="node3" href="$class_mat_instance_parameter_handle.html" title="MatInstanceParameterHandle" alt="" coords="229,56,423,83"/>
+<area shape="rect" id="node4" href="$class_shader_material_parameter_handle.html" title="ShaderMaterialParameterHandle" alt="" coords="221,107,431,133"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="PopupMenu" name="PopupMenu">
+<area shape="rect" id="node2" href="$class_sim_object.html" title="SimObject" alt="" coords="668,1428,751,1455"/>
+<area shape="rect" id="node8" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1054,1604,1153,1631"/>
+<area shape="rect" id="node13" href="$union_namespace_1_1_entry_1_1_callback_union.html" title="Namespace::Entry::Callback\lUnion" alt="" coords="1009,1310,1197,1351"/>
+<area shape="rect" id="node25" href="$class_sim_set.html" title="SimSet" alt="" coords="1424,151,1489,177"/>
+<area shape="rect" id="node43" href="$class_gui_cursor.html" title="GuiCursor" alt="" coords="1063,1068,1143,1095"/>
+<area shape="rect" id="node3" href="$class_console_object.html" title="ConsoleObject" alt="" coords="468,1564,575,1591"/>
+<area shape="rect" id="node4" href="$class_engine_object.html" title="EngineObject" alt="" coords="319,1589,419,1616"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,1625,269,1652"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,1625,111,1652"/>
+<area shape="rect" id="node7" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="468,1428,575,1455"/>
+<area shape="rect" id="node9" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="624,1699,795,1725"/>
+<area shape="rect" id="node10" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="660,1597,759,1624"/>
+<area shape="rect" id="node11" href="$class_namespace.html" title="Namespace" alt="" coords="1741,1459,1831,1485"/>
+<area shape="rect" id="node12" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="1391,1415,1522,1441"/>
+<area shape="rect" id="node18" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="2097,1360,2223,1387"/>
+<area shape="rect" id="node14" href="$class_code_block.html" title="CodeBlock" alt="" coords="1061,1415,1146,1441"/>
+<area shape="rect" id="node15" href="$struct_console_function_header.html" title="Extended information about a console function. " alt="" coords="1023,1465,1183,1492"/>
+<area shape="rect" id="node16" href="$class_data_chunker.html" title="DataChunker" alt="" coords="1408,1291,1505,1317"/>
+<area shape="rect" id="node17" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="1021,1259,1186,1285"/>
+<area shape="rect" id="node19" href="$class_console_base_type.html" title="Information about a console type. " alt="" coords="1723,1275,1849,1301"/>
+<area shape="rect" id="node20" href="$class_vector.html" title="Vector\&lt; Field \&gt;" alt="" coords="1730,1325,1842,1352"/>
+<area shape="rect" id="node21" href="$class_dispatcher_1_1_i_message_listener.html" title="Listener interface for objects that receive messages. " alt="" coords="2063,651,2257,677"/>
+<area shape="rect" id="node22" href="$class_vector.html" title="Vector\&lt; StringTableEntry \&gt;" alt="" coords="1696,621,1876,648"/>
+<area shape="rect" id="node23" href="$struct_platform_popup_menu_data.html" title="PlatformPopupMenuData" alt="" coords="2077,797,2243,824"/>
+<area shape="rect" id="node24" href="$class_menu_bar.html" title="MenuBar" alt="" coords="1749,672,1823,699"/>
+<area shape="rect" id="node26" href="$class_taml_children.html" title="TamlChildren" alt="" coords="1055,56,1152,83"/>
+<area shape="rect" id="node27" href="$class_sim_object_list.html" title="SimObjectList" alt="" coords="1051,5,1155,32"/>
+<area shape="rect" id="node28" href="$class_vector_ptr.html" title="VectorPtr\&lt; SimObject * \&gt;" alt="" coords="624,5,795,32"/>
+<area shape="rect" id="node29" href="$class_signal.html" title="Signal\&lt; void(SetModification\l modification, SimSet *set,\l SimObject *object) \&gt;" alt="" coords="1011,107,1196,163"/>
+<area shape="rect" id="node30" href="$class_gui_canvas.html" title="GuiCanvas" alt="" coords="1415,655,1499,681"/>
+<area shape="rect" id="node31" href="$class_gui_control.html" title="GuiControl" alt="" coords="1062,940,1145,967"/>
+<area shape="rect" id="node32" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="681,1035,737,1061"/>
+<area shape="rect" id="node47" href="$struct_gui_menu_bar_1_1_menu_item.html" title="GuiMenuBar::MenuItem" alt="" coords="1707,949,1865,976"/>
+<area shape="rect" id="node33" href="$class_point2_i.html" title="Point2I" alt="" coords="678,807,741,833"/>
+<area shape="rect" id="node36" href="$class_rect_i.html" title="RectI" alt="" coords="1077,807,1129,833"/>
+<area shape="rect" id="node40" href="$struct_gui_event.html" title="GuiEvent" alt="" coords="1066,652,1141,679"/>
+<area shape="rect" id="node41" href="$class_platform_window.html" title="PlatformWindow" alt="" coords="1045,187,1161,213"/>
+<area shape="rect" id="node34" href="$class_i_process_input.html" title="IProcessInput" alt="" coords="1053,703,1154,729"/>
+<area shape="rect" id="node35" href="$class_g_f_x_fence.html" title="GFXFence" alt="" coords="1062,351,1145,377"/>
+<area shape="rect" id="node46" href="$struct_gui_menu_bar_1_1_menu.html" title="GuiMenuBar::Menu" alt="" coords="1389,889,1524,916"/>
+<area shape="rect" id="node37" href="$class_signal.html" title="Signal\&lt; Signature \&gt;" alt="" coords="641,215,778,241"/>
+<area shape="rect" id="node38" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="1070,484,1137,511"/>
+<area shape="rect" id="node39" href="$class_vector.html" title="Vector\&lt; GuiCanvas::\lAccKeyMap \&gt;" alt="" coords="1032,535,1175,577"/>
+<area shape="rect" id="node42" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiControl \&gt;" alt="" coords="1011,601,1196,628"/>
+<area shape="rect" id="node44" href="$class_map.html" title="Map\&lt; GuiMenuBar::Menu\l *, PopupMenu * \&gt;" alt="" coords="1701,730,1871,771"/>
+<area shape="rect" id="node45" href="$class_vector.html" title="Vector\&lt; Accelerator \&gt;" alt="" coords="1711,797,1861,824"/>
+<area shape="rect" id="node48" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiCanvas \&gt;" alt="" coords="2067,924,2253,951"/>
+<area shape="rect" id="node49" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; GuiCanvas \&gt;" alt="" coords="1697,1000,1875,1027"/>
+<area shape="rect" id="node50" href="$class_journaled_signal.html" title="JournaledSignal\&lt; Signature \&gt;" alt="" coords="2064,1220,2256,1247"/>
+</map>

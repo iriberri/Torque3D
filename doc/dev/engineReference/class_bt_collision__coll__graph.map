@@ -1,0 +1,8 @@
+<map id="BtCollision" name="BtCollision">
+<area shape="rect" id="node2" href="$class_physics_collision.html" title="PhysicsCollision" alt="" coords="5,157,124,184"/>
+<area shape="rect" id="node3" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="10,81,119,108"/>
+<area shape="rect" id="node4" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="12,5,117,32"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; btTriangleMesh * \&gt;" alt="" coords="149,157,330,184"/>
+<area shape="rect" id="node6" href="$class_vector.html" title="Vector\&lt; btCollisionShape * \&gt;" alt="" coords="355,157,545,184"/>
+<area shape="rect" id="node7" href="$class_matrix_f.html" title="MatrixF" alt="" coords="570,157,637,184"/>
+</map>

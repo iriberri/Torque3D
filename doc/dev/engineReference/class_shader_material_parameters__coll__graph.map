@@ -1,0 +1,6 @@
+<map id="ShaderMaterialParameters" name="ShaderMaterialParameters">
+<area shape="rect" id="node2" href="$class_material_parameters.html" title="MaterialParameters" alt="" coords="45,273,180,300"/>
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; GFXShaderConstDesc \&gt;" alt="" coords="5,184,220,211"/>
+<area shape="rect" id="node4" href="$struct_g_f_x_shader_const_desc.html" title="Instances of this struct are returned GFXShaderConstBuffer. " alt="" coords="37,95,189,121"/>
+<area shape="rect" id="node5" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="85,5,141,32"/>
+</map>

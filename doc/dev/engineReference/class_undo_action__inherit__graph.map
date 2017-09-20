@@ -1,0 +1,30 @@
+<map id="UndoAction" name="UndoAction">
+<area shape="rect" id="node8" href="$class_compound_undo_action.html" title="An undo action that is comprised of other undo actions. " alt="" coords="914,5,1065,32"/>
+<area shape="rect" id="node9" href="$class_d_b_delete_undo_action.html" title="DBDeleteUndoAction" alt="" coords="917,56,1061,83"/>
+<area shape="rect" id="node10" href="$class_d_b_retarget_undo_action.html" title="DBRetargetUndoAction" alt="" coords="911,107,1067,133"/>
+<area shape="rect" id="node11" href="$class_d_i_create_undo_action.html" title="DICreateUndoAction" alt="" coords="920,157,1059,184"/>
+<area shape="rect" id="node12" href="$class_d_i_delete_undo_action.html" title="DIDeleteUndoAction" alt="" coords="920,208,1059,235"/>
+<area shape="rect" id="node13" href="$class_explode_prefab_undo_action.html" title="ExplodePrefabUndoAction" alt="" coords="903,259,1076,285"/>
+<area shape="rect" id="node14" href="$class_forest_undo_action.html" title="ForestUndoAction" alt="" coords="926,309,1053,336"/>
+<area shape="rect" id="node18" href="$class_gui_convex_editor_undo_action.html" title="GuiConvexEditorUndoAction" alt="" coords="897,360,1082,387"/>
+<area shape="rect" id="node19" href="$class_gui_mesh_road_editor_undo_action.html" title="GuiMeshRoadEditorUndoAction" alt="" coords="887,411,1092,437"/>
+<area shape="rect" id="node20" href="$class_gui_mission_area_undo_action.html" title="GuiMissionAreaUndoAction" alt="" coords="899,461,1080,488"/>
+<area shape="rect" id="node21" href="$class_gui_nav_editor_undo_action.html" title="GuiNavEditorUndoAction" alt="" coords="907,512,1071,539"/>
+<area shape="rect" id="node22" href="$class_gui_river_editor_undo_action.html" title="GuiRiverEditorUndoAction" alt="" coords="904,563,1075,589"/>
+<area shape="rect" id="node23" href="$class_gui_road_editor_undo_action.html" title="GuiRoadEditorUndoAction" alt="" coords="903,613,1076,640"/>
+<area shape="rect" id="node24" href="$class_inspector_field_undo_action.html" title="InspectorFieldUndoAction" alt="" coords="904,664,1075,691"/>
+<area shape="rect" id="node25" href="$class_m_e_create_undo_action.html" title="MECreateUndoAction" alt="" coords="916,715,1063,741"/>
+<area shape="rect" id="node26" href="$class_m_e_delete_undo_action.html" title="MEDeleteUndoAction" alt="" coords="916,765,1063,792"/>
+<area shape="rect" id="node27" href="$class_terrain_smooth_action.html" title="An undo action used to perform terrain wide smoothing. " alt="" coords="918,816,1061,843"/>
+<area shape="rect" id="node28" href="$class_undo_script_action.html" title="UndoScriptAction" alt="" coords="928,867,1051,893"/>
+<area shape="rect" id="node29" href="$class_world_editor_1_1_world_editor_undo_action.html" title="WorldEditor::WorldEditor\lUndoAction" alt="" coords="906,918,1073,959"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="SimObject" alt="" coords="619,461,701,488"/>
+<area shape="rect" id="node3" href="$class_console_object.html" title="ConsoleObject" alt="" coords="464,436,571,463"/>
+<area shape="rect" id="node4" href="$class_engine_object.html" title="EngineObject" alt="" coords="316,436,416,463"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="159,436,268,463"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,436,111,463"/>
+<area shape="rect" id="node7" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="464,487,571,513"/>
+<area shape="rect" id="node15" href="$class_forest_create_undo_action.html" title="ForestCreateUndoAction" alt="" coords="1140,259,1304,285"/>
+<area shape="rect" id="node16" href="$class_forest_delete_undo_action.html" title="ForestDeleteUndoAction" alt="" coords="1141,309,1303,336"/>
+<area shape="rect" id="node17" href="$class_forest_update_action.html" title="ForestUpdateAction" alt="" coords="1153,360,1291,387"/>
+</map>

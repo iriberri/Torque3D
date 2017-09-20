@@ -1,0 +1,12 @@
+<map id="RazerHydraDevice" name="RazerHydraDevice">
+<area shape="rect" id="node2" href="$class_i_input_device.html" title="IInputDevice" alt="" coords="131,336,221,363"/>
+<area shape="rect" id="node3" href="$struct_razer_hyrda_controller_data.html" title="RazerHyrdaControllerData" alt="" coords="246,336,418,363"/>
+<area shape="rect" id="node4" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="5,209,72,235"/>
+<area shape="rect" id="node5" href="$class_point3_f.html" title="Point3F" alt="" coords="149,209,216,235"/>
+<area shape="rect" id="node6" href="$class_matrix_f.html" title="MatrixF" alt="" coords="299,209,365,235"/>
+<area shape="rect" id="node7" href="$class_quat_f.html" title="QuatF" alt="" coords="460,209,519,235"/>
+<area shape="rect" id="node8" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; DLibrary \&gt;" alt="" coords="460,336,628,363"/>
+<area shape="rect" id="node9" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="613,209,731,235"/>
+<area shape="rect" id="node10" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="617,81,727,108"/>
+<area shape="rect" id="node11" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="619,5,725,32"/>
+</map>

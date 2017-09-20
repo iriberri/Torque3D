@@ -1,0 +1,5 @@
+<map id="WaterFogData" name="WaterFogData">
+<area shape="rect" id="node2" href="$class_color_i.html" title="ColorI" alt="" coords="5,195,60,222"/>
+<area shape="rect" id="node3" href="$class_plane_f.html" title="PlaneF" alt="" coords="155,195,217,222"/>
+<area shape="rect" id="node4" href="$class_point3_f.html" title="Point3F" alt="" coords="153,43,219,70"/>
+</map>

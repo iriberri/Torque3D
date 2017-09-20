@@ -1,0 +1,12 @@
+<map id="Torque::FS::VirtualMountSystem" name="Torque::FS::VirtualMountSystem">
+<area shape="rect" id="node2" href="$class_torque_1_1_f_s_1_1_mount_system.html" title="Torque::FS::MountSystem" alt="" coords="193,566,367,593"/>
+<area shape="rect" id="node3" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; FileSystem \&gt;" alt="" coords="187,247,373,273"/>
+<area shape="rect" id="node8" href="$struct_torque_1_1_f_s_1_1_mount_system_1_1_mount_f_s.html" title="Torque::FS::MountSystem\l::MountFS" alt="" coords="63,351,238,392"/>
+<area shape="rect" id="node4" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="221,171,339,197"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="225,81,335,108"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="227,5,333,32"/>
+<area shape="rect" id="node7" href="$class_vector.html" title="Vector\&lt; Torque::FS\l::MountSystem::MountFS \&gt;" alt="" coords="59,455,243,496"/>
+<area shape="rect" id="node9" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="5,247,61,273"/>
+<area shape="rect" id="node10" href="$class_torque_1_1_path.html" title="Torque::Path" alt="" coords="317,462,413,489"/>
+<area shape="rect" id="node11" href="$class_map.html" title="Map\&lt; String, Vector\l\&lt; FileSystemRef \&gt; \&gt;" alt="" coords="391,559,534,600"/>
+</map>

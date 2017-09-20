@@ -1,0 +1,51 @@
+<map id="AITurretShape" name="AITurretShape">
+<area shape="rect" id="node2" href="$class_turret_shape.html" title="TurretShape" alt="" coords="1759,961,1851,988"/>
+<area shape="rect" id="node3" href="$class_item.html" title="Item" alt="" coords="1413,1093,1460,1120"/>
+<area shape="rect" id="node4" href="$class_shape_base.html" title="ShapeBase" alt="" coords="986,845,1075,872"/>
+<area shape="rect" id="node5" href="$class_game_base.html" title="GameBase" alt="" coords="606,997,693,1024"/>
+<area shape="rect" id="node6" href="$class_i_scene_light.html" title="ISceneLight" alt="" coords="604,1048,695,1075"/>
+<area shape="rect" id="node7" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="279,752,335,779"/>
+<area shape="rect" id="node13" href="$struct_shape_base_1_1_mounted_image.html" title="An image mounted on a shapebase. " alt="" coords="558,845,741,872"/>
+<area shape="rect" id="node18" href="$struct_shape_base_data.html" title="ShapeBaseData" alt="" coords="591,667,707,693"/>
+<area shape="rect" id="node8" href="$struct_shape_base_1_1_collision_timeout.html" title="ShapeBase::CollisionTimeout" alt="" coords="553,1215,745,1241"/>
+<area shape="rect" id="node9" href="$class_point3_f.html" title="Point3F" alt="" coords="274,1368,341,1395"/>
+<area shape="rect" id="node25" href="$struct_item_1_1_state_delta.html" title="Item::StateDelta" alt="" coords="781,1391,897,1417"/>
+<area shape="rect" id="node27" href="$struct_turret_shape_1_1_turret_state_delta.html" title="TurretShape::TurretState\lDelta" alt="" coords="1153,954,1317,995"/>
+<area shape="rect" id="node30" href="$struct_a_i_turret_shape_1_1_target_info.html" title="AITurretShape::TargetInfo" alt="" coords="1721,1556,1889,1583"/>
+<area shape="rect" id="node36" href="$class_box3_f.html" title="Box3F" alt="" coords="619,1741,679,1768"/>
+<area shape="rect" id="node10" href="$struct_shape_base_1_1_thread.html" title="ShapeBase::Thread" alt="" coords="393,495,529,521"/>
+<area shape="rect" id="node11" href="$class_t_s_thread.html" title="TSThread" alt="" coords="5,401,83,428"/>
+<area shape="rect" id="node15" href="$class_t_s_shape_instance.html" title="TSShapeInstance" alt="" coords="245,369,369,396"/>
+<area shape="rect" id="node12" href="$class_convex.html" title="Convex" alt="" coords="617,717,681,744"/>
+<area shape="rect" id="node14" href="$class_net_string_handle.html" title="NetStringHandle" alt="" coords="249,633,365,660"/>
+<area shape="rect" id="node16" href="$class_matrix_f.html" title="MatrixF" alt="" coords="11,136,77,163"/>
+<area shape="rect" id="node17" href="$class_bit_vector.html" title="Manage a vector of bits of arbitrary size. " alt="" coords="611,896,687,923"/>
+<area shape="rect" id="node23" href="$struct_item_data.html" title="ItemData" alt="" coords="993,520,1068,547"/>
+<area shape="rect" id="node19" href="$class_cube_reflector.html" title="CubeReflector" alt="" coords="598,947,701,973"/>
+<area shape="rect" id="node20" href="$struct_shape_base_1_1_sound.html" title="ShapeBase::Sound" alt="" coords="582,476,717,503"/>
+<area shape="rect" id="node21" href="$class_physics_body.html" title="Simple physics object that represents a single rigid body. " alt="" coords="981,1443,1080,1469"/>
+<area shape="rect" id="node22" href="$class_physics_object.html" title="PhysicsObject" alt="" coords="596,1444,703,1471"/>
+<area shape="rect" id="node26" href="$class_turret_shape_data.html" title="TurretShapeData" alt="" coords="1377,520,1496,547"/>
+<area shape="rect" id="node24" href="$class_color_f.html" title="ColorF" alt="" coords="619,312,679,339"/>
+<area shape="rect" id="node50" href="$class_a_i_turret_shape_data.html" title="AITurretShapeData" alt="" coords="1740,163,1871,189"/>
+<area shape="rect" id="node28" href="$struct_a_i_turret_shape_data_1_1_state_data.html" title="AITurretShapeData::\lStateData" alt="" coords="1367,149,1506,190"/>
+<area shape="rect" id="node29" href="$struct_a_i_turret_shape_data_1_1_state_data_1_1_transition.html" title="AITurretShapeData::\lStateData::Transition" alt="" coords="959,149,1103,190"/>
+<area shape="rect" id="node31" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; ShapeBase \&gt;" alt="" coords="1341,1556,1532,1583"/>
+<area shape="rect" id="node32" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; ShapeBase \&gt;" alt="" coords="939,1556,1122,1583"/>
+<area shape="rect" id="node33" href="$class_sim_object_list.html" title="SimObjectList" alt="" coords="1385,2179,1489,2205"/>
+<area shape="rect" id="node38" href="$class_sim_set.html" title="SimSet" alt="" coords="1773,2048,1838,2075"/>
+<area shape="rect" id="node34" href="$class_vector_ptr.html" title="VectorPtr\&lt; SimObject * \&gt;" alt="" coords="945,2179,1116,2205"/>
+<area shape="rect" id="node35" href="$class_vector.html" title="Vector\&lt; void * \&gt;" alt="" coords="592,2179,707,2205"/>
+<area shape="rect" id="node37" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="270,1741,345,1768"/>
+<area shape="rect" id="node39" href="$class_sim_object.html" title="SimObject" alt="" coords="1395,1997,1478,2024"/>
+<area shape="rect" id="node44" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1756,1891,1855,1917"/>
+<area shape="rect" id="node40" href="$class_console_object.html" title="ConsoleObject" alt="" coords="977,2125,1084,2152"/>
+<area shape="rect" id="node41" href="$class_engine_object.html" title="EngineObject" alt="" coords="599,2033,699,2060"/>
+<area shape="rect" id="node42" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="253,1907,362,1933"/>
+<area shape="rect" id="node43" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="977,2075,1084,2101"/>
+<area shape="rect" id="node45" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="1351,1751,1522,1777"/>
+<area shape="rect" id="node46" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="1387,1840,1486,1867"/>
+<area shape="rect" id="node47" href="$class_namespace.html" title="Namespace" alt="" coords="985,2024,1076,2051"/>
+<area shape="rect" id="node48" href="$class_taml_children.html" title="TamlChildren" alt="" coords="1388,2048,1485,2075"/>
+<area shape="rect" id="node49" href="$class_signal.html" title="Signal\&lt; void(SetModification\l modification, SimSet *set,\l SimObject *object) \&gt;" alt="" coords="1344,2099,1529,2155"/>
+</map>

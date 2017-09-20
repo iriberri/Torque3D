@@ -1,0 +1,8 @@
+<map id="GFXTextureObject" name="GFXTextureObject">
+<area shape="rect" id="node5" href="$class_g_f_x_d3_d11_texture_object.html" title="GFXD3D11TextureObject" alt="" coords="5,229,172,256"/>
+<area shape="rect" id="node6" href="$class_g_f_x_g_l_texture_object.html" title="GFXGLTextureObject" alt="" coords="196,229,341,256"/>
+<area shape="rect" id="node7" href="$class_g_f_x_null_texture_object.html" title="GFXNullTextureObject" alt="" coords="365,229,516,256"/>
+<area shape="rect" id="node2" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="149,80,258,107"/>
+<area shape="rect" id="node3" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="151,5,256,32"/>
+<area shape="rect" id="node4" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="283,80,385,107"/>
+</map>

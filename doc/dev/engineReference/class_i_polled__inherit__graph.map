@@ -1,0 +1,14 @@
+<map id="IPolled" name="IPolled">
+<area shape="rect" id="node2" href="$class_s_f_x_buffer.html" title="SFXBuffer" alt="" coords="121,123,199,149"/>
+<area shape="rect" id="node9" href="$class_s_f_x_modifier.html" title="SFXModifier" alt="" coords="115,224,205,251"/>
+<area shape="rect" id="node3" href="$class_s_f_x_a_l_buffer.html" title="SFXALBuffer" alt="" coords="302,5,397,32"/>
+<area shape="rect" id="node4" href="$class_s_f_x_internal_1_1_s_f_x_wrap_around_buffer.html" title="SFXInternal::SFXWrapAround\lBuffer" alt="" coords="253,57,445,98"/>
+<area shape="rect" id="node7" href="$class_s_f_x_null_buffer.html" title="SFXNullBuffer" alt="" coords="299,123,400,149"/>
+<area shape="rect" id="node8" href="$class_s_f_x_x_audio_buffer.html" title="Audio data buffer for the XAudio device layer. " alt="" coords="290,173,409,200"/>
+<area shape="rect" id="node5" href="$class_s_f_x_d_s_buffer.html" title="SFXDSBuffer" alt="" coords="510,39,607,65"/>
+<area shape="rect" id="node6" href="$class_s_f_x_f_m_o_d_buffer.html" title="SFXFMODBuffer" alt="" coords="500,89,617,116"/>
+<area shape="rect" id="node10" href="$class_s_f_x_one_shot_modifier.html" title="An SFXModifier that is triggered once after passing a certain playback position. " alt="" coords="278,224,421,251"/>
+<area shape="rect" id="node12" href="$class_s_f_x_range_modifier.html" title="An SFXModifier that is spans a certain range of playback time. " alt="" coords="285,275,413,301"/>
+<area shape="rect" id="node11" href="$class_s_f_x_marker_modifier.html" title="SFXMarkerModifier" alt="" coords="493,224,624,251"/>
+<area shape="rect" id="node13" href="$class_s_f_x_fade_modifier.html" title="A volume fade effect (fade&#45;in or fade&#45;out). " alt="" coords="499,275,619,301"/>
+</map>

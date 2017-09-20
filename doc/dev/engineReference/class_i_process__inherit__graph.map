@@ -1,0 +1,6 @@
+<map id="IProcess" name="IProcess">
+<area shape="rect" id="node2" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l Timer, Tick \&gt;" alt="" coords="127,5,271,47"/>
+<area shape="rect" id="node3" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l RealMSTimer \&gt;" alt="" coords="127,71,271,112"/>
+<area shape="rect" id="node4" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l SimMSTimer \&gt;" alt="" coords="127,136,271,177"/>
+<area shape="rect" id="node5" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l VirtualMSTimer \&gt;" alt="" coords="127,201,271,243"/>
+</map>

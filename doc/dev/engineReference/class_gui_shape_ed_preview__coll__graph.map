@@ -1,0 +1,49 @@
+<map id="GuiShapeEdPreview" name="GuiShapeEdPreview">
+<area shape="rect" id="node2" href="$class_edit_t_s_ctrl.html" title="EditTSCtrl" alt="" coords="1430,980,1511,1007"/>
+<area shape="rect" id="node3" href="$class_gui_t_s_ctrl.html" title="Abstract base class for 3D viewport GUIs. " alt="" coords="1119,297,1198,324"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; GuiTSCtrl * \&gt;" alt="" coords="1396,297,1545,324"/>
+<area shape="rect" id="node4" href="$class_gui_container.html" title="GuiContainer" alt="" coords="689,201,787,228"/>
+<area shape="rect" id="node6" href="$class_rect_i.html" title="RectI" alt="" coords="303,248,355,275"/>
+<area shape="rect" id="node9" href="$struct_camera_query.html" title="CameraQuery" alt="" coords="687,435,789,461"/>
+<area shape="rect" id="node7" href="$class_point2_i.html" title="Point2I" alt="" coords="25,551,88,577"/>
+<area shape="rect" id="node18" href="$class_frustum.html" title="Frustum" alt="" coords="703,151,773,177"/>
+<area shape="rect" id="node25" href="$struct_gui_event.html" title="GuiEvent" alt="" coords="291,817,366,844"/>
+<area shape="rect" id="node8" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; NamedTexTarget \&gt;" alt="" coords="631,252,845,279"/>
+<area shape="rect" id="node10" href="$class_point3_f.html" title="Point3F" alt="" coords="23,1345,90,1372"/>
+<area shape="rect" id="node22" href="$class_gizmo_profile.html" title="GizmoProfile" alt="" coords="1111,1068,1207,1095"/>
+<area shape="rect" id="node24" href="$struct_gui3_d_mouse_event.html" title="Gui3DMouseEvent" alt="" coords="673,904,803,931"/>
+<area shape="rect" id="node26" href="$class_vector.html" title="Vector\&lt; Point3F \&gt;" alt="" coords="264,1784,393,1811"/>
+<area shape="rect" id="node39" href="$class_t_s_shape.html" title="TSShape" alt="" coords="701,2060,775,2087"/>
+<area shape="rect" id="node46" href="$class_light_info.html" title="LightInfo" alt="" coords="703,2573,773,2600"/>
+<area shape="rect" id="node11" href="$class_matrix_f.html" title="MatrixF" alt="" coords="295,1333,362,1360"/>
+<area shape="rect" id="node31" href="$class_t_s_shape_instance.html" title="TSShapeInstance" alt="" coords="1097,1903,1221,1929"/>
+<area shape="rect" id="node43" href="$class_vector.html" title="Vector\&lt; MatrixF \&gt;" alt="" coords="674,1559,802,1585"/>
+<area shape="rect" id="node12" href="$class_sim_object.html" title="SimObject" alt="" coords="287,449,370,476"/>
+<area shape="rect" id="node13" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="295,141,362,168"/>
+<area shape="rect" id="node14" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiOffscreen\lCanvas \&gt;" alt="" coords="645,303,831,345"/>
+<area shape="rect" id="node15" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCT \&gt;" alt="" coords="659,369,817,410"/>
+<area shape="rect" id="node16" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="633,485,843,512"/>
+<area shape="rect" id="node17" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="270,500,387,527"/>
+<area shape="rect" id="node19" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; Gizmo \&gt;" alt="" coords="1077,1017,1240,1044"/>
+<area shape="rect" id="node20" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; Gizmo \&gt;" alt="" coords="661,955,815,981"/>
+<area shape="rect" id="node21" href="$class_color_i.html" title="ColorI" alt="" coords="711,791,765,817"/>
+<area shape="rect" id="node23" href="$class_resource.html" title="Resource\&lt; GFont \&gt;" alt="" coords="669,1056,807,1083"/>
+<area shape="rect" id="node27" href="$class_vector.html" title="Vector\&lt; MountedShape * \&gt;" alt="" coords="1716,1541,1896,1568"/>
+<area shape="rect" id="node50" href="$class_vector.html" title="Vector\&lt; Thread \&gt;" alt="" coords="1569,1941,1692,1968"/>
+<area shape="rect" id="node30" href="$class_t_s_thread.html" title="TSThread" alt="" coords="290,2460,367,2487"/>
+<area shape="rect" id="node34" href="$class_vector.html" title="Vector\&lt; TSThread * \&gt;" alt="" coords="664,2460,812,2487"/>
+<area shape="rect" id="node32" href="$class_vector.html" title="Vector\&lt; TSShapeInstance\l::TSCallbackRecord \&gt;" alt="" coords="651,1762,825,1803"/>
+<area shape="rect" id="node33" href="$struct_t_s_shape_instance_1_1_t_s_callback_record.html" title="TSShapeInstance::TSCallback\lRecord" alt="" coords="229,1702,428,1743"/>
+<area shape="rect" id="node35" href="$class_t_s_integer_set.html" title="TSIntegerSet" alt="" coords="689,1609,787,1636"/>
+<area shape="rect" id="node36" href="$class_vector.html" title="Vector\&lt; TSScale \&gt;" alt="" coords="671,1660,805,1687"/>
+<area shape="rect" id="node37" href="$class_vector.html" title="Vector\&lt; QuatF \&gt;" alt="" coords="678,1711,798,1737"/>
+<area shape="rect" id="node38" href="$class_t_s_material_list.html" title="Specialized material list for 3space objects. " alt="" coords="276,1949,381,1976"/>
+<area shape="rect" id="node40" href="$class_vector.html" title="Vector\&lt; Quat16 \&gt;" alt="" coords="265,2303,392,2329"/>
+<area shape="rect" id="node41" href="$class_vector.html" title="Vector\&lt; F32 \&gt;" alt="" coords="275,2179,382,2205"/>
+<area shape="rect" id="node42" href="$class_g_f_x_vertex_buffer_data_handle.html" title="GFXVertexBufferDataHandle" alt="" coords="236,2027,421,2053"/>
+<area shape="rect" id="node44" href="$class_vector.html" title="Vector\&lt; TSShapeInstance\l::MeshObjectInstance \&gt;" alt="" coords="651,2281,825,2322"/>
+<area shape="rect" id="node45" href="$class_resource.html" title="Resource\&lt; TSShape \&gt;" alt="" coords="661,2347,815,2373"/>
+<area shape="rect" id="node47" href="$class_color_f.html" title="ColorF" alt="" coords="299,2733,359,2760"/>
+<area shape="rect" id="node48" href="$class_vector.html" title="Vector\&lt; LightInfoEx * \&gt;" alt="" coords="250,2784,407,2811"/>
+<area shape="rect" id="node49" href="$class_light_info_ex.html" title="LightInfoEx" alt="" coords="13,2784,100,2811"/>
+</map>

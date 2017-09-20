@@ -1,0 +1,4 @@
+<map id="PlatformTimer" name="PlatformTimer">
+<area shape="rect" id="node2" href="$class_default_platform_timer.html" title="DefaultPlatformTimer" alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node3" href="$class_win32_timer.html" title="Win32Timer" alt="" coords="173,80,263,107"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="IInputDevice" name="IInputDevice">
+<area shape="rect" id="node2" href="$class_leap_motion_device.html" title="LeapMotionDevice" alt="" coords="5,80,132,107"/>
+<area shape="rect" id="node3" href="$class_oculus_v_r_device.html" title="OculusVRDevice" alt="" coords="156,80,275,107"/>
+<area shape="rect" id="node4" href="$class_open_v_r_provider.html" title="OpenVRProvider" alt="" coords="299,80,417,107"/>
+<area shape="rect" id="node5" href="$class_razer_hydra_device.html" title="RazerHydraDevice" alt="" coords="441,80,569,107"/>
+</map>

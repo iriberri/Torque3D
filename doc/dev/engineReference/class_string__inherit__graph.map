@@ -1,0 +1,5 @@
+<map id="String" name="String">
+<area shape="rect" id="node2" href="$class_file_name.html" title="FileName" alt="" coords="5,80,83,107"/>
+<area shape="rect" id="node3" href="$class_string_case.html" title="StringCase" alt="" coords="107,80,194,107"/>
+<area shape="rect" id="node4" href="$class_string_no_case.html" title="StringNoCase" alt="" coords="218,80,321,107"/>
+</map>

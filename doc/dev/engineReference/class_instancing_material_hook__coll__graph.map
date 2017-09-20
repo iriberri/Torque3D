@@ -1,0 +1,6 @@
+<map id="InstancingMaterialHook" name="InstancingMaterialHook">
+<area shape="rect" id="node2" href="$class_mat_instance_hook.html" title="MatInstanceHook" alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node4" href="$class_vector.html" title="Vector\&lt; MatInstanceHook * \&gt;" alt="" coords="60,95,255,121"/>
+<area shape="rect" id="node3" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="77,184,200,211"/>
+<area shape="rect" id="node5" href="$class_mat_instance_hook_type.html" title="The hook type wrapper object. " alt="" coords="225,184,375,211"/>
+</map>

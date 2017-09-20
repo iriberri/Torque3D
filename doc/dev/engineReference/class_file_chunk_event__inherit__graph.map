@@ -1,0 +1,7 @@
+<map id="FileChunkEvent" name="FileChunkEvent">
+<area shape="rect" id="node2" href="$class_net_event.html" title="NetEvent" alt="" coords="24,304,99,331"/>
+<area shape="rect" id="node3" href="$class_console_object.html" title="ConsoleObject" alt="" coords="8,229,115,256"/>
+<area shape="rect" id="node4" href="$class_engine_object.html" title="EngineObject" alt="" coords="11,155,111,181"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="7,80,116,107"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="9,5,114,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ObjectDeclNode" name="ObjectDeclNode">
+<area shape="rect" id="node2" href="$struct_expr_node.html" title="A mathematical expression. " alt="" coords="65,81,144,108"/>
+<area shape="rect" id="node4" href="$struct_slot_assign_node.html" title="SlotAssignNode" alt="" coords="185,209,299,235"/>
+<area shape="rect" id="node3" href="$struct_stmt_node.html" title="StmtNode" alt="" coords="65,5,145,32"/>
+</map>

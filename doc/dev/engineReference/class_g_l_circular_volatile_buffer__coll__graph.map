@@ -1,0 +1,8 @@
+<map id="GLCircularVolatileBuffer" name="GLCircularVolatileBuffer">
+<area shape="rect" id="node2" href="$class_g_l_ordered_fence_range_manager.html" title="GLOrderedFenceRangeManager" alt="" coords="531,7,739,33"/>
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; GLFenceRange \&gt;" alt="" coords="212,7,387,33"/>
+<area shape="rect" id="node4" href="$class_g_l_fence_range.html" title="GLFenceRange" alt="" coords="5,7,117,33"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; GLCircularVolatile\lBuffer::UsedRange \&gt;" alt="" coords="547,58,723,99"/>
+<area shape="rect" id="node6" href="$struct_g_l_circular_volatile_buffer_1_1_used_range.html" title="GLCircularVolatileBuffer\l::UsedRange" alt="" coords="220,58,379,99"/>
+<area shape="rect" id="node7" href="$class_frame_allocator_lockable_helper.html" title="Helper class for simulate lock/unlock on gfx buffers using FrameAllocator. " alt="" coords="535,124,734,151"/>
+</map>

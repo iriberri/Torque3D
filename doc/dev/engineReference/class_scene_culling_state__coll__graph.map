@@ -1,0 +1,51 @@
+<map id="SceneCullingState" name="SceneCullingState">
+<area shape="rect" id="node37" href="$class_scene_render_state.html" title="SceneRenderState" alt="" coords="2489,487,2619,513"/>
+<area shape="rect" id="node2" href="$class_scene_culling_volume.html" title="SceneCullingVolume" alt="" coords="708,440,851,467"/>
+<area shape="rect" id="node8" href="$struct_scene_zone_culling_state_1_1_culling_volume_link.html" title="SceneZoneCullingState\l::CullingVolumeLink" alt="" coords="1069,397,1227,438"/>
+<area shape="rect" id="node3" href="$class_plane_set.html" title="PlaneSet\&lt; PlaneF \&gt;" alt="" coords="413,440,553,467"/>
+<area shape="rect" id="node4" href="$class_plane_f.html" title="PlaneF" alt="" coords="203,697,266,724"/>
+<area shape="rect" id="node45" href="$struct_water_fog_data.html" title="The water fog settings. " alt="" coords="577,827,684,853"/>
+<area shape="rect" id="node5" href="$class_point3_f.html" title="Point3F" alt="" coords="23,748,90,775"/>
+<area shape="rect" id="node10" href="$class_scene_object.html" title="SceneObject" alt="" coords="3233,1577,3331,1604"/>
+<area shape="rect" id="node23" href="$class_sphere_f.html" title="SphereF" alt="" coords="307,1755,378,1781"/>
+<area shape="rect" id="node24" href="$class_box3_f.html" title="Box3F" alt="" coords="453,216,513,243"/>
+<area shape="rect" id="node28" href="$class_light_manager.html" title="LightManager" alt="" coords="3232,920,3332,947"/>
+<area shape="rect" id="node31" href="$class_light_info.html" title="LightInfo" alt="" coords="744,1093,815,1120"/>
+<area shape="rect" id="node40" href="$class_scene_camera_state.html" title="SceneCameraState" alt="" coords="1777,708,1911,735"/>
+<area shape="rect" id="node44" href="$struct_frustum_data.html" title="FrustumData" alt="" coords="731,260,828,287"/>
+<area shape="rect" id="node6" href="$class_vector.html" title="Vector\&lt; SceneZoneCulling\lState \&gt;" alt="" coords="1756,407,1932,449"/>
+<area shape="rect" id="node7" href="$class_scene_zone_culling_state.html" title="SceneZoneCullingState" alt="" coords="1415,396,1572,423"/>
+<area shape="rect" id="node9" href="$class_vector.html" title="Vector\&lt; SceneObject * \&gt;" alt="" coords="3523,515,3691,541"/>
+<area shape="rect" id="node27" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="2869,700,2978,727"/>
+<area shape="rect" id="node33" href="$class_scene_zone_space_manager.html" title="Object that manages zone spaces in a scene. " alt="" coords="3879,553,4053,580"/>
+<area shape="rect" id="node18" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="3526,1457,3687,1484"/>
+<area shape="rect" id="node21" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="3546,1600,3667,1627"/>
+<area shape="rect" id="node11" href="$class_net_object.html" title="NetObject" alt="" coords="2883,2048,2963,2075"/>
+<area shape="rect" id="node12" href="$class_bit_set32.html" title="BitSet32" alt="" coords="2518,1895,2590,1921"/>
+<area shape="rect" id="node13" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="2850,1947,2997,1973"/>
+<area shape="rect" id="node14" href="$class_process_object.html" title="ProcessObject" alt="" coords="2869,1997,2977,2024"/>
+<area shape="rect" id="node15" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="2859,1577,2987,1604"/>
+<area shape="rect" id="node16" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="2526,1167,2582,1193"/>
+<area shape="rect" id="node17" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="2874,1307,2973,1333"/>
+<area shape="rect" id="node19" href="$class_matrix_f.html" title="MatrixF" alt="" coords="450,1001,517,1028"/>
+<area shape="rect" id="node42" href="$class_frustum.html" title="Frustum" alt="" coords="1458,545,1529,572"/>
+<area shape="rect" id="node20" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="2865,1357,2981,1384"/>
+<area shape="rect" id="node22" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="2825,1408,3021,1435"/>
+<area shape="rect" id="node25" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="2824,1459,3023,1485"/>
+<area shape="rect" id="node26" href="$class_scene_container.html" title="SceneContainer" alt="" coords="2866,2099,2981,2125"/>
+<area shape="rect" id="node34" href="$class_render_pass_manager.html" title="RenderPassManager" alt="" coords="3211,648,3353,675"/>
+<area shape="rect" id="node29" href="$class_signal.html" title="Signal\&lt; void(const\l char *, bool)\&gt;" alt="" coords="2859,809,2987,850"/>
+<area shape="rect" id="node30" href="$class_available_s_l_interfaces.html" title="AvailableSLInterfaces" alt="" coords="2851,875,2996,901"/>
+<area shape="rect" id="node32" href="$class_light_info_list.html" title="LightInfoList" alt="" coords="2878,925,2969,952"/>
+<area shape="rect" id="node35" href="$struct_fog_data.html" title="The aerial fog settings. " alt="" coords="2519,824,2589,851"/>
+<area shape="rect" id="node36" href="$class_interpolated_change_property.html" title="InterpolatedChangeProperty\l\&lt; ColorF \&gt;" alt="" coords="2463,758,2645,799"/>
+<area shape="rect" id="node38" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="1115,307,1181,333"/>
+<area shape="rect" id="node39" href="$class_point2_i.html" title="Point2I" alt="" coords="1117,697,1179,724"/>
+<area shape="rect" id="node41" href="$class_rect_i.html" title="RectI" alt="" coords="1467,709,1519,736"/>
+<area shape="rect" id="node43" href="$struct_polyhedron_impl.html" title="PolyhedronImpl\&lt; FrustumData \&gt;" alt="" coords="1043,513,1253,540"/>
+<area shape="rect" id="node46" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="2847,1679,2999,1705"/>
+<area shape="rect" id="node47" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="2834,1729,3013,1756"/>
+<area shape="rect" id="node48" href="$class_data_chunker.html" title="DataChunker" alt="" coords="1795,255,1893,281"/>
+<area shape="rect" id="node49" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="1411,283,1576,309"/>
+<area shape="rect" id="node50" href="$class_bit_vector.html" title="Manage a vector of bits of arbitrary size. " alt="" coords="1806,305,1882,332"/>
+</map>

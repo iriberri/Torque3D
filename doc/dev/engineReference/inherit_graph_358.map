@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classfs_ti_xml_node.html" title="fsTiXmlNode" alt="" coords="18,157,111,184"/>
+<area shape="rect" id="node2" href="$classfs_ti_xml_attribute.html" title="fsTiXmlAttribute" alt="" coords="180,8,292,35"/>
+<area shape="rect" id="node3" href="$classfs_ti_xml_comment.html" title="fsTiXmlComment" alt="" coords="177,71,295,97"/>
+<area shape="rect" id="node4" href="$classfs_ti_xml_declaration.html" title="fsTiXmlDeclaration" alt="" coords="172,147,300,173"/>
+<area shape="rect" id="node5" href="$classfs_ti_xml_document.html" title="fsTiXmlDocument" alt="" coords="175,204,297,231"/>
+<area shape="rect" id="node6" href="$classfs_ti_xml_element.html" title="fsTiXmlElement" alt="" coords="181,257,291,284"/>
+<area shape="rect" id="node7" href="$classfs_ti_xml_text.html" title="fsTiXmlText" alt="" coords="192,309,280,336"/>
+<area shape="rect" id="node8" href="$classfs_ti_xml_unknown.html" title="fsTiXmlUnknown" alt="" coords="178,360,294,387"/>
+</map>

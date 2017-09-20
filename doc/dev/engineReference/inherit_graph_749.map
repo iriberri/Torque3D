@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_platform_window.html" title="PlatformWindow" alt="" coords="5,56,121,83"/>
+<area shape="rect" id="node2" href="$class_mac_window.html" title="MacWindow" alt="" coords="193,5,287,32"/>
+<area shape="rect" id="node3" href="$class_platform_window_s_d_l.html" title="Implementation of a window on SDL. " alt="" coords="169,56,311,83"/>
+<area shape="rect" id="node4" href="$class_win32_window.html" title="Implementation of a window on Win32. " alt="" coords="187,107,293,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ShapeBase::MountedImage::ImageEmitter" name="ShapeBase::MountedImage::ImageEmitter">
+<area shape="rect" id="node2" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; ParticleEmitter \&gt;" alt="" coords="5,81,216,108"/>
+<area shape="rect" id="node3" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; ParticleEmitter \&gt;" alt="" coords="9,5,212,32"/>
+</map>

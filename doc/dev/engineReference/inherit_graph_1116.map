@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_managed_singleton.html" title="ManagedSingleton\&lt; Global\lThreadPool \&gt;" alt="" coords="18,5,197,47"/>
+<area shape="rect" id="node2" href="$struct_thread_pool_1_1_global_thread_pool.html" title="ThreadPool::GlobalThreadPool" alt="" coords="257,45,455,71"/>
+<area shape="rect" id="node3" href="$class_managed_singleton.html" title="ManagedSingleton\&lt; SFXThread\lPool \&gt;" alt="" coords="5,123,209,164"/>
+<area shape="rect" id="node4" href="$class_s_f_x_internal_1_1_s_f_x_thread_pool.html" title="SFXInternal::SFXThreadPool" alt="" coords="263,99,449,126"/>
+<area shape="rect" id="node5" href="$class_thread_pool.html" title="ThreadPool" alt="" coords="64,71,151,98"/>
+</map>

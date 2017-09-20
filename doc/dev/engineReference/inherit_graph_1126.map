@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_thread_safe_priority_queue.html" title="ThreadSafePriorityQueue\l\&lt; T, K, SORT_MIN_TO_MAX,\l MAX_LEVEL, PROBABILISTIC_BIAS \&gt;" alt="" coords="5,5,260,61"/>
+<area shape="rect" id="node2" href="$struct_thread_safe_priority_queue_with_update.html" title="ThreadSafePriorityQueueWith\lUpdate\&lt; T, K, SORT_MIN_TO\l_MAX, MAX_LEVEL, PROBABILISTIC_BIAS \&gt;" alt="" coords="308,5,600,61"/>
+</map>

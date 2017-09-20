@@ -1,0 +1,51 @@
+<map id="SpotLight" name="SpotLight">
+<area shape="rect" id="node2" href="$class_light_base.html" title="LightBase" alt="" coords="1530,1553,1610,1580"/>
+<area shape="rect" id="node3" href="$class_scene_object.html" title="SceneObject" alt="" coords="1201,677,1299,704"/>
+<area shape="rect" id="node25" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="1489,557,1651,584"/>
+<area shape="rect" id="node27" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="1509,700,1631,727"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="NetObject" alt="" coords="490,131,570,157"/>
+<area shape="rect" id="node7" href="$struct_ghost_info.html" title="GhostInfo" alt="" coords="854,73,931,100"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="SimGroup" alt="" coords="70,89,150,116"/>
+<area shape="rect" id="node6" href="$class_bit_set32.html" title="BitSet32" alt="" coords="74,257,146,284"/>
+<area shape="rect" id="node16" href="$struct_d_d_s_file.html" title="DDSFile" alt="" coords="495,671,565,697"/>
+<area shape="rect" id="node8" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; NetObject \&gt;" alt="" coords="19,140,201,167"/>
+<area shape="rect" id="node9" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="819,677,966,704"/>
+<area shape="rect" id="node10" href="$class_process_object.html" title="ProcessObject" alt="" coords="839,1701,947,1728"/>
+<area shape="rect" id="node11" href="$struct_process_object_1_1_link.html" title="ProcessObject::Link" alt="" coords="1180,1761,1320,1788"/>
+<area shape="rect" id="node12" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="829,847,957,873"/>
+<area shape="rect" id="node13" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="475,617,585,644"/>
+<area shape="rect" id="node24" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="843,728,942,755"/>
+<area shape="rect" id="node14" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="59,772,161,799"/>
+<area shape="rect" id="node18" href="$class_g_f_x_device.html" title="GFXDevice" alt="" coords="487,1004,573,1031"/>
+<area shape="rect" id="node15" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="82,861,138,888"/>
+<area shape="rect" id="node48" href="$class_light_flare_data.html" title="LightFlareData" alt="" coords="477,1624,583,1651"/>
+<area shape="rect" id="node17" href="$class_point3_i.html" title="Point3I" alt="" coords="499,953,561,980"/>
+<area shape="rect" id="node19" href="$class_color_f.html" title="ColorF" alt="" coords="80,1553,140,1580"/>
+<area shape="rect" id="node41" href="$class_light_info.html" title="LightInfo" alt="" coords="495,1460,565,1487"/>
+<area shape="rect" id="node47" href="$struct_light_anim_state.html" title="The light animation state required by LightAnimData. " alt="" coords="475,1228,585,1255"/>
+<area shape="rect" id="node20" href="$class_point3_f.html" title="Point3F" alt="" coords="77,1160,143,1187"/>
+<area shape="rect" id="node29" href="$class_sphere_f.html" title="SphereF" alt="" coords="671,1177,742,1204"/>
+<area shape="rect" id="node30" href="$class_box3_f.html" title="Box3F" alt="" coords="677,1072,737,1099"/>
+<area shape="rect" id="node21" href="$class_matrix_f.html" title="MatrixF" alt="" coords="77,637,143,664"/>
+<area shape="rect" id="node33" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="652,443,761,469"/>
+<area shape="rect" id="node38" href="$struct_light_flare_state.html" title="LightFlareState" alt="" coords="837,1409,948,1436"/>
+<area shape="rect" id="node22" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="56,1293,164,1320"/>
+<area shape="rect" id="node23" href="$class_g_f_x_texture_profile.html" title="GFXTextureProfile" alt="" coords="467,721,593,748"/>
+<area shape="rect" id="node26" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="835,1060,951,1087"/>
+<area shape="rect" id="node28" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="795,1111,991,1137"/>
+<area shape="rect" id="node31" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="793,308,992,335"/>
+<area shape="rect" id="node32" href="$class_scene_container.html" title="SceneContainer" alt="" coords="835,359,950,385"/>
+<area shape="rect" id="node34" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="817,409,969,436"/>
+<area shape="rect" id="node35" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="803,460,982,487"/>
+<area shape="rect" id="node36" href="$class_i_scene_light.html" title="ISceneLight" alt="" coords="1205,1660,1295,1687"/>
+<area shape="rect" id="node37" href="$class_i_tickable.html" title="ITickable" alt="" coords="1213,1711,1287,1737"/>
+<area shape="rect" id="node39" href="$class_g_f_x_occlusion_query_handle.html" title="Handle for GFXOcclusionQuery than store last valid state. " alt="" coords="440,1409,620,1436"/>
+<area shape="rect" id="node40" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; GFXVertexPCT \&gt;" alt="" coords="451,1342,609,1383"/>
+<area shape="rect" id="node42" href="$class_vector.html" title="Vector\&lt; LightInfoEx * \&gt;" alt="" coords="31,1376,189,1403"/>
+<area shape="rect" id="node43" href="$class_light_anim_data.html" title="LightAnimData" alt="" coords="477,1853,583,1880"/>
+<area shape="rect" id="node44" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="57,1791,163,1817"/>
+<area shape="rect" id="node45" href="$struct_light_anim_data_1_1_anim_value.html" title="LightAnimData::AnimValue\&lt; 3 \&gt;" alt="" coords="5,1865,215,1892"/>
+<area shape="rect" id="node46" href="$struct_light_anim_data_1_1_anim_value.html" title="LightAnimData::AnimValue\&lt; 1 \&gt;" alt="" coords="5,1916,215,1943"/>
+<area shape="rect" id="node49" href="$class_rect_f.html" title="RectF" alt="" coords="81,1676,139,1703"/>
+<area shape="rect" id="node50" href="$class_g_f_x_primitive_buffer_handle.html" title="GFXPrimitiveBufferHandle" alt="" coords="25,1727,195,1753"/>
+</map>

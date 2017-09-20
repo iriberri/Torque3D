@@ -1,0 +1,24 @@
+<map id="NetEvent" name="NetEvent">
+<area shape="rect" id="node6" href="$class_connection_message_event.html" title="ConnectionMessageEvent" alt="" coords="745,5,917,32"/>
+<area shape="rect" id="node7" href="$class_file_chunk_event.html" title="FileChunkEvent" alt="" coords="775,56,887,83"/>
+<area shape="rect" id="node8" href="$class_file_download_request_event.html" title="FileDownloadRequestEvent" alt="" coords="741,107,920,133"/>
+<area shape="rect" id="node9" href="$class_ghost_always_object_event.html" title="GhostAlwaysObjectEvent" alt="" coords="746,157,915,184"/>
+<area shape="rect" id="node10" href="$class_lightning_strike_event.html" title="LightningStrikeEvent" alt="" coords="761,208,901,235"/>
+<area shape="rect" id="node11" href="$class_net_string_event.html" title="NetStringEvent" alt="" coords="777,259,885,285"/>
+<area shape="rect" id="node12" href="$class_node_list_event.html" title="NodeListEvent" alt="" coords="778,309,883,336"/>
+<area shape="rect" id="node16" href="$class_path_manager_event.html" title="PathManagerEvent" alt="" coords="765,360,896,387"/>
+<area shape="rect" id="node17" href="$class_radial_impulse_event.html" title="RadialImpulseEvent" alt="" coords="763,411,898,437"/>
+<area shape="rect" id="node18" href="$class_remote_command_event.html" title="RemoteCommandEvent" alt="" coords="751,461,910,488"/>
+<area shape="rect" id="node19" href="$class_set_mission_c_r_c_event.html" title="SetMissionCRCEvent" alt="" coords="757,512,904,539"/>
+<area shape="rect" id="node20" href="$class_sim2_d_audio_event.html" title="Sim2DAudioEvent" alt="" coords="767,563,894,589"/>
+<area shape="rect" id="node21" href="$class_sim3_d_audio_event.html" title="Sim3DAudioEvent" alt="" coords="767,613,894,640"/>
+<area shape="rect" id="node22" href="$class_sim_data_block_event.html" title="SimDataBlockEvent" alt="" coords="762,664,899,691"/>
+<area shape="rect" id="node23" href="$class_simple_message_event.html" title="SimpleMessageEvent" alt="" coords="757,715,904,741"/>
+<area shape="rect" id="node2" href="$class_console_object.html" title="ConsoleObject" alt="" coords="464,360,571,387"/>
+<area shape="rect" id="node3" href="$class_engine_object.html" title="EngineObject" alt="" coords="316,360,416,387"/>
+<area shape="rect" id="node4" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="159,360,268,387"/>
+<area shape="rect" id="node5" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,360,111,387"/>
+<area shape="rect" id="node13" href="$class_decal_road_node_event.html" title="DecalRoadNodeEvent" alt="" coords="968,259,1115,285"/>
+<area shape="rect" id="node14" href="$class_mesh_road_node_event.html" title="MeshRoadNodeEvent" alt="" coords="968,309,1115,336"/>
+<area shape="rect" id="node15" href="$class_river_node_event.html" title="RiverNodeEvent" alt="" coords="985,360,1097,387"/>
+</map>

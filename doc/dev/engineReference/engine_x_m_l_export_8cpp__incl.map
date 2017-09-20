@@ -1,0 +1,42 @@
+<map id="C:/projects/torque3d&#45;qw64q/Engine/source/console/engineXMLExport.cpp" name="C:/projects/torque3d&#45;qw64q/Engine/source/console/engineXMLExport.cpp">
+<area shape="rect" id="node2" href="$engine_exports_8h.html" title="console/engineExports.h" alt="" coords="1144,632,1309,659"/>
+<area shape="rect" id="node4" href="$engine_types_8h.html" title="console/engineTypes.h" alt="" coords="964,789,1119,815"/>
+<area shape="rect" id="node18" href="$engine_a_p_i_8h.html" title="console/engineAPI.h" alt="" coords="704,259,845,285"/>
+<area shape="rect" id="node40" href="$engine_functions_8h.html" title="console/engineFunctions.h" alt="" coords="1079,483,1257,509"/>
+<area shape="rect" id="node45" href="$_sim_x_m_l_document_8h_source.html" title="console/SimXMLDocument.h" alt="" coords="1627,109,1816,136"/>
+<area shape="rect" id="node3" href="$engine_object_8h.html" title="Disable TMM for this file. " alt="" coords="1138,707,1297,733"/>
+<area shape="rect" id="node15" href="$ref_base_8h_source.html" title="core/util/refBase.h" alt="" coords="762,789,889,815"/>
+<area shape="rect" id="node16" href="$tmm__off_8h_source.html" title="platform/tmm_off.h" alt="" coords="1143,789,1273,815"/>
+<area shape="rect" id="node17" href="$tmm__on_8h_source.html" title="platform/tmm_on.h" alt="" coords="1297,789,1428,815"/>
+<area shape="rect" id="node5" href="$typetraits_8h.html" title="platform/typetraits.h" alt="" coords="762,871,899,897"/>
+<area shape="rect" id="node14" href="$bit_set_8h_source.html" title="core/bitSet.h" alt="" coords="993,871,1089,897"/>
+<area shape="rect" id="node6" href="$platform_8h_source.html" title="platform/platform.h" alt="" coords="659,945,789,972"/>
+<area shape="rect" id="node9" href="$types_8h_source.html" title="platform/types.h" alt="" coords="888,1109,1003,1136"/>
+<area shape="rect" id="node10" href="$platform_assert_8h_source.html" title="platform/platformAssert.h" alt="" coords="482,1027,649,1054"/>
+<area shape="rect" id="node11" href="$msg_box_8h_source.html" title="platform/nativeDialogs\l/msgBox.h" alt="" coords="854,1020,1002,1061"/>
+<area shape="rect" id="node12" href="$str_8h_source.html" title="core/util/str.h" alt="" coords="1027,1027,1125,1054"/>
+<area shape="rect" id="node21" href="$console_types_8h.html" title="console/consoleTypes.h" alt="" coords="533,333,696,360"/>
+<area shape="rect" id="node23" href="$console_8h_source.html" title="console/console.h" alt="" coords="559,707,686,733"/>
+<area shape="rect" id="node26" href="$string_functions_8h_source.html" title="core/strings/stringFunctions.h" alt="" coords="105,557,300,584"/>
+<area shape="rect" id="node32" href="$engine_primitives_8h.html" title="console/enginePrimitives.h" alt="" coords="527,408,703,435"/>
+<area shape="rect" id="node33" href="$engine_structs_8h.html" title="console/engineStructs.h" alt="" coords="727,408,889,435"/>
+<area shape="rect" id="node34" href="$sim_object_8h_source.html" title="console/simObject.h" alt="" coords="1456,333,1597,360"/>
+<area shape="rect" id="node42" href="$sim_events_8h_source.html" title="console/simEvents.h" alt="" coords="1106,333,1249,360"/>
+<area shape="rect" id="node44" href="$string_stack_8h_source.html" title="console/stringStack.h" alt="" coords="134,483,282,509"/>
+<area shape="rect" id="node22" href="$dynamic_types_8h.html" title="console/dynamicTypes.h" alt="" coords="539,483,706,509"/>
+<area shape="rect" id="node31" href="$math_types_8h_source.html" title="math/mathTypes.h" alt="" coords="372,408,503,435"/>
+<area shape="rect" id="node29" href="$engine_type_info_8h_source.html" title="console/engineTypeInfo.h" alt="" coords="964,557,1132,584"/>
+<area shape="rect" id="node30" href="$string_table_8h_source.html" title="core/stringTable.h" alt="" coords="661,557,787,584"/>
+<area shape="rect" id="node25" href="$journaled_signal_8h_source.html" title="core/util/journal/journaled\lSignal.h" alt="" coords="418,781,585,823"/>
+<area shape="rect" id="node35" href="$sim_8h_source.html" title="console/sim.h" alt="" coords="1475,632,1578,659"/>
+<area shape="rect" id="node36" href="$console_object_8h.html" title="console/consoleObject.h" alt="" coords="1324,408,1489,435"/>
+<area shape="rect" id="node41" href="$taml_callbacks_8h_source.html" title="persistence/taml/tamlCallbacks.h" alt="" coords="1615,408,1830,435"/>
+<area shape="rect" id="node37" href="$t_vector_8h_source.html" title="core/util/tVector.h" alt="" coords="1757,483,1883,509"/>
+<area shape="rect" id="node39" href="$t_vector_specializations_8h_source.html" title="core/util/tVectorSpecializations.h" alt="" coords="1713,557,1927,584"/>
+<area shape="rect" id="node43" href="$delegate_8h_source.html" title="core/util/delegate.h" alt="" coords="1117,408,1249,435"/>
+<area shape="rect" id="node46" href="$sim_base_8h_source.html" title="console/simBase.h" alt="" coords="1655,184,1788,211"/>
+<area shape="rect" id="node47" href="$sim_object_list_8h_source.html" title="console/simObjectList.h" alt="" coords="1719,333,1881,360"/>
+<area shape="rect" id="node48" href="$sim_field_dictionary_8h_source.html" title="console/simFieldDictionary.h" alt="" coords="2007,483,2196,509"/>
+<area shape="rect" id="node49" href="$sim_set_8h_source.html" title="console/simSet.h" alt="" coords="1493,259,1616,285"/>
+<area shape="rect" id="node50" href="$sim_datablock_8h_source.html" title="console/simDatablock.h" alt="" coords="1641,259,1802,285"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GuiFrameSetCtrl::FrameDetail" name="GuiFrameSetCtrl::FrameDetail">
+<area shape="rect" id="node2" href="$struct_rect_spacing_i.html" title="RectSpacingI" alt="" coords="5,43,104,70"/>
+<area shape="rect" id="node3" href="$class_color_i.html" title="ColorI" alt="" coords="129,43,183,70"/>
+<area shape="rect" id="node4" href="$class_point2_i.html" title="Point2I" alt="" coords="278,43,341,70"/>
+</map>

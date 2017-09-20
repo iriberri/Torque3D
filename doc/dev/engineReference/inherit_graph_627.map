@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_mat_instance_hook.html" title="MatInstanceHook" alt="" coords="5,132,128,159"/>
+<area shape="rect" id="node2" href="$class_deferred_mat_instance_hook.html" title="DeferredMatInstanceHook" alt="" coords="204,5,375,32"/>
+<area shape="rect" id="node3" href="$class_imposter_capture_material_hook.html" title="ImposterCaptureMaterialHook" alt="" coords="193,56,386,83"/>
+<area shape="rect" id="node4" href="$class_instancing_material_hook.html" title="InstancingMaterialHook" alt="" coords="211,107,368,133"/>
+<area shape="rect" id="node5" href="$class_reflection_material_hook.html" title="ReflectionMaterialHook" alt="" coords="212,157,367,184"/>
+<area shape="rect" id="node6" href="$class_render_glow_mgr_1_1_glow_material_hook.html" title="RenderGlowMgr::GlowMaterialHook" alt="" coords="176,208,403,235"/>
+<area shape="rect" id="node7" href="$class_shadow_material_hook.html" title="ShadowMaterialHook" alt="" coords="217,259,361,285"/>
+</map>

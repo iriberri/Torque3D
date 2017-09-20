@@ -1,0 +1,6 @@
+<map id="BoxBrush" name="BoxBrush">
+<area shape="rect" id="node2" href="$class_brush.html" title="Brush" alt="" coords="89,155,145,181"/>
+<area shape="rect" id="node3" href="$class_selection.html" title="Selection\&lt; T \&gt;" alt="" coords="64,80,171,107"/>
+<area shape="rect" id="node4" href="$class_vector.html" title="Vector\&lt; T \&gt;" alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; GridInfo \&gt;" alt="" coords="120,5,248,32"/>
+</map>

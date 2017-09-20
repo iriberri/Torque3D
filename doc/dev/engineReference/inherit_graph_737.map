@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_platform_cursor_controller.html" title="PlatformCursorController" alt="" coords="5,56,168,83"/>
+<area shape="rect" id="node2" href="$class_mac_cursor_controller.html" title="MacCursorController" alt="" coords="240,5,380,32"/>
+<area shape="rect" id="node3" href="$class_platform_cursor_controller_s_d_l.html" title="PlatformCursorControllerSDL" alt="" coords="216,56,404,83"/>
+<area shape="rect" id="node4" href="$class_win32_cursor_controller.html" title="Win32CursorController" alt="" coords="234,107,386,133"/>
+</map>

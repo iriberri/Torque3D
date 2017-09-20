@@ -1,0 +1,17 @@
+<map id="Zip::ZipArchive" name="Zip::ZipArchive">
+<area shape="rect" id="node2" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="1381,12,1490,39"/>
+<area shape="rect" id="node3" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="1065,5,1170,32"/>
+<area shape="rect" id="node4" href="$struct_zip_1_1_zip_archive_1_1_zip_entry.html" title="Zip::ZipArchive::ZipEntry" alt="" coords="1036,95,1199,121"/>
+<area shape="rect" id="node11" href="$class_vector.html" title="Vector\&lt; Zip::ZipArchive\l::ZipEntry * \&gt;" alt="" coords="1357,145,1513,186"/>
+<area shape="rect" id="node5" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="267,144,323,171"/>
+<area shape="rect" id="node8" href="$class_zip_1_1_file_header.html" title="Zip::FileHeader" alt="" coords="513,144,623,171"/>
+<area shape="rect" id="node13" href="$class_zip_1_1_zip_temp_stream.html" title="Zip::ZipTempStream" alt="" coords="1048,199,1187,225"/>
+<area shape="rect" id="node6" href="$class_map.html" title="Map\&lt; String, Zip::ZipArchive\l::ZipEntry * \&gt;" alt="" coords="740,65,925,106"/>
+<area shape="rect" id="node7" href="$class_zip_1_1_central_dir.html" title="Zip::CentralDir" alt="" coords="781,144,885,171"/>
+<area shape="rect" id="node9" href="$class_vector.html" title="Vector\&lt; Zip::ExtraField * \&gt;" alt="" coords="207,229,384,256"/>
+<area shape="rect" id="node10" href="$class_zip_1_1_extra_field.html" title="Zip::ExtraField" alt="" coords="5,229,112,256"/>
+<area shape="rect" id="node12" href="$class_vector.html" title="Vector\&lt; Zip::ZipTempStream * \&gt;" alt="" coords="1331,211,1540,237"/>
+<area shape="rect" id="node14" href="$class_file_stream.html" title="FileStream" alt="" coords="790,261,875,288"/>
+<area shape="rect" id="node15" href="$class_stream.html" title="Base stream class for streaming data across a specific media. " alt="" coords="536,292,600,319"/>
+<area shape="rect" id="node16" href="$class_zip_1_1_end_of_central_dir.html" title="Zip::EndOfCentralDir" alt="" coords="1365,364,1505,391"/>
+</map>

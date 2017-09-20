@@ -1,0 +1,9 @@
+<map id="PhysicsObject" name="PhysicsObject">
+<area shape="rect" id="node3" href="$class_physics_body.html" title="Simple physics object that represents a single rigid body. " alt="" coords="75,155,174,181"/>
+<area shape="rect" id="node6" href="$class_physics_player.html" title="PhysicsPlayer" alt="" coords="198,155,305,181"/>
+<area shape="rect" id="node2" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="135,5,240,32"/>
+<area shape="rect" id="node4" href="$class_bt_body.html" title="BtBody" alt="" coords="5,229,71,256"/>
+<area shape="rect" id="node5" href="$class_px3_body.html" title="Px3Body" alt="" coords="95,229,170,256"/>
+<area shape="rect" id="node7" href="$class_bt_player.html" title="BtPlayer" alt="" coords="201,229,273,256"/>
+<area shape="rect" id="node8" href="$class_px3_player.html" title="Px3Player" alt="" coords="297,229,379,256"/>
+</map>

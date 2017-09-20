@@ -1,0 +1,8 @@
+<map id="LeapMotionDevice" name="LeapMotionDevice">
+<area shape="rect" id="node2" href="$class_i_input_device.html" title="IInputDevice" alt="" coords="5,193,96,219"/>
+<area shape="rect" id="node3" href="$class_leap_motion_device_1_1_motion_listener.html" title="LeapMotionDevice::Motion\lListener" alt="" coords="121,185,295,227"/>
+<area shape="rect" id="node5" href="$struct_leap_motion_device_data.html" title="LeapMotionDeviceData" alt="" coords="337,193,492,219"/>
+<area shape="rect" id="node6" href="$class_point3_f.html" title="Point3F" alt="" coords="249,43,316,70"/>
+<area shape="rect" id="node7" href="$class_matrix_f.html" title="MatrixF" alt="" coords="399,43,465,70"/>
+<area shape="rect" id="node8" href="$class_quat_f.html" title="QuatF" alt="" coords="560,43,619,70"/>
+</map>

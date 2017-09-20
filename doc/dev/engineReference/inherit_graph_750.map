@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_platform_window_manager.html" title="PlatformWindowManager" alt="" coords="5,56,172,83"/>
+<area shape="rect" id="node2" href="$class_mac_window_manager.html" title="MacWindowManager" alt="" coords="244,5,387,32"/>
+<area shape="rect" id="node3" href="$class_platform_window_manager_s_d_l.html" title="SDL2 implementation of the window manager interface. " alt="" coords="220,56,411,83"/>
+<area shape="rect" id="node4" href="$class_win32_window_manager.html" title="Win32 implementation of the window manager interface. " alt="" coords="238,107,393,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SFXMarkerModifier" name="SFXMarkerModifier">
+<area shape="rect" id="node2" href="$class_s_f_x_one_shot_modifier.html" title="An SFXModifier that is triggered once after passing a certain playback position. " alt="" coords="5,155,148,181"/>
+<area shape="rect" id="node3" href="$class_s_f_x_modifier.html" title="SFXModifier" alt="" coords="31,80,122,107"/>
+<area shape="rect" id="node4" href="$class_i_polled.html" title="IPolled" alt="" coords="46,5,107,32"/>
+</map>

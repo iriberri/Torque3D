@@ -1,0 +1,51 @@
+<map id="GuiOffscreenCanvas" name="GuiOffscreenCanvas">
+<area shape="rect" id="node49" href="$class_vector.html" title="Vector\&lt; GuiOffscreenCanvas * \&gt;" alt="" coords="2845,1697,3056,1724"/>
+<area shape="rect" id="node2" href="$class_gui_canvas.html" title="GuiCanvas" alt="" coords="2439,757,2523,784"/>
+<area shape="rect" id="node3" href="$class_gui_control.html" title="GuiControl" alt="" coords="1341,299,1424,325"/>
+<area shape="rect" id="node14" href="$class_gui_edit_ctrl.html" title="Native side of the GUI editor. " alt="" coords="1684,456,1769,483"/>
+<area shape="rect" id="node26" href="$struct_gui_canvas_1_1_acc_key_map.html" title="Accelerator key map. " alt="" coords="1645,361,1808,388"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="SimGroup" alt="" coords="958,433,1038,460"/>
+<area shape="rect" id="node5" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="598,1528,654,1555"/>
+<area shape="rect" id="node6" href="$class_gui_control_profile.html" title="GuiControlProfile" alt="" coords="939,228,1057,255"/>
+<area shape="rect" id="node41" href="$class_named_tex_target.html" title="NamedTexTarget" alt="" coords="1323,1455,1443,1481"/>
+<area shape="rect" id="node45" href="$class_conditioner_feature.html" title="ConditionerFeature" alt="" coords="933,1652,1063,1679"/>
+<area shape="rect" id="node7" href="$class_sim_object.html" title="SimObject" alt="" coords="585,72,667,99"/>
+<area shape="rect" id="node13" href="$class_lang_table.html" title="Language file table. " alt="" coords="957,72,1039,99"/>
+<area shape="rect" id="node40" href="$class_gui_cursor.html" title="GuiCursor" alt="" coords="1152,55,1232,81"/>
+<area shape="rect" id="node8" href="$class_point2_i.html" title="Point2I" alt="" coords="595,895,657,921"/>
+<area shape="rect" id="node22" href="$class_rect_i.html" title="RectI" alt="" coords="972,895,1024,921"/>
+<area shape="rect" id="node27" href="$struct_gui_event.html" title="GuiEvent" alt="" coords="1521,793,1596,820"/>
+<area shape="rect" id="node28" href="$class_platform_window.html" title="PlatformWindow" alt="" coords="2062,1248,2178,1275"/>
+<area shape="rect" id="node35" href="$class_window_input_generator.html" title="WindowInputGenerator" alt="" coords="2405,1148,2558,1175"/>
+<area shape="rect" id="node9" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="572,497,680,524"/>
+<area shape="rect" id="node21" href="$class_g_f_x_device.html" title="GFXDevice" alt="" coords="1340,689,1425,716"/>
+<area shape="rect" id="node10" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="172,497,348,538"/>
+<area shape="rect" id="node11" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="5,564,123,591"/>
+<area shape="rect" id="node15" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="893,484,1103,511"/>
+<area shape="rect" id="node50" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lTarget \&gt;" alt="" coords="372,1531,548,1573"/>
+<area shape="rect" id="node12" href="$class_vector.html" title="Vector\&lt; Vector\&lt; GuiWindow\lCtrl * \&gt; \&gt;" alt="" coords="904,123,1092,165"/>
+<area shape="rect" id="node16" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiControl \&gt;" alt="" coords="1290,535,1475,561"/>
+<area shape="rect" id="node17" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; GuiControl \&gt;" alt="" coords="909,535,1087,561"/>
+<area shape="rect" id="node18" href="$class_i_process_input.html" title="IProcessInput" alt="" coords="2069,1080,2171,1107"/>
+<area shape="rect" id="node19" href="$class_g_f_x_fence.html" title="GFXFence" alt="" coords="1685,681,1768,708"/>
+<area shape="rect" id="node20" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="947,728,1049,755"/>
+<area shape="rect" id="node23" href="$class_signal.html" title="Signal\&lt; Signature \&gt;" alt="" coords="1658,961,1795,988"/>
+<area shape="rect" id="node24" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="2087,967,2153,993"/>
+<area shape="rect" id="node25" href="$class_vector.html" title="Vector\&lt; GuiCanvas::\lAccKeyMap \&gt;" alt="" coords="2049,443,2191,485"/>
+<area shape="rect" id="node32" href="$class_platform_cursor_controller.html" title="PlatformCursorController" alt="" coords="2400,1279,2563,1305"/>
+<area shape="rect" id="node29" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, U32, U32, U16)\&gt;" alt="" coords="1633,1486,1820,1527"/>
+<area shape="rect" id="node30" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, S32, S32)\&gt;" alt="" coords="1649,1551,1805,1593"/>
+<area shape="rect" id="node31" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, S32)\&gt;" alt="" coords="1653,1013,1800,1054"/>
+<area shape="rect" id="node33" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, U32, U32,\l U32, F32)\&gt;" alt="" coords="1653,1079,1801,1135"/>
+<area shape="rect" id="node34" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, U32, S32,\l S32, bool)\&gt;" alt="" coords="1653,1159,1801,1215"/>
+<area shape="rect" id="node36" href="$class_journaled_signal_3_01void_07_08_4.html" title="JournaledSignal\&lt; void()\&gt;" alt="" coords="1645,1239,1808,1265"/>
+<area shape="rect" id="node37" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, U32, U16)\&gt;" alt="" coords="1649,1290,1805,1331"/>
+<area shape="rect" id="node38" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId)\&gt;" alt="" coords="1653,1355,1800,1397"/>
+<area shape="rect" id="node39" href="$class_journaled_signal.html" title="JournaledSignal\&lt; void\l(WindowId, U32, S32, S32)\&gt;" alt="" coords="1633,1421,1820,1462"/>
+<area shape="rect" id="node42" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="945,1476,1051,1503"/>
+<area shape="rect" id="node43" href="$struct_g_f_x_sampler_state_desc.html" title="GFXSamplerStateDesc" alt="" coords="920,1425,1076,1452"/>
+<area shape="rect" id="node44" href="$class_map.html" title="Map\&lt; Key, Value, Sequence \&gt;" alt="" coords="897,1375,1099,1401"/>
+<area shape="rect" id="node47" href="$class_conditioner_method_dependency.html" title="ConditionerMethodDependency" alt="" coords="1281,1627,1484,1653"/>
+<area shape="rect" id="node48" href="$class_vector.html" title="Vector\&lt; ConditionerFeature * \&gt;" alt="" coords="1281,1716,1484,1743"/>
+<area shape="rect" id="node46" href="$class_shader_feature.html" title="ShaderFeature" alt="" coords="573,1652,679,1679"/>
+</map>

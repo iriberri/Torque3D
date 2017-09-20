@@ -1,0 +1,5 @@
+<map id="MaterialParameterHandle" name="MaterialParameterHandle">
+<area shape="rect" id="node2" href="$class_f_f_material_parameter_handle.html" title="FFMaterialParameterHandle" alt="" coords="5,80,189,107"/>
+<area shape="rect" id="node3" href="$class_mat_instance_parameter_handle.html" title="MatInstanceParameterHandle" alt="" coords="214,80,407,107"/>
+<area shape="rect" id="node4" href="$class_shader_material_parameter_handle.html" title="ShaderMaterialParameterHandle" alt="" coords="431,80,641,107"/>
+</map>

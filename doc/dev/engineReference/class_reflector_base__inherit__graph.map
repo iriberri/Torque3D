@@ -1,0 +1,5 @@
+<map id="ReflectorBase" name="ReflectorBase">
+<area shape="rect" id="node2" href="$class_cube_reflector.html" title="CubeReflector" alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node3" href="$class_cube_reflector_1_1_cube_face_reflector.html" title="CubeReflector::CubeFaceReflector" alt="" coords="133,80,354,107"/>
+<area shape="rect" id="node4" href="$class_plane_reflector.html" title="PlaneReflector" alt="" coords="378,80,485,107"/>
+</map>

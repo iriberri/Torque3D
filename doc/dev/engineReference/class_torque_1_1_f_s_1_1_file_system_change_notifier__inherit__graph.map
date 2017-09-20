@@ -1,0 +1,5 @@
+<map id="Torque::FS::FileSystemChangeNotifier" name="Torque::FS::FileSystemChangeNotifier">
+<area shape="rect" id="node2" href="$class_mac_file_system_change_notifier.html" title="File system change notifications on Mac. " alt="" coords="257,5,455,32"/>
+<area shape="rect" id="node3" href="$class_torque_1_1_file_system_redirect_change_notifier.html" title="Torque::FileSystemRedirect\lChangeNotifier" alt="" coords="265,57,447,98"/>
+<area shape="rect" id="node4" href="$class_torque_1_1_win32_1_1_win32_file_system_change_notifier.html" title="Torque::Win32::Win32File\lSystemChangeNotifier" alt="" coords="270,122,442,163"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="GuiInspectorTypeSFXAmbienceName" name="GuiInspectorTypeSFXAmbienceName">
+<area shape="rect" id="node2" href="$class_gui_inspector_datablock_field.html" title="GuiInspectorDatablockField" alt="" coords="853,1069,1035,1096"/>
+<area shape="rect" id="node3" href="$class_gui_inspector_type_menu_base.html" title="GuiInspectorTypeMenuBase" alt="" coords="798,980,983,1007"/>
+<area shape="rect" id="node4" href="$class_gui_inspector_field.html" title="GuiInspectorField" alt="" coords="699,875,821,901"/>
+<area shape="rect" id="node44" href="$class_vector.html" title="Vector\&lt; GuiInspectorField * \&gt;" alt="" coords="427,980,621,1007"/>
+<area shape="rect" id="node5" href="$class_gui_control.html" title="GuiControl" alt="" coords="919,741,1001,768"/>
+<area shape="rect" id="node39" href="$class_gui_edit_ctrl.html" title="Native side of the GUI editor. " alt="" coords="1341,875,1427,901"/>
+<area shape="rect" id="node46" href="$class_gui_stack_control.html" title="GuiStackControl" alt="" coords="1008,980,1125,1007"/>
+<area shape="rect" id="node6" href="$class_sim_group.html" title="SimGroup" alt="" coords="1477,613,1557,639"/>
+<area shape="rect" id="node7" href="$class_sim_set.html" title="SimSet" alt="" coords="1606,330,1671,357"/>
+<area shape="rect" id="node8" href="$class_sim_object.html" title="SimObject" alt="" coords="1597,143,1680,169"/>
+<area shape="rect" id="node11" href="$union_namespace_1_1_entry_1_1_callback_union.html" title="Namespace::Entry::Callback\lUnion" alt="" coords="3055,323,3243,364"/>
+<area shape="rect" id="node30" href="$class_gui_control_profile.html" title="GuiControlProfile" alt="" coords="803,613,922,639"/>
+<area shape="rect" id="node38" href="$class_lang_table.html" title="Language file table. " alt="" coords="1538,486,1619,513"/>
+<area shape="rect" id="node9" href="$class_namespace.html" title="Namespace" alt="" coords="2809,741,2900,768"/>
+<area shape="rect" id="node10" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="2920,613,3051,639"/>
+<area shape="rect" id="node16" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="2301,875,2427,901"/>
+<area shape="rect" id="node12" href="$class_code_block.html" title="CodeBlock" alt="" coords="3268,330,3353,357"/>
+<area shape="rect" id="node13" href="$struct_console_function_header.html" title="Extended information about a console function. " alt="" coords="2871,330,3031,357"/>
+<area shape="rect" id="node14" href="$class_data_chunker.html" title="DataChunker" alt="" coords="3314,613,3411,639"/>
+<area shape="rect" id="node15" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="3452,330,3617,357"/>
+<area shape="rect" id="node17" href="$class_console_base_type.html" title="Information about a console type. " alt="" coords="2301,741,2427,768"/>
+<area shape="rect" id="node18" href="$class_engine_type_info.html" title="EngineTypeInfo" alt="" coords="2171,613,2282,639"/>
+<area shape="rect" id="node21" href="$class_engine_argument_type_table.html" title="Information about the return and argument types of a function type. " alt="" coords="2085,741,2262,768"/>
+<area shape="rect" id="node19" href="$class_engine_export_scope.html" title="A group of engine exports. " alt="" coords="2537,330,2674,357"/>
+<area shape="rect" id="node20" href="$struct_engine_type_net_info.html" title="Networking related information for an engine API type. " alt="" coords="2069,330,2200,357"/>
+<area shape="rect" id="node22" href="$class_engine_field_table.html" title="Table of fields for a struct type. " alt="" coords="2225,330,2346,357"/>
+<area shape="rect" id="node23" href="$class_engine_enum_table.html" title="Table of values for an enumeration or bitfield type. " alt="" coords="1822,330,1949,357"/>
+<area shape="rect" id="node27" href="$struct_abstract_class_rep_1_1_field.html" title="AbstractClassRep::Field" alt="" coords="1764,613,1927,639"/>
+<area shape="rect" id="node24" href="$class_bit_set32.html" title="BitSet32" alt="" coords="1973,330,2045,357"/>
+<area shape="rect" id="node25" href="$class_engine_property_table.html" title="EnginePropertyTable" alt="" coords="2370,330,2513,357"/>
+<area shape="rect" id="node26" href="$class_vector.html" title="Vector\&lt; Field \&gt;" alt="" coords="1916,741,2028,768"/>
+<area shape="rect" id="node28" href="$class_type_validator.html" title="TypeValidator" alt="" coords="1696,330,1797,357"/>
+<area shape="rect" id="node29" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="315,330,371,357"/>
+<area shape="rect" id="node42" href="$class_gui_rollout_ctrl.html" title="GuiRolloutCtrl" alt="" coords="177,613,279,639"/>
+<area shape="rect" id="node47" href="$class_gui_inspector.html" title="A control that allows to edit the properties of one or more SimObjects. " alt="" coords="909,1263,1003,1289"/>
+<area shape="rect" id="node31" href="$class_color_i.html" title="ColorI" alt="" coords="854,330,909,357"/>
+<area shape="rect" id="node32" href="$class_resource.html" title="Resource\&lt; GFont \&gt;" alt="" coords="1003,330,1141,357"/>
+<area shape="rect" id="node33" href="$class_point2_i.html" title="Point2I" alt="" coords="653,21,715,48"/>
+<area shape="rect" id="node36" href="$class_rect_i.html" title="RectI" alt="" coords="289,143,341,169"/>
+<area shape="rect" id="node34" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SFXTrack \&gt;" alt="" coords="1165,330,1345,357"/>
+<area shape="rect" id="node35" href="$class_vector.html" title="Vector\&lt; RectI \&gt;" alt="" coords="652,330,767,357"/>
+<area shape="rect" id="node37" href="$class_vector.html" title="Vector\&lt; Vector\&lt; GuiWindow\lCtrl * \&gt; \&gt;" alt="" coords="591,605,779,647"/>
+<area shape="rect" id="node40" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1193,613,1402,639"/>
+<area shape="rect" id="node41" href="$class_gui_inspector_group.html" title="GuiInspectorGroup" alt="" coords="459,1069,589,1096"/>
+<area shape="rect" id="node49" href="$class_vector.html" title="Vector\&lt; GuiInspectorGroup * \&gt;" alt="" coords="473,1166,674,1193"/>
+<area shape="rect" id="node43" href="$class_vector.html" title="Vector\&lt; GuiRolloutCtrl * \&gt;" alt="" coords="137,808,311,835"/>
+<area shape="rect" id="node45" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiInspector \&gt;" alt="" coords="155,980,352,1007"/>
+<area shape="rect" id="node48" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; GuiInspector\lField \&gt;" alt="" coords="1061,1159,1246,1200"/>
+<area shape="rect" id="node50" href="$class_vector.html" title="Vector\&lt; SimObjectPtr\l\&lt; SimObject \&gt; \&gt;" alt="" coords="1322,1159,1473,1200"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_intersector_base.html" title="IntersectorBase\&lt; Polyhedron,\l Box3F \&gt;" alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$struct_polyhedron_box_intersector.html" title="PolyhedronBoxIntersector\l\&lt; Polyhedron \&gt;" alt="" coords="248,5,419,47"/>
+</map>

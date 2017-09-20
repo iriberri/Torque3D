@@ -1,0 +1,7 @@
+<map id="RenderParticleMgr::CompositeShaderConsts" name="RenderParticleMgr::CompositeShaderConsts">
+<area shape="rect" id="node2" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXShaderConst\lBuffer \&gt;" alt="" coords="5,247,213,288"/>
+<area shape="rect" id="node3" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="51,171,168,197"/>
+<area shape="rect" id="node4" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="55,81,164,108"/>
+<area shape="rect" id="node5" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="57,5,162,32"/>
+<area shape="rect" id="node6" href="$class_g_f_x_shader_const_handle.html" title="GFXShaderConstHandle" alt="" coords="237,254,400,281"/>
+</map>

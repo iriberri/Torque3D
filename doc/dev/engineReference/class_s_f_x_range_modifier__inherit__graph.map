@@ -1,0 +1,5 @@
+<map id="SFXRangeModifier" name="SFXRangeModifier">
+<area shape="rect" id="node4" href="$class_s_f_x_fade_modifier.html" title="A volume fade effect (fade&#45;in or fade&#45;out). " alt="" coords="9,229,129,256"/>
+<area shape="rect" id="node2" href="$class_s_f_x_modifier.html" title="SFXModifier" alt="" coords="24,80,115,107"/>
+<area shape="rect" id="node3" href="$class_i_polled.html" title="IPolled" alt="" coords="39,5,100,32"/>
+</map>

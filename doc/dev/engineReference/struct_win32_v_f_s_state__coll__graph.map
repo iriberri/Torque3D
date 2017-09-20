@@ -1,0 +1,19 @@
+<map id="Win32VFSState" name="Win32VFSState">
+<area shape="rect" id="node2" href="$class_mem_stream.html" title="The MemStream class is used to read and write to a memory buffer. " alt="" coords="949,21,1043,48"/>
+<area shape="rect" id="node3" href="$class_stream.html" title="Base stream class for streaming data across a specific media. " alt="" coords="536,113,600,140"/>
+<area shape="rect" id="node4" href="$class_zip_1_1_zip_archive.html" title="Class for accessing Zip files. " alt="" coords="1695,205,1801,232"/>
+<area shape="rect" id="node17" href="$class_file_stream.html" title="FileStream" alt="" coords="790,225,875,252"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="1411,175,1521,201"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="1095,175,1201,201"/>
+<area shape="rect" id="node7" href="$struct_zip_1_1_zip_archive_1_1_zip_entry.html" title="Zip::ZipArchive::ZipEntry" alt="" coords="1067,397,1229,424"/>
+<area shape="rect" id="node14" href="$class_vector.html" title="Vector\&lt; Zip::ZipArchive\l::ZipEntry * \&gt;" alt="" coords="1388,390,1544,431"/>
+<area shape="rect" id="node8" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="267,365,323,392"/>
+<area shape="rect" id="node11" href="$class_zip_1_1_file_header.html" title="Zip::FileHeader" alt="" coords="513,365,623,392"/>
+<area shape="rect" id="node16" href="$class_zip_1_1_zip_temp_stream.html" title="Zip::ZipTempStream" alt="" coords="1079,285,1217,312"/>
+<area shape="rect" id="node9" href="$class_map.html" title="Map\&lt; String, Zip::ZipArchive\l::ZipEntry * \&gt;" alt="" coords="740,467,925,509"/>
+<area shape="rect" id="node10" href="$class_zip_1_1_central_dir.html" title="Zip::CentralDir" alt="" coords="781,365,885,392"/>
+<area shape="rect" id="node12" href="$class_vector.html" title="Vector\&lt; Zip::ExtraField * \&gt;" alt="" coords="207,451,384,477"/>
+<area shape="rect" id="node13" href="$class_zip_1_1_extra_field.html" title="Zip::ExtraField" alt="" coords="5,451,112,477"/>
+<area shape="rect" id="node15" href="$class_vector.html" title="Vector\&lt; Zip::ZipTempStream * \&gt;" alt="" coords="1361,276,1571,303"/>
+<area shape="rect" id="node18" href="$class_zip_1_1_end_of_central_dir.html" title="Zip::EndOfCentralDir" alt="" coords="1396,68,1536,95"/>
+</map>

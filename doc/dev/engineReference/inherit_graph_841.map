@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_reflector_base.html" title="ReflectorBase" alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$class_cube_reflector.html" title="CubeReflector" alt="" coords="215,5,318,32"/>
+<area shape="rect" id="node3" href="$class_cube_reflector_1_1_cube_face_reflector.html" title="CubeReflector::CubeFaceReflector" alt="" coords="156,56,377,83"/>
+<area shape="rect" id="node4" href="$class_plane_reflector.html" title="PlaneReflector" alt="" coords="213,107,320,133"/>
+</map>

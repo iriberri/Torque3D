@@ -1,0 +1,7 @@
+<map id="RazerHydraFrame::ControllerData" name="RazerHydraFrame::ControllerData">
+<area shape="rect" id="node2" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="5,43,72,70"/>
+<area shape="rect" id="node3" href="$class_point3_f.html" title="Point3F" alt="" coords="149,43,216,70"/>
+<area shape="rect" id="node4" href="$class_point3_i.html" title="Point3I" alt="" coords="299,43,362,70"/>
+<area shape="rect" id="node5" href="$class_matrix_f.html" title="MatrixF" alt="" coords="440,43,507,70"/>
+<area shape="rect" id="node6" href="$class_quat_f.html" title="QuatF" alt="" coords="601,43,660,70"/>
+</map>

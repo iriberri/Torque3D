@@ -1,0 +1,16 @@
+<map id="GuiInspectorTypeMaterialName" name="GuiInspectorTypeMaterialName">
+<area shape="rect" id="node13" href="$class_gui_inspector_type_regular_material_name.html" title="GuiInspectorTypeRegularMaterialName" alt="" coords="1557,5,1804,32"/>
+<area shape="rect" id="node14" href="$class_gui_inspector_type_terrain_material_index.html" title="GuiInspectorTypeTerrainMaterial\lIndex" alt="" coords="1577,57,1785,98"/>
+<area shape="rect" id="node15" href="$class_gui_inspector_type_terrain_material_name.html" title="GuiInspectorTypeTerrainMaterialName" alt="" coords="1559,123,1802,149"/>
+<area shape="rect" id="node2" href="$class_gui_inspector_field.html" title="GuiInspectorField" alt="" coords="1136,64,1259,91"/>
+<area shape="rect" id="node3" href="$class_gui_control.html" title="GuiControl" alt="" coords="1005,64,1088,91"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="SimGroup" alt="" coords="877,64,957,91"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="SimSet" alt="" coords="764,64,829,91"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="SimObject" alt="" coords="626,39,709,65"/>
+<area shape="rect" id="node7" href="$class_console_object.html" title="ConsoleObject" alt="" coords="464,13,571,40"/>
+<area shape="rect" id="node8" href="$class_engine_object.html" title="EngineObject" alt="" coords="316,13,416,40"/>
+<area shape="rect" id="node9" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="159,13,268,40"/>
+<area shape="rect" id="node10" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,13,111,40"/>
+<area shape="rect" id="node11" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="464,64,571,91"/>
+<area shape="rect" id="node12" href="$class_taml_children.html" title="TamlChildren" alt="" coords="619,89,716,116"/>
+</map>

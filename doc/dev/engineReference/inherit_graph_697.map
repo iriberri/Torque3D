@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_input_stream.html" title="IInputStream\&lt; OggTheoraFrame * \&gt;" alt="" coords="5,5,233,32"/>
+<area shape="rect" id="node2" href="$class_ogg_theora_decoder.html" title="OggTheoraDecoder" alt="" coords="281,31,415,57"/>
+<area shape="rect" id="node3" href="$class_i_input_stream.html" title="IInputStream\&lt; RawData * \&gt;" alt="" coords="29,107,209,133"/>
+<area shape="rect" id="node4" href="$class_ogg_vorbis_decoder.html" title="OggVorbisDecoder" alt="" coords="283,93,413,120"/>
+<area shape="rect" id="node5" href="$class_ogg_decoder.html" title="Single substream in a multiplexed OGG stream. " alt="" coords="72,56,167,83"/>
+</map>

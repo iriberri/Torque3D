@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="268,5,389,32"/>
+<area shape="rect" id="node2" href="$class_s_f_x3_d_object.html" title="SFXObject implementation for the 3D system. " alt="" coords="489,56,589,83"/>
+<area shape="rect" id="node3" href="$class_scope_tracker_object.html" title="Base class for objects registered with a ScopeTracker. " alt="" coords="5,74,168,115"/>
+<area shape="rect" id="node4" href="$class_s_f_x_object.html" title="SFXObject\&lt; NUM_DIMENSIONS \&gt;" alt="" coords="216,56,441,83"/>
+<area shape="rect" id="node5" href="$class_s_f_x_object.html" title="SFXObject\&lt; 3 \&gt;" alt="" coords="271,107,386,133"/>
+</map>

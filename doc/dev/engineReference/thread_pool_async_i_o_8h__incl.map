@@ -1,0 +1,21 @@
+<map id="C:/projects/torque3d&#45;qw64q/Engine/source/platform/threads/threadPoolAsyncIO.h" name="C:/projects/torque3d&#45;qw64q/Engine/source/platform/threads/threadPoolAsyncIO.h">
+<area shape="rect" id="node2" href="$thread_pool_8h.html" title="platform/threads/threadPool.h" alt="" coords="501,124,693,151"/>
+<area shape="rect" id="node26" href="$raw_data_8h_source.html" title="core/util/rawData.h" alt="" coords="891,295,1021,322"/>
+<area shape="rect" id="node27" href="$t_stream_8h.html" title="core/stream/tStream.h" alt="" coords="1045,295,1197,322"/>
+<area shape="rect" id="node3" href="$thread_safe_ref_count_8h.html" title="platform/threads/threadSafe\lRefCount.h" alt="" coords="635,288,816,329"/>
+<area shape="rect" id="node21" href="$thread_safe_priority_queue_8h.html" title="platform/threads/threadSafe\lPriorityQueue.h" alt="" coords="507,199,688,240"/>
+<area shape="rect" id="node24" href="$semaphore_8h_source.html" title="platform/threads/semaphore.h" alt="" coords="5,206,200,233"/>
+<area shape="rect" id="node25" href="$t_singleton_8h_source.html" title="core/util/tSingleton.h" alt="" coords="328,452,469,479"/>
+<area shape="rect" id="node4" href="$platform_intrinsics_8h_source.html" title="platform/platformIntrinsics.h" alt="" coords="507,377,688,404"/>
+<area shape="rect" id="node9" href="$typetraits_8h.html" title="platform/typetraits.h" alt="" coords="785,377,922,404"/>
+<area shape="rect" id="node5" href="$types_8h_source.html" title="platform/types.h" alt="" coords="348,616,463,643"/>
+<area shape="rect" id="node6" href="$stdint_8h_source.html" title="stdint.h" alt="" coords="373,691,438,717"/>
+<area shape="rect" id="node10" href="$platform_8h_source.html" title="platform/platform.h" alt="" coords="801,452,930,479"/>
+<area shape="rect" id="node13" href="$platform_assert_8h_source.html" title="platform/platformAssert.h" alt="" coords="322,534,489,561"/>
+<area shape="rect" id="node14" href="$msg_box_8h_source.html" title="platform/nativeDialogs\l/msgBox.h" alt="" coords="873,527,1021,568"/>
+<area shape="rect" id="node15" href="$version_8h_source.html" title="app/version.h" alt="" coords="1045,534,1144,561"/>
+<area shape="rect" id="node16" href="$str_8h_source.html" title="core/util/str.h" alt="" coords="1168,534,1267,561"/>
+<area shape="rect" id="node18" href="$safe_delete_8h_source.html" title="core/util/safeDelete.h" alt="" coords="1291,534,1435,561"/>
+<area shape="rect" id="node22" href="$tmm__off_8h_source.html" title="platform/tmm_off.h" alt="" coords="275,295,405,322"/>
+<area shape="rect" id="node23" href="$tmm__on_8h_source.html" title="platform/tmm_on.h" alt="" coords="429,295,560,322"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="EngineTypeInfo" name="EngineTypeInfo">
+<area shape="rect" id="node8" href="$class_engine_class_type_info.html" title="Template for class type infos. " alt="" coords="1163,5,1305,47"/>
+<area shape="rect" id="node9" href="$class_engine_function_type_info.html" title="Template for function type infos. " alt="" coords="1139,71,1329,98"/>
+<area shape="rect" id="node10" href="$class_engine_function_type_info.html" title="EngineFunctionTypeInfo\l\&lt; T(R)(T(ArgTs)...) \&gt;" alt="" coords="1154,123,1314,164"/>
+<area shape="rect" id="node11" href="$class_engine_function_type_info.html" title="EngineFunctionTypeInfo\l\&lt; T(R)(T(ArgTs)...,...) \&gt;" alt="" coords="1154,188,1314,229"/>
+<area shape="rect" id="node12" href="$class_engine_simple_type_info.html" title="Template for type infos of primitive, enum, and bitfield types. " alt="" coords="1143,254,1325,281"/>
+<area shape="rect" id="node13" href="$class_engine_struct_type_info.html" title="Template for struct type infos. " alt="" coords="1146,305,1322,331"/>
+<area shape="rect" id="node2" href="$class_engine_export_scope.html" title="A group of engine exports. " alt="" coords="795,163,932,190"/>
+<area shape="rect" id="node3" href="$class_engine_export.html" title="EngineExport" alt="" coords="647,163,747,190"/>
+<area shape="rect" id="node4" href="$class_static_engine_object.html" title="StaticEngineObject" alt="" coords="464,163,599,190"/>
+<area shape="rect" id="node5" href="$class_engine_object.html" title="EngineObject" alt="" coords="316,163,416,190"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="159,163,268,190"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,163,111,190"/>
+</map>

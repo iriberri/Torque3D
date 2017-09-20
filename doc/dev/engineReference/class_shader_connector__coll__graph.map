@@ -1,0 +1,7 @@
+<map id="ShaderConnector" name="ShaderConnector">
+<area shape="rect" id="node2" href="$class_shader_component.html" title="ShaderComponent" alt="" coords="5,184,135,211"/>
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; Var * \&gt;" alt="" coords="159,184,272,211"/>
+<area shape="rect" id="node4" href="$struct_var.html" title="Var" alt="" coords="194,95,237,121"/>
+<area shape="rect" id="node5" href="$struct_lang_element.html" title="LangElement" alt="" coords="219,5,318,32"/>
+<area shape="rect" id="node6" href="$class_vector.html" title="Vector\&lt; LangElement * \&gt;" alt="" coords="261,95,431,121"/>
+</map>

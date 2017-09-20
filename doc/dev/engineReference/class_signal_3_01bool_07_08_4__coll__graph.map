@@ -1,0 +1,6 @@
+<map id="Signal&lt; bool()&gt;" name="Signal&lt; bool()&gt;">
+<area shape="rect" id="node2" href="$class_signal_base_t.html" title="SignalBaseT\&lt; bool()\&gt;" alt="" coords="17,277,164,304"/>
+<area shape="rect" id="node3" href="$class_signal_base.html" title="SignalBase" alt="" coords="47,201,135,228"/>
+<area shape="rect" id="node4" href="$class_vector.html" title="Vector\&lt; SignalBase\l::DelegateLink * \&gt;" alt="" coords="109,97,248,139"/>
+<area shape="rect" id="node5" href="$struct_signal_base_1_1_delegate_link.html" title="SignalBase::DelegateLink" alt="" coords="5,7,176,33"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="PersistenceManager::DirtyObject" name="PersistenceManager::DirtyObject">
+<area shape="rect" id="node2" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SimObject \&gt;" alt="" coords="5,81,191,108"/>
+<area shape="rect" id="node3" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SimObject \&gt;" alt="" coords="9,5,187,32"/>
+</map>

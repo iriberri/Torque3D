@@ -1,0 +1,10 @@
+<map id="GuiMLTextCtrl::BitmapRef" name="GuiMLTextCtrl::BitmapRef">
+<area shape="rect" id="node2" href="$class_rect_i.html" title="RectI" alt="" coords="11,475,63,501"/>
+<area shape="rect" id="node3" href="$class_point2_i.html" title="Point2I" alt="" coords="5,353,68,380"/>
+<area shape="rect" id="node4" href="$struct_gui_m_l_text_ctrl_1_1_bitmap.html" title="GuiMLTextCtrl::Bitmap" alt="" coords="141,475,295,501"/>
+<area shape="rect" id="node5" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="164,353,272,380"/>
+<area shape="rect" id="node6" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="130,247,306,288"/>
+<area shape="rect" id="node7" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="159,171,277,197"/>
+<area shape="rect" id="node8" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="163,81,273,108"/>
+<area shape="rect" id="node9" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="165,5,271,32"/>
+</map>

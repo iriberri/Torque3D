@@ -1,0 +1,7 @@
+<map id="SFXMemoryStream" name="SFXMemoryStream">
+<area shape="rect" id="node2" href="$class_s_f_x_stream.html" title="SFXStream" alt="" coords="167,109,255,136"/>
+<area shape="rect" id="node3" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; SFXStream \&gt;" alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node4" href="$class_i_input_stream.html" title="IInputStream\&lt; U8 \&gt;" alt="" coords="280,13,415,39"/>
+<area shape="rect" id="node6" href="$class_i_input_stream_filter.html" title="IInputStreamFilter\l\&lt; U8, IInputStream\&lt;\l RawData * \&gt; * \&gt;" alt="" coords="279,95,418,151"/>
+<area shape="rect" id="node5" href="$class_i_resettable.html" title="Interface for structures that allow their state to be reset. " alt="" coords="169,13,256,39"/>
+</map>

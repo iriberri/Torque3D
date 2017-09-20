@@ -1,0 +1,5 @@
+<map id="PhysicsComponentInterface" name="PhysicsComponentInterface">
+<area shape="rect" id="node3" href="$class_player_controller_component.html" title="PlayerControllerComponent" alt="" coords="5,169,185,196"/>
+<area shape="rect" id="node4" href="$class_rigid_body_component.html" title="RigidBodyComponent" alt="" coords="210,169,357,196"/>
+<area shape="rect" id="node2" href="$class_interface.html" title="Interface\&lt; PhysicsComponent\lInterface \&gt;" alt="" coords="91,5,287,47"/>
+</map>

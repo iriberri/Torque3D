@@ -1,0 +1,51 @@
+<map id="SFXEmitter" name="SFXEmitter">
+<area shape="rect" id="node2" href="$class_scene_object.html" title="SceneObject" alt="" coords="1717,797,1814,824"/>
+<area shape="rect" id="node24" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="2040,738,2201,765"/>
+<area shape="rect" id="node26" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="2060,865,2181,892"/>
+<area shape="rect" id="node3" href="$class_net_object.html" title="NetObject" alt="" coords="969,285,1049,312"/>
+<area shape="rect" id="node6" href="$struct_ghost_info.html" title="GhostInfo" alt="" coords="1334,296,1411,322"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="SimGroup" alt="" coords="547,965,627,992"/>
+<area shape="rect" id="node38" href="$class_s_f_x_source.html" title="Baseclass for sources and controllers. " alt="" coords="966,1612,1053,1638"/>
+<area shape="rect" id="node5" href="$class_bit_set32.html" title="BitSet32" alt="" coords="551,285,623,312"/>
+<area shape="rect" id="node15" href="$struct_d_d_s_file.html" title="DDSFile" alt="" coords="974,440,1045,466"/>
+<area shape="rect" id="node7" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; NetObject \&gt;" alt="" coords="495,110,678,137"/>
+<area shape="rect" id="node8" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="1299,1004,1446,1030"/>
+<area shape="rect" id="node9" href="$class_process_object.html" title="ProcessObject" alt="" coords="1319,1662,1427,1689"/>
+<area shape="rect" id="node10" href="$struct_process_object_1_1_link.html" title="ProcessObject::Link" alt="" coords="1695,1698,1835,1725"/>
+<area shape="rect" id="node11" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="1309,617,1437,644"/>
+<area shape="rect" id="node12" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="5,554,115,581"/>
+<area shape="rect" id="node21" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="216,421,333,448"/>
+<area shape="rect" id="node23" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="357,957,456,984"/>
+<area shape="rect" id="node13" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="535,638,638,665"/>
+<area shape="rect" id="node17" href="$class_g_f_x_device.html" title="GFXDevice" alt="" coords="967,773,1052,800"/>
+<area shape="rect" id="node14" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="559,504,615,530"/>
+<area shape="rect" id="node47" href="$class_s_f_x_profile.html" title="SFXProfile" alt="" coords="2079,1330,2162,1357"/>
+<area shape="rect" id="node16" href="$class_point3_i.html" title="Point3I" alt="" coords="978,389,1041,416"/>
+<area shape="rect" id="node18" href="$class_point3_f.html" title="Point3F" alt="" coords="553,1220,620,1246"/>
+<area shape="rect" id="node28" href="$class_sphere_f.html" title="SphereF" alt="" coords="1151,1028,1222,1054"/>
+<area shape="rect" id="node29" href="$class_box3_f.html" title="Box3F" alt="" coords="1157,1136,1217,1162"/>
+<area shape="rect" id="node37" href="$class_s_f_x_description.html" title="SFXDescription" alt="" coords="1317,1484,1428,1510"/>
+<area shape="rect" id="node19" href="$class_matrix_f.html" title="MatrixF" alt="" coords="553,878,620,905"/>
+<area shape="rect" id="node32" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="1132,938,1241,965"/>
+<area shape="rect" id="node20" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="482,170,691,197"/>
+<area shape="rect" id="node22" href="$class_g_f_x_texture_profile.html" title="GFXTextureProfile" alt="" coords="946,672,1073,698"/>
+<area shape="rect" id="node25" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="1315,1054,1431,1081"/>
+<area shape="rect" id="node27" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="1275,1105,1471,1132"/>
+<area shape="rect" id="node30" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="1273,1156,1472,1182"/>
+<area shape="rect" id="node31" href="$class_scene_container.html" title="SceneContainer" alt="" coords="1315,397,1430,424"/>
+<area shape="rect" id="node33" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="1297,448,1449,474"/>
+<area shape="rect" id="node34" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="1283,498,1462,525"/>
+<area shape="rect" id="node35" href="$class_s_f_x_track.html" title="A datablock that describes sound data for playback. " alt="" coords="1726,1282,1805,1309"/>
+<area shape="rect" id="node36" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="957,1370,1062,1397"/>
+<area shape="rect" id="node39" href="$class_ease_f.html" title="EaseF" alt="" coords="557,1544,617,1570"/>
+<area shape="rect" id="node40" href="$class_torque_1_1_list.html" title="Torque::List\&lt; SFXModifier * \&gt;" alt="" coords="491,1680,683,1706"/>
+<area shape="rect" id="node41" href="$class_vector.html" title="Vector\&lt; SFXParameter * \&gt;" alt="" coords="498,1730,675,1757"/>
+<area shape="rect" id="node42" href="$class_generic_time_source.html" title="GenericTimeSource\&lt;\l RealMSTimer \&gt;" alt="" coords="515,1782,659,1823"/>
+<area shape="rect" id="node43" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SFXDescription \&gt;" alt="" coords="480,1848,693,1874"/>
+<area shape="rect" id="node44" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SFXTrack \&gt;" alt="" coords="497,1629,677,1656"/>
+<area shape="rect" id="node45" href="$class_s_f_x_sound_reverb_properties.html" title="SFXSoundReverbProperties" alt="" coords="919,1484,1100,1510"/>
+<area shape="rect" id="node46" href="$class_color_i.html" title="ColorI" alt="" coords="2093,1789,2148,1816"/>
+<area shape="rect" id="node48" href="$class_signal.html" title="Signal\&lt; void(SFXProfile *) \&gt;" alt="" coords="1675,1333,1856,1360"/>
+<area shape="rect" id="node49" href="$class_strong_weak_ref_ptr.html" title="StrongWeakRefPtr\&lt; SFXBuffer \&gt;" alt="" coords="1660,1384,1871,1410"/>
+<area shape="rect" id="node50" href="$class_resource.html" title="Resource\&lt; SFXResource \&gt;" alt="" coords="1675,1434,1855,1461"/>
+</map>

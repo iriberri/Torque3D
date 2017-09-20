@@ -1,0 +1,51 @@
+<map id="RenderParticleMgr::OffscreenSystemEntry" name="RenderParticleMgr::OffscreenSystemEntry">
+<area shape="rect" id="node2" href="$class_rect_f.html" title="RectF" alt="" coords="1029,341,1086,368"/>
+<area shape="rect" id="node3" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="423,331,490,357"/>
+<area shape="rect" id="node44" href="$class_frustum.html" title="Frustum" alt="" coords="807,289,878,316"/>
+<area shape="rect" id="node4" href="$class_matrix_f.html" title="MatrixF" alt="" coords="423,179,490,205"/>
+<area shape="rect" id="node6" href="$struct_particle_render_inst.html" title="A special render instance for particles. " alt="" coords="1869,493,1997,520"/>
+<area shape="rect" id="node18" href="$class_g_f_x_device.html" title="GFXDevice" alt="" coords="1202,1048,1287,1075"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; ParticleRenderInst * \&gt;" alt="" coords="2097,421,2296,448"/>
+<area shape="rect" id="node7" href="$struct_render_inst.html" title="RenderInst" alt="" coords="1583,508,1667,535"/>
+<area shape="rect" id="node8" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="1561,1759,1689,1785"/>
+<area shape="rect" id="node33" href="$class_g_f_x_texture_manager.html" title="GFXTextureManager" alt="" coords="1863,1759,2003,1785"/>
+<area shape="rect" id="node38" href="$class_g_f_x_texture_target.html" title="GFXTextureTarget" alt="" coords="1869,1408,1996,1435"/>
+<area shape="rect" id="node9" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,1159,269,1185"/>
+<area shape="rect" id="node23" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="398,560,515,587"/>
+<area shape="rect" id="node37" href="$class_g_f_x_shader_const_buffer.html" title="GFXShaderConstBuffer" alt="" coords="765,1159,920,1185"/>
+<area shape="rect" id="node10" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,1159,111,1185"/>
+<area shape="rect" id="node11" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="405,1261,508,1288"/>
+<area shape="rect" id="node12" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="429,1981,485,2008"/>
+<area shape="rect" id="node13" href="$struct_d_d_s_file.html" title="DDSFile" alt="" coords="807,1833,878,1860"/>
+<area shape="rect" id="node41" href="$class_g_f_x_card_profiler.html" title="GFXCardProfiler" alt="" coords="785,1901,900,1928"/>
+<area shape="rect" id="node14" href="$class_torque_1_1_path.html" title="Torque::Path" alt="" coords="409,1865,505,1892"/>
+<area shape="rect" id="node15" href="$class_bit_set32.html" title="BitSet32" alt="" coords="421,1748,493,1775"/>
+<area shape="rect" id="node16" href="$class_vector.html" title="Vector\&lt; DDSFile::Surface\lData * \&gt;" alt="" coords="371,1799,543,1841"/>
+<area shape="rect" id="node17" href="$class_point3_i.html" title="Point3I" alt="" coords="1213,2049,1276,2076"/>
+<area shape="rect" id="node35" href="$class_g_f_x_draw_util.html" title="GFXDrawUtil" alt="" coords="1578,1003,1673,1029"/>
+<area shape="rect" id="node19" href="$class_g_f_x_device_statistics.html" title="GFXDeviceStatistics" alt="" coords="773,1057,913,1084"/>
+<area shape="rect" id="node20" href="$class_g_f_x_cubemap_handle.html" title="A reference counted handle to a cubemap resource. " alt="" coords="771,1108,914,1135"/>
+<area shape="rect" id="node21" href="$class_swizzle.html" title="Swizzle\&lt; U8, 3 \&gt;" alt="" coords="781,1209,904,1236"/>
+<area shape="rect" id="node22" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTarget \&gt;" alt="" coords="752,392,933,419"/>
+<area shape="rect" id="node36" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="738,611,947,637"/>
+<area shape="rect" id="node39" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXVertexBuffer \&gt;" alt="" coords="735,560,951,587"/>
+<area shape="rect" id="node42" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXPrimitive\lBuffer \&gt;" alt="" coords="751,494,934,535"/>
+<area shape="rect" id="node24" href="$class_swizzle.html" title="Swizzle\&lt; U8, 4 \&gt;" alt="" coords="781,1323,904,1349"/>
+<area shape="rect" id="node25" href="$class_color_f.html" title="ColorF" alt="" coords="427,769,487,796"/>
+<area shape="rect" id="node31" href="$class_g_f_x_light_info.html" title="GFXLightInfo" alt="" coords="795,944,890,971"/>
+<area shape="rect" id="node40" href="$struct_g_f_x_light_material.html" title="GFXLightMaterial" alt="" coords="782,661,903,688"/>
+<area shape="rect" id="node26" href="$class_rect_i.html" title="RectI" alt="" coords="817,1427,869,1453"/>
+<area shape="rect" id="node27" href="$class_platform_timer.html" title="PlatformTimer" alt="" coords="791,1477,894,1504"/>
+<area shape="rect" id="node28" href="$class_vector.html" title="Vector\&lt; StrongRefPtr \&gt;" alt="" coords="763,1528,922,1555"/>
+<area shape="rect" id="node29" href="$class_g_f_x_vertex_decl.html" title="GFXVertexDecl" alt="" coords="787,1579,898,1605"/>
+<area shape="rect" id="node30" href="$class_vector.html" title="Vector\&lt; GFXVideoMode \&gt;" alt="" coords="755,1629,930,1656"/>
+<area shape="rect" id="node32" href="$class_point3_f.html" title="Point3F" alt="" coords="423,975,490,1001"/>
+<area shape="rect" id="node34" href="$struct_fov_port.html" title="Advanced fov specification for oculus. " alt="" coords="809,443,876,469"/>
+<area shape="rect" id="node50" href="$class_g_f_x_vertex_buffer_handle_base.html" title="GFXVertexBufferHandleBase" alt="" coords="1349,560,1537,587"/>
+<area shape="rect" id="node49" href="$class_g_f_x_primitive_buffer_handle.html" title="GFXPrimitiveBufferHandle" alt="" coords="1359,464,1528,491"/>
+<area shape="rect" id="node43" href="$class_map.html" title="Map\&lt; U32, GFXStateBlockRef \&gt;" alt="" coords="737,831,948,857"/>
+<area shape="rect" id="node45" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="789,780,897,807"/>
+<area shape="rect" id="node46" href="$class_g_f_x_texture_profile.html" title="GFXTextureProfile" alt="" coords="1181,1945,1308,1972"/>
+<area shape="rect" id="node47" href="$class_g_bitmap.html" title="GBitmap" alt="" coords="1208,1731,1281,1757"/>
+<area shape="rect" id="node48" href="$class_vector.html" title="Vector\&lt; GBitmap::Registration \&gt;" alt="" coords="737,1731,949,1757"/>
+</map>

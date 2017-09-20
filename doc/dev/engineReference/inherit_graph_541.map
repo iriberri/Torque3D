@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_i_sampler_backend.html" title="A sampler backend is responsible for storing the actual sampling data. " alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node2" href="$class_c_s_v_sampler_backend.html" title="A sampler backend that outputs samples to a CSV file. " alt="" coords="177,5,325,32"/>
+</map>

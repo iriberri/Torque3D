@@ -1,0 +1,7 @@
+<map id="WorldEditor::ClassInfo::Entry" name="WorldEditor::ClassInfo::Entry">
+<area shape="rect" id="node2" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="39,346,147,373"/>
+<area shape="rect" id="node3" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="5,247,181,288"/>
+<area shape="rect" id="node4" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="35,171,152,197"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="39,81,148,108"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="41,5,146,32"/>
+</map>

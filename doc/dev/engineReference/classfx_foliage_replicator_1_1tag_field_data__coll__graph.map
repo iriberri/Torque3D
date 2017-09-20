@@ -1,0 +1,8 @@
+<map id="fxFoliageReplicator::tagFieldData" name="fxFoliageReplicator::tagFieldData">
+<area shape="rect" id="node2" href="$class_color_f.html" title="ColorF" alt="" coords="5,375,65,402"/>
+<area shape="rect" id="node3" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="160,375,268,402"/>
+<area shape="rect" id="node4" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="126,247,302,288"/>
+<area shape="rect" id="node5" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="155,171,273,197"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="159,81,269,108"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="161,5,267,32"/>
+</map>

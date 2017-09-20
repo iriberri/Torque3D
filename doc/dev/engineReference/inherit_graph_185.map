@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_console_base_type.html" title="Information about a console type. " alt="" coords="5,107,132,133"/>
+<area shape="rect" id="node2" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="236,31,363,57"/>
+<area shape="rect" id="node6" href="$class_bitfield_console_base_type.html" title="BitfieldConsoleBaseType" alt="" coords="216,81,383,108"/>
+<area shape="rect" id="node7" href="$class_enum_console_base_type.html" title="EnumConsoleBaseType" alt="" coords="219,132,380,159"/>
+<area shape="rect" id="node8" href="$class_sim_object_ref_console_base_type.html" title="SimObjectRefConsoleBaseType\&lt; T \&gt;" alt="" coords="180,183,419,209"/>
+<area shape="rect" id="node3" href="$class_concrete_abstract_class_rep.html" title="ConcreteAbstractClassRep\&lt; T \&gt;" alt="" coords="467,5,677,32"/>
+<area shape="rect" id="node5" href="$class_runtime_class_rep.html" title="RuntimeClassRep\&lt; T \&gt;" alt="" coords="493,56,651,83"/>
+<area shape="rect" id="node4" href="$class_concrete_class_rep.html" title="ConcreteClassRep\&lt; T \&gt;" alt="" coords="725,5,887,32"/>
+</map>

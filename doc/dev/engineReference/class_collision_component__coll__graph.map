@@ -1,0 +1,51 @@
+<map id="CollisionComponent" name="CollisionComponent">
+<area shape="rect" id="node2" href="$class_component.html" title="Component" alt="" coords="2136,307,2224,333"/>
+<area shape="rect" id="node3" href="$class_net_object.html" title="NetObject" alt="" coords="638,143,718,169"/>
+<area shape="rect" id="node6" href="$struct_ghost_info.html" title="GhostInfo" alt="" coords="1018,73,1095,100"/>
+<area shape="rect" id="node13" href="$class_scene_object.html" title="SceneObject" alt="" coords="1008,653,1105,680"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="SimGroup" alt="" coords="259,168,339,195"/>
+<area shape="rect" id="node5" href="$class_bit_set32.html" title="BitSet32" alt="" coords="263,227,335,253"/>
+<area shape="rect" id="node7" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; NetObject \&gt;" alt="" coords="208,117,391,144"/>
+<area shape="rect" id="node8" href="$class_update_interface.html" title="UpdateInterface" alt="" coords="1729,579,1841,605"/>
+<area shape="rect" id="node9" href="$class_interface.html" title="Interface\&lt; UpdateInterface \&gt;" alt="" coords="1296,552,1481,579"/>
+<area shape="rect" id="node10" href="$class_vector.html" title="Vector\&lt; StringTableEntry \&gt;" alt="" coords="1695,307,1875,333"/>
+<area shape="rect" id="node11" href="$class_entity.html" title="Entity" alt="" coords="1757,357,1813,384"/>
+<area shape="rect" id="node12" href="$class_game_base.html" title="GameBase" alt="" coords="1345,436,1432,463"/>
+<area shape="rect" id="node25" href="$class_convex.html" title="Convex" alt="" coords="1357,492,1421,519"/>
+<area shape="rect" id="node28" href="$struct_collision_interface_1_1_collision_timeout.html" title="CollisionInterface\l::CollisionTimeout" alt="" coords="1326,865,1451,906"/>
+<area shape="rect" id="node30" href="$struct_contact_info.html" title="ContactInfo" alt="" coords="1345,713,1432,740"/>
+<area shape="rect" id="node33" href="$struct_collision.html" title="Collision" alt="" coords="1353,775,1424,801"/>
+<area shape="rect" id="node46" href="$class_physics_user_data.html" title="The base class for physics user data. " alt="" coords="1327,653,1450,680"/>
+<area shape="rect" id="node14" href="$class_point3_f.html" title="Point3F" alt="" coords="266,712,333,739"/>
+<area shape="rect" id="node16" href="$class_box3_f.html" title="Box3F" alt="" coords="648,863,708,889"/>
+<area shape="rect" id="node19" href="$struct_entity_1_1_state_delta.html" title="Entity::StateDelta" alt="" coords="1326,380,1451,407"/>
+<area shape="rect" id="node36" href="$class_physics_component_interface.html" title="PhysicsComponentInterface" alt="" coords="586,1127,770,1153"/>
+<area shape="rect" id="node40" href="$class_physics_world.html" title="PhysicsWorld" alt="" coords="627,293,729,320"/>
+<area shape="rect" id="node15" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="580,1009,776,1036"/>
+<area shape="rect" id="node23" href="$class_collision_interface.html" title="CollisionInterface" alt="" coords="2120,903,2240,929"/>
+<area shape="rect" id="node17" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="262,863,337,889"/>
+<area shape="rect" id="node18" href="$struct_move.html" title="Move" alt="" coords="1031,333,1083,360"/>
+<area shape="rect" id="node20" href="$class_signal.html" title="Signal\&lt; void(SimObject\l *, String, String) \&gt;" alt="" coords="1310,247,1467,289"/>
+<area shape="rect" id="node21" href="$class_vector.html" title="Vector\&lt; ComponentField \&gt;" alt="" coords="1696,193,1875,220"/>
+<area shape="rect" id="node22" href="$struct_component_field.html" title="ComponentField" alt="" coords="1331,193,1447,220"/>
+<area shape="rect" id="node29" href="$class_vector.html" title="Vector\&lt; CollisionInterface * \&gt;" alt="" coords="2489,1044,2680,1071"/>
+<area shape="rect" id="node24" href="$class_signal.html" title="Signal\&lt; void(PhysicsCollision\l *collision) \&gt;" alt="" coords="1689,1035,1881,1077"/>
+<area shape="rect" id="node27" href="$struct_collision_working_list.html" title="CollisionWorkingList" alt="" coords="1715,455,1855,481"/>
+<area shape="rect" id="node26" href="$struct_collision_state_list.html" title="CollisionStateList" alt="" coords="995,516,1118,543"/>
+<area shape="rect" id="node31" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="995,743,1118,769"/>
+<area shape="rect" id="node32" href="$class_collision_list.html" title="CollisionList" alt="" coords="1739,805,1831,832"/>
+<area shape="rect" id="node34" href="$class_cast_ray_interface.html" title="CastRayInterface" alt="" coords="2119,631,2241,657"/>
+<area shape="rect" id="node35" href="$class_vector.html" title="Vector\&lt; S32 \&gt;" alt="" coords="2127,741,2233,768"/>
+<area shape="rect" id="node38" href="$class_vector.html" title="Vector\&lt; PhysicsComponent\lInterface * \&gt;" alt="" coords="964,1203,1149,1245"/>
+<area shape="rect" id="node37" href="$class_interface.html" title="Interface\&lt; PhysicsComponent\lInterface \&gt;" alt="" coords="1291,1178,1487,1219"/>
+<area shape="rect" id="node39" href="$class_signal.html" title="Signal\&lt; void(Point3F\l normal, Vector\&lt; SceneObject\l * \&gt; overlappedObjects) \&gt;" alt="" coords="200,1112,399,1168"/>
+<area shape="rect" id="node41" href="$class_signal_3_01void_07_08_4.html" title="Signal\&lt; void()\&gt;" alt="" coords="245,293,353,320"/>
+<area shape="rect" id="node42" href="$class_signal_base_t.html" title="SignalBaseT\&lt; void()\&gt;" alt="" coords="5,293,151,320"/>
+<area shape="rect" id="node43" href="$class_physics_body.html" title="Simple physics object that represents a single rigid body. " alt="" coords="2131,681,2229,708"/>
+<area shape="rect" id="node44" href="$class_physics_object.html" title="PhysicsObject" alt="" coords="1732,629,1839,656"/>
+<area shape="rect" id="node45" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="1336,603,1441,629"/>
+<area shape="rect" id="node47" href="$class_render_component_interface.html" title="RenderComponentInterface" alt="" coords="2091,1185,2269,1212"/>
+<area shape="rect" id="node49" href="$class_vector.html" title="Vector\&lt; RenderComponentInterface * \&gt;" alt="" coords="2460,1181,2709,1208"/>
+<area shape="rect" id="node48" href="$class_interface.html" title="Interface\&lt; RenderComponent\lInterface \&gt;" alt="" coords="2775,1202,2965,1243"/>
+<area shape="rect" id="node50" href="$class_signal.html" title="Signal\&lt; void(RenderComponent\lInterface *) \&gt;" alt="" coords="1684,1178,1887,1219"/>
+</map>

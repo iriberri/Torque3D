@@ -1,0 +1,10 @@
+<map id="SFXVoice" name="SFXVoice">
+<area shape="rect" id="node5" href="$class_s_f_x_a_l_voice.html" title="SFXALVoice" alt="" coords="5,229,100,256"/>
+<area shape="rect" id="node6" href="$class_s_f_x_d_s_voice.html" title="SFXDSVoice" alt="" coords="124,229,221,256"/>
+<area shape="rect" id="node7" href="$class_s_f_x_f_m_o_d_voice.html" title="SFXFMODVoice" alt="" coords="246,229,363,256"/>
+<area shape="rect" id="node8" href="$class_s_f_x_null_voice.html" title="SFXNullVoice" alt="" coords="387,229,489,256"/>
+<area shape="rect" id="node9" href="$class_s_f_x_x_audio_voice.html" title="SFXXAudioVoice" alt="" coords="513,229,632,256"/>
+<area shape="rect" id="node2" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="175,80,285,107"/>
+<area shape="rect" id="node3" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="177,5,283,32"/>
+<area shape="rect" id="node4" href="$class_i_positionable.html" title="IPositionable\&lt; U32 \&gt;" alt="" coords="309,80,452,107"/>
+</map>

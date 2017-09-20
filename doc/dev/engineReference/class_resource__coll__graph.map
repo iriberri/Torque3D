@@ -1,0 +1,8 @@
+<map id="Resource&lt; T &gt;" name="Resource&lt; T &gt;">
+<area shape="rect" id="node2" href="$class_resource_base.html" title="ResourceBase" alt="" coords="125,376,231,403"/>
+<area shape="rect" id="node3" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; ResourceBase\l::Header \&gt;" alt="" coords="5,272,199,313"/>
+<area shape="rect" id="node4" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="55,171,173,197"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="118,81,227,108"/>
+<area shape="rect" id="node7" href="$class_resource_base_1_1_header.html" title="ResourceBase::Header" alt="" coords="157,221,313,248"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="120,5,225,32"/>
+</map>

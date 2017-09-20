@@ -1,0 +1,24 @@
+<map id="ShaderRenderPassData" name="ShaderRenderPassData">
+<area shape="rect" id="node2" href="$struct_render_pass_data.html" title="This contains the common data needed to render a pass. " alt="" coords="1969,288,2089,315"/>
+<area shape="rect" id="node3" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="30,375,86,401"/>
+<area shape="rect" id="node14" href="$class_feature_set.html" title="FeatureSet" alt="" coords="1169,403,1256,429"/>
+<area shape="rect" id="node17" href="$class_feature_type.html" title="FeatureType" alt="" coords="215,428,310,455"/>
+<area shape="rect" id="node4" href="$class_g_f_x_cubemap_handle.html" title="A reference counted handle to a cubemap resource. " alt="" coords="1344,69,1487,96"/>
+<area shape="rect" id="node5" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXCubemap \&gt;" alt="" coords="877,47,1077,73"/>
+<area shape="rect" id="node6" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="439,79,557,105"/>
+<area shape="rect" id="node12" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="672,117,848,158"/>
+<area shape="rect" id="node18" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="872,225,1081,252"/>
+<area shape="rect" id="node23" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXShader \&gt;" alt="" coords="1723,28,1909,55"/>
+<area shape="rect" id="node7" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="208,79,317,105"/>
+<area shape="rect" id="node8" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,79,111,105"/>
+<area shape="rect" id="node9" href="$struct_render_pass_data_1_1_tex_slot_t.html" title="RenderPassData::TexSlotT" alt="" coords="1515,212,1694,239"/>
+<area shape="rect" id="node10" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; NamedTexTarget \&gt;" alt="" coords="1105,212,1320,239"/>
+<area shape="rect" id="node11" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="1159,161,1267,188"/>
+<area shape="rect" id="node13" href="$struct_material_feature_data.html" title="MaterialFeatureData" alt="" coords="1535,375,1674,401"/>
+<area shape="rect" id="node15" href="$class_vector.html" title="Vector\&lt; FeatureSet\l::FeatureInfo \&gt;" alt="" coords="692,427,828,469"/>
+<area shape="rect" id="node16" href="$struct_feature_set_1_1_feature_info.html" title="FeatureSet::FeatureInfo" alt="" coords="419,436,577,463"/>
+<area shape="rect" id="node19" href="$class_shader_const_handles.html" title="ShaderConstHandles" alt="" coords="1957,380,2101,407"/>
+<area shape="rect" id="node20" href="$class_g_f_x_shader_const_handle.html" title="GFXShaderConstHandle" alt="" coords="1523,540,1686,567"/>
+<area shape="rect" id="node21" href="$class_vector.html" title="Vector\&lt; ShaderFeatureConst\lHandles * \&gt;" alt="" coords="1933,515,2124,557"/>
+<area shape="rect" id="node22" href="$class_shader_feature_const_handles.html" title="ShaderFeatureConstHandles" alt="" coords="1511,591,1699,617"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SFXFadeModifier" name="SFXFadeModifier">
+<area shape="rect" id="node2" href="$class_s_f_x_range_modifier.html" title="An SFXModifier that is spans a certain range of playback time. " alt="" coords="5,155,133,181"/>
+<area shape="rect" id="node3" href="$class_s_f_x_modifier.html" title="SFXModifier" alt="" coords="24,80,115,107"/>
+<area shape="rect" id="node4" href="$class_i_polled.html" title="IPolled" alt="" coords="39,5,100,32"/>
+</map>

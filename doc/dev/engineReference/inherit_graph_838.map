@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_red_book_device.html" title="RedBookDevice" alt="" coords="5,31,119,57"/>
+<area shape="rect" id="node2" href="$class_unix_red_book_device.html" title="UnixRedBookDevice" alt="" coords="173,5,311,32"/>
+<area shape="rect" id="node3" href="$class_win32_red_book_device.html" title="Win32RedBookDevice" alt="" coords="167,56,317,83"/>
+</map>

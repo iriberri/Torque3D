@@ -1,0 +1,6 @@
+<map id="ProcessedMaterial" name="ProcessedMaterial">
+<area shape="rect" id="node2" href="$class_processed_f_f_material.html" title="ProcessedFFMaterial" alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$class_processed_shader_material.html" title="ProcessedShaderMaterial" alt="" coords="176,80,347,107"/>
+<area shape="rect" id="node4" href="$class_processed_custom_material.html" title="ProcessedCustomMaterial" alt="" coords="74,155,249,181"/>
+<area shape="rect" id="node5" href="$class_processed_deferred_material.html" title="ProcessedDeferredMaterial" alt="" coords="273,155,452,181"/>
+</map>

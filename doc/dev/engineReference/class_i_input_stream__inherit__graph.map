@@ -1,0 +1,5 @@
+<map id="IInputStream&lt; T &gt;" name="IInputStream&lt; T &gt;">
+<area shape="rect" id="node2" href="$class_i_input_stream_filter.html" title="IInputStreamFilter\l\&lt; T, Stream \&gt;" alt="" coords="31,80,155,121"/>
+<area shape="rect" id="node3" href="$class_async_buffered_input_stream.html" title="AsyncBufferedInputStream\l\&lt; T, Stream \&gt;" alt="" coords="5,169,181,211"/>
+<area shape="rect" id="node4" href="$class_async_single_buffered_input_stream.html" title="AsyncSingleBufferedInput\lStream\&lt; T, Stream \&gt;" alt="" coords="8,259,179,300"/>
+</map>

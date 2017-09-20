@@ -1,0 +1,17 @@
+<map id="OpenVRProvider::LoadedRenderModel" name="OpenVRProvider::LoadedRenderModel">
+<area shape="rect" id="node2" href="$class_open_v_r_render_model.html" title="Simple class to handle rendering native OpenVR model data. " alt="" coords="1577,256,1724,283"/>
+<area shape="rect" id="node3" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="1278,59,1401,85"/>
+<area shape="rect" id="node4" href="$class_vector.html" title="Vector\&lt; MatInstanceHook * \&gt;" alt="" coords="848,7,1043,33"/>
+<area shape="rect" id="node5" href="$class_mat_instance_hook.html" title="MatInstanceHook" alt="" coords="584,7,707,33"/>
+<area shape="rect" id="node6" href="$class_box3_f.html" title="Box3F" alt="" coords="1309,225,1369,252"/>
+<area shape="rect" id="node7" href="$class_box_base.html" title="Base class for box geometries. " alt="" coords="908,57,983,84"/>
+<area shape="rect" id="node8" href="$class_point3_f.html" title="Point3F" alt="" coords="912,235,979,261"/>
+<area shape="rect" id="node9" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; VertexType \&gt;" alt="" coords="1260,277,1419,318"/>
+<area shape="rect" id="node10" href="$class_g_f_x_vertex_buffer_handle_base.html" title="GFXVertexBufferHandleBase" alt="" coords="851,285,1039,312"/>
+<area shape="rect" id="node11" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXVertexBuffer \&gt;" alt="" coords="537,285,753,312"/>
+<area shape="rect" id="node12" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="371,321,488,348"/>
+<area shape="rect" id="node16" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXPrimitive\lBuffer \&gt;" alt="" coords="554,337,737,378"/>
+<area shape="rect" id="node13" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,321,269,348"/>
+<area shape="rect" id="node14" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,321,111,348"/>
+<area shape="rect" id="node15" href="$class_g_f_x_primitive_buffer_handle.html" title="GFXPrimitiveBufferHandle" alt="" coords="1067,344,1236,371"/>
+</map>

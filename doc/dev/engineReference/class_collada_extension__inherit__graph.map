@@ -1,0 +1,6 @@
+<map id="ColladaExtension" name="ColladaExtension">
+<area shape="rect" id="node2" href="$class_collada_extension__animation__clip.html" title="ColladaExtension_animation_clip" alt="" coords="176,5,389,32"/>
+<area shape="rect" id="node3" href="$class_collada_extension__effect.html" title="Extensions for the &lt;effect&gt; element (and its children) " alt="" coords="202,56,363,83"/>
+<area shape="rect" id="node4" href="$class_collada_extension__geometry.html" title="Extensions for the &lt;geometry&gt; element. " alt="" coords="191,107,375,133"/>
+<area shape="rect" id="node5" href="$class_collada_extension__node.html" title="Extensions for the &lt;node&gt; element. " alt="" coords="203,157,362,184"/>
+</map>

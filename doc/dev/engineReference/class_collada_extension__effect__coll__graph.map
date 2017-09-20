@@ -1,0 +1,5 @@
+<map id="ColladaExtension_effect" name="ColladaExtension_effect">
+<area shape="rect" id="node2" href="$class_collada_extension.html" title="ColladaExtension" alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node3" href="$struct_animated_element.html" title="AnimatedElement\&lt; bool \&gt;" alt="" coords="152,5,325,32"/>
+<area shape="rect" id="node4" href="$struct_animated_element.html" title="AnimatedElement\&lt; double \&gt;" alt="" coords="349,5,536,32"/>
+</map>

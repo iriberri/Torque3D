@@ -1,0 +1,7 @@
+<map id="RemoteCommandEvent" name="RemoteCommandEvent">
+<area shape="rect" id="node2" href="$class_net_event.html" title="NetEvent" alt="" coords="47,304,122,331"/>
+<area shape="rect" id="node3" href="$class_console_object.html" title="ConsoleObject" alt="" coords="31,229,138,256"/>
+<area shape="rect" id="node4" href="$class_engine_object.html" title="EngineObject" alt="" coords="35,155,135,181"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="30,80,139,107"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="32,5,137,32"/>
+</map>

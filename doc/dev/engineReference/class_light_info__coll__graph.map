@@ -1,0 +1,7 @@
+<map id="LightInfo" name="LightInfo">
+<area shape="rect" id="node2" href="$class_color_f.html" title="ColorF" alt="" coords="5,133,65,159"/>
+<area shape="rect" id="node3" href="$class_point3_f.html" title="Point3F" alt="" coords="161,133,227,159"/>
+<area shape="rect" id="node4" href="$class_matrix_f.html" title="MatrixF" alt="" coords="310,133,377,159"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; LightInfoEx * \&gt;" alt="" coords="471,133,629,159"/>
+<area shape="rect" id="node6" href="$class_light_info_ex.html" title="LightInfoEx" alt="" coords="507,5,593,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ServerInfo" name="ServerInfo">
+<area shape="rect" id="node2" href="$struct_net_address.html" title="NetAddress" alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node3" href="$class_bit_set32.html" title="BitSet32" alt="" coords="120,5,192,32"/>
+</map>

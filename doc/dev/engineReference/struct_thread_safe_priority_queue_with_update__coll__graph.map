@@ -1,0 +1,5 @@
+<map id="ThreadSafePriorityQueueWithUpdate&lt; T, K, SORT_MIN_TO_MAX, MAX_LEVEL, PROBABILISTIC_BIAS &gt;" name="ThreadSafePriorityQueueWithUpdate&lt; T, K, SORT_MIN_TO_MAX, MAX_LEVEL, PROBABILISTIC_BIAS &gt;">
+<area shape="rect" id="node2" href="$struct_thread_safe_priority_queue.html" title="ThreadSafePriorityQueue\l\&lt; T, K, SORT_MIN_TO_MAX,\l MAX_LEVEL, PROBABILISTIC_BIAS \&gt;" alt="" coords="259,5,513,61"/>
+<area shape="rect" id="node3" href="$class_thread_safe_ref.html" title="ThreadSafeRef\&lt; Node \&gt;" alt="" coords="5,61,165,88"/>
+<area shape="rect" id="node5" href="$struct_thread_safe_priority_queue.html" title="ThreadSafePriorityQueue\l\&lt; ThreadSafeRef\&lt; Node\l \&gt;, TickType, true, MAX\l_LEVEL, PROBABILISTIC_BIAS \&gt;" alt="" coords="275,86,497,157"/>
+</map>

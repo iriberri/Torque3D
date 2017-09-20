@@ -1,0 +1,15 @@
+<map id="GuiMLTextCtrl::Line" name="GuiMLTextCtrl::Line">
+<area shape="rect" id="node2" href="$struct_gui_m_l_text_ctrl_1_1_atom.html" title="GuiMLTextCtrl::Atom" alt="" coords="317,840,461,867"/>
+<area shape="rect" id="node3" href="$struct_gui_m_l_text_ctrl_1_1_style.html" title="GuiMLTextCtrl::Style" alt="" coords="153,751,296,777"/>
+<area shape="rect" id="node4" href="$class_color_i.html" title="ColorI" alt="" coords="5,579,60,606"/>
+<area shape="rect" id="node5" href="$struct_gui_m_l_text_ctrl_1_1_font.html" title="GuiMLTextCtrl::Font" alt="" coords="155,579,294,606"/>
+<area shape="rect" id="node6" href="$class_resource.html" title="Resource\&lt; GFont \&gt;" alt="" coords="156,452,293,479"/>
+<area shape="rect" id="node7" href="$class_resource_base.html" title="ResourceBase" alt="" coords="171,376,278,403"/>
+<area shape="rect" id="node8" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; ResourceBase\l::Header \&gt;" alt="" coords="49,272,243,313"/>
+<area shape="rect" id="node9" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="117,171,234,197"/>
+<area shape="rect" id="node10" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="177,81,286,108"/>
+<area shape="rect" id="node12" href="$class_resource_base_1_1_header.html" title="ResourceBase::Header" alt="" coords="201,221,357,248"/>
+<area shape="rect" id="node11" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="179,5,284,32"/>
+<area shape="rect" id="node13" href="$class_point2_i.html" title="Point2I" alt="" coords="372,579,435,606"/>
+<area shape="rect" id="node14" href="$struct_gui_m_l_text_ctrl_1_1_u_r_l.html" title="GuiMLTextCtrl::URL" alt="" coords="374,751,513,777"/>
+</map>

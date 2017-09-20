@@ -1,0 +1,46 @@
+<map id="DecalData" name="DecalData">
+<area shape="rect" id="node2" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="1111,825,1216,852"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="SimObject" alt="" coords="753,965,836,992"/>
+<area shape="rect" id="node9" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="1114,1089,1213,1116"/>
+<area shape="rect" id="node14" href="$union_namespace_1_1_entry_1_1_callback_union.html" title="Namespace::Entry::Callback\lUnion" alt="" coords="1069,518,1257,559"/>
+<area shape="rect" id="node4" href="$class_console_object.html" title="ConsoleObject" alt="" coords="482,991,589,1017"/>
+<area shape="rect" id="node5" href="$class_engine_object.html" title="EngineObject" alt="" coords="319,991,419,1017"/>
+<area shape="rect" id="node25" href="$class_static_engine_object.html" title="StaticEngineObject" alt="" coords="468,401,603,428"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,1057,269,1084"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,1057,111,1084"/>
+<area shape="rect" id="node8" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="482,940,589,967"/>
+<area shape="rect" id="node10" href="$class_hash_table.html" title="HashTable\&lt; Key, Value \&gt;" alt="" coords="709,1140,880,1167"/>
+<area shape="rect" id="node11" href="$class_torque_1_1_u_u_i_d.html" title="A universally unique identifier. " alt="" coords="745,1229,844,1256"/>
+<area shape="rect" id="node12" href="$class_namespace.html" title="Namespace" alt="" coords="1786,504,1877,531"/>
+<area shape="rect" id="node13" href="$struct_namespace_1_1_entry.html" title="A function entry in the namespace. " alt="" coords="1417,467,1548,493"/>
+<area shape="rect" id="node20" href="$class_abstract_class_rep.html" title="AbstractClassRep" alt="" coords="2053,416,2180,443"/>
+<area shape="rect" id="node15" href="$class_code_block.html" title="CodeBlock" alt="" coords="1121,416,1206,443"/>
+<area shape="rect" id="node16" href="$struct_compiler_1_1_console_parser.html" title="List of parsers for the compiler. " alt="" coords="711,416,878,443"/>
+<area shape="rect" id="node17" href="$struct_console_function_header.html" title="Extended information about a console function. " alt="" coords="1083,467,1243,493"/>
+<area shape="rect" id="node18" href="$class_data_chunker.html" title="DataChunker" alt="" coords="1434,569,1531,596"/>
+<area shape="rect" id="node19" href="$struct_data_chunker_1_1_data_block.html" title="DataChunker::DataBlock" alt="" coords="1081,623,1246,649"/>
+<area shape="rect" id="node21" href="$class_console_base_type.html" title="Information about a console type. " alt="" coords="1768,317,1895,344"/>
+<area shape="rect" id="node22" href="$class_engine_type_info.html" title="EngineTypeInfo" alt="" coords="1427,181,1538,208"/>
+<area shape="rect" id="node27" href="$class_engine_argument_type_table.html" title="Information about the return and argument types of a function type. " alt="" coords="1743,213,1920,240"/>
+<area shape="rect" id="node29" href="$struct_engine_field_table_1_1_field.html" title="A field descriptor in a field table. " alt="" coords="1753,163,1910,189"/>
+<area shape="rect" id="node23" href="$class_engine_export_scope.html" title="A group of engine exports. " alt="" coords="1095,44,1232,71"/>
+<area shape="rect" id="node24" href="$class_engine_export.html" title="EngineExport" alt="" coords="745,77,845,104"/>
+<area shape="rect" id="node26" href="$struct_engine_type_net_info.html" title="Networking related information for an engine API type. " alt="" coords="1098,95,1229,121"/>
+<area shape="rect" id="node28" href="$class_engine_field_table.html" title="Table of fields for a struct type. " alt="" coords="2056,125,2177,152"/>
+<area shape="rect" id="node30" href="$class_engine_enum_table.html" title="Table of values for an enumeration or bitfield type. " alt="" coords="1100,215,1227,241"/>
+<area shape="rect" id="node36" href="$struct_abstract_class_rep_1_1_field.html" title="AbstractClassRep::Field" alt="" coords="1401,356,1564,383"/>
+<area shape="rect" id="node31" href="$struct_engine_enum_table_1_1_value.html" title="EngineEnumTable::Value" alt="" coords="711,215,879,241"/>
+<area shape="rect" id="node32" href="$class_bit_set32.html" title="BitSet32" alt="" coords="1127,276,1199,303"/>
+<area shape="rect" id="node33" href="$class_engine_property_table.html" title="EnginePropertyTable" alt="" coords="1092,145,1235,172"/>
+<area shape="rect" id="node34" href="$struct_engine_property_table_1_1_property.html" title="EnginePropertyTable\l::Property" alt="" coords="723,138,866,179"/>
+<area shape="rect" id="node35" href="$class_vector.html" title="Vector\&lt; Field \&gt;" alt="" coords="1775,369,1887,396"/>
+<area shape="rect" id="node37" href="$class_type_validator.html" title="TypeValidator" alt="" coords="1113,327,1214,353"/>
+<area shape="rect" id="node38" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="1102,673,1225,700"/>
+<area shape="rect" id="node39" href="$class_vector.html" title="Vector\&lt; MatInstanceHook * \&gt;" alt="" coords="697,560,892,587"/>
+<area shape="rect" id="node40" href="$class_mat_instance_hook.html" title="MatInstanceHook" alt="" coords="474,560,597,587"/>
+<area shape="rect" id="node41" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="1135,915,1191,941"/>
+<area shape="rect" id="node42" href="$class_rect_f.html" title="RectF" alt="" coords="1135,724,1192,751"/>
+<area shape="rect" id="node43" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="761,724,828,751"/>
+<area shape="rect" id="node44" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; Material \&gt;" alt="" coords="1078,775,1249,801"/>
+<area shape="rect" id="node45" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; Material \&gt;" alt="" coords="713,775,876,801"/>
+</map>

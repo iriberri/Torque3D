@@ -1,0 +1,7 @@
+<map id="AsyncReadItem&lt; T, Stream &gt;" name="AsyncReadItem&lt; T, Stream &gt;">
+<area shape="rect" id="node2" href="$class_async_i_o_item.html" title="AsyncIOItem\&lt; T, Stream \&gt;" alt="" coords="139,216,318,243"/>
+<area shape="rect" id="node3" href="$class_thread_pool_1_1_work_item.html" title="ThreadPool::WorkItem" alt="" coords="21,127,172,153"/>
+<area shape="rect" id="node4" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; WorkItem \&gt;" alt="" coords="5,14,145,55"/>
+<area shape="rect" id="node5" href="$class_thread_pool_1_1_context.html" title="ThreadPool::Context" alt="" coords="169,21,309,48"/>
+<area shape="rect" id="node7" href="$class_raw_data_t.html" title="RawDataT\&lt; ValueType \&gt;" alt="" coords="285,127,452,153"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="RenderParticleMgr" name="RenderParticleMgr">
+<area shape="rect" id="node2" href="$class_render_tex_target_bin_manager.html" title="RenderTexTargetBinManager" alt="" coords="2191,517,2381,544"/>
+<area shape="rect" id="node3" href="$class_render_bin_manager.html" title="RenderBinManager" alt="" coords="1348,1409,1480,1436"/>
+<area shape="rect" id="node17" href="$class_vector.html" title="Vector\&lt; RenderBinManager * \&gt;" alt="" coords="1752,1420,1955,1447"/>
+<area shape="rect" id="node4" href="$class_sim_object.html" title="SimObject" alt="" coords="907,1533,989,1560"/>
+<area shape="rect" id="node7" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="545,1444,643,1471"/>
+<area shape="rect" id="node13" href="$class_render_pass_manager.html" title="RenderPassManager" alt="" coords="2215,1456,2357,1483"/>
+<area shape="rect" id="node5" href="$class_console_object.html" title="ConsoleObject" alt="" coords="541,1567,647,1593"/>
+<area shape="rect" id="node6" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="541,1516,647,1543"/>
+<area shape="rect" id="node8" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="160,793,269,820"/>
+<area shape="rect" id="node23" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="535,793,653,820"/>
+<area shape="rect" id="node9" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="5,204,111,231"/>
+<area shape="rect" id="node27" href="$class_named_tex_target.html" title="NamedTexTarget" alt="" coords="1793,235,1913,261"/>
+<area shape="rect" id="node10" href="$class_namespace.html" title="Namespace" alt="" coords="549,1700,639,1727"/>
+<area shape="rect" id="node11" href="$class_render_inst_type.html" title="RenderInstType" alt="" coords="538,1307,650,1333"/>
+<area shape="rect" id="node24" href="$class_vector.html" title="Vector\&lt; RenderInstType \&gt;" alt="" coords="861,1357,1035,1384"/>
+<area shape="rect" id="node12" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="187,160,243,187"/>
+<area shape="rect" id="node31" href="$class_conditioner_feature.html" title="ConditionerFeature" alt="" coords="529,57,659,84"/>
+<area shape="rect" id="node18" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="2614,1456,2723,1483"/>
+<area shape="rect" id="node14" href="$class_matrix_set.html" title="MatrixSet" alt="" coords="1814,1537,1893,1564"/>
+<area shape="rect" id="node15" href="$class_multi_typed_chunker.html" title="MultiTypedChunker" alt="" coords="1787,1588,1920,1615"/>
+<area shape="rect" id="node16" href="$class_hash_table.html" title="HashTable\&lt; RenderInstType\lHash, AddInstSignal \&gt;" alt="" coords="1761,1471,1946,1513"/>
+<area shape="rect" id="node19" href="$class_point2_i.html" title="Point2I" alt="" coords="917,415,979,441"/>
+<area shape="rect" id="node28" href="$class_rect_i.html" title="RectI" alt="" coords="1388,364,1440,391"/>
+<area shape="rect" id="node20" href="$class_matrix_f.html" title="MatrixF" alt="" coords="1381,1569,1447,1596"/>
+<area shape="rect" id="node36" href="$struct_render_particle_mgr_1_1_offscreen_system_entry.html" title="RenderParticleMgr::\lOffscreenSystemEntry" alt="" coords="1777,782,1930,823"/>
+<area shape="rect" id="node21" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="1360,584,1468,611"/>
+<area shape="rect" id="node22" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="860,542,1036,583"/>
+<area shape="rect" id="node34" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; T \&gt;" alt="" coords="1121,472,1248,499"/>
+<area shape="rect" id="node40" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXShaderConst\lBuffer \&gt;" alt="" coords="1749,899,1957,941"/>
+<area shape="rect" id="node43" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXShader \&gt;" alt="" coords="1539,788,1725,815"/>
+<area shape="rect" id="node45" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXPrimitive\lBuffer \&gt;" alt="" coords="857,973,1039,1014"/>
+<area shape="rect" id="node47" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1080,1100,1289,1127"/>
+<area shape="rect" id="node50" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXVertexBuffer \&gt;" alt="" coords="840,743,1056,769"/>
+<area shape="rect" id="node25" href="$class_vector.html" title="Vector\&lt; RenderBinManager\l::MainSortElem \&gt;" alt="" coords="857,1671,1039,1713"/>
+<area shape="rect" id="node26" href="$struct_render_bin_manager_1_1_main_sort_elem.html" title="RenderBinManager::MainSortElem" alt="" coords="483,1751,705,1777"/>
+<area shape="rect" id="node29" href="$struct_g_f_x_sampler_state_desc.html" title="GFXSamplerStateDesc" alt="" coords="1336,209,1492,236"/>
+<area shape="rect" id="node30" href="$class_map.html" title="Map\&lt; Key, Value, Sequence \&gt;" alt="" coords="1313,260,1515,287"/>
+<area shape="rect" id="node32" href="$class_shader_feature.html" title="ShaderFeature" alt="" coords="161,47,268,73"/>
+<area shape="rect" id="node33" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="915,691,981,717"/>
+<area shape="rect" id="node37" href="$class_rect_f.html" title="RectF" alt="" coords="1385,688,1443,715"/>
+<area shape="rect" id="node35" href="$class_vector.html" title="Vector\&lt; RenderParticleMgr\l::OffscreenSystemEntry \&gt;" alt="" coords="2197,739,2375,781"/>
+<area shape="rect" id="node38" href="$class_vector.html" title="Vector\&lt; ParticleRenderInst * \&gt;" alt="" coords="1315,844,1513,871"/>
+<area shape="rect" id="node39" href="$struct_render_particle_mgr_1_1_shader_consts.html" title="RenderParticleMgr::\lShaderConsts" alt="" coords="2217,981,2355,1022"/>
+<area shape="rect" id="node46" href="$struct_render_particle_mgr_1_1_composite_shader_consts.html" title="RenderParticleMgr::\lCompositeShaderConsts" alt="" coords="2203,839,2369,881"/>
+<area shape="rect" id="node41" href="$class_g_f_x_shader_const_handle.html" title="GFXShaderConstHandle" alt="" coords="1772,848,1935,875"/>
+<area shape="rect" id="node42" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; NamedTexTarget \&gt;" alt="" coords="2179,1047,2393,1073"/>
+<area shape="rect" id="node44" href="$class_g_f_x_primitive_buffer_handle.html" title="GFXPrimitiveBufferHandle" alt="" coords="1983,1240,2153,1267"/>
+<area shape="rect" id="node48" href="$class_g_f_x_vertex_buffer_handle.html" title="GFXVertexBufferHandle\l\&lt; CompositeQuadVert \&gt;" alt="" coords="1987,618,2149,659"/>
+<area shape="rect" id="node49" href="$class_g_f_x_vertex_buffer_handle_base.html" title="GFXVertexBufferHandleBase" alt="" coords="1320,743,1508,769"/>
+</map>

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['ignorecansave',['IgnoreCanSave',['../class_sim_object.html#a74049744e3de42218cc043059418a9f6a9ac7b5338e67fa4e30c7e8f1b9f2e5ad',1,'SimObject']]],
+  ['ignoreloaded',['IgnoreLoaded',['../struct_shape_base_image_data_1_1_state_data.html#a96b5f59e3e08375c99a3ce88fa0306a9a58b716695fd40dbf83eb4608048761cd',1,'ShapeBaseImageData::StateData']]],
+  ['ignorespin',['IgnoreSpin',['../struct_shape_base_image_data_1_1_state_data.html#ac094049fd8e4fa6f7700024919292751ad7cff92db39ecf977d9db0249ca04489',1,'ShapeBaseImageData::StateData']]],
+  ['illegalcall',['IllegalCall',['../class_file.html#ad743327f4ee544bfe82a585d0c13e478a2f41605de0bfb5035ca1eb70659c37a6',1,'File::IllegalCall()'],['../class_stream.html#ab4b87f75f121255ce4e2647941503dd3ac4a6e6cfeca22b7bda5a27a5ce96d322',1,'Stream::IllegalCall()'],['../class_torque_1_1_f_s_1_1_file_node.html#a6e620e08812cc3440ec58e9ba2e19a76a2c6a2fc1158f94aafa266dbcccbf1e28',1,'Torque::FS::FileNode::IllegalCall()']]],
+  ['imagemaskn',['ImageMaskN',['../class_shape_base.html#af227cd6fd87524f43cdc2808d4f4470aa0e7392c88dffa1a09bf7a5706949c551',1,'ShapeBase']]],
+  ['indexed',['Indexed',['../struct_t_s_draw_primitive.html#ae3ed8c87d3590ce181417153199c9c09a0d0a8ba44e59dbcf11c7f4ab1685a2ab',1,'TSDrawPrimitive']]],
+  ['individualfire',['IndividualFire',['../class_turret_shape_data.html#a2b7c70e26396843022a246a9b9a7a205a3b7a1d20d10004a2182f4b74bc8d9011',1,'TurretShapeData']]],
+  ['inspectordata',['InspectorData',['../class_gui_tree_view_ctrl_1_1_item.html#a5b2e9d3b032ab93d37cea9702d6ab5b9a48d46101ee98881a48e7251d312c1c64',1,'GuiTreeViewCtrl::Item']]],
+  ['interiorportal',['InteriorPortal',['../class_portal.html#a90b5eb0e8aeeab90a8b0cf36287480eca0e7a1e00b325114a7ed35c5094374e83',1,'Portal']]],
+  ['invalid',['Invalid',['../struct_sim_object_1_1_notify.html#a56f3156d998675c2ce8fac9a0b0640bba6bdf9c68070cd58e9eb62b8e2a18800b',1,'SimObject::Notify']]],
+  ['invalidportal',['InvalidPortal',['../class_portal.html#a90b5eb0e8aeeab90a8b0cf36287480eca8e6225e5c9a6ef4ebc26f7b9242e9518',1,'Portal']]],
+  ['invalidzoneid',['InvalidZoneId',['../class_scene_zone_space_manager.html#a6631e80239ca894fa7fae216077355aaac0b21d411e31b2a9c788998e1f388964',1,'SceneZoneSpaceManager']]],
+  ['inverted',['Inverted',['../struct_action_map_1_1_node.html#a81f7833cc50d67ef9f97dbfa8fe0107da8d324e3ac6f233063c8846a674600cc9',1,'ActionMap::Node']]],
+  ['ioerror',['IOError',['../class_file.html#ad743327f4ee544bfe82a585d0c13e478af2a3c47f86bfb26109eea9905c5afb68',1,'File::IOError()'],['../class_stream.html#ab4b87f75f121255ce4e2647941503dd3ae13648f67bdbd7db9849b78fa586b588',1,'Stream::IOError()']]],
+  ['iseditable',['IsEditable',['../class_gui_tree_view_ctrl.html#ac3dd4e63aa752ce2ae2dbfac119eaacdafd53aa0c93bfbe4464f2d929f1cbe13a',1,'GuiTreeViewCtrl']]],
+  ['isghost',['IsGhost',['../class_net_object.html#ab7f7b94af4c238c69f5673a98199a01caa3a7c3e5cc981f689241c502a91b51b4',1,'NetObject']]],
+  ['isinspector',['IsInspector',['../class_gui_tree_view_ctrl.html#ac3dd4e63aa752ce2ae2dbfac119eaacda95983794299641dac7443a8cc6932dbc',1,'GuiTreeViewCtrl']]]
+];

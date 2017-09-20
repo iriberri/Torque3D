@@ -1,0 +1,9 @@
+<map id="GFXGLVertexDecl" name="GFXGLVertexDecl">
+<area shape="rect" id="node2" href="$class_g_f_x_vertex_decl.html" title="GFXVertexDecl" alt="" coords="5,191,116,218"/>
+<area shape="rect" id="node3" href="$class_g_f_x_vertex_format.html" title="GFXVertexFormat" alt="" coords="96,295,223,322"/>
+<area shape="rect" id="node4" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="170,5,226,32"/>
+<area shape="rect" id="node6" href="$class_g_f_x_vertex_element.html" title="GFXVertexElement" alt="" coords="206,95,339,121"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; GFXVertexElement \&gt;" alt="" coords="197,191,391,218"/>
+<area shape="rect" id="node7" href="$class_vector.html" title="Vector\&lt; GFXGLVertexDecl\l::glVertexAttribData \&gt;" alt="" coords="353,288,531,329"/>
+<area shape="rect" id="node8" href="$struct_g_f_x_g_l_vertex_decl_1_1gl_vertex_attrib_data.html" title="GFXGLVertexDecl::glVertex\lAttribData" alt="" coords="415,184,599,225"/>
+</map>

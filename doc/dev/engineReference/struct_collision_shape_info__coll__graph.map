@@ -1,0 +1,5 @@
+<map id="CollisionShapeInfo" name="CollisionShapeInfo">
+<area shape="rect" id="node2" href="$class_physics_collision.html" title="PhysicsCollision" alt="" coords="10,157,129,184"/>
+<area shape="rect" id="node3" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="15,81,124,108"/>
+<area shape="rect" id="node4" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="17,5,122,32"/>
+</map>

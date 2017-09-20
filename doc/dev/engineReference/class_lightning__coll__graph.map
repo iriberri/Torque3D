@@ -1,0 +1,51 @@
+<map id="Lightning" name="Lightning">
+<area shape="rect" id="node2" href="$class_game_base.html" title="GameBase" alt="" coords="2045,1045,2131,1072"/>
+<area shape="rect" id="node3" href="$class_scene_object.html" title="SceneObject" alt="" coords="1343,1825,1440,1852"/>
+<area shape="rect" id="node14" href="$struct_scene_object_1_1_mount_info.html" title="Mounted object. " alt="" coords="1684,1735,1845,1761"/>
+<area shape="rect" id="node17" href="$class_scene_object_link.html" title="A SceneObjectLink represents the link between a SceneObject and a SceneTracker. " alt="" coords="1704,1855,1825,1881"/>
+<area shape="rect" id="node30" href="$class_water_object.html" title="WaterObject" alt="" coords="1717,753,1812,780"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="NetObject" alt="" coords="950,1288,1030,1315"/>
+<area shape="rect" id="node7" href="$struct_ghost_info.html" title="GhostInfo" alt="" coords="1353,1284,1430,1311"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="SimGroup" alt="" coords="576,1260,656,1287"/>
+<area shape="rect" id="node6" href="$class_bit_set32.html" title="BitSet32" alt="" coords="580,1383,652,1409"/>
+<area shape="rect" id="node8" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="917,1885,1063,1912"/>
+<area shape="rect" id="node9" href="$class_process_object.html" title="ProcessObject" alt="" coords="936,1561,1044,1588"/>
+<area shape="rect" id="node10" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="926,1680,1054,1707"/>
+<area shape="rect" id="node11" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="561,2212,671,2239"/>
+<area shape="rect" id="node13" href="$class_sim_persist_i_d.html" title="A globally unique persistent ID for a SimObject. " alt="" coords="941,2245,1039,2272"/>
+<area shape="rect" id="node42" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="931,1511,1049,1537"/>
+<area shape="rect" id="node12" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="588,917,644,944"/>
+<area shape="rect" id="node31" href="$class_named_tex_target.html" title="NamedTexTarget" alt="" coords="1331,921,1451,948"/>
+<area shape="rect" id="node15" href="$class_matrix_f.html" title="MatrixF" alt="" coords="583,1484,649,1511"/>
+<area shape="rect" id="node24" href="$class_scene_manager.html" title="An object that manages the SceneObjects belonging to a scene. " alt="" coords="935,1397,1045,1424"/>
+<area shape="rect" id="node16" href="$class_scene_object_ref.html" title="Reference to a scene object. " alt="" coords="932,1731,1048,1757"/>
+<area shape="rect" id="node18" href="$class_point3_f.html" title="Point3F" alt="" coords="23,1143,90,1169"/>
+<area shape="rect" id="node20" href="$class_sphere_f.html" title="SphereF" alt="" coords="427,2033,497,2060"/>
+<area shape="rect" id="node21" href="$class_box3_f.html" title="Box3F" alt="" coords="771,2407,831,2433"/>
+<area shape="rect" id="node27" href="$class_plane_f.html" title="PlaneF" alt="" coords="279,1009,341,1036"/>
+<area shape="rect" id="node35" href="$class_plane_reflector.html" title="PlaneReflector" alt="" coords="1338,1165,1445,1192"/>
+<area shape="rect" id="node46" href="$struct_lightning_bolt.html" title="LightningBolt" alt="" coords="941,103,1039,129"/>
+<area shape="rect" id="node49" href="$struct_lightning_bolt_1_1_node_manager.html" title="LightningBolt::NodeManager" alt="" coords="217,172,403,199"/>
+<area shape="rect" id="node19" href="$class_signal.html" title="Signal\&lt; void(SceneObject *) \&gt;" alt="" coords="892,1781,1088,1808"/>
+<area shape="rect" id="node22" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; SceneObject \&gt;" alt="" coords="891,1936,1089,1963"/>
+<area shape="rect" id="node23" href="$class_scene_container.html" title="SceneContainer" alt="" coords="933,1987,1047,2013"/>
+<area shape="rect" id="node25" href="$struct_water_fog_data.html" title="The water fog settings. " alt="" coords="563,687,669,713"/>
+<area shape="rect" id="node26" href="$class_color_i.html" title="ColorI" alt="" coords="283,459,337,485"/>
+<area shape="rect" id="node28" href="$struct_scene_object_1_1_zone_ref.html" title="Bidirectional link between a zone manager and its objects. " alt="" coords="914,2037,1066,2064"/>
+<area shape="rect" id="node29" href="$class_scene_object_lighting_plugin.html" title="SceneObjectLightingPlugin" alt="" coords="901,2195,1079,2221"/>
+<area shape="rect" id="node32" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="936,1047,1044,1073"/>
+<area shape="rect" id="node43" href="$class_cubemap_data.html" title="A script interface for creating static or dynamic cubemaps. " alt="" coords="1339,1064,1443,1091"/>
+<area shape="rect" id="node33" href="$class_base_mat_instance.html" title="BaseMatInstance" alt="" coords="1330,433,1453,460"/>
+<area shape="rect" id="node34" href="$class_sim_object_ptr.html" title="SimObjectPtr\&lt; PostEffect \&gt;" alt="" coords="1299,585,1483,612"/>
+<area shape="rect" id="node36" href="$class_color_f.html" title="ColorF" alt="" coords="1361,231,1421,257"/>
+<area shape="rect" id="node37" href="$class_matrix_set.html" title="MatrixSet" alt="" coords="1352,687,1431,713"/>
+<area shape="rect" id="node38" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="1358,820,1425,847"/>
+<area shape="rect" id="node39" href="$class_s_f_x_ambience.html" title="SFXAmbience" alt="" coords="1339,871,1443,897"/>
+<area shape="rect" id="node40" href="$class_reflector_desc.html" title="ReflectorDesc" alt="" coords="1340,1115,1443,1141"/>
+<area shape="rect" id="node41" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="1287,1335,1496,1361"/>
+<area shape="rect" id="node44" href="$struct_water_mat_params.html" title="WaterMatParams" alt="" coords="1329,383,1453,409"/>
+<area shape="rect" id="node45" href="$struct_lightning_1_1_strike.html" title="Lightning::Strike" alt="" coords="1532,76,1648,103"/>
+<area shape="rect" id="node47" href="$class_torque_1_1_list.html" title="Torque::List\&lt; LightningBolt \&gt;" alt="" coords="521,231,711,257"/>
+<area shape="rect" id="node48" href="$class_vector.html" title="Vector\&lt; LightningBolt\l::NodeManager \&gt;" alt="" coords="543,165,689,206"/>
+<area shape="rect" id="node50" href="$struct_lightning_1_1_thunder.html" title="Lightning::Thunder" alt="" coords="2024,1415,2152,1441"/>
+</map>

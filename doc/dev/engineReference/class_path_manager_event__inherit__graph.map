@@ -1,0 +1,7 @@
+<map id="PathManagerEvent" name="PathManagerEvent">
+<area shape="rect" id="node2" href="$class_net_event.html" title="NetEvent" alt="" coords="33,304,108,331"/>
+<area shape="rect" id="node3" href="$class_console_object.html" title="ConsoleObject" alt="" coords="17,229,124,256"/>
+<area shape="rect" id="node4" href="$class_engine_object.html" title="EngineObject" alt="" coords="21,155,121,181"/>
+<area shape="rect" id="node5" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="16,80,125,107"/>
+<area shape="rect" id="node6" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="18,5,123,32"/>
+</map>

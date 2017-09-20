@@ -1,0 +1,4 @@
+<map id="PhysicsPlugin" name="PhysicsPlugin">
+<area shape="rect" id="node2" href="$class_bt_plugin.html" title="BtPlugin" alt="" coords="5,80,76,107"/>
+<area shape="rect" id="node3" href="$class_px3_plugin.html" title="Px3Plugin" alt="" coords="100,80,181,107"/>
+</map>

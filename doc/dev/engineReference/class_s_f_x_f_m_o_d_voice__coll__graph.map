@@ -1,0 +1,51 @@
+<map id="SFXFMODVoice" name="SFXFMODVoice">
+<area shape="rect" id="node2" href="$class_s_f_x_voice.html" title="SFXVoice" alt="" coords="253,267,331,294"/>
+<area shape="rect" id="node11" href="$class_vector.html" title="Vector\&lt; SFXVoice * \&gt;" alt="" coords="181,445,331,472"/>
+<area shape="rect" id="node22" href="$class_s_f_x_internal_1_1_s_f_x_voice_time_source.html" title="SFXInternal::SFXVoiceTime\lSource" alt="" coords="293,371,475,413"/>
+<area shape="rect" id="node3" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="592,140,701,167"/>
+<area shape="rect" id="node13" href="$class_s_f_x_buffer.html" title="SFXBuffer" alt="" coords="822,925,901,952"/>
+<area shape="rect" id="node49" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="972,267,1089,294"/>
+<area shape="rect" id="node4" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="594,13,699,39"/>
+<area shape="rect" id="node5" href="$class_i_positionable.html" title="IPositionable\&lt; U32 \&gt;" alt="" coords="406,140,549,167"/>
+<area shape="rect" id="node6" href="$class_weak_ref_ptr.html" title="WeakRefPtr\&lt; SFXBuffer \&gt;" alt="" coords="5,140,179,167"/>
+<area shape="rect" id="node7" href="$class_signal.html" title="Signal\&lt; void(SFXVoice *) \&gt;" alt="" coords="203,140,381,167"/>
+<area shape="rect" id="node8" href="$class_s_f_x_f_m_o_d_device.html" title="SFXFMODDevice" alt="" coords="1692,1193,1815,1220"/>
+<area shape="rect" id="node9" href="$class_s_f_x_device.html" title="Abstract base class for back&#45;end sound API implementations. " alt="" coords="1661,1104,1745,1131"/>
+<area shape="rect" id="node10" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="1779,13,1835,39"/>
+<area shape="rect" id="node31" href="$class_thread_pool.html" title="ThreadPool" alt="" coords="1403,140,1490,167"/>
+<area shape="rect" id="node42" href="$struct_s_f_x_device_info.html" title="SFXDeviceInfo" alt="" coords="1865,140,1969,167"/>
+<area shape="rect" id="node12" href="$class_vector.html" title="Vector\&lt; SFXBuffer * \&gt;" alt="" coords="1074,1015,1225,1041"/>
+<area shape="rect" id="node21" href="$class_async_packet_queue.html" title="AsyncPacketQueue\&lt; SFXStream\lPacket *, SFXVoiceTimeSource,\l SFXBuffer * \&gt;" alt="" coords="473,497,689,553"/>
+<area shape="rect" id="node14" href="$class_i_polled.html" title="IPolled" alt="" coords="248,829,309,855"/>
+<area shape="rect" id="node15" href="$class_i_output_stream.html" title="IOutputStream\&lt; SFXInternal\l::SFXStreamPacket * \&gt;" alt="" coords="333,821,517,863"/>
+<area shape="rect" id="node16" href="$class_signal.html" title="Signal\&lt; void(SFXBuffer\l *buffer, Status newStatus) \&gt;" alt="" coords="592,821,781,863"/>
+<area shape="rect" id="node17" href="$class_thread_safe_ref.html" title="ThreadSafeRef\&lt; AsyncState \&gt;" alt="" coords="1407,829,1606,855"/>
+<area shape="rect" id="node18" href="$struct_s_f_x_buffer_1_1_async_state.html" title="Encapsulates the async I/O state of the sound buffer. " alt="" coords="1096,732,1251,759"/>
+<area shape="rect" id="node19" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; AsyncState \&gt;" alt="" coords="1045,628,1185,669"/>
+<area shape="rect" id="node20" href="$class_s_f_x_internal_1_1_s_f_x_async_queue.html" title="SFXInternal::SFXAsyncQueue" alt="" coords="588,635,783,662"/>
+<area shape="rect" id="node23" href="$class_fixed_size_deque.html" title="FixedSizeDeque\&lt; QueuedPacket \&gt;" alt="" coords="499,379,725,405"/>
+<area shape="rect" id="node24" href="$class_thread_safe_ref.html" title="ThreadSafeRef\&lt; SFXInternal\l::SFXAsyncStream \&gt;" alt="" coords="1209,628,1393,669"/>
+<area shape="rect" id="node25" href="$class_s_f_x_internal_1_1_s_f_x_async_stream.html" title="SFXInternal::SFXAsyncStream" alt="" coords="1202,512,1401,539"/>
+<area shape="rect" id="node26" href="$class_async_packet_buffered_input_stream.html" title="AsyncPacketBufferedInput\lStream\&lt; SFXStreamRef,\l SFXStreamPacket \&gt;" alt="" coords="1214,364,1389,420"/>
+<area shape="rect" id="node27" href="$class_async_buffered_input_stream.html" title="AsyncBufferedInputStream\l\&lt; SFXStreamPacket *, SFXStreamRef \&gt;" alt="" coords="1174,260,1429,301"/>
+<area shape="rect" id="node28" href="$class_i_input_stream_filter.html" title="IInputStreamFilter\l\&lt; SFXStreamPacket *,\l SFXStreamRef \&gt;" alt="" coords="1224,125,1379,181"/>
+<area shape="rect" id="node29" href="$class_i_input_stream.html" title="IInputStream\&lt; SFXStreamPacket * \&gt;" alt="" coords="944,13,1179,39"/>
+<area shape="rect" id="node30" href="$class_thread_safe_ref_count.html" title="ThreadSafeRefCount\l\&lt; AsyncBufferedInputStream\l\&lt; SFXStreamPacket *, SFXStreamRef \&gt; \&gt;" alt="" coords="933,125,1200,181"/>
+<area shape="rect" id="node32" href="$class_semaphore.html" title="Semaphore" alt="" coords="1403,13,1491,39"/>
+<area shape="rect" id="node33" href="$struct_thread_safe_priority_queue_with_update.html" title="ThreadSafePriorityQueueWith\lUpdate\&lt; WorkItemWrapper, F32 \&gt;" alt="" coords="1515,5,1738,47"/>
+<area shape="rect" id="node34" href="$struct_thread_pool_1_1_worker_thread.html" title="ThreadPool::WorkerThread" alt="" coords="1203,13,1379,39"/>
+<area shape="rect" id="node35" href="$class_thread_pool_1_1_context.html" title="ThreadPool::Context" alt="" coords="1514,140,1654,167"/>
+<area shape="rect" id="node36" href="$class_thread_safe_deque.html" title="ThreadSafeDeque\&lt; Element\lType \&gt;" alt="" coords="725,133,909,174"/>
+<area shape="rect" id="node37" href="$class_s_f_x_format.html" title="SFXFormat" alt="" coords="858,829,945,855"/>
+<area shape="rect" id="node38" href="$class_signal.html" title="Signal\&lt; void(SFXBuffer *) \&gt;" alt="" coords="969,829,1148,855"/>
+<area shape="rect" id="node39" href="$class_strong_weak_ref_ptr.html" title="StrongWeakRefPtr\&lt; SFXVoice \&gt;" alt="" coords="1172,829,1383,855"/>
+<area shape="rect" id="node40" href="$class_s_f_x_provider.html" title="SFXProvider" alt="" coords="1809,577,1901,604"/>
+<area shape="rect" id="node41" href="$class_vector.html" title="Vector\&lt; SFXDeviceInfo * \&gt;" alt="" coords="1911,267,2086,294"/>
+<area shape="rect" id="node43" href="$class_s_f_x_f_m_o_d_plugin.html" title="SFXFMODPlugin" alt="" coords="1820,1104,1940,1131"/>
+<area shape="rect" id="node44" href="$class_s_f_x_system_plugin.html" title="SFXSystemPlugin" alt="" coords="1817,1015,1943,1041"/>
+<area shape="rect" id="node45" href="$struct_f_mod_f_n_table.html" title="FModFNTable" alt="" coords="1575,512,1678,539"/>
+<area shape="rect" id="node46" href="$class_mutex.html" title="Mutex" alt="" coords="1777,379,1836,405"/>
+<area shape="rect" id="node47" href="$struct_platform_mutex_data.html" title="PlatformMutexData" alt="" coords="1753,267,1887,294"/>
+<area shape="rect" id="node48" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; DLibrary \&gt;" alt="" coords="1017,379,1185,405"/>
+<area shape="rect" id="node50" href="$class_bit_set32.html" title="BitSet32" alt="" coords="1935,1193,2007,1220"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="GFXNullDevice" name="GFXNullDevice">
+<area shape="rect" id="node2" href="$class_g_f_x_device.html" title="GFXDevice" alt="" coords="1379,833,1465,860"/>
+<area shape="rect" id="node23" href="$class_g_f_x_texture_object.html" title="GFXTextureObject" alt="" coords="1704,1649,1832,1676"/>
+<area shape="rect" id="node32" href="$class_g_f_x_draw_util.html" title="GFXDrawUtil" alt="" coords="1721,720,1815,747"/>
+<area shape="rect" id="node3" href="$class_g_f_x_device_statistics.html" title="GFXDeviceStatistics" alt="" coords="953,516,1093,543"/>
+<area shape="rect" id="node4" href="$class_g_f_x_cubemap_handle.html" title="A reference counted handle to a cubemap resource. " alt="" coords="951,1443,1094,1469"/>
+<area shape="rect" id="node5" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXCubemap \&gt;" alt="" coords="448,1420,648,1447"/>
+<area shape="rect" id="node6" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="216,808,333,835"/>
+<area shape="rect" id="node9" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTarget \&gt;" alt="" coords="695,536,876,563"/>
+<area shape="rect" id="node16" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; T \&gt;" alt="" coords="485,732,611,759"/>
+<area shape="rect" id="node35" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXStateBlock \&gt;" alt="" coords="918,260,1127,287"/>
+<area shape="rect" id="node40" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXVertexBuffer \&gt;" alt="" coords="677,776,893,803"/>
+<area shape="rect" id="node44" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXPrimitive\lBuffer \&gt;" alt="" coords="694,826,877,867"/>
+<area shape="rect" id="node50" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="460,1342,636,1383"/>
+<area shape="rect" id="node7" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="5,1403,115,1429"/>
+<area shape="rect" id="node36" href="$class_g_f_x_shader_const_buffer.html" title="GFXShaderConstBuffer" alt="" coords="945,668,1100,695"/>
+<area shape="rect" id="node38" href="$class_g_f_x_target.html" title="GFXTarget" alt="" coords="981,1556,1064,1583"/>
+<area shape="rect" id="node8" href="$class_swizzle.html" title="Swizzle\&lt; U8, 3 \&gt;" alt="" coords="961,617,1084,644"/>
+<area shape="rect" id="node10" href="$class_swizzle.html" title="Swizzle\&lt; U8, 4 \&gt;" alt="" coords="961,719,1084,745"/>
+<area shape="rect" id="node11" href="$class_color_f.html" title="ColorF" alt="" coords="518,1013,578,1040"/>
+<area shape="rect" id="node20" href="$class_g_f_x_light_info.html" title="GFXLightInfo" alt="" coords="975,1172,1070,1199"/>
+<area shape="rect" id="node41" href="$struct_g_f_x_light_material.html" title="GFXLightMaterial" alt="" coords="962,1059,1083,1085"/>
+<area shape="rect" id="node12" href="$class_rect_i.html" title="RectI" alt="" coords="759,503,811,529"/>
+<area shape="rect" id="node13" href="$class_point2_i.html" title="Point2I" alt="" coords="243,257,306,284"/>
+<area shape="rect" id="node19" href="$struct_g_f_x_video_mode.html" title="GFXVideoMode" alt="" coords="492,48,604,75"/>
+<area shape="rect" id="node46" href="$class_frustum.html" title="Frustum" alt="" coords="987,209,1058,236"/>
+<area shape="rect" id="node14" href="$class_platform_timer.html" title="PlatformTimer" alt="" coords="971,895,1074,921"/>
+<area shape="rect" id="node15" href="$class_vector.html" title="Vector\&lt; StrongRefPtr \&gt;" alt="" coords="943,567,1102,593"/>
+<area shape="rect" id="node17" href="$class_g_f_x_vertex_decl.html" title="GFXVertexDecl" alt="" coords="967,1008,1078,1035"/>
+<area shape="rect" id="node18" href="$class_vector.html" title="Vector\&lt; GFXVideoMode \&gt;" alt="" coords="935,5,1110,32"/>
+<area shape="rect" id="node21" href="$class_point3_f.html" title="Point3F" alt="" coords="515,1212,581,1239"/>
+<area shape="rect" id="node22" href="$class_g_f_x_texture_manager.html" title="GFXTextureManager" alt="" coords="2409,1713,2549,1740"/>
+<area shape="rect" id="node27" href="$class_vector.html" title="Vector\&lt; GFXTextureObject * \&gt;" alt="" coords="2033,1571,2232,1597"/>
+<area shape="rect" id="node37" href="$class_g_f_x_texture_target.html" title="GFXTextureTarget" alt="" coords="2069,1520,2196,1547"/>
+<area shape="rect" id="node24" href="$class_g_f_x_resource.html" title="GFXResource" alt="" coords="497,1511,599,1537"/>
+<area shape="rect" id="node25" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="520,1760,576,1787"/>
+<area shape="rect" id="node26" href="$struct_d_d_s_file.html" title="DDSFile" alt="" coords="1199,1767,1270,1793"/>
+<area shape="rect" id="node42" href="$class_g_f_x_card_profiler.html" title="GFXCardProfiler" alt="" coords="965,1223,1080,1249"/>
+<area shape="rect" id="node28" href="$class_signal.html" title="Signal\&lt; Signature \&gt;" alt="" coords="2064,1713,2201,1740"/>
+<area shape="rect" id="node29" href="$class_hash_table.html" title="HashTable\&lt; GFXTextureProfile\l *, StrongRefPtr\&lt; GFXTextureObject \&gt; \&gt;" alt="" coords="2005,1765,2260,1806"/>
+<area shape="rect" id="node30" href="$class_hash_table.html" title="HashTable\&lt; String,\l GFXCubemap * \&gt;" alt="" coords="2066,1830,2199,1871"/>
+<area shape="rect" id="node31" href="$struct_fov_port.html" title="Advanced fov specification for oculus. " alt="" coords="989,1273,1056,1300"/>
+<area shape="rect" id="node33" href="$class_g_f_x_vertex_color.html" title="GFXVertexColor" alt="" coords="1365,669,1479,696"/>
+<area shape="rect" id="node34" href="$class_font_render_batcher.html" title="FontRenderBatcher" alt="" coords="1355,720,1489,747"/>
+<area shape="rect" id="node39" href="$class_matrix_f.html" title="MatrixF" alt="" coords="515,151,581,177"/>
+<area shape="rect" id="node43" href="$class_map.html" title="Map\&lt; String, U32 \&gt;" alt="" coords="480,1285,616,1312"/>
+<area shape="rect" id="node45" href="$class_map.html" title="Map\&lt; U32, GFXStateBlockRef \&gt;" alt="" coords="917,311,1128,337"/>
+<area shape="rect" id="node47" href="$struct_polyhedron_impl.html" title="PolyhedronImpl\&lt; FrustumData \&gt;" alt="" coords="443,205,653,232"/>
+<area shape="rect" id="node48" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="515,401,581,428"/>
+<area shape="rect" id="node49" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="969,1392,1077,1419"/>
+</map>

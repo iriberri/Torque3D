@@ -1,0 +1,8 @@
+<map id="DDSFile" name="DDSFile">
+<area shape="rect" id="node2" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="5,191,61,218"/>
+<area shape="rect" id="node3" href="$class_torque_1_1_path.html" title="Torque::Path" alt="" coords="187,191,283,218"/>
+<area shape="rect" id="node4" href="$class_bit_set32.html" title="BitSet32" alt="" coords="313,191,385,218"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; DDSFile::Surface\lData * \&gt;" alt="" coords="410,184,582,225"/>
+<area shape="rect" id="node6" href="$struct_d_d_s_file_1_1_surface_data.html" title="DDSFile::SurfaceData" alt="" coords="421,95,571,121"/>
+<area shape="rect" id="node7" href="$class_vector.html" title="Vector\&lt; U8 * \&gt;" alt="" coords="441,5,551,32"/>
+</map>

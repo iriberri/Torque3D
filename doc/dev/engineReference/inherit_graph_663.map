@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_m_random_generator.html" title="Base class for random number generators. " alt="" coords="5,31,144,57"/>
+<area shape="rect" id="node2" href="$class_m_random_l_c_g.html" title="MRandomLCG" alt="" coords="194,5,301,32"/>
+<area shape="rect" id="node3" href="$class_m_random_r250.html" title="MRandomR250" alt="" coords="192,56,303,83"/>
+</map>

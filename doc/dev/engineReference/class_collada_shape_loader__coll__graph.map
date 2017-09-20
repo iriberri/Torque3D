@@ -1,0 +1,51 @@
+<map id="ColladaShapeLoader" name="ColladaShapeLoader">
+<area shape="rect" id="node2" href="$class_t_s_shape_loader.html" title="TSShapeLoader" alt="" coords="2785,784,2900,811"/>
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; AppSequence * \&gt;" alt="" coords="2440,19,2615,45"/>
+<area shape="rect" id="node4" href="$class_app_sequence.html" title="AppSequence" alt="" coords="2188,19,2291,45"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; TSShapeLoader\l::ShapeFormat \&gt;" alt="" coords="813,57,977,98"/>
+<area shape="rect" id="node6" href="$struct_t_s_shape_loader_1_1_shape_format.html" title="TSShapeLoader::ShapeFormat" alt="" coords="352,75,552,101"/>
+<area shape="rect" id="node7" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="16,1116,72,1143"/>
+<area shape="rect" id="node19" href="$class_t_s_last_detail.html" title="TSLastDetail" alt="" coords="635,1203,731,1229"/>
+<area shape="rect" id="node20" href="$class_g_f_x_vertex_format.html" title="GFXVertexFormat" alt="" coords="201,1229,328,1256"/>
+<area shape="rect" id="node25" href="$class_material_list.html" title="MaterialList" alt="" coords="638,1083,727,1109"/>
+<area shape="rect" id="node26" href="$class_vector.html" title="Vector\&lt; String \&gt;" alt="" coords="205,1116,324,1143"/>
+<area shape="rect" id="node8" href="$class_vector.html" title="Vector\&lt; Point3F * \&gt;" alt="" coords="1249,181,1388,208"/>
+<area shape="rect" id="node9" href="$class_point3_f.html" title="Point3F" alt="" coords="231,479,298,505"/>
+<area shape="rect" id="node10" href="$class_t_s_shape.html" title="TSShape" alt="" coords="1458,836,1533,863"/>
+<area shape="rect" id="node17" href="$struct_t_s_shape_1_1_convex_hull_accelerator.html" title="TSShape::ConvexHullAccelerator" alt="" coords="576,619,789,645"/>
+<area shape="rect" id="node33" href="$class_vector.html" title="Vector\&lt; Point3F \&gt;" alt="" coords="618,976,747,1003"/>
+<area shape="rect" id="node35" href="$class_box3_f.html" title="Box3F" alt="" coords="865,479,925,505"/>
+<area shape="rect" id="node11" href="$class_vector.html" title="Vector\&lt; S32 \&gt;" alt="" coords="629,1732,736,1759"/>
+<area shape="rect" id="node44" href="$struct_t_s_shape_loader_1_1_subshape.html" title="TSShapeLoader::Subshape" alt="" coords="2149,964,2329,991"/>
+<area shape="rect" id="node46" href="$class_app_mesh.html" title="AppMesh" alt="" coords="1070,1592,1147,1619"/>
+<area shape="rect" id="node12" href="$class_vector.html" title="Vector\&lt; TSShape::Node \&gt;" alt="" coords="1021,809,1196,836"/>
+<area shape="rect" id="node13" href="$struct_t_s_shape_1_1_node.html" title="Nodes hold the transforms in the shape&#39;s tree. They are the bones of the skeleton. " alt="" coords="626,809,739,836"/>
+<area shape="rect" id="node14" href="$class_vector.html" title="Vector\&lt; TSShape::Object \&gt;" alt="" coords="1017,860,1200,887"/>
+<area shape="rect" id="node15" href="$struct_t_s_shape_1_1_object.html" title="TSShape::Object" alt="" coords="622,860,743,887"/>
+<area shape="rect" id="node16" href="$class_vector.html" title="Vector\&lt; TSShape::ConvexHull\lAccelerator * \&gt;" alt="" coords="1010,743,1207,785"/>
+<area shape="rect" id="node18" href="$class_vector.html" title="Vector\&lt; TSLastDetail * \&gt;" alt="" coords="1025,1247,1192,1273"/>
+<area shape="rect" id="node21" href="$class_vector.html" title="Vector\&lt; TSShape::Detail \&gt;" alt="" coords="1019,911,1198,937"/>
+<area shape="rect" id="node22" href="$struct_t_s_shape_1_1_detail.html" title="TSShape::Detail" alt="" coords="625,911,741,937"/>
+<area shape="rect" id="node23" href="$struct_t_s_basic_vertex_format.html" title="TSBasicVertexFormat" alt="" coords="1033,1348,1184,1375"/>
+<area shape="rect" id="node24" href="$class_t_s_material_list.html" title="Specialized material list for 3space objects. " alt="" coords="1056,1083,1161,1109"/>
+<area shape="rect" id="node27" href="$class_vector.html" title="Vector\&lt; TSShape::Trigger \&gt;" alt="" coords="1017,1297,1201,1324"/>
+<area shape="rect" id="node28" href="$struct_t_s_shape_1_1_trigger.html" title="TSShape::Trigger" alt="" coords="621,1311,744,1337"/>
+<area shape="rect" id="node29" href="$class_vector.html" title="Vector\&lt; Quat16 \&gt;" alt="" coords="1045,1399,1172,1425"/>
+<area shape="rect" id="node30" href="$struct_quat16.html" title="compressed quaternion class " alt="" coords="651,1399,715,1425"/>
+<area shape="rect" id="node31" href="$class_vector.html" title="Vector\&lt; TSShape::LodPair \&gt;" alt="" coords="1014,275,1203,301"/>
+<area shape="rect" id="node32" href="$class_vector.html" title="Vector\&lt; F32 \&gt;" alt="" coords="629,1555,736,1581"/>
+<area shape="rect" id="node34" href="$class_vector.html" title="Vector\&lt; TSShape::ObjectState \&gt;" alt="" coords="1001,325,1216,352"/>
+<area shape="rect" id="node36" href="$class_t_s_shape_alloc.html" title="TSShapeAlloc" alt="" coords="1057,376,1161,403"/>
+<area shape="rect" id="node37" href="$class_g_f_x_primitive_buffer_handle.html" title="GFXPrimitiveBufferHandle" alt="" coords="1024,427,1193,453"/>
+<area shape="rect" id="node38" href="$class_g_f_x_vertex_buffer_data_handle.html" title="GFXVertexBufferDataHandle" alt="" coords="1016,540,1201,567"/>
+<area shape="rect" id="node39" href="$class_vector.html" title="Vector\&lt; TSShape::Sequence \&gt;" alt="" coords="1007,591,1210,617"/>
+<area shape="rect" id="node40" href="$class_vector.html" title="Vector\&lt; TSMesh * \&gt;" alt="" coords="1038,641,1179,668"/>
+<area shape="rect" id="node41" href="$struct_t_s_shape_vertex_array.html" title="Data storage helper for main shape buffer. " alt="" coords="1037,692,1181,719"/>
+<area shape="rect" id="node42" href="$class_torque_1_1_path.html" title="Torque::Path" alt="" coords="2479,784,2575,811"/>
+<area shape="rect" id="node43" href="$class_vector.html" title="Vector\&lt; TSShapeLoader\l::Subshape * \&gt;" alt="" coords="2445,949,2609,990"/>
+<area shape="rect" id="node45" href="$class_vector.html" title="Vector\&lt; AppMesh * \&gt;" alt="" coords="1421,989,1569,1016"/>
+<area shape="rect" id="node48" href="$class_app_node.html" title="AppNode" alt="" coords="1679,892,1753,919"/>
+<area shape="rect" id="node47" href="$class_vector.html" title="Vector\&lt; AppNode * \&gt;" alt="" coords="1883,863,2029,889"/>
+<area shape="rect" id="node49" href="$class_vector.html" title="Vector\&lt; QuatF * \&gt;" alt="" coords="2463,1075,2592,1101"/>
+<area shape="rect" id="node50" href="$class_quat_f.html" title="QuatF" alt="" coords="2210,1104,2269,1131"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="EditorIconRegistry" name="EditorIconRegistry">
+<area shape="rect" id="node2" href="$class_hash_table.html" title="HashTable\&lt; StringNoCase,\l GFXTexHandle \&gt;" alt="" coords="5,339,184,380"/>
+<area shape="rect" id="node3" href="$class_g_f_x_tex_handle.html" title="A reference counted handle to a texture resource. " alt="" coords="209,346,317,373"/>
+<area shape="rect" id="node4" href="$class_strong_ref_ptr.html" title="StrongRefPtr\&lt; GFXTexture\lObject \&gt;" alt="" coords="175,247,351,288"/>
+<area shape="rect" id="node5" href="$class_strong_object_ref.html" title="Base class for StrongRefBase strong reference pointers. " alt="" coords="204,171,321,197"/>
+<area shape="rect" id="node6" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="208,81,317,108"/>
+<area shape="rect" id="node7" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="210,5,315,32"/>
+</map>

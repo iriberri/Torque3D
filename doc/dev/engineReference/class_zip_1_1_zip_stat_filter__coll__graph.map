@@ -1,0 +1,9 @@
+<map id="Zip::ZipStatFilter" name="Zip::ZipStatFilter">
+<area shape="rect" id="node2" href="$class_filter_stream.html" title="FilterStream" alt="" coords="80,260,173,287"/>
+<area shape="rect" id="node3" href="$class_stream.html" title="Base stream class for streaming data across a specific media. " alt="" coords="6,184,70,211"/>
+<area shape="rect" id="node4" href="$class_zip_1_1_central_dir.html" title="Zip::CentralDir" alt="" coords="197,260,301,287"/>
+<area shape="rect" id="node5" href="$class_zip_1_1_file_header.html" title="Zip::FileHeader" alt="" coords="194,184,304,211"/>
+<area shape="rect" id="node6" href="$class_string.html" title="The String class represents a 0&#45;terminated array of characters. " alt="" coords="82,95,138,121"/>
+<area shape="rect" id="node7" href="$class_vector.html" title="Vector\&lt; Zip::ExtraField * \&gt;" alt="" coords="264,95,442,121"/>
+<area shape="rect" id="node8" href="$class_zip_1_1_extra_field.html" title="Zip::ExtraField" alt="" coords="300,5,406,32"/>
+</map>

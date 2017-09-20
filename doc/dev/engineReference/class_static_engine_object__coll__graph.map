@@ -1,0 +1,5 @@
+<map id="StaticEngineObject" name="StaticEngineObject">
+<area shape="rect" id="node2" href="$class_engine_object.html" title="EngineObject" alt="" coords="23,155,123,181"/>
+<area shape="rect" id="node3" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="18,80,127,107"/>
+<area shape="rect" id="node4" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="20,5,125,32"/>
+</map>

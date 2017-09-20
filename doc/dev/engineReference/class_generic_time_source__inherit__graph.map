@@ -1,0 +1,5 @@
+<map id="GenericTimeSource&lt; Timer, Tick &gt;" name="GenericTimeSource&lt; Timer, Tick &gt;">
+<area shape="rect" id="node2" href="$class_i_positionable.html" title="IPositionable\&lt; Tick \&gt;" alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node3" href="$class_i_process.html" title="Interface for structures that represent processes. " alt="" coords="174,5,247,32"/>
+<area shape="rect" id="node4" href="$class_i_resettable.html" title="Interface for structures that allow their state to be reset. " alt="" coords="271,5,358,32"/>
+</map>

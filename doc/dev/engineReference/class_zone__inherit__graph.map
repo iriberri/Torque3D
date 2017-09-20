@@ -1,0 +1,23 @@
+<map id="Zone" name="Zone">
+<area shape="rect" id="node22" href="$class_portal.html" title="Portal" alt="" coords="376,1229,432,1256"/>
+<area shape="rect" id="node2" href="$class_scene_ambient_sound_object.html" title="SceneAmbientSoundObject\l\&lt; ScenePolyhedralZone \&gt;" alt="" coords="313,1065,495,1107"/>
+<area shape="rect" id="node3" href="$class_scene_polyhedral_zone.html" title="ScenePolyhedralZone" alt="" coords="330,991,478,1017"/>
+<area shape="rect" id="node4" href="$class_scene_polyhedral_object.html" title="ScenePolyhedralObject\l\&lt; SceneSimpleZone \&gt;" alt="" coords="325,901,483,943"/>
+<area shape="rect" id="node5" href="$class_scene_simple_zone.html" title="SceneSimpleZone" alt="" coords="257,827,383,853"/>
+<area shape="rect" id="node6" href="$class_scene_zone_space.html" title="SceneZoneSpace" alt="" coords="258,752,382,779"/>
+<area shape="rect" id="node7" href="$class_scene_space.html" title="SceneSpace" alt="" coords="272,677,368,704"/>
+<area shape="rect" id="node8" href="$class_scene_object.html" title="SceneObject" alt="" coords="271,603,369,629"/>
+<area shape="rect" id="node9" href="$class_net_object.html" title="NetObject" alt="" coords="143,528,223,555"/>
+<area shape="rect" id="node10" href="$class_sim_group.html" title="SimGroup" alt="" coords="143,453,223,480"/>
+<area shape="rect" id="node11" href="$class_sim_set.html" title="SimSet" alt="" coords="150,379,215,405"/>
+<area shape="rect" id="node12" href="$class_sim_object.html" title="SimObject" alt="" coords="84,304,167,331"/>
+<area shape="rect" id="node13" href="$class_console_object.html" title="ConsoleObject" alt="" coords="7,229,113,256"/>
+<area shape="rect" id="node14" href="$class_engine_object.html" title="EngineObject" alt="" coords="10,155,110,181"/>
+<area shape="rect" id="node15" href="$class_strong_ref_base.html" title="StrongRefBase" alt="" coords="5,80,115,107"/>
+<area shape="rect" id="node16" href="$class_weak_ref_base.html" title="WeakRefBase" alt="" coords="7,5,113,32"/>
+<area shape="rect" id="node17" href="$class_taml_callbacks.html" title="TamlCallbacks" alt="" coords="137,229,244,256"/>
+<area shape="rect" id="node18" href="$class_taml_children.html" title="TamlChildren" alt="" coords="191,304,289,331"/>
+<area shape="rect" id="node19" href="$struct_scene_container_1_1_link.html" title="SceneContainer::Link" alt="" coords="247,528,393,555"/>
+<area shape="rect" id="node20" href="$class_process_object.html" title="ProcessObject" alt="" coords="418,528,526,555"/>
+<area shape="rect" id="node21" href="$struct_i_scene_polyhedral_object.html" title="Shared interface for polyhedral objects. " alt="" coords="407,827,569,853"/>
+</map>

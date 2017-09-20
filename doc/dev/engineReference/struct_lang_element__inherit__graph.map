@@ -1,0 +1,8 @@
+<map id="LangElement" name="LangElement">
+<area shape="rect" id="node2" href="$class_multi_line.html" title="MultiLine" alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node3" href="$class_shader_op.html" title="ShaderOp" alt="" coords="104,80,184,107"/>
+<area shape="rect" id="node7" href="$struct_var.html" title="Var" alt="" coords="208,80,251,107"/>
+<area shape="rect" id="node4" href="$class_dec_op.html" title="DecOp" alt="" coords="22,155,85,181"/>
+<area shape="rect" id="node5" href="$class_echo_op.html" title="EchoOp" alt="" coords="109,155,179,181"/>
+<area shape="rect" id="node6" href="$class_gen_op.html" title="GenOp" alt="" coords="203,155,266,181"/>
+</map>

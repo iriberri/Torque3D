@@ -1,0 +1,11 @@
+<map id="PolyhedronVectorData" name="PolyhedronVectorData">
+<area shape="rect" id="node2" href="$struct_polyhedron_data.html" title="PolyhedronData" alt="" coords="5,287,120,313"/>
+<area shape="rect" id="node3" href="$class_vector.html" title="Vector\&lt; PlaneF \&gt;" alt="" coords="144,287,269,313"/>
+<area shape="rect" id="node4" href="$class_plane_f.html" title="PlaneF" alt="" coords="177,185,239,212"/>
+<area shape="rect" id="node5" href="$class_point3_f.html" title="Point3F" alt="" coords="205,43,272,70"/>
+<area shape="rect" id="node10" href="$class_vector.html" title="Vector\&lt; Point3F \&gt;" alt="" coords="257,236,386,263"/>
+<area shape="rect" id="node6" href="$class_vector.html" title="Vector\&lt; Edge \&gt;" alt="" coords="395,287,509,313"/>
+<area shape="rect" id="node7" href="$struct_edge.html" title="Edge" alt="" coords="426,185,478,212"/>
+<area shape="rect" id="node8" href="$class_point2_f.html" title="2D floating&#45;point point. " alt="" coords="364,43,431,70"/>
+<area shape="rect" id="node9" href="$class_point2_i.html" title="Point2I" alt="" coords="509,43,571,70"/>
+</map>

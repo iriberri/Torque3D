@@ -1,0 +1,4 @@
+<map id="_GFXGLTargetDesc" name="_GFXGLTargetDesc">
+<area shape="rect" id="node2" href="$class___g_f_x_g_l_cubemap_target_desc.html" title="Internal struct used to track Cubemap texture information for FBO attachment. " alt="" coords="5,80,197,107"/>
+<area shape="rect" id="node3" href="$class___g_f_x_g_l_texture_target_desc.html" title="Internal struct used to track 2D/Rect texture information for FBO attachment. " alt="" coords="222,80,402,107"/>
+</map>
