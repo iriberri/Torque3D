@@ -15,7 +15,7 @@ matrix:
   #   osx_image: xcode8.3
   #   compiler: clang
   - os: osx
-    env: ADDITIONAL_CMAKE_ARGS="-DTORQUE_TESTING=off -DTORQUE_PHYSICS_BULLET=on" DEPLOYABLE_CONF=true CXXFLAGS="-fgnu-inline-asm -fasm-blocks"
+    env: ADDITIONAL_CMAKE_ARGS="-DTORQUE_TESTING=off -DTORQUE_PHYSICS_BULLET=on" DEPLOYABLE_CONF=true #CXXFLAGS="-fgnu-inline-asm -fasm-blocks"
     osx_image: xcode8
     compiler: clang
   # - os: osx
