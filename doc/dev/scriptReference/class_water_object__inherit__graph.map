@@ -1,0 +1,10 @@
+<map id="WaterObject" name="WaterObject">
+<area shape="rect" id="node7" href="$class_river.html" title="A water volume defined by a 3D spline. " alt="" coords="5,453,56,480"/>
+<area shape="rect" id="node8" href="$class_water_block.html" title="A block shaped water volume defined by a 3D scale and orientation. " alt="" coords="80,453,171,480"/>
+<area shape="rect" id="node9" href="$class_water_plane.html" title="Represents a large body of water stretching to the horizon in all directions. " alt="" coords="195,453,285,480"/>
+<area shape="rect" id="node2" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="77,304,174,331"/>
+<area shape="rect" id="node3" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="85,229,165,256"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="85,155,165,181"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="93,80,158,107"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="84,5,167,32"/>
+</map>

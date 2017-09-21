@@ -1,0 +1,8 @@
+<map id="AIClient" name="AIClient">
+<area shape="rect" id="node2" href="$class_a_i_connection.html" title="Special client connection driven by an AI, rather than a human. " alt="" coords="17,379,116,405"/>
+<area shape="rect" id="node3" href="$class_game_connection.html" title="The game&#45;specific subclass of NetConnection. " alt="" coords="5,304,128,331"/>
+<area shape="rect" id="node4" href="$class_net_connection.html" title="Provides the basis for implementing a multiplayer game protocol. " alt="" coords="13,229,120,256"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="27,155,107,181"/>
+<area shape="rect" id="node6" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="34,80,99,107"/>
+<area shape="rect" id="node7" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="25,5,108,32"/>
+</map>

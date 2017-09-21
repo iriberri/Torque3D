@@ -1,0 +1,4 @@
+<map id="LightFlareData" name="LightFlareData">
+<area shape="rect" id="node2" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="6,81,111,108"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="17,5,100,32"/>
+</map>

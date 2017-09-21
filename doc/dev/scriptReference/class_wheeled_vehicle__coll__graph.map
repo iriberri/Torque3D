@@ -1,0 +1,12 @@
+<map id="WheeledVehicle" name="WheeledVehicle">
+<area shape="rect" id="node2" href="$class_vehicle.html" title="Base functionality shared by all Vehicles (FlyingVehicle, HoverVehicle, WheeledVehicle). " alt="" coords="31,551,96,577"/>
+<area shape="rect" id="node3" href="$class_shape_base.html" title="ShapeBase" alt="" coords="19,475,108,501"/>
+<area shape="rect" id="node4" href="$class_game_base.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="20,399,107,425"/>
+<area shape="rect" id="node5" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="15,323,112,349"/>
+<area shape="rect" id="node6" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="23,233,103,260"/>
+<area shape="rect" id="node7" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="23,157,103,184"/>
+<area shape="rect" id="node8" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="37,81,103,108"/>
+<area shape="rect" id="node9" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="90,5,173,32"/>
+<area shape="rect" id="node11" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="128,81,233,108"/>
+<area shape="rect" id="node10" href="$class_game_base_data.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="127,157,242,184"/>
+</map>

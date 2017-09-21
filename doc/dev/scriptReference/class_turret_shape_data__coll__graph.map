@@ -1,0 +1,15 @@
+<map id="TurretShapeData" name="TurretShapeData">
+<area shape="rect" id="node2" href="$class_item_data.html" title="Stores properties for an individual Item type. " alt="" coords="27,608,102,635"/>
+<area shape="rect" id="node3" href="$class_shape_base_data.html" title="Defines properties for a ShapeBase object. " alt="" coords="7,532,123,559"/>
+<area shape="rect" id="node4" href="$class_game_base_data.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="206,157,321,184"/>
+<area shape="rect" id="node7" href="$class_debris_data.html" title="Stores properties for an individual debris type. " alt="" coords="103,337,189,364"/>
+<area shape="rect" id="node8" href="$class_particle_emitter_data.html" title="Defines particle emission properties such as ejection angle, period and velocity for a ParticleEmitte..." alt="" coords="196,247,331,273"/>
+<area shape="rect" id="node9" href="$class_explosion_data.html" title="Defines the attributes of an Explosion: particleEmitters, debris, lighting and camera shake effects..." alt="" coords="206,428,313,455"/>
+<area shape="rect" id="node5" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="417,81,523,108"/>
+<area shape="rect" id="node10" href="$class_s_f_x_track.html" title="Abstract base class for sound data that can be played back by the sound system. " alt="" coords="428,247,507,273"/>
+<area shape="rect" id="node11" href="$class_s_f_x_description.html" title="A description for how a sound should be played. " alt="" coords="485,157,596,184"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="489,5,571,32"/>
+<area shape="rect" id="node14" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="549,81,615,108"/>
+<area shape="rect" id="node12" href="$class_s_f_x_source.html" title="Playback controller for a sound source. " alt="" coords="700,247,787,273"/>
+<area shape="rect" id="node13" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="690,157,770,184"/>
+</map>

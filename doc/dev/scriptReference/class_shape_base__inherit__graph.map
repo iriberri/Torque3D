@@ -1,0 +1,27 @@
+<map id="ShapeBase" name="ShapeBase">
+<area shape="rect" id="node8" href="$class_camera.html" title="Represents a position, direction and field of view to render a scene from. " alt="" coords="943,31,1009,57"/>
+<area shape="rect" id="node9" href="$class_item.html" title="Base Item class. Uses the ItemData datablock for common properties. " alt="" coords="953,81,999,108"/>
+<area shape="rect" id="node13" href="$class_mission_marker.html" title="This is a base class for all &quot;marker&quot; related objets. It is a 3D representation of a point in the lev..." alt="" coords="923,157,1029,184"/>
+<area shape="rect" id="node17" href="$class_path_camera.html" title="A camera that moves along a path. The camera can then be made to travel along this path forwards or b..." alt="" coords="929,208,1023,235"/>
+<area shape="rect" id="node18" href="$class_player.html" title="Player" alt="" coords="947,259,1005,285"/>
+<area shape="rect" id="node20" href="$class_rigid_shape.html" title="The RigidShape class implements rigid&#45;body physics for DTS objects in the world. " alt="" coords="932,309,1020,336"/>
+<area shape="rect" id="node21" href="$class_static_shape.html" title="The most basic 3D shape with a datablock available in Torque 3D. " alt="" coords="929,360,1023,387"/>
+<area shape="rect" id="node23" href="$class_vehicle.html" title="Base functionality shared by all Vehicles (FlyingVehicle, HoverVehicle, WheeledVehicle). " alt="" coords="943,411,1009,437"/>
+<area shape="rect" id="node2" href="$class_game_base.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="651,233,737,260"/>
+<area shape="rect" id="node3" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="505,233,603,260"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="377,233,457,260"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="249,233,329,260"/>
+<area shape="rect" id="node6" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="136,233,201,260"/>
+<area shape="rect" id="node7" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,233,88,260"/>
+<area shape="rect" id="node10" href="$class_proximity_mine.html" title="A simple proximity mine. " alt="" coords="1094,5,1199,32"/>
+<area shape="rect" id="node11" href="$class_turret_shape.html" title="TurretShape" alt="" coords="1101,56,1193,83"/>
+<area shape="rect" id="node12" href="$class_a_i_turret_shape.html" title="AITurretShape" alt="" coords="1264,56,1368,83"/>
+<area shape="rect" id="node14" href="$class_camera_bookmark.html" title="Special type of mission marker which allows a level editor&#39;s camera to jump to specific points..." alt="" coords="1083,107,1210,133"/>
+<area shape="rect" id="node15" href="$class_spawn_sphere.html" title="This class is used for creating any type of game object, assigning it a class, datablock, and other properties when it is spawned. " alt="" coords="1095,157,1198,184"/>
+<area shape="rect" id="node16" href="$class_way_point.html" title="Special type of marker, distinguished by a name and team ID number. " alt="" coords="1107,208,1186,235"/>
+<area shape="rect" id="node19" href="$class_a_i_player.html" title="A Player object not controlled by conventional input, but by an AI engine. " alt="" coords="1111,259,1182,285"/>
+<area shape="rect" id="node22" href="$class_scope_always_shape.html" title="StaticShape object which is always scoped. " alt="" coords="1077,309,1216,336"/>
+<area shape="rect" id="node24" href="$class_flying_vehicle.html" title="A flying vehicle. " alt="" coords="1097,360,1197,387"/>
+<area shape="rect" id="node25" href="$class_hover_vehicle.html" title="A hovering vehicle. " alt="" coords="1098,411,1195,437"/>
+<area shape="rect" id="node26" href="$class_wheeled_vehicle.html" title="A wheeled vehicle. " alt="" coords="1089,461,1205,488"/>
+</map>

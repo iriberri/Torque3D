@@ -1,0 +1,4 @@
+<map id="SFXDescriptionSet" name="SFXDescriptionSet">
+<area shape="rect" id="node2" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="38,81,103,108"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="29,5,112,32"/>
+</map>

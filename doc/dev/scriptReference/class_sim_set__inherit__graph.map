@@ -1,0 +1,50 @@
+<map id="SimSet" name="SimSet">
+<area shape="rect" id="node3" href="$class_active_action_map_set.html" title="ActiveActionMapSet" alt="" coords="267,5,406,32"/>
+<area shape="rect" id="node4" href="$class_behavior_set.html" title="BehaviorSet" alt="" coords="291,56,382,83"/>
+<area shape="rect" id="node5" href="$class_data_block_set.html" title="DataBlockSet" alt="" coords="285,107,388,133"/>
+<area shape="rect" id="node6" href="$classfx_foliage_set.html" title="fxFoliageSet" alt="" coords="289,157,384,184"/>
+<area shape="rect" id="node7" href="$classfx_replicator_set.html" title="fxReplicatorSet" alt="" coords="281,208,392,235"/>
+<area shape="rect" id="node8" href="$class_ghost_always_set.html" title="GhostAlwaysSet" alt="" coords="277,259,396,285"/>
+<area shape="rect" id="node9" href="$class_material_set.html" title="MaterialSet" alt="" coords="293,309,381,336"/>
+<area shape="rect" id="node10" href="$class_menu_bar.html" title="Used for rendering platform menu bars. " alt="" coords="299,360,374,387"/>
+<area shape="rect" id="node11" href="$class_module_definition.html" title="ModuleDefinition" alt="" coords="278,411,395,437"/>
+<area shape="rect" id="node12" href="$class_s_f_x_ambience_set.html" title="SFXAmbienceSet" alt="" coords="275,461,399,488"/>
+<area shape="rect" id="node13" href="$class_s_f_x_description_set.html" title="SFXDescriptionSet" alt="" coords="271,512,402,539"/>
+<area shape="rect" id="node14" href="$class_s_f_x_environment_set.html" title="SFXEnvironmentSet" alt="" coords="268,563,405,589"/>
+<area shape="rect" id="node15" href="$class_s_f_x_source_set.html" title="SFXSourceSet" alt="" coords="283,613,390,640"/>
+<area shape="rect" id="node16" href="$class_s_f_x_state_set.html" title="SFXStateSet" alt="" coords="288,664,385,691"/>
+<area shape="rect" id="node17" href="$class_s_f_x_track_set.html" title="SFXTrackSet" alt="" coords="287,715,386,741"/>
+<area shape="rect" id="node18" href="$classsg_mission_lighting_filter_set.html" title="sgMissionLightingFilterSet" alt="" coords="249,765,424,792"/>
+<area shape="rect" id="node19" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="297,816,377,843"/>
+<area shape="rect" id="node46" href="$class_sim_persist_set.html" title="A SimSet that can be safely persisted. " alt="" coords="283,867,390,893"/>
+<area shape="rect" id="node48" href="$class_terrain_material_set.html" title="TerrainMaterialSet" alt="" coords="273,917,400,944"/>
+<area shape="rect" id="node49" href="$class_way_point_set.html" title="WayPointSet" alt="" coords="287,968,386,995"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,487,88,513"/>
+<area shape="rect" id="node20" href="$class_action_map_group.html" title="ActionMapGroup" alt="" coords="490,360,609,387"/>
+<area shape="rect" id="node21" href="$class_client_connection_group.html" title="ClientConnectionGroup" alt="" coords="472,411,627,437"/>
+<area shape="rect" id="node22" href="$class_client_group.html" title="ClientGroup" alt="" coords="504,461,595,488"/>
+<area shape="rect" id="node23" href="$class_data_block_group.html" title="DataBlockGroup" alt="" coords="491,512,608,539"/>
+<area shape="rect" id="node24" href="$class_forest_brush.html" title="Container class for ForestBrushElements. " alt="" coords="503,563,596,589"/>
+<area shape="rect" id="node25" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="508,613,591,640"/>
+<area shape="rect" id="node35" href="$class_gui_data_group.html" title="GuiDataGroup" alt="" coords="497,664,601,691"/>
+<area shape="rect" id="node36" href="$class_gui_group.html" title="GuiGroup" alt="" coords="511,715,588,741"/>
+<area shape="rect" id="node37" href="$class_net_connection.html" title="Provides the basis for implementing a multiplayer game protocol. " alt="" coords="496,765,603,792"/>
+<area shape="rect" id="node38" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="509,816,589,843"/>
+<area shape="rect" id="node39" href="$class_path.html" title="A spline along which various objects can move along. The spline object acts like a container for Mark..." alt="" coords="525,867,574,893"/>
+<area shape="rect" id="node40" href="$class_post_effect.html" title="A fullscreen shader effect. " alt="" coords="508,917,591,944"/>
+<area shape="rect" id="node41" href="$class_root_group.html" title="RootGroup" alt="" coords="507,968,591,995"/>
+<area shape="rect" id="node42" href="$class_script_group.html" title="Essentially a SimGroup, but with onAdd and onRemove script callbacks. " alt="" coords="504,1019,595,1045"/>
+<area shape="rect" id="node43" href="$class_s_f_x_parameter_group.html" title="SFXParameterGroup" alt="" coords="479,1069,620,1096"/>
+<area shape="rect" id="node44" href="$class_s_f_x_source.html" title="Playback controller for a sound source. " alt="" coords="506,1120,593,1147"/>
+<area shape="rect" id="node45" href="$class_t_c_p_group.html" title="TCPGroup" alt="" coords="508,1171,591,1197"/>
+<area shape="rect" id="node26" href="$class_edit_manager.html" title="For Editor use only, deprecated. " alt="" coords="705,360,799,387"/>
+<area shape="rect" id="node27" href="$class_gui_array_ctrl.html" title="Abstract base class for controls that store and display multiple elements in a single view..." alt="" coords="705,411,799,437"/>
+<area shape="rect" id="node28" href="$class_gui_background_ctrl.html" title="Renders a background, so you can have a backdrop for your GUI. " alt="" coords="687,461,817,488"/>
+<area shape="rect" id="node29" href="$class_gui_bitmap_border_ctrl.html" title="A control that renders a skinned border specified in its profile. " alt="" coords="681,512,823,539"/>
+<area shape="rect" id="node30" href="$class_gui_bitmap_ctrl.html" title="A gui control that is used to display an image. " alt="" coords="701,563,803,589"/>
+<area shape="rect" id="node31" href="$class_gui_button_base_ctrl.html" title="The base class for the various button controls. " alt="" coords="687,613,817,640"/>
+<area shape="rect" id="node32" href="$class_gui_canvas.html" title="A canvas on which rendering occurs. " alt="" coords="710,664,794,691"/>
+<area shape="rect" id="node33" href="$class_gui_chunked_bitmap_ctrl.html" title="This is a control that will render a specified bitmap or a bitmap specified in a referenced variable..." alt="" coords="675,715,829,741"/>
+<area shape="rect" id="node34" href="$class_gui_clock_hud.html" title="Basic HUD clock. Displays the current simulation time offset from some base. " alt="" coords="703,765,801,792"/>
+<area shape="rect" id="node47" href="$class_world_editor_selection.html" title="Specialized simset that stores the objects selected by the World Editor. " alt="" coords="477,1221,621,1248"/>
+</map>

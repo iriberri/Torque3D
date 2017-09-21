@@ -1,0 +1,7 @@
+<map id="AIConnection" name="AIConnection">
+<area shape="rect" id="node2" href="$class_game_connection.html" title="The game&#45;specific subclass of NetConnection. " alt="" coords="5,309,128,336"/>
+<area shape="rect" id="node3" href="$class_net_connection.html" title="Provides the basis for implementing a multiplayer game protocol. " alt="" coords="13,233,120,260"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="27,157,107,184"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="34,81,99,108"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="25,5,108,32"/>
+</map>

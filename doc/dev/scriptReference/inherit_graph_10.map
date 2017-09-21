@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_node_list_event.html" title="Base class for events used by node editors, like River. " alt="" coords="5,56,111,83"/>
+<area shape="rect" id="node2" href="$class_decal_road_node_event.html" title="Sends messages to the Decal Road Editor. " alt="" coords="159,5,305,32"/>
+<area shape="rect" id="node3" href="$class_mesh_road_node_event.html" title="Sends messages to the Mesh Road Editor. " alt="" coords="159,56,305,83"/>
+<area shape="rect" id="node4" href="$class_river_node_event.html" title="Sends messages to the River Editor. " alt="" coords="176,107,288,133"/>
+</map>

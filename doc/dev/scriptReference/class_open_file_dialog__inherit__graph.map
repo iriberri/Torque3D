@@ -1,0 +1,5 @@
+<map id="OpenFileDialog" name="OpenFileDialog">
+<area shape="rect" id="node4" href="$class_open_folder_dialog.html" title="OS level dialog used for browsing folder structures. " alt="" coords="5,229,131,256"/>
+<area shape="rect" id="node2" href="$class_file_dialog.html" title="Base class responsible for displaying an OS file browser. " alt="" coords="29,80,107,107"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="27,5,109,32"/>
+</map>

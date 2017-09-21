@@ -1,0 +1,10 @@
+<map id="GuiGameListMenuProfile" name="GuiGameListMenuProfile">
+<area shape="rect" id="node2" href="$class_gui_control_profile.html" title="A collection of properties that determine control behavior and rendering. " alt="" coords="29,351,148,377"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="177,5,259,32"/>
+<area shape="rect" id="node5" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="165,81,271,108"/>
+<area shape="rect" id="node9" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="337,81,403,108"/>
+<area shape="rect" id="node4" href="$class_s_f_x_track.html" title="Abstract base class for sound data that can be played back by the sound system. " alt="" coords="139,247,217,273"/>
+<area shape="rect" id="node6" href="$class_s_f_x_description.html" title="A description for how a sound should be played. " alt="" coords="213,157,324,184"/>
+<area shape="rect" id="node7" href="$class_s_f_x_source.html" title="Playback controller for a sound source. " alt="" coords="428,247,515,273"/>
+<area shape="rect" id="node8" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="418,157,498,184"/>
+</map>

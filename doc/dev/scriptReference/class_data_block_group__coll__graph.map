@@ -1,0 +1,5 @@
+<map id="DataBlockGroup" name="DataBlockGroup">
+<area shape="rect" id="node2" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="24,157,104,184"/>
+<area shape="rect" id="node3" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="31,81,97,108"/>
+<area shape="rect" id="node4" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="23,5,105,32"/>
+</map>

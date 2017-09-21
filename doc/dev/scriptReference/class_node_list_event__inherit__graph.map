@@ -1,0 +1,5 @@
+<map id="NodeListEvent" name="NodeListEvent">
+<area shape="rect" id="node2" href="$class_decal_road_node_event.html" title="Sends messages to the Decal Road Editor. " alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$class_mesh_road_node_event.html" title="Sends messages to the Mesh Road Editor. " alt="" coords="176,80,323,107"/>
+<area shape="rect" id="node4" href="$class_river_node_event.html" title="Sends messages to the River Editor. " alt="" coords="347,80,459,107"/>
+</map>

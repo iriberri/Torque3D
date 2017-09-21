@@ -1,0 +1,8 @@
+<map id="NavPath" name="NavPath">
+<area shape="rect" id="node2" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="5,309,103,336"/>
+<area shape="rect" id="node3" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="14,233,94,260"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="50,157,130,184"/>
+<area shape="rect" id="node7" href="$class_path.html" title="A spline along which various objects can move along. The spline object acts like a container for Mark..." alt="" coords="119,233,168,260"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="57,81,123,108"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="49,5,131,32"/>
+</map>

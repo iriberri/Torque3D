@@ -1,0 +1,4 @@
+<map id="DBDeleteUndoAction" name="DBDeleteUndoAction">
+<area shape="rect" id="node2" href="$class_undo_action.html" title="An event which signals the editors to undo the last action. " alt="" coords="33,80,122,107"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="36,5,119,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="MissionMarker" name="MissionMarker">
+<area shape="rect" id="node9" href="$class_camera_bookmark.html" title="Special type of mission marker which allows a level editor&#39;s camera to jump to specific points..." alt="" coords="5,603,132,629"/>
+<area shape="rect" id="node10" href="$class_spawn_sphere.html" title="This class is used for creating any type of game object, assigning it a class, datablock, and other properties when it is spawned. " alt="" coords="156,603,259,629"/>
+<area shape="rect" id="node11" href="$class_way_point.html" title="Special type of marker, distinguished by a name and team ID number. " alt="" coords="283,603,361,629"/>
+<area shape="rect" id="node2" href="$class_shape_base.html" title="ShapeBase" alt="" coords="163,453,252,480"/>
+<area shape="rect" id="node3" href="$class_game_base.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="164,379,251,405"/>
+<area shape="rect" id="node4" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="159,304,256,331"/>
+<area shape="rect" id="node5" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="167,229,247,256"/>
+<area shape="rect" id="node6" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="167,155,247,181"/>
+<area shape="rect" id="node7" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="175,80,240,107"/>
+<area shape="rect" id="node8" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="166,5,249,32"/>
+</map>

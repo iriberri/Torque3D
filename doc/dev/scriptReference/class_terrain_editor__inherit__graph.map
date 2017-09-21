@@ -1,0 +1,9 @@
+<map id="TerrainEditor" name="TerrainEditor">
+<area shape="rect" id="node2" href="$class_edit_t_s_ctrl.html" title="3D view control used specifically by Torque 3D&#39;s editors. " alt="" coords="13,453,95,480"/>
+<area shape="rect" id="node3" href="$class_gui_t_s_ctrl.html" title="Abstract base class for controls that render 3D scenes. " alt="" coords="15,379,93,405"/>
+<area shape="rect" id="node4" href="$class_gui_container.html" title="Brief Desc. " alt="" coords="5,304,103,331"/>
+<area shape="rect" id="node5" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="13,229,95,256"/>
+<area shape="rect" id="node6" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="14,155,94,181"/>
+<area shape="rect" id="node7" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="21,80,87,107"/>
+<area shape="rect" id="node8" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="13,5,95,32"/>
+</map>

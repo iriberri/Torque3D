@@ -1,0 +1,4 @@
+<map id="GlobalActionMap" name="GlobalActionMap">
+<area shape="rect" id="node2" href="$class_action_map.html" title="ActionMaps assign platform input events to console commands. " alt="" coords="24,81,108,108"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="25,5,107,32"/>
+</map>

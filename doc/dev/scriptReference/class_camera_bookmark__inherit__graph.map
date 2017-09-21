@@ -1,0 +1,10 @@
+<map id="CameraBookmark" name="CameraBookmark">
+<area shape="rect" id="node2" href="$class_mission_marker.html" title="This is a base class for all &quot;marker&quot; related objets. It is a 3D representation of a point in the lev..." alt="" coords="15,528,122,555"/>
+<area shape="rect" id="node3" href="$class_shape_base.html" title="ShapeBase" alt="" coords="24,453,113,480"/>
+<area shape="rect" id="node4" href="$class_game_base.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="25,379,112,405"/>
+<area shape="rect" id="node5" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="20,304,117,331"/>
+<area shape="rect" id="node6" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="29,229,109,256"/>
+<area shape="rect" id="node7" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="29,155,109,181"/>
+<area shape="rect" id="node8" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="36,80,101,107"/>
+<area shape="rect" id="node9" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="27,5,110,32"/>
+</map>

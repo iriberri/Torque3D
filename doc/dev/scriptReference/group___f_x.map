@@ -1,0 +1,6 @@
+<map id="FX" name="FX">
+<area shape="rect" id="node1" href="$group___lighting.html" title="Lighting" alt="" coords="223,5,290,32"/>
+<area shape="rect" id="node3" href="$group___forest.html" title="Forest" alt="" coords="227,56,286,83"/>
+<area shape="rect" id="node4" href="$group___decals.html" title="Decals are non&#45;SimObject derived objects that are stored and loaded separately from the normal missio..." alt="" coords="225,128,288,155"/>
+<area shape="rect" id="node5" href="$group___atmosphere.html" title="Atmosphere" alt="" coords="211,268,303,295"/>
+</map>

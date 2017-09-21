@@ -1,0 +1,6 @@
+<map id="GuiTerrPreviewCtrl" name="GuiTerrPreviewCtrl">
+<area shape="rect" id="node2" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="28,229,111,256"/>
+<area shape="rect" id="node3" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="29,155,109,181"/>
+<area shape="rect" id="node4" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="37,80,102,107"/>
+<area shape="rect" id="node5" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="28,5,111,32"/>
+</map>

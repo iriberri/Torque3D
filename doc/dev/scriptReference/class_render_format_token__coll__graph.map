@@ -1,0 +1,9 @@
+<map id="RenderFormatToken" name="RenderFormatToken">
+<area shape="rect" id="node2" href="$class_render_pass_state_token.html" title="Abstract base class for RenderFormatToken, used to manipulate what goes on in the render manager..." alt="" coords="5,132,164,159"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="209,5,291,32"/>
+<area shape="rect" id="node6" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="164,81,229,108"/>
+<area shape="rect" id="node7" href="$class_g_f_x_state_block_data.html" title="A state block description for rendering. " alt="" coords="250,183,389,209"/>
+<area shape="rect" id="node8" href="$class_g_f_x_sampler_state_data.html" title="A sampler state used by GFXStateBlockData. " alt="" coords="329,81,483,108"/>
+<area shape="rect" id="node4" href="$class_post_effect.html" title="A fullscreen shader effect. " alt="" coords="145,272,227,299"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="146,183,226,209"/>
+</map>

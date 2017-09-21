@@ -1,0 +1,12 @@
+<map id="CustomMaterial" name="CustomMaterial">
+<area shape="rect" id="node2" href="$class_material.html" title="A material in Torque 3D is a data structure that describes a surface. " alt="" coords="21,364,89,391"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="289,5,372,32"/>
+<area shape="rect" id="node5" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="169,81,274,108"/>
+<area shape="rect" id="node9" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="298,81,363,108"/>
+<area shape="rect" id="node10" href="$class_g_f_x_state_block_data.html" title="A state block description for rendering. " alt="" coords="425,171,564,197"/>
+<area shape="rect" id="node11" href="$class_g_f_x_sampler_state_data.html" title="A sampler state used by GFXStateBlockData. " alt="" coords="463,81,617,108"/>
+<area shape="rect" id="node4" href="$class_s_f_x_track.html" title="Abstract base class for sound data that can be played back by the sound system. " alt="" coords="67,260,146,287"/>
+<area shape="rect" id="node6" href="$class_s_f_x_description.html" title="A description for how a sound should be played. " alt="" coords="166,171,277,197"/>
+<area shape="rect" id="node7" href="$class_s_f_x_source.html" title="Playback controller for a sound source. " alt="" coords="339,260,426,287"/>
+<area shape="rect" id="node8" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="315,171,395,197"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SimpleNetObject" name="SimpleNetObject">
+<area shape="rect" id="node2" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="25,229,105,256"/>
+<area shape="rect" id="node3" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="25,155,105,181"/>
+<area shape="rect" id="node4" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="33,80,98,107"/>
+<area shape="rect" id="node5" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="24,5,107,32"/>
+</map>

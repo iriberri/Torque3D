@@ -1,0 +1,14 @@
+<map id="GuiTextEditSliderCtrl" name="GuiTextEditSliderCtrl">
+<area shape="rect" id="node2" href="$class_gui_text_edit_ctrl.html" title="A component that places a text entry box on the screen. " alt="" coords="119,861,229,888"/>
+<area shape="rect" id="node3" href="$class_gui_text_ctrl.html" title="GUI control object this displays a single line of text, without TorqueML. " alt="" coords="131,785,217,812"/>
+<area shape="rect" id="node4" href="$class_gui_container.html" title="Brief Desc. " alt="" coords="125,709,223,736"/>
+<area shape="rect" id="node5" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="133,620,215,647"/>
+<area shape="rect" id="node6" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="146,157,226,184"/>
+<area shape="rect" id="node13" href="$class_s_f_x_source.html" title="Playback controller for a sound source. " alt="" coords="224,233,311,260"/>
+<area shape="rect" id="node7" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="153,81,219,108"/>
+<area shape="rect" id="node8" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="145,5,227,32"/>
+<area shape="rect" id="node9" href="$class_gui_control_profile.html" title="A collection of properties that determine control behavior and rendering. " alt="" coords="5,516,124,543"/>
+<area shape="rect" id="node11" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="387,233,492,260"/>
+<area shape="rect" id="node10" href="$class_s_f_x_track.html" title="Abstract base class for sound data that can be played back by the sound system. " alt="" coords="347,412,425,439"/>
+<area shape="rect" id="node12" href="$class_s_f_x_description.html" title="A description for how a sound should be played. " alt="" coords="331,323,441,349"/>
+</map>

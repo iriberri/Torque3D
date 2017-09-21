@@ -1,0 +1,12 @@
+<map id="ScopeAlwaysShape" name="ScopeAlwaysShape">
+<area shape="rect" id="node2" href="$class_static_shape.html" title="The most basic 3D shape with a datablock available in Torque 3D. " alt="" coords="28,551,121,577"/>
+<area shape="rect" id="node3" href="$class_shape_base.html" title="ShapeBase" alt="" coords="30,475,119,501"/>
+<area shape="rect" id="node4" href="$class_game_base.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="31,399,118,425"/>
+<area shape="rect" id="node5" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="26,323,123,349"/>
+<area shape="rect" id="node6" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="35,233,115,260"/>
+<area shape="rect" id="node7" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="35,157,115,184"/>
+<area shape="rect" id="node8" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="49,81,114,108"/>
+<area shape="rect" id="node9" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="101,5,184,32"/>
+<area shape="rect" id="node11" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="139,81,245,108"/>
+<area shape="rect" id="node10" href="$class_game_base_data.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="139,157,253,184"/>
+</map>

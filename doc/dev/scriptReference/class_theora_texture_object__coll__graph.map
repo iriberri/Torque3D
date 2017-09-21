@@ -1,0 +1,8 @@
+<map id="TheoraTextureObject" name="TheoraTextureObject">
+<area shape="rect" id="node2" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="215,5,298,32"/>
+<area shape="rect" id="node4" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="204,81,309,108"/>
+<area shape="rect" id="node7" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="339,81,404,108"/>
+<area shape="rect" id="node3" href="$class_s_f_x_description.html" title="A description for how a sound should be played. " alt="" coords="201,157,312,184"/>
+<area shape="rect" id="node5" href="$class_s_f_x_source.html" title="Playback controller for a sound source. " alt="" coords="367,247,453,273"/>
+<area shape="rect" id="node6" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="381,157,461,184"/>
+</map>

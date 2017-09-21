@@ -1,0 +1,5 @@
+<map id="ForestTool" name="ForestTool">
+<area shape="rect" id="node3" href="$class_forest_brush_tool.html" title="Defines the brush properties when painting trees in Forest Editor. " alt="" coords="5,155,123,181"/>
+<area shape="rect" id="node4" href="$class_forest_selection_tool.html" title="Specialized selection tool for picking individual trees in a forest. " alt="" coords="147,155,285,181"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="99,5,181,32"/>
+</map>

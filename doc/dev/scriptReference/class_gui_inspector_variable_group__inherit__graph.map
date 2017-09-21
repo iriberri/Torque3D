@@ -1,0 +1,8 @@
+<map id="GuiInspectorVariableGroup" name="GuiInspectorVariableGroup">
+<area shape="rect" id="node2" href="$class_gui_inspector_group.html" title="The GuiInspectorGroup control is a helper control that the inspector makes use of which houses a coll..." alt="" coords="29,379,159,405"/>
+<area shape="rect" id="node3" href="$class_gui_rollout_ctrl.html" title="A container that shows a single child with an optional header bar that can be used to collapse and ex..." alt="" coords="43,304,145,331"/>
+<area shape="rect" id="node4" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="53,229,135,256"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="54,155,134,181"/>
+<area shape="rect" id="node6" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="61,80,127,107"/>
+<area shape="rect" id="node7" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="53,5,135,32"/>
+</map>

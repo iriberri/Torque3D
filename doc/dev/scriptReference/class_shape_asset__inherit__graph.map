@@ -1,0 +1,4 @@
+<map id="ShapeAsset" name="ShapeAsset">
+<area shape="rect" id="node2" href="$class_asset_base.html" title="AssetBase" alt="" coords="9,80,95,107"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="11,5,93,32"/>
+</map>

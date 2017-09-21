@@ -1,0 +1,10 @@
+<map id="Splash" name="Splash">
+<area shape="rect" id="node2" href="$class_game_base.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="11,399,97,425"/>
+<area shape="rect" id="node3" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="5,323,103,349"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="14,233,94,260"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="14,157,94,184"/>
+<area shape="rect" id="node6" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="28,81,93,108"/>
+<area shape="rect" id="node7" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="81,5,163,32"/>
+<area shape="rect" id="node9" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="119,81,224,108"/>
+<area shape="rect" id="node8" href="$class_game_base_data.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="118,157,233,184"/>
+</map>

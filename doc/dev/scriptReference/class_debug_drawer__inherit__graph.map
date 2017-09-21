@@ -1,0 +1,4 @@
+<map id="DebugDrawer" name="DebugDrawer">
+<area shape="rect" id="node3" href="$class_debug_draw.html" title="DebugDraw" alt="" coords="11,155,99,181"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="13,5,96,32"/>
+</map>

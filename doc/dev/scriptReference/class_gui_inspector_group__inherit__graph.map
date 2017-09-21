@@ -1,0 +1,9 @@
+<map id="GuiInspectorGroup" name="GuiInspectorGroup">
+<area shape="rect" id="node7" href="$class_gui_inspector_dynamic_group.html" title="Used to inspect an object&#39;s FieldDictionary (dynamic fields) instead of regular persistent fields..." alt="" coords="5,453,187,480"/>
+<area shape="rect" id="node8" href="$class_gui_inspector_variable_group.html" title="Inspector support for variable groups in a GuiVariableInspector. " alt="" coords="211,453,389,480"/>
+<area shape="rect" id="node2" href="$class_gui_rollout_ctrl.html" title="A container that shows a single child with an optional header bar that can be used to collapse and ex..." alt="" coords="146,304,249,331"/>
+<area shape="rect" id="node3" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="156,229,239,256"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="157,155,237,181"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="165,80,230,107"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="156,5,239,32"/>
+</map>

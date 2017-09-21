@@ -1,0 +1,9 @@
+<map id="Sun" name="Sun">
+<area shape="rect" id="node2" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="5,323,103,349"/>
+<area shape="rect" id="node3" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="14,233,94,260"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="14,157,94,184"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="27,81,92,108"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="78,5,161,32"/>
+<area shape="rect" id="node8" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="116,81,221,108"/>
+<area shape="rect" id="node7" href="$class_light_flare_data.html" title="Defines a light flare effect usable by scene lights. " alt="" coords="118,157,225,184"/>
+</map>

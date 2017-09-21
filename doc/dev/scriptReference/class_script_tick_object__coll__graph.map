@@ -1,0 +1,4 @@
+<map id="ScriptTickObject" name="ScriptTickObject">
+<area shape="rect" id="node2" href="$class_script_object.html" title="A script&#45;level OOP object which allows binding of a class, superClass and arguments along with declar..." alt="" coords="17,81,112,108"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="23,5,106,32"/>
+</map>

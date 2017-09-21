@@ -1,0 +1,10 @@
+<map id="GuiInspectorTypeFileName" name="GuiInspectorTypeFileName">
+<area shape="rect" id="node7" href="$class_gui_inspector_type_image_file_name.html" title="Inspector field type for FileName. " alt="" coords="905,5,1119,32"/>
+<area shape="rect" id="node8" href="$class_gui_inspector_type_prefab_filename.html" title="Inspector field type for PrefabFilename. " alt="" coords="905,56,1119,83"/>
+<area shape="rect" id="node9" href="$class_gui_inspector_type_shape_filename.html" title="Inspector field type for Shapes. " alt="" coords="905,107,1119,133"/>
+<area shape="rect" id="node2" href="$class_gui_inspector_field.html" title="The GuiInspectorField control is a representation of a single abstract field for a given ConsoleObjec..." alt="" coords="508,56,631,83"/>
+<area shape="rect" id="node3" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="377,56,460,83"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="249,56,329,83"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="136,56,201,83"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,56,88,83"/>
+</map>

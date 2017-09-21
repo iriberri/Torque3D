@@ -1,0 +1,9 @@
+<map id="GuiTextEditSliderBitmapCtrl" name="GuiTextEditSliderBitmapCtrl">
+<area shape="rect" id="node2" href="$class_gui_text_edit_ctrl.html" title="A component that places a text entry box on the screen. " alt="" coords="42,453,153,480"/>
+<area shape="rect" id="node3" href="$class_gui_text_ctrl.html" title="GUI control object this displays a single line of text, without TorqueML. " alt="" coords="54,379,141,405"/>
+<area shape="rect" id="node4" href="$class_gui_container.html" title="Brief Desc. " alt="" coords="49,304,146,331"/>
+<area shape="rect" id="node5" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="56,229,139,256"/>
+<area shape="rect" id="node6" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="57,155,137,181"/>
+<area shape="rect" id="node7" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="65,80,130,107"/>
+<area shape="rect" id="node8" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="56,5,139,32"/>
+</map>

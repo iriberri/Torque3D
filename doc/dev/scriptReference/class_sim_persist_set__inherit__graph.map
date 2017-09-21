@@ -1,0 +1,5 @@
+<map id="SimPersistSet" name="SimPersistSet">
+<area shape="rect" id="node4" href="$class_world_editor_selection.html" title="Specialized simset that stores the objects selected by the World Editor. " alt="" coords="5,229,149,256"/>
+<area shape="rect" id="node2" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="45,80,110,107"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="36,5,119,32"/>
+</map>

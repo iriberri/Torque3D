@@ -1,0 +1,4 @@
+<map id="MECreateUndoAction" name="MECreateUndoAction">
+<area shape="rect" id="node2" href="$class_undo_action.html" title="An event which signals the editors to undo the last action. " alt="" coords="34,81,123,108"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="37,5,120,32"/>
+</map>

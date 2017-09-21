@@ -1,0 +1,9 @@
+<map id="LightBase" name="LightBase">
+<area shape="rect" id="node7" href="$class_point_light.html" title="Lighting object that radiates light in all directions. " alt="" coords="5,453,85,480"/>
+<area shape="rect" id="node8" href="$class_spot_light.html" title="Lighting object which emits conical light in a direction. " alt="" coords="109,453,187,480"/>
+<area shape="rect" id="node2" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="47,304,145,331"/>
+<area shape="rect" id="node3" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="56,229,136,256"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="56,155,136,181"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="63,80,129,107"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="55,5,137,32"/>
+</map>

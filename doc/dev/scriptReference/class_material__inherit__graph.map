@@ -1,0 +1,4 @@
+<map id="Material" name="Material">
+<area shape="rect" id="node3" href="$class_custom_material.html" title="Material object which provides more control over surface properties. " alt="" coords="5,155,119,181"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="21,5,103,32"/>
+</map>

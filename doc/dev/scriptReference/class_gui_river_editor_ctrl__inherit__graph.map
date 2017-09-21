@@ -1,0 +1,9 @@
+<map id="GuiRiverEditorCtrl" name="GuiRiverEditorCtrl">
+<area shape="rect" id="node2" href="$class_edit_t_s_ctrl.html" title="3D view control used specifically by Torque 3D&#39;s editors. " alt="" coords="27,453,108,480"/>
+<area shape="rect" id="node3" href="$class_gui_t_s_ctrl.html" title="Abstract base class for controls that render 3D scenes. " alt="" coords="28,379,107,405"/>
+<area shape="rect" id="node4" href="$class_gui_container.html" title="Brief Desc. " alt="" coords="19,304,116,331"/>
+<area shape="rect" id="node5" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="26,229,109,256"/>
+<area shape="rect" id="node6" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="27,155,107,181"/>
+<area shape="rect" id="node7" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="35,80,100,107"/>
+<area shape="rect" id="node8" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="26,5,109,32"/>
+</map>

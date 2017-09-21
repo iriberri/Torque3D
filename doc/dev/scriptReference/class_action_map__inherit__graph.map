@@ -1,0 +1,4 @@
+<map id="ActionMap" name="ActionMap">
+<area shape="rect" id="node3" href="$class_global_action_map.html" title="GlobalActionMap" alt="" coords="5,155,127,181"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="25,5,107,32"/>
+</map>

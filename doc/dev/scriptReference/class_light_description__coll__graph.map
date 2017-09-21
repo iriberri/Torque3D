@@ -1,0 +1,6 @@
+<map id="LightDescription" name="LightDescription">
+<area shape="rect" id="node2" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="74,81,179,108"/>
+<area shape="rect" id="node4" href="$class_light_anim_data.html" title="A datablock which defines and performs light animation, such as rotation, brightness fade..." alt="" coords="73,157,180,184"/>
+<area shape="rect" id="node5" href="$class_light_flare_data.html" title="Defines a light flare effect usable by scene lights. " alt="" coords="204,157,311,184"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="85,5,168,32"/>
+</map>

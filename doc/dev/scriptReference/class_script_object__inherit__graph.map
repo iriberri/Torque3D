@@ -1,0 +1,4 @@
+<map id="ScriptObject" name="ScriptObject">
+<area shape="rect" id="node3" href="$class_script_tick_object.html" title="A ScriptObject that responds to tick and frame events. " alt="" coords="5,155,124,181"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="23,5,106,32"/>
+</map>

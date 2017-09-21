@@ -1,0 +1,5 @@
+<map id="ParticleEmitterNodeData" name="ParticleEmitterNodeData">
+<area shape="rect" id="node2" href="$class_game_base_data.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="31,155,145,181"/>
+<area shape="rect" id="node3" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="35,80,141,107"/>
+<area shape="rect" id="node4" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="47,5,129,32"/>
+</map>

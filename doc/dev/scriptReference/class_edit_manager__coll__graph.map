@@ -1,0 +1,11 @@
+<map id="EditManager" name="EditManager">
+<area shape="rect" id="node2" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="11,620,94,647"/>
+<area shape="rect" id="node3" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="137,157,217,184"/>
+<area shape="rect" id="node10" href="$class_s_f_x_source.html" title="Playback controller for a sound source. " alt="" coords="133,233,220,260"/>
+<area shape="rect" id="node4" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="203,81,268,108"/>
+<area shape="rect" id="node5" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="297,5,379,32"/>
+<area shape="rect" id="node6" href="$class_gui_control_profile.html" title="A collection of properties that determine control behavior and rendering. " alt="" coords="321,516,440,543"/>
+<area shape="rect" id="node8" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="285,233,391,260"/>
+<area shape="rect" id="node7" href="$class_s_f_x_track.html" title="Abstract base class for sound data that can be played back by the sound system. " alt="" coords="297,412,376,439"/>
+<area shape="rect" id="node9" href="$class_s_f_x_description.html" title="A description for how a sound should be played. " alt="" coords="215,323,325,349"/>
+</map>

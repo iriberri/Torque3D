@@ -1,0 +1,8 @@
+<map id="TurretShapeData" name="TurretShapeData">
+<area shape="rect" id="node7" href="$class_a_i_turret_shape_data.html" title="Defines properties for an AITurretShape object. " alt="" coords="5,453,136,480"/>
+<area shape="rect" id="node2" href="$class_item_data.html" title="Stores properties for an individual Item type. " alt="" coords="33,304,108,331"/>
+<area shape="rect" id="node3" href="$class_shape_base_data.html" title="Defines properties for a ShapeBase object. " alt="" coords="13,229,129,256"/>
+<area shape="rect" id="node4" href="$class_game_base_data.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="13,155,128,181"/>
+<area shape="rect" id="node5" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="18,80,123,107"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="29,5,112,32"/>
+</map>

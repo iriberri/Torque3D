@@ -1,0 +1,4 @@
+<map id="TCPObject" name="TCPObject">
+<area shape="rect" id="node3" href="$class_h_t_t_p_object.html" title="Allows communications between the game and a server using HTTP. " alt="" coords="5,155,97,181"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="10,5,93,32"/>
+</map>

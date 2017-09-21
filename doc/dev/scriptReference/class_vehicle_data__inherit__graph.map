@@ -1,0 +1,9 @@
+<map id="VehicleData" name="VehicleData">
+<area shape="rect" id="node6" href="$class_flying_vehicle_data.html" title="Defines the properties of a FlyingVehicle. " alt="" coords="5,379,132,405"/>
+<area shape="rect" id="node7" href="$class_hover_vehicle_data.html" title="Defines the properties of a HoverVehicle. " alt="" coords="156,379,280,405"/>
+<area shape="rect" id="node8" href="$class_wheeled_vehicle_data.html" title="Defines the properties of a WheeledVehicle. " alt="" coords="304,379,447,405"/>
+<area shape="rect" id="node2" href="$class_shape_base_data.html" title="Defines properties for a ShapeBase object. " alt="" coords="160,229,276,256"/>
+<area shape="rect" id="node3" href="$class_game_base_data.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="161,155,275,181"/>
+<area shape="rect" id="node4" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="165,80,271,107"/>
+<area shape="rect" id="node5" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="177,5,259,32"/>
+</map>

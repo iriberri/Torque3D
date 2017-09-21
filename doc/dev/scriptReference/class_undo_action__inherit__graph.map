@@ -1,0 +1,13 @@
+<map id="UndoAction" name="UndoAction">
+<area shape="rect" id="node3" href="$class_compound_undo_action.html" title="An undo action that is comprised of other undo actions. " alt="" coords="283,5,434,32"/>
+<area shape="rect" id="node4" href="$class_d_b_delete_undo_action.html" title="Decal Datablock Delete Undo Actions. " alt="" coords="287,56,431,83"/>
+<area shape="rect" id="node5" href="$class_d_b_retarget_undo_action.html" title="Decal Datablock Retarget Undo Actions. " alt="" coords="281,107,437,133"/>
+<area shape="rect" id="node6" href="$class_d_i_create_undo_action.html" title="Decal Instance Create Undo Actions. " alt="" coords="289,157,428,184"/>
+<area shape="rect" id="node7" href="$class_d_i_delete_undo_action.html" title="Decal Instance Delete Undo Actions. " alt="" coords="289,208,428,235"/>
+<area shape="rect" id="node8" href="$class_inspector_field_undo_action.html" title="Inspector Field undo action instance. " alt="" coords="273,259,444,285"/>
+<area shape="rect" id="node9" href="$class_m_e_create_undo_action.html" title="Material Editor create undo instance. " alt="" coords="285,309,432,336"/>
+<area shape="rect" id="node10" href="$class_m_e_delete_undo_action.html" title="Material Editor delete undo instance. " alt="" coords="285,360,432,387"/>
+<area shape="rect" id="node11" href="$class_terrain_smooth_action.html" title="Terrain action used for leveling varying terrain heights smoothly. " alt="" coords="287,411,430,437"/>
+<area shape="rect" id="node12" href="$class_undo_script_action.html" title="Undo actions which can be created as script objects. " alt="" coords="297,461,420,488"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,233,88,260"/>
+</map>

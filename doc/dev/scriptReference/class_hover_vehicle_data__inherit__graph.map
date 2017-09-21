@@ -1,0 +1,7 @@
+<map id="HoverVehicleData" name="HoverVehicleData">
+<area shape="rect" id="node2" href="$class_vehicle_data.html" title="Base properties shared by all Vehicles (FlyingVehicle, HoverVehicle, WheeledVehicle). " alt="" coords="21,304,113,331"/>
+<area shape="rect" id="node3" href="$class_shape_base_data.html" title="Defines properties for a ShapeBase object. " alt="" coords="9,229,125,256"/>
+<area shape="rect" id="node4" href="$class_game_base_data.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="10,155,125,181"/>
+<area shape="rect" id="node5" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="15,80,120,107"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="26,5,109,32"/>
+</map>

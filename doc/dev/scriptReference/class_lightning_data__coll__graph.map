@@ -1,0 +1,10 @@
+<map id="LightningData" name="LightningData">
+<area shape="rect" id="node2" href="$class_game_base_data.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="5,157,120,184"/>
+<area shape="rect" id="node3" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="138,81,243,108"/>
+<area shape="rect" id="node5" href="$class_s_f_x_track.html" title="Abstract base class for sound data that can be played back by the sound system. " alt="" coords="130,247,209,273"/>
+<area shape="rect" id="node6" href="$class_s_f_x_description.html" title="A description for how a sound should be played. " alt="" coords="219,157,330,184"/>
+<area shape="rect" id="node4" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="236,5,319,32"/>
+<area shape="rect" id="node9" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="309,81,374,108"/>
+<area shape="rect" id="node7" href="$class_s_f_x_source.html" title="Playback controller for a sound source. " alt="" coords="434,247,521,273"/>
+<area shape="rect" id="node8" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="424,157,504,184"/>
+</map>

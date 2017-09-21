@@ -1,0 +1,19 @@
+<map id="ProjectileData" name="ProjectileData">
+<area shape="rect" id="node2" href="$class_game_base_data.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="292,372,407,399"/>
+<area shape="rect" id="node10" href="$class_particle_emitter_data.html" title="Defines particle emission properties such as ejection angle, period and velocity for a ParticleEmitte..." alt="" coords="544,333,679,360"/>
+<area shape="rect" id="node15" href="$class_explosion_data.html" title="Defines the attributes of an Explosion: particleEmitters, debris, lighting and camera shake effects..." alt="" coords="817,335,924,361"/>
+<area shape="rect" id="node16" href="$class_debris_data.html" title="Stores properties for an individual debris type. " alt="" coords="1097,428,1184,455"/>
+<area shape="rect" id="node17" href="$class_splash_data.html" title="Acts as the physical point in space in white a Splash is created from. " alt="" coords="1096,141,1185,168"/>
+<area shape="rect" id="node3" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="137,401,243,428"/>
+<area shape="rect" id="node5" href="$class_s_f_x_track.html" title="Abstract base class for sound data that can be played back by the sound system. " alt="" coords="572,167,651,193"/>
+<area shape="rect" id="node6" href="$class_s_f_x_description.html" title="A description for how a sound should be played. " alt="" coords="294,164,405,191"/>
+<area shape="rect" id="node11" href="$class_decal_data.html" title="A datablock describing an individual decal. " alt="" coords="308,429,391,456"/>
+<area shape="rect" id="node12" href="$class_light_description.html" title="A helper datablock used by classes (such as shapebase) that submit lights to the scene but do not use..." alt="" coords="554,660,669,687"/>
+<area shape="rect" id="node13" href="$class_light_anim_data.html" title="A datablock which defines and performs light animation, such as rotation, brightness fade..." alt="" coords="296,487,403,513"/>
+<area shape="rect" id="node14" href="$class_light_flare_data.html" title="Defines a light flare effect usable by scene lights. " alt="" coords="296,544,403,571"/>
+<area shape="rect" id="node4" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,303,88,329"/>
+<area shape="rect" id="node9" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="157,120,223,147"/>
+<area shape="rect" id="node18" href="$class_s_f_x_profile.html" title="Encapsulates a single sound file for playback by the sound system. " alt="" coords="829,57,912,84"/>
+<area shape="rect" id="node7" href="$class_s_f_x_source.html" title="Playback controller for a sound source. " alt="" coords="568,57,655,84"/>
+<area shape="rect" id="node8" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="309,52,389,79"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Vehicle" name="Vehicle">
+<area shape="rect" id="node9" href="$class_flying_vehicle.html" title="A flying vehicle. " alt="" coords="5,603,105,629"/>
+<area shape="rect" id="node10" href="$class_hover_vehicle.html" title="A hovering vehicle. " alt="" coords="129,603,227,629"/>
+<area shape="rect" id="node11" href="$class_wheeled_vehicle.html" title="A wheeled vehicle. " alt="" coords="251,603,367,629"/>
+<area shape="rect" id="node2" href="$class_shape_base.html" title="ShapeBase" alt="" coords="133,453,223,480"/>
+<area shape="rect" id="node3" href="$class_game_base.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="135,379,221,405"/>
+<area shape="rect" id="node4" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="129,304,227,331"/>
+<area shape="rect" id="node5" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="138,229,218,256"/>
+<area shape="rect" id="node6" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="138,155,218,181"/>
+<area shape="rect" id="node7" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="145,80,211,107"/>
+<area shape="rect" id="node8" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="137,5,219,32"/>
+</map>

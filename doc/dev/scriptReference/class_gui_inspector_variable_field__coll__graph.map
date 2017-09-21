@@ -1,0 +1,12 @@
+<map id="GuiInspectorVariableField" name="GuiInspectorVariableField">
+<area shape="rect" id="node2" href="$class_gui_inspector_field.html" title="The GuiInspectorField control is a representation of a single abstract field for a given ConsoleObjec..." alt="" coords="29,696,152,723"/>
+<area shape="rect" id="node3" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="49,620,132,647"/>
+<area shape="rect" id="node4" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="175,157,255,184"/>
+<area shape="rect" id="node11" href="$class_s_f_x_source.html" title="Playback controller for a sound source. " alt="" coords="171,233,258,260"/>
+<area shape="rect" id="node5" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="241,81,306,108"/>
+<area shape="rect" id="node6" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="335,5,417,32"/>
+<area shape="rect" id="node7" href="$class_gui_control_profile.html" title="A collection of properties that determine control behavior and rendering. " alt="" coords="359,516,478,543"/>
+<area shape="rect" id="node9" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="323,233,429,260"/>
+<area shape="rect" id="node8" href="$class_s_f_x_track.html" title="Abstract base class for sound data that can be played back by the sound system. " alt="" coords="335,412,414,439"/>
+<area shape="rect" id="node10" href="$class_s_f_x_description.html" title="A description for how a sound should be played. " alt="" coords="253,323,363,349"/>
+</map>

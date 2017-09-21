@@ -1,0 +1,423 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="5,1348,88,1375"/>
+<area shape="rect" id="node2" href="$class_action_map.html" title="ActionMaps assign platform input events to console commands. " alt="" coords="173,19,257,45"/>
+<area shape="rect" id="node4" href="$class_array_object.html" title="Data structure for storing indexed sequences of key/value pairs. " alt="" coords="170,81,261,108"/>
+<area shape="rect" id="node5" href="$class_asset_base.html" title="AssetBase" alt="" coords="172,132,259,159"/>
+<area shape="rect" id="node10" href="$class_asset_manager.html" title="AssetManager" alt="" coords="162,183,269,209"/>
+<area shape="rect" id="node12" href="$class_asset_query.html" title="AssetQuery" alt="" coords="170,233,261,260"/>
+<area shape="rect" id="node13" href="$class_asset_tags_manifest.html" title="AssetTagsManifest" alt="" coords="149,284,282,311"/>
+<area shape="rect" id="node14" href="$class_console_logger.html" title="ConsoleLogger" alt="" coords="161,335,269,361"/>
+<area shape="rect" id="node16" href="$class_cubemap_data.html" title="Used to create static or dynamic cubemaps. " alt="" coords="163,385,267,412"/>
+<area shape="rect" id="node17" href="$class_debug_drawer.html" title="A debug helper for rendering debug primitives to the scene. " alt="" coords="166,436,265,463"/>
+<area shape="rect" id="node19" href="$class_declared_assets.html" title="DeclaredAssets" alt="" coords="158,487,273,513"/>
+<area shape="rect" id="node20" href="$class_event_manager.html" title="The EventManager class is a wrapper for the standard messaging system. " alt="" coords="163,537,267,564"/>
+<area shape="rect" id="node21" href="$class_field_brush_object.html" title="For static&#45;field copying/pasting, editor use only. " alt="" coords="154,588,277,615"/>
+<area shape="rect" id="node22" href="$class_file_dialog.html" title="Base class responsible for displaying an OS file browser. " alt="" coords="176,639,255,665"/>
+<area shape="rect" id="node26" href="$class_file_object.html" title="This class is responsible opening, reading, creating, and saving file contents. " alt="" coords="175,689,256,716"/>
+<area shape="rect" id="node27" href="$class_forest_brush_element.html" title="Represents a type of ForestItem and parameters for how it is placed when painting with a ForestBrush ..." alt="" coords="145,740,286,767"/>
+<area shape="rect" id="node28" href="$class_forest_tool.html" title="Base class for Forest Editor specific tools. " alt="" coords="174,791,257,817"/>
+<area shape="rect" id="node31" href="$class_g_f_x_sampler_state_data.html" title="A sampler state used by GFXStateBlockData. " alt="" coords="139,841,292,868"/>
+<area shape="rect" id="node32" href="$class_g_f_x_state_block_data.html" title="A state block description for rendering. " alt="" coords="146,892,285,919"/>
+<area shape="rect" id="node33" href="$class_gizmo.html" title="This class contains code for rendering and manipulating a 3D gizmo. " alt="" coords="185,943,245,969"/>
+<area shape="rect" id="node34" href="$class_gizmo_profile.html" title="This class contains behavior and rendering properties used by the Gizmo class. " alt="" coords="167,993,263,1020"/>
+<area shape="rect" id="node35" href="$class_gui_control_profile.html" title="A collection of properties that determine control behavior and rendering. " alt="" coords="156,1044,275,1071"/>
+<area shape="rect" id="node38" href="$class_gui_cursor.html" title="Acts as a skin for the cursor, where each GuiCursor object can have its own look and click&#45;zone..." alt="" coords="175,1095,255,1121"/>
+<area shape="rect" id="node39" href="$class_gui_image_list.html" title="GUI control which displays a list of images. " alt="" coords="166,1145,265,1172"/>
+<area shape="rect" id="node40" href="$class_lang_table.html" title="Provides the code necessary to handle the low level management of the string tables for localization..." alt="" coords="175,1196,256,1223"/>
+<area shape="rect" id="node41" href="$class_material.html" title="A material in Torque 3D is a data structure that describes a surface. " alt="" coords="181,1247,249,1273"/>
+<area shape="rect" id="node43" href="$class_message.html" title="Base class for messages. " alt="" coords="178,1297,253,1324"/>
+<area shape="rect" id="node44" href="$class_message_vector.html" title="Store a list of chat messages. " alt="" coords="159,1348,272,1375"/>
+<area shape="rect" id="node45" href="$class_module_manager.html" title="ModuleManager" alt="" coords="158,1399,273,1425"/>
+<area shape="rect" id="node47" href="$class_module_merge_definition.html" title="ModuleMergeDefinition" alt="" coords="139,1449,292,1476"/>
+<area shape="rect" id="node48" href="$class_persistence_manager.html" title="this class manages updating SimObjects in the file they were created in non&#45;destructively (mostly aim..." alt="" coords="145,1500,286,1527"/>
+<area shape="rect" id="node49" href="$class_popup_menu.html" title="PopupMenu represents a system menu. " alt="" coords="170,1551,261,1577"/>
+<area shape="rect" id="node50" href="$class_referenced_assets.html" title="ReferencedAssets" alt="" coords="151,1601,279,1628"/>
+<area shape="rect" id="node51" href="$class_render_bin_manager.html" title="The abstract base for all render bins. " alt="" coords="149,1652,281,1679"/>
+<area shape="rect" id="node65" href="$class_render_pass_manager.html" title="A grouping of render bin managers which forms a render pass. " alt="" coords="144,1703,287,1729"/>
+<area shape="rect" id="node66" href="$class_render_pass_state_token.html" title="Abstract base class for RenderFormatToken, used to manipulate what goes on in the render manager..." alt="" coords="136,1753,295,1780"/>
+<area shape="rect" id="node68" href="$class_script_msg_listener.html" title="Script accessible version of Dispatcher::IMessageListener. Often used in conjunction with EventManage..." alt="" coords="152,1804,279,1831"/>
+<area shape="rect" id="node70" href="$class_script_object.html" title="A script&#45;level OOP object which allows binding of a class, superClass and arguments along with declar..." alt="" coords="168,1855,263,1881"/>
+<area shape="rect" id="node72" href="$class_settings.html" title="Class used for writing out preferences and settings for editors. " alt="" coords="180,1905,251,1932"/>
+<area shape="rect" id="node73" href="$class_s_f_x_parameter.html" title="A sound channel value that can be bound to multiple sound sources. " alt="" coords="162,1956,269,1983"/>
+<area shape="rect" id="node74" href="$class_shader_data.html" title="Special type of data block that stores information about a handwritten shader. " alt="" coords="170,2007,261,2033"/>
+<area shape="rect" id="node75" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="163,2108,268,2135"/>
+<area shape="rect" id="node123" href="$class_sim_response_curve.html" title="A ResponseCurve&lt;F32&gt; wrapped as a SimObject. " alt="" coords="148,2159,283,2185"/>
+<area shape="rect" id="node124" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="183,2893,248,2920"/>
+<area shape="rect" id="node400" href="$class_sim_x_m_l_document.html" title="File I/O object used for creating, reading, and writing XML documents. " alt="" coords="151,2944,280,2971"/>
+<area shape="rect" id="node401" href="$class_stream_object.html" title="Base class for working with streams. " alt="" coords="164,2995,267,3021"/>
+<area shape="rect" id="node403" href="$class_taml.html" title="Taml" alt="" coords="190,3045,241,3072"/>
+<area shape="rect" id="node404" href="$class_t_c_p_object.html" title="Allows communications between the game and a server using TCP/IP protocols. " alt="" coords="173,3096,258,3123"/>
+<area shape="rect" id="node406" href="$class_terrain_material.html" title="The TerrainMaterial class orginizes the material settings for a single terrain material layer..." alt="" coords="162,3147,269,3173"/>
+<area shape="rect" id="node407" href="$class_theora_texture_object.html" title="Definition of a named texture target playing a Theora video. " alt="" coords="144,3197,287,3224"/>
+<area shape="rect" id="node408" href="$class_t_s_shape_constructor.html" title="An object used to modify a DTS or COLLADA shape model after it has been loaded by Torque..." alt="" coords="144,3248,287,3275"/>
+<area shape="rect" id="node409" href="$class_undo_action.html" title="An event which signals the editors to undo the last action. " alt="" coords="171,3831,260,3857"/>
+<area shape="rect" id="node420" href="$class_undo_manager.html" title="SimObject which adds, tracks, and deletes UndoAction objects. " alt="" coords="164,3881,267,3908"/>
+<area shape="rect" id="node421" href="$class_zip_object.html" title="Provides access to a zip file. " alt="" coords="177,3932,254,3959"/>
+<area shape="rect" id="node3" href="$class_global_action_map.html" title="GlobalActionMap" alt="" coords="377,5,498,32"/>
+<area shape="rect" id="node6" href="$class_component_asset.html" title="ComponentAsset" alt="" coords="376,56,499,83"/>
+<area shape="rect" id="node7" href="$class_example_asset.html" title="ExampleAsset" alt="" coords="384,107,491,133"/>
+<area shape="rect" id="node8" href="$class_game_object_asset.html" title="GameObjectAsset" alt="" coords="373,157,502,184"/>
+<area shape="rect" id="node9" href="$class_shape_asset.html" title="ShapeAsset" alt="" coords="391,208,484,235"/>
+<area shape="rect" id="node11" href="$class_asset_database.html" title="AssetDatabase" alt="" coords="382,259,493,285"/>
+<area shape="rect" id="node15" href="$classlogger.html" title="logger" alt="" coords="409,335,466,361"/>
+<area shape="rect" id="node18" href="$class_debug_draw.html" title="DebugDraw" alt="" coords="393,436,481,463"/>
+<area shape="rect" id="node23" href="$class_open_file_dialog.html" title="Derived from FileDialog, this class is responsible for opening a file browser with the intention of o..." alt="" coords="382,625,493,652"/>
+<area shape="rect" id="node25" href="$class_save_file_dialog.html" title="Derived from FileDialog, this class is responsible for opening a file browser with the intention of s..." alt="" coords="384,676,491,703"/>
+<area shape="rect" id="node24" href="$class_open_folder_dialog.html" title="OS level dialog used for browsing folder structures. " alt="" coords="607,625,732,652"/>
+<area shape="rect" id="node29" href="$class_forest_brush_tool.html" title="Defines the brush properties when painting trees in Forest Editor. " alt="" coords="379,752,496,779"/>
+<area shape="rect" id="node30" href="$class_forest_selection_tool.html" title="Specialized selection tool for picking individual trees in a forest. " alt="" coords="369,803,506,829"/>
+<area shape="rect" id="node36" href="$class_gui_game_list_menu_profile.html" title="A GuiControlProfile with additional fields specific to GuiGameListMenuCtrl. " alt="" coords="354,1044,521,1071"/>
+<area shape="rect" id="node37" href="$class_gui_game_list_options_profile.html" title="A GuiControlProfile with additional fields specific to GuiGameListOptionsCtrl. " alt="" coords="580,1044,759,1071"/>
+<area shape="rect" id="node42" href="$class_custom_material.html" title="Material object which provides more control over surface properties. " alt="" coords="381,1145,494,1172"/>
+<area shape="rect" id="node46" href="$class_module_database.html" title="ModuleDatabase" alt="" coords="378,1196,497,1223"/>
+<area shape="rect" id="node52" href="$class_render_imposter_mgr.html" title="A render bin for batch rendering imposters. " alt="" coords="370,1247,505,1273"/>
+<area shape="rect" id="node53" href="$class_render_mesh_mgr.html" title="A render bin for mesh rendering. " alt="" coords="379,1297,496,1324"/>
+<area shape="rect" id="node55" href="$class_render_object_mgr.html" title="A render bin which uses object callbacks for rendering. " alt="" coords="376,1348,499,1375"/>
+<area shape="rect" id="node56" href="$class_render_occlusion_mgr.html" title="A render bin which renders occlusion query requests. " alt="" coords="366,1399,509,1425"/>
+<area shape="rect" id="node57" href="$class_render_pass_state_bin.html" title="A non&#45;rendering render bin used to enable/disable a RenderPassStateToken. " alt="" coords="366,1449,509,1476"/>
+<area shape="rect" id="node58" href="$class_render_terrain_mgr.html" title="A render bin for terrain mesh rendering. " alt="" coords="375,1500,499,1527"/>
+<area shape="rect" id="node59" href="$class_render_tex_target_bin_manager.html" title="An abstract base class for render bin managers that render to a named textue target. " alt="" coords="343,1551,532,1577"/>
+<area shape="rect" id="node64" href="$class_render_translucent_mgr.html" title="A render bin for rendering translucent meshes. " alt="" coords="361,1601,513,1628"/>
+<area shape="rect" id="node54" href="$class_forced_material_mesh_mgr.html" title="Basically the same as RenderMeshMgr, but will override the material of the instance. Exists for backwards compatibility, not currently used, soon to be deprecated. " alt="" coords="588,1196,751,1223"/>
+<area shape="rect" id="node60" href="$class_advanced_light_bin_manager.html" title="Rendering Manager responsible for lighting, shadows, and global variables affecing both..." alt="" coords="582,1247,757,1273"/>
+<area shape="rect" id="node61" href="$class_render_deferred_mgr.html" title="The render bin which performs a z+normals deferred used in Advanced Lighting. " alt="" coords="603,1297,736,1324"/>
+<area shape="rect" id="node62" href="$class_render_glow_mgr.html" title="A render bin for the glow pass. " alt="" coords="612,1348,727,1375"/>
+<area shape="rect" id="node63" href="$class_render_particle_mgr.html" title="A render bin which renders particle geometry. " alt="" coords="605,1399,734,1425"/>
+<area shape="rect" id="node67" href="$class_render_format_token.html" title="Used to change the render target format when rendering in AL. " alt="" coords="368,1652,507,1679"/>
+<area shape="rect" id="node69" href="$class_message_forwarder.html" title="Forward messages from one queue to another. " alt="" coords="371,1703,503,1729"/>
+<area shape="rect" id="node71" href="$class_script_tick_object.html" title="A ScriptObject that responds to tick and frame events. " alt="" coords="378,1753,497,1780"/>
+<area shape="rect" id="node76" href="$class_decal_data.html" title="A datablock describing an individual decal. " alt="" coords="396,1804,479,1831"/>
+<area shape="rect" id="node77" href="$class_forest_item_data.html" title="Base class for defining a type of ForestItem. It does not implement loading or rendering of the shape..." alt="" coords="382,1855,493,1881"/>
+<area shape="rect" id="node79" href="$class_game_base_data.html" title="Scriptable, demo&#45;able datablock. Used by GameBase objects. " alt="" coords="380,1905,495,1932"/>
+<area shape="rect" id="node109" href="$class_light_anim_data.html" title="A datablock which defines and performs light animation, such as rotation, brightness fade..." alt="" coords="384,1956,491,1983"/>
+<area shape="rect" id="node110" href="$class_light_description.html" title="A helper datablock used by classes (such as shapebase) that submit lights to the scene but do not use..." alt="" coords="380,2007,495,2033"/>
+<area shape="rect" id="node111" href="$class_light_flare_data.html" title="Defines a light flare effect usable by scene lights. " alt="" coords="384,2057,491,2084"/>
+<area shape="rect" id="node112" href="$class_particle_data.html" title="Contains information for how specific particles should look and react including particle colors..." alt="" coords="391,2108,484,2135"/>
+<area shape="rect" id="node113" href="$class_reflector_desc.html" title="A datablock which defines performance and quality properties for dynamic reflections. " alt="" coords="386,2159,489,2185"/>
+<area shape="rect" id="node114" href="$class_s_f_x_ambience.html" title="A datablock that describes an ambient sound space. " alt="" coords="385,2209,489,2236"/>
+<area shape="rect" id="node115" href="$class_s_f_x_description.html" title="A description for how a sound should be played. " alt="" coords="382,2260,493,2287"/>
+<area shape="rect" id="node116" href="$class_s_f_x_environment.html" title="Description of a reverb environment. " alt="" coords="379,2311,496,2337"/>
+<area shape="rect" id="node117" href="$class_s_f_x_state.html" title="A boolean switch used to modify playlist behavior. " alt="" coords="399,2361,476,2388"/>
+<area shape="rect" id="node118" href="$class_s_f_x_track.html" title="Abstract base class for sound data that can be played back by the sound system. " alt="" coords="398,2412,477,2439"/>
+<area shape="rect" id="node121" href="$class_wheeled_vehicle_spring.html" title="Defines the properties of a WheeledVehicle spring. " alt="" coords="361,2463,514,2489"/>
+<area shape="rect" id="node122" href="$class_wheeled_vehicle_tire.html" title="Defines the properties of a WheeledVehicle tire. " alt="" coords="369,2513,506,2540"/>
+<area shape="rect" id="node78" href="$class_t_s_forest_item_data.html" title="Concrete implementation of ForestItemData which loads and renders dts format shapeFiles. " alt="" coords="606,1449,733,1476"/>
+<area shape="rect" id="node80" href="$class_debris_data.html" title="Stores properties for an individual debris type. " alt="" coords="626,1500,713,1527"/>
+<area shape="rect" id="node81" href="$class_explosion_data.html" title="Defines the attributes of an Explosion: particleEmitters, debris, lighting and camera shake effects..." alt="" coords="616,1551,723,1577"/>
+<area shape="rect" id="node82" href="$class_lightning_data.html" title="Common data for a Lightning emitter object. " alt="" coords="619,1601,720,1628"/>
+<area shape="rect" id="node83" href="$class_particle_emitter_data.html" title="Defines particle emission properties such as ejection angle, period and velocity for a ParticleEmitte..." alt="" coords="602,1652,737,1679"/>
+<area shape="rect" id="node84" href="$class_particle_emitter_node_data.html" title="Contains additional data to be associated with a ParticleEmitterNode. " alt="" coords="587,1703,752,1729"/>
+<area shape="rect" id="node85" href="$class_physics_debris_data.html" title="Defines the properties of a PhysicsDebris object. " alt="" coords="603,1753,736,1780"/>
+<area shape="rect" id="node86" href="$class_physics_shape_data.html" title="Defines the properties of a PhysicsShape. " alt="" coords="603,1804,736,1831"/>
+<area shape="rect" id="node87" href="$class_precipitation_data.html" title="The emitter for an explosion effect, with properties defined by a ExplosionData object. " alt="" coords="609,1855,730,1881"/>
+<area shape="rect" id="node88" href="$class_projectile_data.html" title="Stores properties for an individual projectile type. " alt="" coords="618,1905,721,1932"/>
+<area shape="rect" id="node89" href="$class_ribbon_data.html" title="RibbonData" alt="" coords="625,1956,714,1983"/>
+<area shape="rect" id="node90" href="$class_ribbon_node_data.html" title="Contains additional data to be associated with a RibbonNode. " alt="" coords="610,2007,729,2033"/>
+<area shape="rect" id="node91" href="$class_shape_base_data.html" title="Defines properties for a ShapeBase object. " alt="" coords="611,2057,727,2084"/>
+<area shape="rect" id="node106" href="$class_shape_base_image_data.html" title="Represents geometry to be mounted to a ShapeBase object. " alt="" coords="594,2108,745,2135"/>
+<area shape="rect" id="node107" href="$class_splash_data.html" title="Acts as the physical point in space in white a Splash is created from. " alt="" coords="625,2159,714,2185"/>
+<area shape="rect" id="node108" href="$class_trigger_data.html" title="Defines shared properties for Trigger objects. " alt="" coords="625,2209,713,2236"/>
+<area shape="rect" id="node92" href="$class_camera_data.html" title="A datablock that describes a camera. " alt="" coords="852,1671,947,1697"/>
+<area shape="rect" id="node93" href="$class_item_data.html" title="Stores properties for an individual Item type. " alt="" coords="862,1721,937,1748"/>
+<area shape="rect" id="node97" href="$class_mission_marker_data.html" title="A very basic class containing information used by MissionMarker objects for rendering. " alt="" coords="832,1797,967,1824"/>
+<area shape="rect" id="node98" href="$class_path_camera_data.html" title="General interface to control a PathCamera object from the script level. " alt="" coords="839,1848,960,1875"/>
+<area shape="rect" id="node99" href="$class_player_data.html" title="Defines properties for a Player object. " alt="" coords="856,1899,943,1925"/>
+<area shape="rect" id="node100" href="$class_rigid_shape_data.html" title="Defines the physics properties for an individual RigidShapeData physics object. " alt="" coords="842,1949,957,1976"/>
+<area shape="rect" id="node101" href="$class_static_shape_data.html" title="The most basic ShapeBaseData derrived shape datablock available in Torque 3D. " alt="" coords="839,2000,959,2027"/>
+<area shape="rect" id="node102" href="$class_vehicle_data.html" title="Base properties shared by all Vehicles (FlyingVehicle, HoverVehicle, WheeledVehicle). " alt="" coords="853,2051,945,2077"/>
+<area shape="rect" id="node94" href="$class_proximity_mine_data.html" title="Stores common properties for a ProximityMine. " alt="" coords="1075,1667,1207,1693"/>
+<area shape="rect" id="node95" href="$class_turret_shape_data.html" title="Defines properties for a TurretShape object. " alt="" coords="1082,1717,1201,1744"/>
+<area shape="rect" id="node96" href="$class_a_i_turret_shape_data.html" title="Defines properties for an AITurretShape object. " alt="" coords="1347,1717,1477,1744"/>
+<area shape="rect" id="node103" href="$class_flying_vehicle_data.html" title="Defines the properties of a FlyingVehicle. " alt="" coords="1078,1768,1205,1795"/>
+<area shape="rect" id="node104" href="$class_hover_vehicle_data.html" title="Defines the properties of a HoverVehicle. " alt="" coords="1079,1819,1203,1845"/>
+<area shape="rect" id="node105" href="$class_wheeled_vehicle_data.html" title="Defines the properties of a WheeledVehicle. " alt="" coords="1070,1869,1213,1896"/>
+<area shape="rect" id="node119" href="$class_s_f_x_play_list.html" title="A datablock describing a playback pattern of sounds. " alt="" coords="623,2387,716,2413"/>
+<area shape="rect" id="node120" href="$class_s_f_x_profile.html" title="Encapsulates a single sound file for playback by the sound system. " alt="" coords="628,2437,711,2464"/>
+<area shape="rect" id="node125" href="$class_active_action_map_set.html" title="ActiveActionMapSet" alt="" coords="368,2564,507,2591"/>
+<area shape="rect" id="node126" href="$class_behavior_set.html" title="BehaviorSet" alt="" coords="392,2615,483,2641"/>
+<area shape="rect" id="node127" href="$class_data_block_set.html" title="DataBlockSet" alt="" coords="386,2665,489,2692"/>
+<area shape="rect" id="node128" href="$classfx_foliage_set.html" title="fxFoliageSet" alt="" coords="390,2716,485,2743"/>
+<area shape="rect" id="node129" href="$classfx_replicator_set.html" title="fxReplicatorSet" alt="" coords="382,2767,493,2793"/>
+<area shape="rect" id="node130" href="$class_ghost_always_set.html" title="GhostAlwaysSet" alt="" coords="378,2817,497,2844"/>
+<area shape="rect" id="node131" href="$class_material_set.html" title="MaterialSet" alt="" coords="393,2868,481,2895"/>
+<area shape="rect" id="node132" href="$class_menu_bar.html" title="Used for rendering platform menu bars. " alt="" coords="400,2919,475,2945"/>
+<area shape="rect" id="node133" href="$class_module_definition.html" title="ModuleDefinition" alt="" coords="379,2969,496,2996"/>
+<area shape="rect" id="node134" href="$class_s_f_x_ambience_set.html" title="SFXAmbienceSet" alt="" coords="375,3020,499,3047"/>
+<area shape="rect" id="node135" href="$class_s_f_x_description_set.html" title="SFXDescriptionSet" alt="" coords="372,3071,503,3097"/>
+<area shape="rect" id="node136" href="$class_s_f_x_environment_set.html" title="SFXEnvironmentSet" alt="" coords="369,3121,506,3148"/>
+<area shape="rect" id="node137" href="$class_s_f_x_source_set.html" title="SFXSourceSet" alt="" coords="384,3172,491,3199"/>
+<area shape="rect" id="node138" href="$class_s_f_x_state_set.html" title="SFXStateSet" alt="" coords="389,3223,486,3249"/>
+<area shape="rect" id="node139" href="$class_s_f_x_track_set.html" title="SFXTrackSet" alt="" coords="388,3273,487,3300"/>
+<area shape="rect" id="node140" href="$classsg_mission_lighting_filter_set.html" title="sgMissionLightingFilterSet" alt="" coords="350,3324,525,3351"/>
+<area shape="rect" id="node141" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="397,3375,477,3401"/>
+<area shape="rect" id="node396" href="$class_sim_persist_set.html" title="A SimSet that can be safely persisted. " alt="" coords="384,3425,491,3452"/>
+<area shape="rect" id="node398" href="$class_terrain_material_set.html" title="TerrainMaterialSet" alt="" coords="374,3476,501,3503"/>
+<area shape="rect" id="node399" href="$class_way_point_set.html" title="WayPointSet" alt="" coords="388,3527,487,3553"/>
+<area shape="rect" id="node142" href="$class_action_map_group.html" title="ActionMapGroup" alt="" coords="610,3124,729,3151"/>
+<area shape="rect" id="node143" href="$class_client_connection_group.html" title="ClientConnectionGroup" alt="" coords="592,3175,747,3201"/>
+<area shape="rect" id="node144" href="$class_client_group.html" title="ClientGroup" alt="" coords="624,3225,715,3252"/>
+<area shape="rect" id="node145" href="$class_data_block_group.html" title="DataBlockGroup" alt="" coords="611,3276,728,3303"/>
+<area shape="rect" id="node146" href="$class_forest_brush.html" title="Container class for ForestBrushElements. " alt="" coords="623,3327,716,3353"/>
+<area shape="rect" id="node147" href="$class_gui_control.html" title="Base class for all Gui control objects. " alt="" coords="628,3377,711,3404"/>
+<area shape="rect" id="node297" href="$class_gui_data_group.html" title="GuiDataGroup" alt="" coords="617,3428,721,3455"/>
+<area shape="rect" id="node298" href="$class_gui_group.html" title="GuiGroup" alt="" coords="631,3479,708,3505"/>
+<area shape="rect" id="node299" href="$class_net_connection.html" title="Provides the basis for implementing a multiplayer game protocol. " alt="" coords="616,3529,723,3556"/>
+<area shape="rect" id="node303" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="629,3580,709,3607"/>
+<area shape="rect" id="node387" href="$class_path.html" title="A spline along which various objects can move along. The spline object acts like a container for Mark..." alt="" coords="645,3631,694,3657"/>
+<area shape="rect" id="node388" href="$class_post_effect.html" title="A fullscreen shader effect. " alt="" coords="628,3681,711,3708"/>
+<area shape="rect" id="node389" href="$class_root_group.html" title="RootGroup" alt="" coords="627,3732,711,3759"/>
+<area shape="rect" id="node390" href="$class_script_group.html" title="Essentially a SimGroup, but with onAdd and onRemove script callbacks. " alt="" coords="624,3783,715,3809"/>
+<area shape="rect" id="node391" href="$class_s_f_x_parameter_group.html" title="SFXParameterGroup" alt="" coords="599,3833,740,3860"/>
+<area shape="rect" id="node392" href="$class_s_f_x_source.html" title="Playback controller for a sound source. " alt="" coords="626,3884,713,3911"/>
+<area shape="rect" id="node395" href="$class_t_c_p_group.html" title="TCPGroup" alt="" coords="628,3935,711,3961"/>
+<area shape="rect" id="node148" href="$class_edit_manager.html" title="For Editor use only, deprecated. " alt="" coords="852,2101,947,2128"/>
+<area shape="rect" id="node149" href="$class_gui_array_ctrl.html" title="Abstract base class for controls that store and display multiple elements in a single view..." alt="" coords="853,2152,946,2179"/>
+<area shape="rect" id="node156" href="$class_gui_background_ctrl.html" title="Renders a background, so you can have a backdrop for your GUI. " alt="" coords="834,2300,965,2327"/>
+<area shape="rect" id="node157" href="$class_gui_bitmap_border_ctrl.html" title="A control that renders a skinned border specified in its profile. " alt="" coords="829,2351,970,2377"/>
+<area shape="rect" id="node158" href="$class_gui_bitmap_ctrl.html" title="A gui control that is used to display an image. " alt="" coords="848,2401,951,2428"/>
+<area shape="rect" id="node166" href="$class_gui_button_base_ctrl.html" title="The base class for the various button controls. " alt="" coords="834,2579,965,2605"/>
+<area shape="rect" id="node178" href="$class_gui_canvas.html" title="A canvas on which rendering occurs. " alt="" coords="857,2629,941,2656"/>
+<area shape="rect" id="node180" href="$class_gui_chunked_bitmap_ctrl.html" title="This is a control that will render a specified bitmap or a bitmap specified in a referenced variable..." alt="" coords="822,2680,977,2707"/>
+<area shape="rect" id="node181" href="$class_gui_clock_hud.html" title="Basic HUD clock. Displays the current simulation time offset from some base. " alt="" coords="850,2731,949,2757"/>
+<area shape="rect" id="node182" href="$class_gui_color_picker_ctrl.html" title="Editor GUI used for picking a ColorF from a palette. " alt="" coords="835,2781,964,2808"/>
+<area shape="rect" id="node183" href="$class_gui_console_text_ctrl.html" title="Used by GUIConsole system internally. " alt="" coords="832,2832,967,2859"/>
+<area shape="rect" id="node184" href="$class_gui_container.html" title="Brief Desc. " alt="" coords="851,2883,948,2909"/>
+<area shape="rect" id="node221" href="$class_gui_control_array_control.html" title="Brief Desc. " alt="" coords="822,2933,977,2960"/>
+<area shape="rect" id="node222" href="$class_gui_decoy_ctrl.html" title="Designed soley for buttons, primarily used in editor. " alt="" coords="850,2984,949,3011"/>
+<area shape="rect" id="node223" href="$class_gui_drag_and_drop_control.html" title="A container control that can be used to implement drag&amp;drop behavior. " alt="" coords="819,3035,979,3061"/>
+<area shape="rect" id="node224" href="$class_gui_dynamic_ctrl_array_control.html" title="A container that arranges children into a grid. " alt="" coords="807,3085,992,3112"/>
+<area shape="rect" id="node225" href="$class_gui_ease_view_ctrl.html" title="Control to visualize an EaseF. " alt="" coords="839,3136,959,3163"/>
+<area shape="rect" id="node226" href="$class_gui_edit_ctrl.html" title="Native side of the GUI editor. " alt="" coords="857,3187,942,3213"/>
+<area shape="rect" id="node227" href="$class_gui_editor_ruler.html" title="Visual representation of markers on top and left sides of GUI Editor. " alt="" coords="846,3237,953,3264"/>
+<area shape="rect" id="node228" href="$class_gui_filter_ctrl.html" title="A control that displays a Catmull&#45;Rom spline through a number of control points. " alt="" coords="854,3288,945,3315"/>
+<area shape="rect" id="node229" href="$class_gui_game_list_menu_ctrl.html" title="A base class for cross platform menu controls that are gamepad friendly. " alt="" coords="824,3339,975,3365"/>
+<area shape="rect" id="node231" href="$class_gui_gradient_ctrl.html" title="Visual representation of color box used with the GuiColorPickerCtrl. " alt="" coords="844,3389,955,3416"/>
+<area shape="rect" id="node232" href="$class_gui_graph_ctrl.html" title="A control that plots one or more curves in a chart. " alt="" coords="851,3440,948,3467"/>
+<area shape="rect" id="node233" href="$class_gui_health_bar_hud.html" title="A basic health bar. Shows the damage value of the current PlayerObjectType control object..." alt="" coords="838,3491,961,3517"/>
+<area shape="rect" id="node234" href="$class_gui_health_text_hud.html" title="Shows the health or energy value of the current PlayerObjectType control object. " alt="" coords="836,3541,963,3568"/>
+<area shape="rect" id="node235" href="$class_gui_inspector_field.html" title="The GuiInspectorField control is a representation of a single abstract field for a given ConsoleObjec..." alt="" coords="838,3592,961,3619"/>
+<area shape="rect" id="node269" href="$class_gui_list_box_ctrl.html" title="A list of text items. " alt="" coords="846,3643,953,3669"/>
+<area shape="rect" id="node271" href="$class_gui_message_vector_ctrl.html" title="A chat HUD control that displays messages from a MessageVector. " alt="" coords="823,3693,976,3720"/>
+<area shape="rect" id="node272" href="$class_gui_m_l_text_ctrl.html" title="A text control that uses the Gui Markup Language (&#39;ML&#39;) tags to dynamically change the text..." alt="" coords="847,3744,952,3771"/>
+<area shape="rect" id="node274" href="$class_gui_mouse_event_ctrl.html" title="Used to overlaps a &#39;hot region&#39; where you want to catch inputs with and have specific events occur ba..." alt="" coords="833,3795,966,3821"/>
+<area shape="rect" id="node276" href="$class_gui_no_mouse_ctrl.html" title="No known usage, possibly Legacy. " alt="" coords="841,3845,958,3872"/>
+<area shape="rect" id="node277" href="$class_gui_pane_control.html" title="A collapsable pane control. " alt="" coords="843,3896,956,3923"/>
+<area shape="rect" id="node278" href="$class_gui_particle_graph_ctrl.html" title="Legacy remnant from old Torque particle editor. " alt="" coords="829,3947,970,3973"/>
+<area shape="rect" id="node279" href="$class_gui_rect_handles.html" title="Draws a box with handles for the user to manipulate. " alt="" coords="841,3997,957,4024"/>
+<area shape="rect" id="node280" href="$class_gui_rollout_ctrl.html" title="A container that shows a single child with an optional header bar that can be used to collapse and ex..." alt="" coords="848,4048,951,4075"/>
+<area shape="rect" id="node284" href="$class_gui_script_notify_ctrl.html" title="A control which adds several reactions to other GUIs via callbacks. " alt="" coords="835,4099,964,4125"/>
+<area shape="rect" id="node285" href="$class_gui_separator_ctrl.html" title="A control that renders a horizontal or vertical separator with an optional text label (horizontal onl..." alt="" coords="840,4149,959,4176"/>
+<area shape="rect" id="node286" href="$class_gui_shape_name_hud.html" title="Displays name and damage of ShapeBase objects in its bounds. Must be a child of a GuiTSCtrl and a ser..." alt="" coords="831,4200,967,4227"/>
+<area shape="rect" id="node287" href="$class_gui_slider_ctrl.html" title="A control that displays a value between its minimal and maximal bounds using a slider placed on a ver..." alt="" coords="852,4251,947,4277"/>
+<area shape="rect" id="node288" href="$class_gui_stack_control.html" title="A container that stacks its children horizontally or vertically. " alt="" coords="841,4301,958,4328"/>
+<area shape="rect" id="node291" href="$class_gui_terr_preview_ctrl.html" title="Very old GUI used for terrain preview. " alt="" coords="835,4352,963,4379"/>
+<area shape="rect" id="node292" href="$class_gui_theora_ctrl.html" title="A control to playing Theora videos. " alt="" coords="849,4403,950,4429"/>
+<area shape="rect" id="node293" href="$class_gui_tick_ctrl.html" title="Brief Description. " alt="" coords="856,4453,943,4480"/>
+<area shape="rect" id="node150" href="$class_creator_tree.html" title="Creator tree from old editor. Not used in current editor. " alt="" coords="1097,1920,1186,1947"/>
+<area shape="rect" id="node151" href="$class_dbg_file_view.html" title="Remnant from ancient script debugger (TGE days?) " alt="" coords="1094,1971,1189,1997"/>
+<area shape="rect" id="node152" href="$class_gui_console.html" title="The on&#45;screen, in&#45;game console. Calls getLog() to get the on&#45;screen console entries, then renders them as needed. " alt="" coords="1097,2021,1186,2048"/>
+<area shape="rect" id="node153" href="$class_gui_text_list_ctrl.html" title="GUI control that displays a list of text. Text items in the list can be individually selected..." alt="" coords="1087,2072,1195,2099"/>
+<area shape="rect" id="node154" href="$class_gui_tree_view_ctrl.html" title="Hierarchical list of text items with optional icons. " alt="" coords="1084,2123,1199,2149"/>
+<area shape="rect" id="node155" href="$class_gui_file_tree_ctrl.html" title="A control that displays a hierarchical tree view of a path in the game file system. " alt="" coords="1358,2123,1466,2149"/>
+<area shape="rect" id="node159" href="$classgui_anim_bitmap_ctrl.html" title="guiAnimBitmapCtrl" alt="" coords="1076,2173,1207,2200"/>
+<area shape="rect" id="node160" href="$class_gui_bitmap_bar_ctrl.html" title="GuiBitmapBarCtrl" alt="" coords="1080,2224,1203,2251"/>
+<area shape="rect" id="node161" href="$class_gui_cross_hair_hud.html" title="Basic cross hair hud. Reacts to state of control object. Also displays health bar for named objects u..." alt="" coords="1080,2275,1203,2301"/>
+<area shape="rect" id="node162" href="$class_gui_fadein_bitmap_ctrl.html" title="A GUI control which renders a black square over a bitmap image. The black square will fade out..." alt="" coords="1070,2325,1213,2352"/>
+<area shape="rect" id="node163" href="$class_gui_idle_cam_fade_bitmap_ctrl.html" title="GUI that will fade the current view in and out. " alt="" coords="1052,2376,1231,2403"/>
+<area shape="rect" id="node164" href="$class_gui_mission_area_ctrl.html" title="Visual representation of Mission Area Editor. " alt="" coords="1074,2427,1209,2453"/>
+<area shape="rect" id="node165" href="$class_gui_speedometer_hud.html" title="Displays the speed of the current Vehicle based control object. " alt="" coords="1070,2477,1213,2504"/>
+<area shape="rect" id="node167" href="$class_gui_border_button_ctrl.html" title="A push button that renders only a border. " alt="" coords="1072,2528,1211,2555"/>
+<area shape="rect" id="node168" href="$class_gui_button_ctrl.html" title="The most widely used button class. " alt="" coords="1091,2579,1191,2605"/>
+<area shape="rect" id="node174" href="$class_gui_check_box_ctrl.html" title="A named checkbox that can be toggled on and off. " alt="" coords="1080,2629,1203,2656"/>
+<area shape="rect" id="node176" href="$class_gui_swatch_button_ctrl.html" title="A button that is used to represent color; often used in correlation with a color picker. " alt="" coords="1070,2680,1213,2707"/>
+<area shape="rect" id="node169" href="$class_gui_bitmap_button_ctrl.html" title="A button that renders its various states (mouse over, pushed, etc.) from separate bitmaps..." alt="" coords="1341,2452,1483,2479"/>
+<area shape="rect" id="node171" href="$class_gui_icon_button_ctrl.html" title="Draws the bitmap within a special button control. Only a single bitmap is used and the button will be..." alt="" coords="1350,2503,1474,2529"/>
+<area shape="rect" id="node172" href="$class_gui_toggle_button_ctrl.html" title="Deprecated gui control. " alt="" coords="1343,2553,1481,2580"/>
+<area shape="rect" id="node173" href="$class_gui_toolbox_button_ctrl.html" title="Unimplemented GUI control meant to interact with Toolbox. " alt="" coords="1339,2604,1485,2631"/>
+<area shape="rect" id="node170" href="$class_gui_bitmap_button_text_ctrl.html" title="An extension of GuiBitmapButtonCtrl that additionally renders a text label on the bitmapped button..." alt="" coords="1624,2452,1791,2479"/>
+<area shape="rect" id="node175" href="$class_gui_radio_ctrl.html" title="A button based around the radio concept. " alt="" coords="1365,2655,1459,2681"/>
+<area shape="rect" id="node177" href="$class_gui_gradient_swatch_ctrl.html" title="Swatch selector that appears inside the GuiGradientCtrl object. These objects are automatically creat..." alt="" coords="1335,2705,1489,2732"/>
+<area shape="rect" id="node179" href="$class_gui_offscreen_canvas.html" title="GuiOffscreenCanvas" alt="" coords="1072,2731,1211,2757"/>
+<area shape="rect" id="node185" href="$class_gui_frame_set_ctrl.html" title="A gui control allowing a window to be subdivided into panes, each of which displays a gui control chi..." alt="" coords="1082,2781,1201,2808"/>
+<area shape="rect" id="node186" href="$class_gui_material_ctrl.html" title="Container for GuiMaterialPreview. " alt="" coords="1087,2832,1195,2859"/>
+<area shape="rect" id="node187" href="$class_gui_panel.html" title="The GuiPanel panel is a container that when opaque will draw a left to right gradient using its profi..." alt="" coords="1104,2883,1179,2909"/>
+<area shape="rect" id="node189" href="$class_gui_scroll_ctrl.html" title="A container that allows to view one or more possibly larger controls inside its area by providing hor..." alt="" coords="1094,2933,1189,2960"/>
+<area shape="rect" id="node190" href="$class_gui_split_container.html" title="A container that splits its area between two child controls. " alt="" coords="1080,2984,1203,3011"/>
+<area shape="rect" id="node191" href="$class_gui_tab_book_ctrl.html" title="A container. " alt="" coords="1085,3035,1198,3061"/>
+<area shape="rect" id="node192" href="$class_gui_text_ctrl.html" title="GUI control object this displays a single line of text, without TorqueML. " alt="" coords="1098,3085,1185,3112"/>
+<area shape="rect" id="node203" href="$class_gui_t_s_ctrl.html" title="Abstract base class for controls that render 3D scenes. " alt="" coords="1102,3136,1181,3163"/>
+<area shape="rect" id="node219" href="$class_gui_window_ctrl.html" title="A window with a title bar and an optional set of buttons. " alt="" coords="1087,3187,1195,3213"/>
+<area shape="rect" id="node188" href="$class_gui_form_ctrl.html" title="A generic form control. " alt="" coords="1366,2781,1458,2808"/>
+<area shape="rect" id="node193" href="$class_gui_bubble_text_ctrl.html" title="A single&#45;line text control that displays its text in a multi&#45;line popup when clicked. " alt="" coords="1349,2832,1475,2859"/>
+<area shape="rect" id="node194" href="$class_gui_pop_up_menu_ctrl.html" title="A control that allows to select a value from a drop&#45;down list. " alt="" coords="1345,2883,1479,2909"/>
+<area shape="rect" id="node195" href="$class_gui_pop_up_menu_ctrl_ex.html" title="A control that allows to select a value from a drop&#45;down list. " alt="" coords="1337,2933,1487,2960"/>
+<area shape="rect" id="node196" href="$class_gui_progress_bitmap_ctrl.html" title="A horizontal progress bar rendered from a repeating image. " alt="" coords="1335,2984,1489,3011"/>
+<area shape="rect" id="node197" href="$class_gui_progress_ctrl.html" title="GUI Control which displays a horizontal bar which increases as the progress value of 0..." alt="" coords="1355,3035,1469,3061"/>
+<area shape="rect" id="node198" href="$class_gui_tab_page_ctrl.html" title="A single page in a GuiTabBookCtrl. " alt="" coords="1355,3085,1469,3112"/>
+<area shape="rect" id="node199" href="$class_gui_text_edit_ctrl.html" title="A component that places a text entry box on the screen. " alt="" coords="1357,3136,1467,3163"/>
+<area shape="rect" id="node200" href="$class_gui_console_edit_ctrl.html" title="Text entry element of a GuiConsole. " alt="" coords="1641,2857,1773,2884"/>
+<area shape="rect" id="node201" href="$class_gui_text_edit_slider_bitmap_ctrl.html" title="GUI Control which displays a numerical value which can be increased or decreased using a pair of bitm..." alt="" coords="1615,2908,1799,2935"/>
+<area shape="rect" id="node202" href="$class_gui_text_edit_slider_ctrl.html" title="GUI Control which displays a numerical value which can be increased or decreased using a pair of arro..." alt="" coords="1636,2959,1779,2985"/>
+<area shape="rect" id="node204" href="$class_edit_t_s_ctrl.html" title="3D view control used specifically by Torque 3D&#39;s editors. " alt="" coords="1371,3187,1453,3213"/>
+<area shape="rect" id="node216" href="$class_game_t_s_ctrl.html" title="The main 3D viewport for a Torque 3D game. " alt="" coords="1365,3237,1459,3264"/>
+<area shape="rect" id="node217" href="$class_gui_material_preview.html" title="Visual preview of a specified Material. " alt="" coords="1346,3288,1478,3315"/>
+<area shape="rect" id="node218" href="$class_gui_object_view.html" title="GUI control which displays a 3D model. " alt="" coords="1358,3339,1466,3365"/>
+<area shape="rect" id="node205" href="$class_forest_editor_ctrl.html" title="The actual Forest Editor control. " alt="" coords="1651,3009,1764,3036"/>
+<area shape="rect" id="node206" href="$class_gui_convex_editor_ctrl.html" title="The base class for the sketch tool. " alt="" coords="1638,3060,1777,3087"/>
+<area shape="rect" id="node207" href="$class_gui_decal_editor_ctrl.html" title="The base class for the Decal Editor tool. " alt="" coords="1643,3111,1772,3137"/>
+<area shape="rect" id="node208" href="$class_gui_mesh_road_editor_ctrl.html" title="GUI tool that makes up the Mesh Road Editor. " alt="" coords="1628,3161,1787,3188"/>
+<area shape="rect" id="node209" href="$class_gui_mission_area_editor_ctrl.html" title="Specialized GUI used for editing the MissionArea in a level. " alt="" coords="1623,3212,1791,3239"/>
+<area shape="rect" id="node210" href="$class_gui_nav_editor_ctrl.html" title="GUI tool that makes up the Navigation Editor. " alt="" coords="1649,3263,1766,3289"/>
+<area shape="rect" id="node211" href="$class_gui_river_editor_ctrl.html" title="GUI tool that makes up the River Editor. " alt="" coords="1645,3313,1769,3340"/>
+<area shape="rect" id="node212" href="$class_gui_road_editor_ctrl.html" title="GUI tool that makes up the Decal Road Editor. " alt="" coords="1644,3364,1771,3391"/>
+<area shape="rect" id="node213" href="$class_gui_shape_ed_preview.html" title="This control provides the 3D view for the Shape Editor tool, and is not intended for general purpose ..." alt="" coords="1638,3415,1777,3441"/>
+<area shape="rect" id="node214" href="$class_terrain_editor.html" title="The base Terrain Editor tool. " alt="" coords="1660,3465,1755,3492"/>
+<area shape="rect" id="node215" href="$class_world_editor.html" title="The main World Editor tool class. " alt="" coords="1662,3516,1753,3543"/>
+<area shape="rect" id="node220" href="$class_gui_window_collapse_ctrl.html" title="GuiWindowCollapseCtrl" alt="" coords="1333,3389,1491,3416"/>
+<area shape="rect" id="node230" href="$class_gui_game_list_options_ctrl.html" title="A control for showing pages of options that are gamepad friendly. " alt="" coords="1060,3237,1223,3264"/>
+<area shape="rect" id="node236" href="$class_gui_inspector_custom_field.html" title="A control that allows to edit the custom properties (text) of one or more SimObjects. " alt="" coords="1057,3288,1225,3315"/>
+<area shape="rect" id="node237" href="$class_gui_inspector_dynamic_field.html" title="Custom field type for dynamic variable modification on SimObjects. " alt="" coords="1054,3339,1229,3365"/>
+<area shape="rect" id="node238" href="$class_gui_inspector_type_bit_mask32.html" title="Inspector field type for TypeBitMask32. " alt="" coords="1049,3389,1234,3416"/>
+<area shape="rect" id="node239" href="$class_gui_inspector_type_bit_mask32_helper.html" title="Inspector field type support for TypeBitMask32. " alt="" coords="1049,3441,1234,3482"/>
+<area shape="rect" id="node240" href="$class_gui_inspector_type_check_box.html" title="Inspector field type for CheckBox. " alt="" coords="1050,3507,1233,3533"/>
+<area shape="rect" id="node241" href="$class_gui_inspector_type_color.html" title="Inspector field type for TypeColor. " alt="" coords="1065,3557,1218,3584"/>
+<area shape="rect" id="node244" href="$class_gui_inspector_type_command.html" title="Inspector field type for Command. " alt="" coords="1050,3608,1233,3635"/>
+<area shape="rect" id="node245" href="$class_gui_inspector_type_ease_f.html" title="Inspector field type for TypeEaseF. " alt="" coords="1061,3659,1222,3685"/>
+<area shape="rect" id="node246" href="$class_gui_inspector_type_file_name.html" title="Inspector field type for FileName. " alt="" coords="1052,3709,1231,3736"/>
+<area shape="rect" id="node250" href="$class_gui_inspector_type_material_name.html" title="Inspector field type for Material. " alt="" coords="1040,3760,1243,3787"/>
+<area shape="rect" id="node253" href="$class_gui_inspector_type_menu_base.html" title="Inspector field type for MenuBase. " alt="" coords="1049,3811,1234,3837"/>
+<area shape="rect" id="node265" href="$class_gui_inspector_type_name.html" title="Inspector field type for Name. " alt="" coords="1063,3861,1220,3888"/>
+<area shape="rect" id="node266" href="$class_gui_inspector_type_rect_u_v.html" title="Inspector field type for TypeRectUV. " alt="" coords="1057,3912,1225,3939"/>
+<area shape="rect" id="node267" href="$class_gui_inspector_type_s32.html" title="Inspector field type for S32. " alt="" coords="1068,3963,1215,3989"/>
+<area shape="rect" id="node268" href="$class_gui_inspector_variable_field.html" title="Inspector support for variables in a GuiVariableInspector. " alt="" coords="1056,4013,1227,4040"/>
+<area shape="rect" id="node242" href="$class_gui_inspector_type_color_f.html" title="Inspector field type for ColorF. " alt="" coords="1331,3440,1493,3467"/>
+<area shape="rect" id="node243" href="$class_gui_inspector_type_color_i.html" title="Inspector field type for ColorI. " alt="" coords="1334,3491,1490,3517"/>
+<area shape="rect" id="node247" href="$class_gui_inspector_type_image_file_name.html" title="Inspector field type for FileName. " alt="" coords="1305,3541,1519,3568"/>
+<area shape="rect" id="node248" href="$class_gui_inspector_type_prefab_filename.html" title="Inspector field type for PrefabFilename. " alt="" coords="1305,3592,1519,3619"/>
+<area shape="rect" id="node249" href="$class_gui_inspector_type_shape_filename.html" title="Inspector field type for Shapes. " alt="" coords="1305,3643,1519,3669"/>
+<area shape="rect" id="node251" href="$class_gui_inspector_type_terrain_material_index.html" title="Inspector field type for TerrainMaterialIndex. " alt="" coords="1308,3694,1516,3735"/>
+<area shape="rect" id="node252" href="$class_gui_inspector_type_terrain_material_name.html" title="Inspector field type for TerrainMaterial. " alt="" coords="1291,3760,1533,3787"/>
+<area shape="rect" id="node254" href="$class_gui_inspector_datablock_field.html" title="Custom field type for datablock enumeration. " alt="" coords="1321,3811,1503,3837"/>
+<area shape="rect" id="node259" href="$class_gui_inspector_type_cubemap_name.html" title="Inspector field type for Cubemap. " alt="" coords="1306,3861,1518,3888"/>
+<area shape="rect" id="node260" href="$class_gui_inspector_type_enum.html" title="Inspector field type for Enum. " alt="" coords="1333,3912,1491,3939"/>
+<area shape="rect" id="node261" href="$class_gui_inspector_type_gui_profile.html" title="Inspector field type for GuiProfile. " alt="" coords="1323,3963,1501,3989"/>
+<area shape="rect" id="node262" href="$class_gui_inspector_type_s_f_x_parameter_name.html" title="Inspector field type for SFXParameter. " alt="" coords="1291,4013,1533,4040"/>
+<area shape="rect" id="node263" href="$class_gui_inspector_type_s_f_x_source_name.html" title="Inspector field type for SFXSource. " alt="" coords="1301,4064,1523,4091"/>
+<area shape="rect" id="node264" href="$class_gui_inspector_type_s_f_x_state_name.html" title="Inspector field type for SFXState. " alt="" coords="1306,4115,1518,4141"/>
+<area shape="rect" id="node255" href="$class_gui_inspector_type_s_f_x_ambience_name.html" title="Inspector field type for SFXAmbience. " alt="" coords="1588,3735,1827,3761"/>
+<area shape="rect" id="node256" href="$class_gui_inspector_type_s_f_x_description_name.html" title="Inspector field type for SFXDescriptionName. " alt="" coords="1584,3785,1831,3812"/>
+<area shape="rect" id="node257" href="$class_gui_inspector_type_s_f_x_environment_name.html" title="Inspector field type for SFXEnvironment. " alt="" coords="1581,3836,1833,3863"/>
+<area shape="rect" id="node258" href="$class_gui_inspector_type_s_f_x_track_name.html" title="Inspector field type for SFXTrackName. " alt="" coords="1601,3887,1814,3913"/>
+<area shape="rect" id="node270" href="$class_gui_directory_file_list_ctrl.html" title="A control that displays a list of files from within a single directory in the game file system..." alt="" coords="1063,4064,1219,4091"/>
+<area shape="rect" id="node273" href="$class_gui_m_l_text_edit_ctrl.html" title="A text entry control that accepts the Gui Markup Language (&#39;ML&#39;) tags and multiple lines..." alt="" coords="1077,4115,1205,4141"/>
+<area shape="rect" id="node275" href="$class_gui_input_ctrl.html" title="A control that locks the mouse and reports all keyboard input events to script. " alt="" coords="1096,4165,1187,4192"/>
+<area shape="rect" id="node281" href="$class_gui_inspector_group.html" title="The GuiInspectorGroup control is a helper control that the inspector makes use of which houses a coll..." alt="" coords="1076,4216,1207,4243"/>
+<area shape="rect" id="node282" href="$class_gui_inspector_dynamic_group.html" title="Used to inspect an object&#39;s FieldDictionary (dynamic fields) instead of regular persistent fields..." alt="" coords="1321,4175,1503,4201"/>
+<area shape="rect" id="node283" href="$class_gui_inspector_variable_group.html" title="Inspector support for variable groups in a GuiVariableInspector. " alt="" coords="1323,4225,1501,4252"/>
+<area shape="rect" id="node289" href="$class_gui_inspector.html" title="A control that allows to edit the properties of one or more SimObjects. " alt="" coords="1094,4284,1189,4311"/>
+<area shape="rect" id="node290" href="$class_gui_variable_inspector.html" title="GUI dedicated to variable viewing/manipulation. " alt="" coords="1341,4284,1483,4311"/>
+<area shape="rect" id="node294" href="$class_gui_auto_scroll_ctrl.html" title="A container that scrolls its child control up over time. " alt="" coords="1080,4335,1203,4361"/>
+<area shape="rect" id="node295" href="$class_gui_menu_bar.html" title="GUI Control which displays a horizontal bar with individual drop&#45;down menu items. Each menu item may ..." alt="" coords="1094,4385,1189,4412"/>
+<area shape="rect" id="node296" href="$class_gui_platform_generic_menu_bar.html" title="GuiPlatformGenericMenuBar" alt="" coords="1319,4385,1505,4412"/>
+<area shape="rect" id="node300" href="$class_game_connection.html" title="The game&#45;specific subclass of NetConnection. " alt="" coords="838,4504,961,4531"/>
+<area shape="rect" id="node301" href="$class_a_i_connection.html" title="Special client connection driven by an AI, rather than a human. " alt="" coords="1092,4436,1191,4463"/>
+<area shape="rect" id="node302" href="$class_a_i_client.html" title="Simulated client driven by AI commands. " alt="" coords="1379,4436,1445,4463"/>
+<area shape="rect" id="node304" href="$class_level_info.html" title="Stores and controls the rendering and status information for a game level. " alt="" coords="864,4555,935,4581"/>
+<area shape="rect" id="node305" href="$class_mission_area.html" title="Level object which defines the boundaries of the level. " alt="" coords="852,4605,947,4632"/>
+<area shape="rect" id="node306" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="851,5373,948,5400"/>
+<area shape="rect" id="node386" href="$class_simple_net_object.html" title="A very simple example of a class derived from NetObject. " alt="" coords="839,5424,959,5451"/>
+<area shape="rect" id="node307" href="$class_accumulation_volume.html" title="An invisible shape that allow objects within it to have an accumulation map. " alt="" coords="1069,4487,1214,4513"/>
+<area shape="rect" id="node308" href="$class_basic_clouds.html" title="Renders up to three layers of scrolling cloud&#45;cover textures overhead. " alt="" coords="1094,4537,1189,4564"/>
+<area shape="rect" id="node309" href="$class_cloud_layer.html" title="A layer of clouds which change shape over time and are affected by scene lighting. " alt="" coords="1098,4588,1185,4615"/>
+<area shape="rect" id="node310" href="$class_convex_shape.html" title="A renderable, collidable convex shape defined by a collection of surface planes. " alt="" coords="1091,4639,1192,4665"/>
+<area shape="rect" id="node311" href="$class_cover_point.html" title="A type of marker that designates a location AI characters can take cover. " alt="" coords="1099,4689,1183,4716"/>
+<area shape="rect" id="node312" href="$class_decal_manager.html" title="The object that manages all of the decals in the active mission. " alt="" coords="1089,4740,1194,4767"/>
+<area shape="rect" id="node313" href="$class_decal_road.html" title="A strip shaped decal defined by spine nodes which clips against Terrain objects. " alt="" coords="1099,4791,1184,4817"/>
+<area shape="rect" id="node314" href="$class_forest.html" title="Forest is a global&#45;bounds scene object provides collision and rendering for a (.forest) data file..." alt="" coords="1112,4841,1171,4868"/>
+<area shape="rect" id="node315" href="$class_forest_wind_emitter.html" title="Object responsible for simulating wind in a level. " alt="" coords="1076,4892,1207,4919"/>
+<area shape="rect" id="node316" href="$classfx_foliage_replicator.html" title="An emitter to replicate fxFoliageItem objects across an area. " alt="" coords="1075,4943,1207,4969"/>
+<area shape="rect" id="node317" href="$classfx_shape_replicated_static.html" title="The object definition for shapes that will be replicated across an area using an fxShapeReplicator. " alt="" coords="1059,4993,1223,5020"/>
+<area shape="rect" id="node318" href="$classfx_shape_replicator.html" title="An emitter for objects to replicate across an area. " alt="" coords="1078,5044,1205,5071"/>
+<area shape="rect" id="node319" href="$class_game_base.html" title="Base class for game objects which use datablocks, networking, are editable, and need to process ticks..." alt="" coords="1098,5095,1185,5121"/>
+<area shape="rect" id="node353" href="$class_ground_cover.html" title="Covers the ground in a field of objects (IE: Grass, Flowers, etc). " alt="" coords="1093,5145,1189,5172"/>
+<area shape="rect" id="node354" href="$class_ground_plane.html" title="An infinite plane extending in all direction. " alt="" coords="1093,5196,1190,5223"/>
+<area shape="rect" id="node355" href="$class_light_base.html" title="This is the base class for light objects. " alt="" coords="1101,5247,1181,5273"/>
+<area shape="rect" id="node358" href="$class_marker.html" title="A single joint, or knot, along a path. Should be stored inside a Path container object. A path markers can be one of three primary movement types: &quot;normal&quot;, &quot;Position Only&quot;, or &quot;Kink&quot;. " alt="" coords="1110,5297,1173,5324"/>
+<area shape="rect" id="node359" href="$class_mesh_road.html" title="A strip of rectangular mesh segments defined by a 3D spline for prototyping road&#45;shaped objects in yo..." alt="" coords="1099,5348,1183,5375"/>
+<area shape="rect" id="node360" href="$class_nav_mesh.html" title="NavMesh" alt="" coords="1104,5399,1179,5425"/>
+<area shape="rect" id="node361" href="$class_nav_path.html" title="NavPath" alt="" coords="1106,5449,1177,5476"/>
+<area shape="rect" id="node362" href="$class_occlusion_volume.html" title="An invisible shape that causes objects hidden from view behind it to not be rendered. " alt="" coords="1079,5500,1203,5527"/>
+<area shape="rect" id="node363" href="$class_physical_zone.html" title="Physical Zones are areas that modify the player&#39;s gravity and/or velocity and/or applied force..." alt="" coords="1091,5551,1191,5577"/>
+<area shape="rect" id="node364" href="$class_physics_force.html" title="Helper object for gameplay physical forces. " alt="" coords="1090,5601,1193,5628"/>
+<area shape="rect" id="node365" href="$class_prefab.html" title="A collection of arbitrary objects which can be allocated and manipulated as a group. " alt="" coords="1112,5652,1171,5679"/>
+<area shape="rect" id="node366" href="$class_render_mesh_example.html" title="An example scene object which renders a mesh. " alt="" coords="1068,5703,1215,5729"/>
+<area shape="rect" id="node367" href="$class_render_object_example.html" title="An example scene object which renders using a callback. " alt="" coords="1065,5753,1217,5780"/>
+<area shape="rect" id="node368" href="$class_render_shape_example.html" title="An example scene object which renders a DTS. " alt="" coords="1066,5804,1217,5831"/>
+<area shape="rect" id="node369" href="$class_scatter_sky.html" title="Represents both the sun and sky for scenes with a dynamic time of day. " alt="" coords="1098,5855,1185,5881"/>
+<area shape="rect" id="node370" href="$class_s_f_x_emitter.html" title="An invisible 3D object that emits sound. " alt="" coords="1097,5905,1185,5932"/>
+<area shape="rect" id="node371" href="$class_s_f_x_space.html" title="A volume in space that defines an ambient sound zone. " alt="" coords="1100,5956,1183,5983"/>
+<area shape="rect" id="node372" href="$class_sky_box.html" title="Represents the sky with an artist&#45;created cubemap. " alt="" coords="1107,6007,1175,6033"/>
+<area shape="rect" id="node373" href="$class_sun.html" title="A global light affecting your entire scene and optionally renders a corona effect. " alt="" coords="1119,6057,1164,6084"/>
+<area shape="rect" id="node374" href="$class_terrain_block.html" title="Represent a terrain object in a Torque 3D level. " alt="" coords="1094,6108,1189,6135"/>
+<area shape="rect" id="node375" href="$class_time_of_day.html" title="Environmental object that triggers a day/night cycle in level. " alt="" coords="1098,6159,1185,6185"/>
+<area shape="rect" id="node376" href="$class_t_s_static.html" title="A static object derived from a 3D model file and placed within the game world. " alt="" coords="1105,6209,1177,6236"/>
+<area shape="rect" id="node377" href="$class_vehicle_blocker.html" title="Legacy class from Tribes, originally used for blocking Vehicle objects. " alt="" coords="1087,6260,1196,6287"/>
+<area shape="rect" id="node378" href="$class_volumetric_fog.html" title="Volumetric Fog Object class. Main class defining the Volumetric Fog objects in the scene..." alt="" coords="1088,6311,1195,6337"/>
+<area shape="rect" id="node379" href="$class_volumetric_fog_r_t_manager.html" title="Creates and maintains one set of rendertargets to be used by every VolumetricFog object in the scene..." alt="" coords="1055,6361,1227,6388"/>
+<area shape="rect" id="node380" href="$class_water_object.html" title="Abstract base class for representing a body of water. " alt="" coords="1094,6412,1189,6439"/>
+<area shape="rect" id="node384" href="$class_zone.html" title="An object that represents an interior space. " alt="" coords="1116,6463,1167,6489"/>
+<area shape="rect" id="node320" href="$class_debris.html" title="Base debris class. Uses the DebrisData datablock for properties of individual debris objects..." alt="" coords="1383,4715,1441,4741"/>
+<area shape="rect" id="node321" href="$class_explosion.html" title="The emitter for an explosion effect, with properties defined by a ExplosionData object. " alt="" coords="1373,4765,1451,4792"/>
+<area shape="rect" id="node322" href="$class_lightning.html" title="An emitter for lightning bolts. " alt="" coords="1375,4816,1449,4843"/>
+<area shape="rect" id="node323" href="$class_particle_emitter.html" title="This object is responsible for spawning particles. " alt="" coords="1358,4867,1466,4893"/>
+<area shape="rect" id="node324" href="$class_particle_emitter_node.html" title="A particle emitter object that can be positioned in the world and dynamically enabled or disabled..." alt="" coords="1343,4917,1481,4944"/>
+<area shape="rect" id="node325" href="$class_physics_debris.html" title="Represents one or more rigid bodies defined in a single mesh file with a limited lifetime. " alt="" coords="1359,4968,1465,4995"/>
+<area shape="rect" id="node326" href="$class_physics_shape.html" title="Represents a destructible physical object simulated through the plugin system. " alt="" coords="1359,5019,1465,5045"/>
+<area shape="rect" id="node327" href="$class_precipitation.html" title="Defines a precipitation based storm (rain, snow, etc). " alt="" coords="1365,5069,1459,5096"/>
+<area shape="rect" id="node328" href="$class_projectile.html" title="Base projectile class. Uses the ProjectileData class for properties of individual projectiles..." alt="" coords="1374,5120,1450,5147"/>
+<area shape="rect" id="node329" href="$class_ribbon.html" title="Ribbon" alt="" coords="1381,5171,1443,5197"/>
+<area shape="rect" id="node330" href="$class_ribbon_node.html" title="RibbonNode" alt="" coords="1366,5221,1458,5248"/>
+<area shape="rect" id="node331" href="$class_shape_base.html" title="ShapeBase" alt="" coords="1367,5272,1457,5299"/>
+<area shape="rect" id="node351" href="$class_splash.html" title="Manages the ring used for a Splash effect. " alt="" coords="1381,5323,1443,5349"/>
+<area shape="rect" id="node352" href="$class_trigger.html" title="A Trigger is a volume of space that initiates script callbacks when objects pass through the Trigger..." alt="" coords="1381,5373,1443,5400"/>
+<area shape="rect" id="node332" href="$class_camera.html" title="Represents a position, direction and field of view to render a scene from. " alt="" coords="1674,5081,1741,5108"/>
+<area shape="rect" id="node333" href="$class_item.html" title="Base Item class. Uses the ItemData datablock for common properties. " alt="" coords="1684,5132,1731,5159"/>
+<area shape="rect" id="node337" href="$class_mission_marker.html" title="This is a base class for all &quot;marker&quot; related objets. It is a 3D representation of a point in the lev..." alt="" coords="1654,5196,1761,5223"/>
+<area shape="rect" id="node341" href="$class_path_camera.html" title="A camera that moves along a path. The camera can then be made to travel along this path forwards or b..." alt="" coords="1660,5247,1755,5273"/>
+<area shape="rect" id="node342" href="$class_player.html" title="Player" alt="" coords="1678,5297,1737,5324"/>
+<area shape="rect" id="node344" href="$class_rigid_shape.html" title="The RigidShape class implements rigid&#45;body physics for DTS objects in the world. " alt="" coords="1663,5348,1751,5375"/>
+<area shape="rect" id="node345" href="$class_static_shape.html" title="The most basic 3D shape with a datablock available in Torque 3D. " alt="" coords="1661,5399,1754,5425"/>
+<area shape="rect" id="node347" href="$class_vehicle.html" title="Base functionality shared by all Vehicles (FlyingVehicle, HoverVehicle, WheeledVehicle). " alt="" coords="1675,5465,1740,5492"/>
+<area shape="rect" id="node334" href="$class_proximity_mine.html" title="A simple proximity mine. " alt="" coords="1898,5056,2003,5083"/>
+<area shape="rect" id="node335" href="$class_turret_shape.html" title="TurretShape" alt="" coords="1905,5107,1997,5133"/>
+<area shape="rect" id="node336" href="$class_a_i_turret_shape.html" title="AITurretShape" alt="" coords="2068,5107,2172,5133"/>
+<area shape="rect" id="node338" href="$class_camera_bookmark.html" title="Special type of mission marker which allows a level editor&#39;s camera to jump to specific points..." alt="" coords="1887,5157,2014,5184"/>
+<area shape="rect" id="node339" href="$class_spawn_sphere.html" title="This class is used for creating any type of game object, assigning it a class, datablock, and other properties when it is spawned. " alt="" coords="1899,5208,2002,5235"/>
+<area shape="rect" id="node340" href="$class_way_point.html" title="Special type of marker, distinguished by a name and team ID number. " alt="" coords="1911,5259,1990,5285"/>
+<area shape="rect" id="node343" href="$class_a_i_player.html" title="A Player object not controlled by conventional input, but by an AI engine. " alt="" coords="1915,5309,1986,5336"/>
+<area shape="rect" id="node346" href="$class_scope_always_shape.html" title="StaticShape object which is always scoped. " alt="" coords="1881,5379,2020,5405"/>
+<area shape="rect" id="node348" href="$class_flying_vehicle.html" title="A flying vehicle. " alt="" coords="1901,5429,2001,5456"/>
+<area shape="rect" id="node349" href="$class_hover_vehicle.html" title="A hovering vehicle. " alt="" coords="1902,5480,1999,5507"/>
+<area shape="rect" id="node350" href="$class_wheeled_vehicle.html" title="A wheeled vehicle. " alt="" coords="1893,5531,2009,5557"/>
+<area shape="rect" id="node356" href="$class_point_light.html" title="Lighting object that radiates light in all directions. " alt="" coords="1372,5424,1452,5451"/>
+<area shape="rect" id="node357" href="$class_spot_light.html" title="Lighting object which emits conical light in a direction. " alt="" coords="1373,5475,1451,5501"/>
+<area shape="rect" id="node381" href="$class_river.html" title="A water volume defined by a 3D spline. " alt="" coords="1387,6336,1437,6363"/>
+<area shape="rect" id="node382" href="$class_water_block.html" title="A block shaped water volume defined by a 3D scale and orientation. " alt="" coords="1367,6387,1457,6413"/>
+<area shape="rect" id="node383" href="$class_water_plane.html" title="Represents a large body of water stretching to the horizon in all directions. " alt="" coords="1367,6437,1457,6464"/>
+<area shape="rect" id="node385" href="$class_portal.html" title="An object that provides a &quot;window&quot; into a zone, allowing a viewer to see what&#39;s rendered in the zone..." alt="" coords="1384,6488,1440,6515"/>
+<area shape="rect" id="node393" href="$class_s_f_x_controller.html" title="A sound source that drives multi&#45;source playback. " alt="" coords="849,5475,950,5501"/>
+<area shape="rect" id="node394" href="$class_s_f_x_sound.html" title="A sound controller that directly plays a single sound file. " alt="" coords="858,5525,941,5552"/>
+<area shape="rect" id="node397" href="$class_world_editor_selection.html" title="Specialized simset that stores the objects selected by the World Editor. " alt="" coords="597,3985,741,4012"/>
+<area shape="rect" id="node402" href="$class_file_stream_object.html" title="A wrapper around StreamObject for parsing text and data from files. " alt="" coords="376,3577,499,3604"/>
+<area shape="rect" id="node405" href="$class_h_t_t_p_object.html" title="Allows communications between the game and a server using HTTP. " alt="" coords="391,3628,483,3655"/>
+<area shape="rect" id="node410" href="$class_compound_undo_action.html" title="An undo action that is comprised of other undo actions. " alt="" coords="362,3679,513,3705"/>
+<area shape="rect" id="node411" href="$class_d_b_delete_undo_action.html" title="Decal Datablock Delete Undo Actions. " alt="" coords="365,3729,509,3756"/>
+<area shape="rect" id="node412" href="$class_d_b_retarget_undo_action.html" title="Decal Datablock Retarget Undo Actions. " alt="" coords="359,3780,515,3807"/>
+<area shape="rect" id="node413" href="$class_d_i_create_undo_action.html" title="Decal Instance Create Undo Actions. " alt="" coords="368,3831,507,3857"/>
+<area shape="rect" id="node414" href="$class_d_i_delete_undo_action.html" title="Decal Instance Delete Undo Actions. " alt="" coords="368,3881,507,3908"/>
+<area shape="rect" id="node415" href="$class_inspector_field_undo_action.html" title="Inspector Field undo action instance. " alt="" coords="352,3932,523,3959"/>
+<area shape="rect" id="node416" href="$class_m_e_create_undo_action.html" title="Material Editor create undo instance. " alt="" coords="364,3983,511,4009"/>
+<area shape="rect" id="node417" href="$class_m_e_delete_undo_action.html" title="Material Editor delete undo instance. " alt="" coords="364,4033,511,4060"/>
+<area shape="rect" id="node418" href="$class_terrain_smooth_action.html" title="Terrain action used for leveling varying terrain heights smoothly. " alt="" coords="366,4084,509,4111"/>
+<area shape="rect" id="node419" href="$class_undo_script_action.html" title="Undo actions which can be created as script objects. " alt="" coords="376,4135,499,4161"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="SpotLight" name="SpotLight">
+<area shape="rect" id="node2" href="$class_light_base.html" title="This is the base class for light objects. " alt="" coords="83,399,163,425"/>
+<area shape="rect" id="node3" href="$class_scene_object.html" title="A networkable object that exists in the 3D world. " alt="" coords="11,323,109,349"/>
+<area shape="rect" id="node4" href="$class_net_object.html" title="Superclass for all ghostable networked objects. " alt="" coords="8,233,88,260"/>
+<area shape="rect" id="node5" href="$class_sim_group.html" title="A collection of SimObjects that are owned by the group. " alt="" coords="5,157,85,184"/>
+<area shape="rect" id="node6" href="$class_sim_set.html" title="A collection of SimObjects. " alt="" coords="19,81,85,108"/>
+<area shape="rect" id="node7" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="72,5,155,32"/>
+<area shape="rect" id="node9" href="$class_sim_data_block.html" title="SimDataBlock" alt="" coords="110,81,215,108"/>
+<area shape="rect" id="node8" href="$class_light_anim_data.html" title="A datablock which defines and performs light animation, such as rotation, brightness fade..." alt="" coords="109,157,216,184"/>
+<area shape="rect" id="node10" href="$class_light_flare_data.html" title="Defines a light flare effect usable by scene lights. " alt="" coords="240,157,347,184"/>
+</map>

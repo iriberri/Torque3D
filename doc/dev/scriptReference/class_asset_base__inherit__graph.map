@@ -1,0 +1,7 @@
+<map id="AssetBase" name="AssetBase">
+<area shape="rect" id="node3" href="$class_component_asset.html" title="ComponentAsset" alt="" coords="5,155,128,181"/>
+<area shape="rect" id="node4" href="$class_example_asset.html" title="ExampleAsset" alt="" coords="152,155,259,181"/>
+<area shape="rect" id="node5" href="$class_game_object_asset.html" title="GameObjectAsset" alt="" coords="283,155,413,181"/>
+<area shape="rect" id="node6" href="$class_shape_asset.html" title="ShapeAsset" alt="" coords="437,155,531,181"/>
+<area shape="rect" id="node2" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="235,5,317,32"/>
+</map>

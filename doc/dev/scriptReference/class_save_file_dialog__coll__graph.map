@@ -1,0 +1,4 @@
+<map id="SaveFileDialog" name="SaveFileDialog">
+<area shape="rect" id="node2" href="$class_file_dialog.html" title="Base class responsible for displaying an OS file browser. " alt="" coords="19,81,98,108"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="17,5,100,32"/>
+</map>

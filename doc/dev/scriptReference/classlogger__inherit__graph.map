@@ -1,4 +1,4 @@
 <map id="logger" name="logger">
-<area shape="rect" id="node2" href="$classConsoleLogger.html" title="ConsoleLogger" alt="" coords="5,80,112,107"/>
-<area shape="rect" id="node3" href="$classSimObject.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="18,5,99,32"/>
+<area shape="rect" id="node2" href="$class_console_logger.html" title="ConsoleLogger" alt="" coords="5,80,113,107"/>
+<area shape="rect" id="node3" href="$class_sim_object.html" title="Base class for almost all objects involved in the simulation. " alt="" coords="18,5,101,32"/>
 </map>
