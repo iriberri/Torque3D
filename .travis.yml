@@ -9,6 +9,7 @@ language: cpp
 
 install:
 - brew install sdl2
+- sudo brew link sdl2
 - source ./Tools/travis/install.sh
 
 script:
